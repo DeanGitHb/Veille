@@ -456,7 +456,25 @@ function renderNews(){
    ].map(c=>`<div class="newscard ${c[0]}"><div class="k">${c[1]}</div><h3>${c[2]}</h3><p>${c[3]}</p></div>`).join("")}
   `;
 }
-renderNews();
+async function renderNews(){
+  let data;
+  try { const r = await fetch("veille.json",{cache:"no-store"}); data = await r.json(); }
+  catch(e){ data = { demo:true, categories:{} }; }
+  const L = {sciences:"Sciences",tech:"Technologie",politique:"Politique & monde",ia:"Intelligence artificielle"};
+  const CLS = {sciences:"sci",tech:"tech",politique:"pol",ia:"ia"};
+  const esc = s => (s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+  let html = `<div class="datehead">Veille — l'encyclopédie qui continue</div>
+    <h1>${esc(data.dateLabel||"")}</h1>`;
+  if(data.demo) html += `<div class="note">⚠︎ Données d'exemple — déploie le collecteur (voir README) pour de vraies actus.</div>`;
+  for(const cat of ["sciences","tech","politique","ia"]){
+    for(const it of (data.categories?.[cat]||[])){
+      html += `<a class="newscard ${CLS[cat]}" href="${esc(it.url)}" target="_blank" rel="noopener" style="text-decoration:none;display:block">
+        <div class="k">${L[cat]} · ${esc(it.source||"")}</div>
+        <h3>${esc(it.title)}</h3><p>${esc(it.summary||"")}</p></a>`;
+    }
+  }
+  document.getElementById("newsView").innerHTML = html;
+}
 
 /* ============================================================
    NAVIGATION VEILLE ↔ LECTURE
