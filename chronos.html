@@ -1,0 +1,583 @@
+<!-- CHRONOS — les annales linéaires du monde. Encyclopédie chronologique autonome. -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CHRONOS · les annales du monde</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500;9..144,600&family=Newsreader:opsz,wght@6..72,300;6..72,400;6..72,500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<style>
+:root{
+  /* nuit — l'archive observatoire */
+  --ink:#0B1020;          /* fond nuit */
+  --ink-2:#121A2E;        /* panneaux */
+  --ink-3:#1B2540;        /* survols */
+  --line:#2A3556;         /* filets */
+  --paper:#F5EFE1;        /* vélin (mode jour) */
+  --text:#E7E4DA;         /* texte nuit */
+  --muted:#9AA3BE;        /* texte secondaire */
+  --faint:#5C6788;
+
+  /* les trois régimes de savoir */
+  --measure:#79D2E6;      /* mesure / théorème établi — lumière d'instrument */
+  --hypo:#A79AE0;         /* hypothèse / reconstruction — provisoire */
+  --record:#DBA94B;       /* manuscrit / source écrite — encre sur vélin */
+
+  --measure-dim:#2B4a55;
+  --hypo-dim:#3a3560;
+  --record-dim:#4d3d1f;
+
+  --serif:"Newsreader",Georgia,serif;
+  --disp:"Fraunces",Georgia,serif;
+  --mono:"IBM Plex Mono",ui-monospace,monospace;
+
+  --read:19px;            /* taille de lecture, pilotée par JS */
+  --measure-w:66ch;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  margin:0;background:var(--ink);color:var(--text);
+  font-family:var(--serif);font-weight:300;line-height:1.72;
+  -webkit-font-smoothing:antialiased;
+}
+body.day{ --ink:#EFE7D6; --ink-2:#F5EFE1; --ink-3:#EAE0CB; --line:#D8CBAE;
+  --text:#241F16; --muted:#6A6152; --faint:#9A9080;
+  --measure:#1E7C93; --hypo:#5A4CA0; --record:#9A6E17;
+  background:var(--ink);color:var(--text);
+}
+a{color:inherit}
+
+/* ---------- ARMATURE ---------- */
+.wrap{display:grid;grid-template-columns:64px 288px 1fr;min-height:100vh}
+
+/* colonne 1 : le rachis du temps profond (signature) */
+.spine{position:sticky;top:0;height:100vh;border-right:1px solid var(--line);
+  display:flex;flex-direction:column;align-items:center;padding:14px 0;background:var(--ink);z-index:5}
+.spine .glyph{font-family:var(--disp);font-weight:500;font-size:15px;letter-spacing:.18em;
+  writing-mode:vertical-rl;transform:rotate(180deg);color:var(--muted);margin-bottom:12px}
+.rail{position:relative;flex:1;width:2px;background:linear-gradient(var(--line),var(--line));border-radius:2px;margin:6px 0}
+.rail .tick{position:absolute;left:50%;transform:translateX(-50%);width:9px;height:1px;background:var(--faint)}
+.rail .tick b{position:absolute;left:12px;top:-6px;font-family:var(--mono);font-size:8.5px;color:var(--faint);white-space:nowrap;letter-spacing:.03em}
+.rail .you{position:absolute;left:50%;width:11px;height:11px;border-radius:50%;
+  background:var(--measure);transform:translate(-50%,-50%);box-shadow:0 0 0 4px color-mix(in srgb,var(--measure) 25%,transparent);
+  transition:top .25s ease;top:0}
+.spine .pct{font-family:var(--mono);font-size:9px;color:var(--faint);margin-top:8px;text-align:center}
+
+/* colonne 2 : sommaire linéaire */
+.toc{position:sticky;top:0;height:100vh;overflow-y:auto;border-right:1px solid var(--line);
+  padding:22px 18px 40px;background:var(--ink)}
+.brandmark{font-family:var(--disp);font-weight:600;font-size:23px;letter-spacing:.02em;line-height:1}
+.brandmark span{color:var(--measure)}
+.tagline{font-family:var(--mono);font-size:9.5px;letter-spacing:.14em;color:var(--faint);
+  text-transform:uppercase;margin:9px 0 20px}
+.toc h4{font-family:var(--mono);font-size:9.5px;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--faint);margin:22px 0 9px;font-weight:400}
+.toc a.item{display:block;text-decoration:none;color:var(--muted);padding:7px 10px;border-radius:7px;
+  font-size:14.5px;line-height:1.34;border:1px solid transparent;transition:.15s}
+.toc a.item .yr{font-family:var(--mono);font-size:10px;color:var(--faint);display:block;letter-spacing:.02em}
+.toc a.item:hover{background:var(--ink-3);color:var(--text)}
+.toc a.item.on{background:var(--ink-3);color:var(--text);border-color:var(--line)}
+.toc a.item.on .yr{color:var(--measure)}
+.toc a.news{color:var(--record)}
+.toc a.news .yr{color:var(--record)}
+
+/* colonne 3 : lecture */
+.stage{min-width:0}
+.topbar{position:sticky;top:0;z-index:6;display:flex;align-items:center;gap:10px;
+  padding:11px 26px;background:color-mix(in srgb,var(--ink) 88%,transparent);
+  backdrop-filter:blur(9px);border-bottom:1px solid var(--line)}
+.progress{flex:1;height:2px;background:var(--line);border-radius:2px;overflow:hidden}
+.progress i{display:block;height:100%;width:0;background:var(--measure);transition:width .2s}
+.progress-txt{font-family:var(--mono);font-size:10px;color:var(--faint);min-width:118px;text-align:right}
+.tool{display:inline-flex;align-items:center;gap:6px;background:var(--ink-2);border:1px solid var(--line);
+  color:var(--muted);font-family:var(--mono);font-size:11px;padding:6px 10px;border-radius:8px;cursor:pointer;
+  letter-spacing:.03em;transition:.15s}
+.tool:hover{color:var(--text);border-color:var(--faint)}
+.tool.live{color:var(--measure);border-color:var(--measure)}
+.tool svg{width:13px;height:13px;stroke:currentColor;fill:none;stroke-width:1.7}
+
+.reader{max-width:calc(var(--measure-w) + 120px);margin:0 auto;padding:34px 60px 160px}
+@media(max-width:1180px){.reader{padding:30px 34px 140px}}
+
+/* fil d'ariane / repère d'ère */
+.era-band{font-family:var(--mono);font-size:10px;letter-spacing:.2em;text-transform:uppercase;
+  color:var(--faint);display:flex;align-items:center;gap:10px;margin:8px 0 6px}
+.era-band .bar{height:1px;flex:1;background:var(--line)}
+
+article{scroll-margin-top:72px;margin:0 0 84px}
+article .yearline{font-family:var(--mono);font-size:12px;color:var(--measure);letter-spacing:.05em;margin-bottom:4px}
+article.rec .yearline{color:var(--record)}
+article h2{font-family:var(--disp);font-weight:500;font-size:clamp(28px,3.4vw,42px);line-height:1.06;
+  letter-spacing:-.01em;margin:2px 0 4px}
+article .dek{font-size:17px;color:var(--muted);font-style:italic;margin:0 0 22px;max-width:52ch}
+.reader p,.reader li{font-size:var(--read);max-width:var(--measure-w)}
+.reader p{margin:0 0 20px}
+.reader h3{font-family:var(--disp);font-weight:500;font-size:22px;margin:38px 0 10px;letter-spacing:-.01em}
+.reader ul{margin:0 0 20px;padding-left:20px}
+.reader li{margin:0 0 8px}
+.reader p.reading{background:color-mix(in srgb,var(--measure) 12%,transparent);
+  box-shadow:-14px 0 0 color-mix(in srgb,var(--measure) 12%,transparent),14px 0 0 color-mix(in srgb,var(--measure) 12%,transparent);
+  border-radius:3px}
+
+/* étiquettes épistémiques */
+.tag{font-family:var(--mono);font-size:10px;letter-spacing:.06em;padding:2px 8px 3px;border-radius:20px;
+  border:1px solid;vertical-align:middle;text-transform:uppercase;white-space:nowrap}
+.tag.m{color:var(--measure);border-color:var(--measure)}
+.tag.h{color:var(--hypo);border-color:var(--hypo)}
+.tag.r{color:var(--record);border-color:var(--record)}
+
+/* blocs sourcés */
+.claim{border-left:2px solid var(--line);padding:2px 0 2px 18px;margin:0 0 20px}
+.claim.m{border-color:var(--measure)}
+.claim.h{border-color:var(--hypo)}
+.claim.r{border-color:var(--record)}
+.claim .lab{font-family:var(--mono);font-size:10px;letter-spacing:.08em;text-transform:uppercase;
+  display:block;margin-bottom:5px}
+.claim.m .lab{color:var(--measure)} .claim.h .lab{color:var(--hypo)} .claim.r .lab{color:var(--record)}
+.claim p:last-child{margin-bottom:0}
+
+/* figures dessinées */
+figure{margin:26px 0;padding:18px;background:var(--ink-2);border:1px solid var(--line);border-radius:12px}
+figure svg{display:block;width:100%;height:auto}
+figcaption{font-family:var(--mono);font-size:11px;color:var(--faint);margin-top:12px;letter-spacing:.02em}
+
+/* liens en savoir plus */
+.more{margin:24px 0 0;padding-top:16px;border-top:1px dashed var(--line)}
+.more .h{font-family:var(--mono);font-size:9.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--faint);margin-bottom:9px}
+.more a{display:inline-flex;align-items:center;gap:6px;text-decoration:none;color:var(--muted);
+  font-family:var(--mono);font-size:12px;border:1px solid var(--line);border-radius:20px;padding:5px 12px;margin:0 8px 8px 0;transition:.15s}
+.more a:hover{color:var(--text);border-color:var(--measure)}
+.more a::after{content:"↗";font-size:11px;color:var(--faint)}
+
+/* index de noms propres (repère du savoir) */
+.names{font-family:var(--mono);font-size:11px;color:var(--faint);margin-top:14px;line-height:2}
+.names b{color:var(--muted);font-weight:400}
+
+/* scaffold — ères à venir */
+.scaffold{opacity:.9}
+.scaffold .todo{font-family:var(--mono);font-size:11px;color:var(--faint);
+  border:1px dashed var(--line);border-radius:10px;padding:12px 14px;margin-top:14px;line-height:1.7}
+
+/* légende flottante */
+.legend{position:fixed;right:20px;bottom:20px;z-index:9;background:var(--ink-2);border:1px solid var(--line);
+  border-radius:12px;padding:12px 14px;max-width:236px;font-family:var(--mono);font-size:10.5px;color:var(--muted);
+  box-shadow:0 12px 40px rgba(0,0,0,.4)}
+.legend .row{display:flex;gap:8px;align-items:flex-start;margin:7px 0}
+.legend .dot{width:9px;height:9px;border-radius:50%;margin-top:3px;flex:none}
+.legend .close{position:absolute;top:8px;right:10px;cursor:pointer;color:var(--faint)}
+.legend h5{margin:0 0 8px;letter-spacing:.14em;text-transform:uppercase;font-weight:500;font-size:9.5px;color:var(--faint)}
+
+/* page veille */
+.news-wrap{max-width:760px;margin:0 auto;padding:40px 40px 140px}
+.news-wrap .datehead{font-family:var(--mono);font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--record)}
+.news-wrap h1{font-family:var(--disp);font-weight:500;font-size:40px;margin:6px 0 4px}
+.newscard{border:1px solid var(--line);border-radius:12px;padding:18px 20px;margin:14px 0;background:var(--ink-2)}
+.newscard .k{font-family:var(--mono);font-size:9.5px;letter-spacing:.14em;text-transform:uppercase}
+.newscard.sci .k{color:var(--measure)} .newscard.tech .k{color:#8ad0a0}
+.newscard.pol .k{color:var(--record)} .newscard.ia .k{color:var(--hypo)}
+.newscard h3{font-family:var(--disp);font-size:20px;margin:6px 0 6px;font-weight:500}
+.newscard p{font-size:15.5px;color:var(--muted);margin:0}
+.note{border:1px dashed var(--line);border-radius:12px;padding:16px 18px;margin:22px 0;
+  font-family:var(--mono);font-size:12px;color:var(--faint);line-height:1.7}
+.note b{color:var(--record)}
+
+.hidden{display:none!important}
+@media(max-width:960px){
+  .wrap{grid-template-columns:1fr}
+  .spine{display:none}.toc{display:none}
+  .reader{padding:24px 22px 120px}.news-wrap{padding:28px 22px 120px}
+  .legend{display:none}
+}
+::-webkit-scrollbar{width:9px}::-webkit-scrollbar-thumb{background:var(--line);border-radius:9px}
+</style>
+
+<div class="wrap">
+
+  <!-- RACHIS DU TEMPS PROFOND -->
+  <aside class="spine">
+    <div class="glyph">TEMPS PROFOND</div>
+    <div class="rail" id="rail">
+      <div class="you" id="you"></div>
+    </div>
+    <div class="pct" id="spinepct">—</div>
+  </aside>
+
+  <!-- SOMMAIRE -->
+  <nav class="toc" id="toc">
+    <div class="brandmark">CHRON<span>O</span>S</div>
+    <div class="tagline">les annales linéaires du monde</div>
+    <div id="tocList"></div>
+  </nav>
+
+  <!-- SCÈNE DE LECTURE -->
+  <main class="stage">
+    <div class="topbar">
+      <button class="tool" id="audioBtn" title="Lecture audio du chapitre">
+        <svg viewBox="0 0 24 24"><polygon points="6 4 20 12 6 20 6 4"/></svg><span>Écouter</span>
+      </button>
+      <div class="progress"><i id="bar"></i></div>
+      <div class="progress-txt" id="ptxt">0 % · ~0 h de lecture</div>
+      <button class="tool" id="fontBtn" title="Taille du texte">Aa</button>
+      <button class="tool" id="dayBtn" title="Jour / nuit">Nuit</button>
+    </div>
+
+    <div class="reader" id="reader"><!-- injecté --></div>
+    <div class="news-wrap hidden" id="newsView"><!-- injecté --></div>
+  </main>
+</div>
+
+<!-- LÉGENDE -->
+<div class="legend" id="legend">
+  <span class="close" id="legendClose">✕</span>
+  <h5>Les trois régimes du savoir</h5>
+  <div class="row"><span class="dot" style="background:var(--measure)"></span><div><b style="color:var(--measure)">Mesure · théorème</b> — établi par l'observation ou la démonstration.</div></div>
+  <div class="row"><span class="dot" style="background:var(--hypo)"></span><div><b style="color:var(--hypo)">Hypothèse · reconstruction</b> — plausible mais incertain, révisable.</div></div>
+  <div class="row"><span class="dot" style="background:var(--record)"></span><div><b style="color:var(--record)">Manuscrit · source écrite</b> — ce qu'un texte transmet, tel quel.</div></div>
+</div>
+
+<script>
+/* ============================================================
+   DONNÉES — le fil linéaire. Chaque entrée = un chapitre.
+   Étendre = ajouter un objet ici. C'est ainsi qu'on grandit
+   vers les 250 h : par accumulation, ère après ère, année
+   après année.  epi: 'm' mesure · 'h' hypothèse · 'r' manuscrit
+   depth: position 0→1 sur les 13,8 Ga (pour le rachis).
+   ============================================================ */
+const T = 13.8e9; // âge de l'Univers, en années
+const SECTIONS = [
+ {era:"Ère 0 — Origines cosmiques", id:"e0", yr:"−13,8 milliards d'années", epi:"m", depth:0.0, body:`
+  <p class="dek">Comment quelque chose plutôt que rien. Le premier chapitre est aussi le plus mesuré et le plus contesté&nbsp;: on connaît la suite bien mieux que le commencement.</p>
+  <p>Rien de ce qui suit — aucun empire, aucune langue, aucun théorème — n'existerait sans les premières fractions de seconde. C'est pourquoi ces annales commencent non pas à l'humanité mais à la matière elle-même, et distinguent aussitôt ce que nous <em>mesurons</em> de ce que nous <em>supposons</em>.</p>
+  <div class="claim m"><span class="lab">Mesure · rayonnement fossile</span>
+  <p>L'Univers observable est en expansion&nbsp;: les galaxies s'éloignent d'autant plus vite qu'elles sont lointaines. En remontant ce mouvement, on aboutit à un état chaud et dense il y a environ 13,8&nbsp;milliards d'années. Cette date n'est pas une croyance&nbsp;: elle se lit dans le <span class="tag m">mesure</span> fond diffus cosmologique, la lumière la plus ancienne, cartographiée avec une précision de l'ordre du pour-cent par les satellites COBE, WMAP puis Planck.</p></div>
+  <div class="claim h"><span class="lab">Hypothèse · avant le mur de Planck</span>
+  <p>Ce qui précède le premier 10⁻⁴³ de seconde — le « temps de Planck » — échappe à nos théories actuelles&nbsp;: la relativité générale et la mécanique quantique y deviennent incompatibles. <span class="tag h">hypothèse</span> L'inflation cosmique, l'idée d'un multivers, ou une origine sans commencement, restent des <em>modèles</em> en compétition, non des faits établis. Les annales le disent franchement&nbsp;: ici, la science reconstruit, elle ne constate pas.</p></div>
+  <div class="claim r"><span class="lab">Manuscrit · le récit de la Genèse</span>
+  <p>Une autre tradition raconte ce commencement. <span class="tag r">manuscrit</span> Le premier chapitre de la Genèse, texte fondateur des mondes juif, chrétien et, par filiation, d'une part de la culture occidentale, ouvre par «&nbsp;Au commencement, Dieu créa les cieux et la terre&nbsp;», puis ordonne la création en six jours. Ces annales ne tranchent pas entre lecture littérale, allégorique ou théologique&nbsp;: elles consignent ce que le texte <em>dit</em>, en le distinguant nettement d'une donnée mesurée. Le récit biblique répond à la question du <em>pourquoi</em> et du <em>sens</em>&nbsp;; le modèle cosmologique, à celle du <em>comment</em> et du <em>quand</em>. Les confondre, c'est mal lire les deux.</p></div>
+  <p>De cet état primordial émergent, en quelques minutes, les noyaux les plus légers — hydrogène et hélium — puis, 380 000 ans plus tard, les premiers atomes, libérant la lumière que nous captons encore. Tout le reste de ces annales est l'histoire de ce que cette matière refroidie va devenir&nbsp;: étoiles, planètes, vie, pensée.</p>
+  <div class="figure-cosmos"></div>
+  `,
+  more:[["Big Bang (Wikipédia)","https://fr.wikipedia.org/wiki/Big_Bang"],["Fond diffus cosmologique","https://fr.wikipedia.org/wiki/Fond_diffus_cosmologique"],["Genèse (livre)","https://fr.wikipedia.org/wiki/Gen%C3%A8se_(livre)"]],
+  names:["Georges Lemaître","Edwin Hubble","Arno Penzias","Robert Wilson","Alan Guth","satellite Planck"]},
+
+ {era:"Ère I — Poussière et gravité", id:"e1", yr:"−4,6 milliards d'années", epi:"m", depth:0.667, body:`
+  <p class="dek">Une étoile ordinaire, une troisième planète, un océan de roche en fusion. La Terre se fabrique.</p>
+  <p>Neuf milliards d'années après le commencement, dans un bras d'une galaxie parmi des centaines de milliards, un nuage de gaz et de poussière s'effondre sur lui-même. Au centre s'allume le Soleil&nbsp;; autour, la matière restante s'agglomère en anneaux, puis en mondes.</p>
+  <div class="claim m"><span class="lab">Mesure · datation radiométrique</span>
+  <p>L'âge de la Terre — 4,54&nbsp;milliards d'années — n'est pas estimé au jugé. <span class="tag m">mesure</span> Il se calcule par la désintégration régulière d'éléments radioactifs (uranium→plomb) dans les plus vieux minéraux terrestres et dans les météorites, horloges naturelles d'une précision remarquable. La même méthode date les roches, les fossiles et les strates que parcourront ces annales.</p></div>
+  <div class="claim h"><span class="lab">Hypothèse · l'impact de Théia et la Lune</span>
+  <p>D'où vient la Lune&nbsp;? <span class="tag h">hypothèse</span> Le scénario dominant — la collision d'une jeune Terre avec une planète de la taille de Mars, baptisée Théia — explique bien la composition lunaire, mais reste une reconstruction&nbsp;: nul n'y était. Les annales la présentent comme la meilleure explication disponible, non comme un fait clos.</p></div>
+  <p>La Terre primitive est un enfer de lave bombardé de météorites. Puis elle refroidit&nbsp;; la vapeur d'eau se condense&nbsp;; des océans se forment. Une planète tempérée, dotée d'eau liquide et d'une atmosphère, est désormais prête pour l'événement le plus improbable de tous.</p>
+  `,
+  more:[["Formation et évolution de la Terre","https://fr.wikipedia.org/wiki/Formation_et_%C3%A9volution_du_Syst%C3%A8me_solaire"],["Datation radiométrique","https://fr.wikipedia.org/wiki/Datation_radiom%C3%A9trique"]],
+  names:["Théia","Clair Patterson","Soleil","protoplanète","zircon d'Australie"]},
+
+ {era:"Ère II — L'étincelle du vivant", id:"e2", yr:"−3,8 milliards d'années", epi:"h", depth:0.725, body:`
+  <p class="dek">La chimie devient biologie. Le seul événement, dans toutes ces annales, qu'on n'a jamais su reproduire ni observer directement.</p>
+  <div class="claim m"><span class="lab">Mesure · les plus anciennes traces</span>
+  <p>Des structures fossiles et des signatures chimiques dans des roches du Groenland et d'Australie attestent d'une vie microbienne il y a au moins 3,5&nbsp;milliards d'années. <span class="tag m">mesure</span> Que la vie soit ancienne et unicellulaire à l'origine est solidement établi.</p></div>
+  <div class="claim h"><span class="lab">Hypothèse · l'origine de la vie</span>
+  <p>Mais <em>comment</em> la matière inerte est devenue vivante demeure la plus grande question ouverte de la biologie. <span class="tag h">hypothèse</span> Sources hydrothermales, «&nbsp;soupe primitive&nbsp;», monde à ARN&nbsp;: plusieurs modèles rivalisent, aucun n'est démontré. L'expérience de Miller-Urey (1953) a montré que des acides aminés se forment spontanément dans certaines conditions — un indice, pas une preuve. Les annales insistent&nbsp;: sur ce chapitre, l'honnêteté consiste à dire «&nbsp;nous ne savons pas encore&nbsp;».</p></div>
+  <p>Un fait, en revanche, transforme tout&nbsp;: la vie apprend à respirer la lumière. Des cyanobactéries inventent la photosynthèse et rejettent de l'oxygène — un déchet toxique qui, sur des centaines de millions d'années, empoisonne l'atmosphère ancienne et la remplace par celle que nous respirons. C'est la Grande Oxydation, la première grande crise écologique, et la condition de tout le reste.</p>
+  `,
+  more:[["Origine de la vie","https://fr.wikipedia.org/wiki/Origine_de_la_vie"],["Expérience de Miller-Urey","https://fr.wikipedia.org/wiki/Exp%C3%A9rience_de_Miller-Urey"],["Grande Oxydation","https://fr.wikipedia.org/wiki/Grande_Oxydation"]],
+  names:["Stanley Miller","Harold Urey","cyanobactéries","LUCA (dernier ancêtre commun)","stromatolithes"]},
+
+ {era:"Ère III — Le vivant se complexifie", id:"e3", yr:"−540 millions d'années", epi:"m", depth:0.961, body:`
+  <p class="dek">Pendant des milliards d'années, la vie reste microscopique. Puis, soudain à l'échelle géologique, elle explose en formes.</p>
+  <p>L'explosion cambrienne voit apparaître, en quelques dizaines de millions d'années, la plupart des grands plans d'organisation animale&nbsp;: yeux, carapaces, colonnes vertébrales. La vie colonise ensuite les continents&nbsp;: plantes, insectes, amphibiens, reptiles.</p>
+  <div class="claim m"><span class="lab">Mesure · cinq grandes extinctions</span>
+  <p>Le registre fossile enregistre cinq effondrements massifs de la biodiversité. <span class="tag m">mesure</span> Le plus célèbre, il y a 66&nbsp;millions d'années, efface les dinosaures non-aviens&nbsp;; il coïncide avec l'impact d'un astéroïde à Chicxulub, dont le cratère et la couche d'iridium sont mesurés. Chaque extinction rebat les cartes du vivant — et ouvre la place aux mammifères, dont nous descendons.</p></div>
+  `,
+  more:[["Explosion cambrienne","https://fr.wikipedia.org/wiki/Explosion_cambrienne"],["Extinction Crétacé-Paléogène","https://fr.wikipedia.org/wiki/Extinction_Cr%C3%A9tac%C3%A9-Pal%C3%A9og%C3%A8ne"]],
+  names:["Charles Darwin","Chicxulub","trilobites","Walter Alvarez","Pangée"]},
+
+ {era:"Ère IV — Devenir humain", id:"e4", yr:"−7 millions → −12 000 ans", epi:"h", depth:0.9995, body:`
+  <p class="dek">Une lignée de primates africains se met debout, taille la pierre, apprivoise le feu et, un jour, se demande d'où elle vient. Ces annales sont le fruit de ce jour-là.</p>
+  <div class="claim h"><span class="lab">Hypothèse · l'arbre humain</span>
+  <p>La lignée humaine se sépare de celle des chimpanzés il y a environ 7&nbsp;millions d'années. <span class="tag h">hypothèse</span> Australopithèques (dont «&nbsp;Lucy&nbsp;»), puis <em>Homo habilis</em>, <em>Homo erectus</em>, Néandertaliens et enfin <em>Homo sapiens</em> — l'arbre est buissonnant, révisé à chaque fossile. Ce qui est reconstruit&nbsp;: les liens exacts. Ce qui est mesuré&nbsp;: les os, les outils, l'ADN ancien.</p></div>
+  <div class="claim m"><span class="lab">Mesure · le feu, l'outil, le symbole</span>
+  <p><span class="tag m">mesure</span> La maîtrise du feu (foyers datés), les outils de pierre taillée de plus en plus fins, les premières sépultures et les peintures des grottes de Lascaux et Chauvet attestent, sans ambiguïté, l'apparition d'une pensée symbolique — de l'art, du rite, peut-être du récit. L'humanité pense avant d'écrire.</p></div>
+  <p>Vers −12&nbsp;000, au Proche-Orient, tout bascule&nbsp;: des groupes cessent de suivre le gibier et se mettent à cultiver le blé et à domestiquer chèvres et moutons. C'est la révolution néolithique. Sédentaires, les humains accumulent des surplus, donc des richesses, donc des inégalités, des chefs, des dieux et des murs. La ville devient possible. L'Histoire, au sens strict, va pouvoir commencer.</p>
+  `,
+  more:[["Homo sapiens","https://fr.wikipedia.org/wiki/Homo_sapiens"],["Révolution néolithique","https://fr.wikipedia.org/wiki/R%C3%A9volution_n%C3%A9olithique"],["Grotte de Lascaux","https://fr.wikipedia.org/wiki/Grotte_de_Lascaux"]],
+  names:["Lucy (Australopithèque)","Homo erectus","Néandertal","Lascaux","Göbekli Tepe","Croissant fertile"]},
+
+ {era:"Ère V — L'écriture et les premières cités", id:"e5", yr:"−3300 → −1200", epi:"r", depth:1, body:`
+  <p class="dek">Le moment où les humains cessent de seulement vivre l'Histoire pour se mettre à l'écrire. À partir d'ici, les manuscrits parlent — et ces annales changent de nature.</p>
+  <div class="claim r"><span class="lab">Manuscrit · Sumer invente l'écrit</span>
+  <p>En Mésopotamie, entre le Tigre et l'Euphrate, les Sumériens gravent sur l'argile les premiers signes — d'abord pour compter le grain et le bétail. <span class="tag r">manuscrit</span> L'écriture cunéiforme naît de la comptabilité avant de porter des lois, des mythes et des poèmes, dont <em>l'Épopée de Gilgamesh</em>, le plus ancien grand récit connu. Désormais, une part du passé nous parvient par ses propres mots.</p></div>
+  <p>Presque simultanément, sur le Nil, l'Égypte des pharaons érige un État centralisé, invente les hiéroglyphes et bâtit les pyramides&nbsp;; dans la vallée de l'Indus, Harappa et Mohenjo-daro alignent des villes à l'urbanisme rigoureux&nbsp;; en Chine, le long du fleuve Jaune, s'esquissent les dynasties. Quatre foyers, quatre écritures, quatre manières d'organiser le pouvoir, le sacré et le savoir — souvent sans contact entre eux. Ces annales suivront chacun de ces fils, puis leurs rencontres.</p>
+  <div class="claim r"><span class="lab">Manuscrit · les premières lois</span>
+  <p><span class="tag r">manuscrit</span> Le Code de Hammurabi (vers −1750, Babylone) grave dans la pierre près de 300 articles&nbsp;: c'est l'un des plus anciens systèmes juridiques conservés, où s'énonce déjà l'idée d'une loi écrite, publique, opposable au puissant comme au faible.</p></div>
+  `,
+  more:[["Sumer","https://fr.wikipedia.org/wiki/Sumer"],["Écriture cunéiforme","https://fr.wikipedia.org/wiki/Cun%C3%A9iforme"],["Code de Hammurabi","https://fr.wikipedia.org/wiki/Code_de_Hammurabi"],["Civilisation de la vallée de l'Indus","https://fr.wikipedia.org/wiki/Civilisation_de_la_vall%C3%A9e_de_l%27Indus"]],
+  names:["Sumer","Gilgamesh","Hammurabi","Narmer","Mohenjo-daro","Babylone","hiéroglyphes"]},
+
+ {era:"Ère VI — L'âge des fondations (Antiquité)", id:"e6", yr:"−800 → 500", epi:"r", depth:1, scaffold:true, body:`
+  <p class="dek">Les idées qui nous gouvernent encore — démocratie, logique, monothéismes, droit — se forgent ici, presque en même temps, d'un bout à l'autre de l'Ancien Monde.</p>
+  <p>C'est ce que Karl Jaspers a nommé le «&nbsp;temps axial&nbsp;»&nbsp;: en quelques siècles, et sans se concerter, la Grèce invente la philosophie et la démocratie (Socrate, Platon, Aristote)&nbsp;; l'Inde, le bouddhisme et l'hindouisme classique&nbsp;; la Chine, le confucianisme et le taoïsme&nbsp;; le judaïsme fixe ses textes. Puis Rome unifie la Méditerranée par le droit et la route, tandis que le christianisme naît à ses marges.</p>
+  <div class="todo">CHAPITRE EN CONSTRUCTION — squelette posé, contenu à développer année par année&nbsp;:<br>
+  • Grèce classique&nbsp;: cités, guerres médiques, Périclès, tragédie, naissance de la science (Thalès, Pythagore, Euclide, Archimède).<br>
+  • Alexandre et l'hellénisme.<br>
+  • Rome&nbsp;: République → Empire, droit romain, ingénierie (aqueducs, béton, arche).<br>
+  • Inde des Maurya et Gupta&nbsp;; Chine des Qin et Han, la Route de la soie.<br>
+  • Judaïsme, puis christianisme&nbsp;: sources <span class="tag r">manuscrit</span> vs contexte historique <span class="tag m">mesure</span>.</p></div>
+  `,
+  more:[["Temps axial","https://fr.wikipedia.org/wiki/Temps_axial"],["Grèce antique","https://fr.wikipedia.org/wiki/Gr%C3%A8ce_antique"],["Rome antique","https://fr.wikipedia.org/wiki/Rome_antique"]],
+  names:["Socrate","Platon","Aristote","Euclide","Archimède","Confucius","Bouddha","Alexandre","Auguste","Route de la soie"]},
+
+ {era:"Ère VII — Empires de la foi (Moyen Âge)", id:"e7", yr:"500 → 1400", epi:"r", depth:1, scaffold:true, body:`
+  <p class="dek">Loin d'être « obscur », ce millénaire relie les mondes&nbsp;: l'islam préserve et prolonge la science grecque, la Chine invente l'imprimerie et la boussole, l'Afrique et les Amériques bâtissent des empires que l'Europe ignore encore.</p>
+  <div class="todo">CHAPITRE EN CONSTRUCTION&nbsp;:<br>
+  • Âge d'or islamique&nbsp;: Bagdad, la Maison de la sagesse, Al-Khwârizmî (l'algèbre, d'où « algorithme »), Avicenne, Averroès.<br>
+  • Chine des Tang et Song&nbsp;: poudre, papier, imprimerie, boussole.<br>
+  • Byzance&nbsp;; l'Europe féodale, monastères, universités, cathédrales gothiques.<br>
+  • Empires du Mali (Mansa Moussa) et grand Zimbabwe&nbsp;; Mayas, puis Aztèques et Incas.<br>
+  • Mongols&nbsp;: le plus grand empire terrestre, la peste noire qui traverse les routes qu'il a ouvertes.</p></div>
+  `,
+  more:[["Âge d'or islamique","https://fr.wikipedia.org/wiki/%C3%82ge_d%27or_de_l%27islam"],["Dynastie Song","https://fr.wikipedia.org/wiki/Dynastie_Song"],["Empire mongol","https://fr.wikipedia.org/wiki/Empire_mongol"]],
+  names:["Al-Khwârizmî","Avicenne","Averroès","Mansa Moussa","Gengis Khan","Charlemagne","Justinien"]},
+
+ {era:"Ère VIII — Le monde s'ouvre (1400–1750)", id:"e8", yr:"1400 → 1750", epi:"m", depth:1, scaffold:true, body:`
+  <p class="dek">Renaissance, imprimerie, grandes navigations, Réforme, révolution scientifique&nbsp;: en trois siècles, l'Europe se relie au monde entier — pour le meilleur du savoir et le pire de la conquête.</p>
+  <div class="todo">CHAPITRE EN CONSTRUCTION&nbsp;:<br>
+  • Gutenberg et l'imprimerie&nbsp;: le savoir se démultiplie.<br>
+  • Renaissance&nbsp;: Léonard, Michel-Ange&nbsp;; Copernic déplace la Terre du centre.<br>
+  • Grandes découvertes, échange colombien, et la traite&nbsp;: mondialisation et violence.<br>
+  • Révolution scientifique&nbsp;: Galilée, Kepler, la méthode expérimentale, puis Newton — la gravitation unifie ciel et terre <span class="tag m">théorème</span>.<br>
+  • Empires ottoman, moghol, Ming/Qing&nbsp;: l'Europe n'est pas encore le centre.</p></div>
+  `,
+  more:[["Renaissance","https://fr.wikipedia.org/wiki/Renaissance"],["Révolution scientifique","https://fr.wikipedia.org/wiki/R%C3%A9volution_scientifique"],["Isaac Newton","https://fr.wikipedia.org/wiki/Isaac_Newton"]],
+  names:["Gutenberg","Copernic","Galilée","Kepler","Newton","Léonard de Vinci","Soliman","Christophe Colomb"]},
+
+ {era:"Ère IX — Raison, machines, révolutions (1750–1900)", id:"e9", yr:"1750 → 1900", epi:"m", depth:1, scaffold:true, body:`
+  <p class="dek">Les Lumières arment la raison, la vapeur arme l'industrie, et deux révolutions — américaine et française — inventent le citoyen. Le monde moderne s'installe.</p>
+  <div class="todo">CHAPITRE EN CONSTRUCTION&nbsp;:<br>
+  • Lumières&nbsp;: Voltaire, Rousseau, Kant, l'Encyclopédie de Diderot — la matrice même de ce projet.<br>
+  • Révolution industrielle&nbsp;: machine à vapeur (Watt), usine, chemin de fer, télégraphe.<br>
+  • Révolutions américaine (1776) et française (1789)&nbsp;: droits, nation, laïcité.<br>
+  • Sciences&nbsp;: Darwin et l'évolution, Maxwell et l'électromagnétisme, Pasteur et les microbes, Mendeleïev et le tableau périodique.<br>
+  • Colonisation, abolitions, premières mondialisations.</p></div>
+  `,
+  more:[["Siècle des Lumières","https://fr.wikipedia.org/wiki/Si%C3%A8cle_des_Lumi%C3%A8res"],["Révolution industrielle","https://fr.wikipedia.org/wiki/R%C3%A9volution_industrielle"],["Charles Darwin","https://fr.wikipedia.org/wiki/Charles_Darwin"]],
+  names:["Voltaire","Rousseau","Kant","Diderot","James Watt","Darwin","Maxwell","Pasteur","Mendeleïev"]},
+
+ {era:"Ère X — Le siècle qui accélère (1900–2000)", id:"e10", yr:"1900 → 2000", epi:"m", depth:1, scaffold:true, body:`
+  <p class="dek">Deux guerres mondiales, la physique bouleversée, l'atome, l'ADN, l'ordinateur, la Lune. Un siècle où l'humanité gagne le pouvoir de se détruire — et de se comprendre.</p>
+  <div class="todo">CHAPITRE EN CONSTRUCTION&nbsp;:<br>
+  • Physique&nbsp;: Einstein (relativité), la mécanique quantique — le réel devient étrange <span class="tag m">théorème</span>.<br>
+  • Deux guerres mondiales, Shoah, décolonisations, guerre froide.<br>
+  • Biologie&nbsp;: structure de l'ADN (Watson, Crick, Franklin), génétique.<br>
+  • Informatique&nbsp;: Turing, von Neumann, le transistor, Internet.<br>
+  • Espace&nbsp;: Spoutnik, Apollo 11 — l'humain marche sur un autre monde.</p></div>
+  `,
+  more:[["Albert Einstein","https://fr.wikipedia.org/wiki/Albert_Einstein"],["Alan Turing","https://fr.wikipedia.org/wiki/Alan_Turing"],["Programme Apollo","https://fr.wikipedia.org/wiki/Programme_Apollo"]],
+  names:["Einstein","Bohr","Turing","von Neumann","Watson & Crick","Rosalind Franklin","Armstrong","Gandhi"]},
+
+ {era:"Ère XI — Le présent (2000 → aujourd'hui)", id:"e11", yr:"2000 → "+new Date().getFullYear(), epi:"m", depth:1, scaffold:true, body:`
+  <p class="dek">Le web relie tout le monde, le climat change, le génome se lit et s'édite, et des machines se mettent à parler. Le chapitre où le lecteur devient acteur.</p>
+  <div class="todo">CHAPITRE VIVANT — c'est ici que rejoint la page « Veille »&nbsp;:<br>
+  • Numérique&nbsp;: smartphone, réseaux sociaux, cryptographie.<br>
+  • Biologie&nbsp;: génome humain séquencé (2003), CRISPR, ARN messager.<br>
+  • Climat&nbsp;: mesure, accords, transition <span class="tag m">mesure</span>.<br>
+  • Intelligence artificielle&nbsp;: apprentissage profond, puis modèles de langage.<br>
+  Pour la suite jour après jour → onglet <b style="color:var(--record)">Veille</b>.</p></div>
+  `,
+  more:[["Projet génome humain","https://fr.wikipedia.org/wiki/Projet_g%C3%A9nome_humain"],["Apprentissage profond","https://fr.wikipedia.org/wiki/Apprentissage_profond"]],
+  names:["génome humain","CRISPR","World Wide Web","apprentissage profond","GIEC"]},
+];
+
+/* ---------- une figure SVG dessinée (cosmos) ---------- */
+function cosmosSVG(){return `<figure><svg viewBox="0 0 640 150" role="img" aria-label="Frise du temps profond">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#79D2E6"/><stop offset=".5" stop-color="#A79AE0"/><stop offset="1" stop-color="#DBA94B"/></linearGradient></defs>
+  <line x1="20" y1="80" x2="620" y2="80" stroke="url(#g)" stroke-width="2"/>
+  ${[["Big Bang",20,"m"],["Étoiles",120,"m"],["Terre",300,"m"],["Vie",340,"h"],["Cambrien",520,"m"],["Humains",600,"h"],["Écriture",618,"r"]].map(([t,x,c])=>{
+    const col=c==="m"?"#79D2E6":c==="h"?"#A79AE0":"#DBA94B";
+    return `<circle cx="${x}" cy="80" r="4" fill="${col}"/><text x="${x}" y="${x>560?60:104}" fill="#9AA3BE" font-family="IBM Plex Mono" font-size="10" text-anchor="middle">${t}</text>`;
+  }).join("")}
+  <text x="20" y="130" fill="#5C6788" font-family="IBM Plex Mono" font-size="9">−13,8 Ga</text>
+  <text x="620" y="130" fill="#5C6788" font-family="IBM Plex Mono" font-size="9" text-anchor="end">aujourd'hui</text>
+</svg><figcaption>Fig. — Les 13,8 milliards d'années compressées sur une ligne. Presque tout ce que raconte l'humanité tient dans le dernier point à droite.</figcaption></figure>`;}
+
+/* ============================================================
+   RENDU
+   ============================================================ */
+const reader = document.getElementById('reader');
+const tocList = document.getElementById('tocList');
+let currentEra = "";
+
+function render(){
+  let html = "";
+  SECTIONS.forEach(s=>{
+    if(s.era!==currentEra){
+      currentEra=s.era;
+      html += `<div class="era-band"><span>${s.era}</span><span class="bar"></span></div>`;
+    }
+    let body = s.body.replace('<div class="figure-cosmos"></div>', cosmosSVG());
+    html += `<article id="${s.id}" class="${s.epi==='r'?'rec':''} ${s.scaffold?'scaffold':''}" data-depth="${s.depth}">
+      <div class="yearline">${s.yr}</div>
+      <h2>${s.body.match(/dek">([^<]*)</) ? '' : ''}${s.era.split('—')[1]?.trim()||s.era}</h2>
+      ${body}
+      ${s.more?`<div class="more"><div class="h">En savoir plus</div>${s.more.map(m=>`<a href="${m[1]}" target="_blank" rel="noopener">${m[0]}</a>`).join("")}</div>`:''}
+      ${s.names?`<div class="names"><b>Noms à retenir&nbsp;:</b> ${s.names.join(" · ")}</div>`:''}
+    </article>`;
+  });
+  reader.innerHTML = html;
+
+  // sommaire
+  let seen=""; let t="";
+  SECTIONS.forEach(s=>{
+    t += `<a class="item" href="#${s.id}" data-id="${s.id}"><span class="yr">${s.yr}</span>${s.era.split('—')[1]?.trim()||s.era}</a>`;
+  });
+  t += `<h4>Continuellement mis à jour</h4>`;
+  t += `<a class="item news" href="#veille" data-id="veille"><span class="yr">chaque jour</span>Veille — science · tech · politique · IA</a>`;
+  tocList.innerHTML = t;
+}
+render();
+
+/* ---------- page VEILLE ---------- */
+const newsView = document.getElementById('newsView');
+function renderNews(){
+  const today = new Date().toLocaleDateString('fr-FR',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
+  newsView.innerHTML = `
+   <div class="datehead">Veille — l'encyclopédie qui continue</div>
+   <h1>${today}</h1>
+   <p style="color:var(--muted);max-width:60ch">Chaque jour, cette page réunit ce qui prolonge les annales&nbsp;: les découvertes, les ruptures techniques, les tournants politiques, et l'avancée de l'intelligence artificielle. C'est le chapitre XI qui s'écrit sous vos yeux.</p>
+
+   <div class="note">⚙︎ <b>Comment rendre cette page vraiment automatique.</b> Une page web seule ne peut pas se mettre à jour toute seule&nbsp;: il lui faut une source. Pour la brancher en vrai, il faut (1) un petit serveur ou un service planifié (cron) qui, chaque matin, interroge des flux RSS fiables — sciences (Nature, CNRS), tech, presse politique, IA — puis (2) enregistre le résumé du jour, que cette page vient afficher. Les cartes ci-dessous sont le <b>gabarit</b> exact qu'un tel flux viendrait remplir. Dis-moi si tu veux que je t'écrive ce serveur&nbsp;: c'est une étape séparée, et faisable.</div>
+
+   ${[
+     ["sci","Sciences","Exemple de rubrique","Ici s'afficherait la découverte marquante du jour — publiée dans une revue à comité de lecture — résumée en clair, avec le lien vers la source primaire et une étiquette « mesure » ou « hypothèse » selon son degré de certitude."],
+     ["tech","Technologie","Exemple de rubrique","La rupture technique du jour&nbsp;: matériel, énergie, espace, biotech. Ce qui change concrètement ce que l'humanité peut faire."],
+     ["pol","Politique & monde","Exemple de rubrique","Le tournant géopolitique du jour, présenté avec neutralité&nbsp;: les faits d'abord, les points de vue en présence ensuite, sans prendre parti."],
+     ["ia","Intelligence artificielle","Exemple de rubrique","L'avancée du jour en IA&nbsp;: nouveaux modèles, usages, débats sur la sécurité et l'éthique. Le chapitre le plus rapide de toute l'histoire du savoir."]
+   ].map(c=>`<div class="newscard ${c[0]}"><div class="k">${c[1]}</div><h3>${c[2]}</h3><p>${c[3]}</p></div>`).join("")}
+  `;
+}
+renderNews();
+
+/* ============================================================
+   NAVIGATION VEILLE ↔ LECTURE
+   ============================================================ */
+function showNews(on){
+  newsView.classList.toggle('hidden',!on);
+  reader.classList.toggle('hidden',on);
+  document.querySelectorAll('.toc a.item').forEach(a=>a.classList.toggle('on',a.dataset.id==='veille'&&on));
+  if(on) window.scrollTo(0,0);
+}
+document.addEventListener('click',e=>{
+  const a=e.target.closest('.toc a.item'); if(!a) return;
+  if(a.dataset.id==='veille'){e.preventDefault(); showNews(true);}
+  else{ showNews(false); }
+});
+
+/* ============================================================
+   PROGRESSION + RACHIS + SOMMAIRE ACTIF
+   ============================================================ */
+const bar=document.getElementById('bar'), ptxt=document.getElementById('ptxt');
+const you=document.getElementById('you'), spinepct=document.getElementById('spinepct');
+const TOTAL_HOURS=250; // objectif de lecture visé
+function onScroll(){
+  if(!newsView.classList.contains('hidden')) return;
+  const h=document.documentElement, max=h.scrollHeight-h.clientHeight;
+  const p=max>0?h.scrollTop/max:0;
+  bar.style.width=(p*100).toFixed(1)+'%';
+  ptxt.textContent=`${Math.round(p*100)} % · ~${(p*TOTAL_HOURS).toFixed(0)} h sur ${TOTAL_HOURS} h visées`;
+
+  // article courant → rachis (échelle log du temps profond)
+  let cur=null;
+  document.querySelectorAll('article').forEach(a=>{
+    const r=a.getBoundingClientRect();
+    if(r.top<h.clientHeight*0.5) cur=a;
+  });
+  if(cur){
+    const d=parseFloat(cur.dataset.depth||0);
+    // échelle log : le tout début (Big Bang) occupe visuellement l'essentiel
+    const logpos = d<=0?0 : Math.min(1, Math.log10(1+d*9)); // 0→1
+    you.style.top=(logpos*100).toFixed(1)+'%';
+    const yearsAgo=T*(1-d);
+    spinepct.textContent = d>=0.9999? "présent" : (yearsAgo>=1e9?`−${(yearsAgo/1e9).toFixed(1)} Ga`:`−${(yearsAgo/1e6).toFixed(0)} Ma`);
+    document.querySelectorAll('.toc a.item').forEach(x=>x.classList.toggle('on',x.dataset.id===cur.id));
+  }
+}
+window.addEventListener('scroll',onScroll,{passive:true});
+onScroll();
+
+// rachis : graduations
+(function(){
+  const rail=document.getElementById('rail');
+  [["Big Bang",0],["1ᵉʳ Ga",0.28],["Terre",0.52],["Vie",0.6],["Cambrien",0.82],["Présent",1]].forEach(([t,pos])=>{
+    const d=document.createElement('div');d.className='tick';d.style.top=(pos*100)+'%';
+    d.innerHTML=`<b>${t}</b>`;rail.appendChild(d);
+  });
+})();
+
+/* ============================================================
+   LECTURE AUDIO — synthèse vocale du navigateur, en français
+   Lit paragraphe par paragraphe et surligne le passage lu.
+   ============================================================ */
+const audioBtn=document.getElementById('audioBtn');
+let speaking=false, queue=[], qi=0;
+function frVoice(){
+  const vs=speechSynthesis.getVoices();
+  return vs.find(v=>/fr-FR/i.test(v.lang)) || vs.find(v=>/^fr/i.test(v.lang)) || null;
+}
+function stopAudio(){
+  speechSynthesis.cancel(); speaking=false;
+  document.querySelectorAll('p.reading').forEach(p=>p.classList.remove('reading'));
+  audioBtn.classList.remove('live');
+  audioBtn.querySelector('span').textContent='Écouter';
+  audioBtn.querySelector('svg').innerHTML='<polygon points="6 4 20 12 6 20 6 4"/>';
+}
+function speakNext(){
+  if(qi>=queue.length){stopAudio();return;}
+  const el=queue[qi];
+  document.querySelectorAll('p.reading').forEach(p=>p.classList.remove('reading'));
+  if(el.tagName==='P'){el.classList.add('reading');
+    el.scrollIntoView({block:'center',behavior:'smooth'});}
+  const u=new SpeechSynthesisUtterance(el.textContent.replace(/\s+/g,' ').trim());
+  u.lang='fr-FR'; const v=frVoice(); if(v)u.voice=v; u.rate=0.98; u.pitch=1;
+  u.onend=()=>{qi++;speakNext();};
+  u.onerror=()=>{qi++;speakNext();};
+  speechSynthesis.speak(u);
+}
+function startAudio(){
+  // lit le premier article entièrement visible dans le viewport
+  let target=null;const vh=innerHeight;
+  document.querySelectorAll('article').forEach(a=>{const r=a.getBoundingClientRect();
+    if(target===null && r.bottom>vh*0.2 && r.top<vh*0.7) target=a;});
+  target=target||document.querySelector('article');
+  queue=[...target.querySelectorAll('h2,p,li')].filter(e=>e.textContent.trim().length>2);
+  qi=0; speaking=true;
+  audioBtn.classList.add('live');
+  audioBtn.querySelector('span').textContent='Pause';
+  audioBtn.querySelector('svg').innerHTML='<rect x="6" y="5" width="4" height="14"/><rect x="14" y="5" width="4" height="14"/>';
+  speakNext();
+}
+audioBtn.addEventListener('click',()=>{ speaking?stopAudio():startAudio(); });
+if(typeof speechSynthesis!=='undefined'){speechSynthesis.onvoiceschanged=()=>{};}
+else{audioBtn.style.display='none';}
+
+/* ============================================================
+   RÉGLAGES — jour/nuit · taille du texte
+   ============================================================ */
+const dayBtn=document.getElementById('dayBtn');
+dayBtn.addEventListener('click',()=>{
+  document.body.classList.toggle('day');
+  dayBtn.textContent=document.body.classList.contains('day')?'Jour':'Nuit';
+});
+const sizes=[17,19,21,23], sizeLbl=['S','M','L','XL']; let si=1;
+const fontBtn=document.getElementById('fontBtn');
+function applySize(){document.documentElement.style.setProperty('--read',sizes[si]+'px');
+  fontBtn.textContent='Aa · '+sizeLbl[si];}
+fontBtn.addEventListener('click',()=>{si=(si+1)%sizes.length;applySize();});
+applySize();
+
+/* légende : fermeture */
+document.getElementById('legendClose').onclick=()=>document.getElementById('legend').classList.add('hidden');
+
+/* raccourci : barre espace = audio (hors saisie) */
+addEventListener('keydown',e=>{if(e.code==='Space'&&!/input|textarea/i.test(e.target.tagName)){e.preventDefault();speaking?stopAudio():startAudio();}});
+</script>
