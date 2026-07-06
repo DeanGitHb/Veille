@@ -1,0 +1,129 @@
+<!-- CHRONOS · Veille — affiche veille.json produit par le collecteur. -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CHRONOS · Veille</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500&family=Newsreader:opsz,wght@6..72,300;6..72,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ink:#0B1020; --ink-2:#121A2E; --line:#2A3556;
+  --text:#E7E4DA; --muted:#9AA3BE; --faint:#5C6788;
+  --measure:#79D2E6; --hypo:#A79AE0; --record:#DBA94B; --tech:#8AD0A0;
+  --disp:"Fraunces",Georgia,serif; --serif:"Newsreader",Georgia,serif; --mono:"IBM Plex Mono",monospace;
+}
+body.day{--ink:#EFE7D6;--ink-2:#F5EFE1;--line:#D8CBAE;--text:#241F16;--muted:#6A6152;--faint:#9A9080;
+  --measure:#1E7C93;--hypo:#5A4CA0;--record:#9A6E17;--tech:#2E7D50;}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ink);color:var(--text);font-family:var(--serif);font-weight:300;line-height:1.7;-webkit-font-smoothing:antialiased}
+.wrap{max-width:800px;margin:0 auto;padding:36px 26px 120px}
+.top{display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap}
+.brand{font-family:var(--disp);font-weight:500;font-size:22px;letter-spacing:.02em}
+.brand span{color:var(--measure)}
+.tool{font-family:var(--mono);font-size:11px;color:var(--muted);background:var(--ink-2);border:1px solid var(--line);
+  border-radius:8px;padding:6px 11px;cursor:pointer}
+.tool:hover{color:var(--text)}
+.datehead{font-family:var(--mono);font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--record);margin-top:30px}
+h1{font-family:var(--disp);font-weight:500;font-size:clamp(30px,5vw,44px);margin:8px 0 6px;line-height:1.05}
+.lead{color:var(--muted);max-width:60ch;margin:0 0 8px}
+.updated{font-family:var(--mono);font-size:10.5px;color:var(--faint)}
+.banner{border:1px dashed var(--record);border-radius:12px;padding:12px 16px;margin:20px 0;
+  font-family:var(--mono);font-size:12px;color:var(--record);line-height:1.6}
+.cat{font-family:var(--mono);font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--faint);
+  display:flex;align-items:center;gap:12px;margin:34px 0 6px}
+.cat .bar{flex:1;height:1px;background:var(--line)}
+.card{display:block;text-decoration:none;color:inherit;border:1px solid var(--line);border-radius:12px;
+  padding:16px 18px;margin:12px 0;background:var(--ink-2);transition:.15s}
+.card:hover{border-color:var(--faint);transform:translateY(-1px)}
+.card .meta{font-family:var(--mono);font-size:9.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--faint);
+  display:flex;gap:10px;margin-bottom:7px}
+.card .k{font-weight:500}
+.card.sciences .k{color:var(--measure)} .card.tech .k{color:var(--tech)}
+.card.politique .k{color:var(--record)} .card.ia .k{color:var(--hypo)}
+.card h3{font-family:var(--disp);font-weight:500;font-size:19px;margin:0 0 6px;line-height:1.2}
+.card p{font-size:15px;color:var(--muted);margin:0}
+.card .go{font-family:var(--mono);font-size:11px;color:var(--faint);margin-top:8px}
+.card:hover .go{color:var(--measure)}
+.empty{font-family:var(--mono);font-size:12px;color:var(--faint);padding:8px 0}
+.note{border:1px dashed var(--line);border-radius:12px;padding:16px 18px;margin:34px 0;
+  font-family:var(--mono);font-size:12px;color:var(--faint);line-height:1.75}
+.note b{color:var(--record)}
+a.plain{color:var(--measure);text-decoration:none}
+</style>
+
+<div class="wrap">
+  <div class="top">
+    <div class="brand">CHRON<span>O</span>S · Veille</div>
+    <button class="tool" id="dayBtn">Jour</button>
+  </div>
+
+  <div class="datehead">l'encyclopédie qui continue</div>
+  <h1 id="date">…</h1>
+  <p class="lead">Chaque jour, ce qui prolonge les annales&nbsp;: découvertes, ruptures techniques, tournants politiques, et l'avancée de l'IA. C'est le dernier chapitre qui s'écrit sous vos yeux.</p>
+  <div class="updated" id="updated"></div>
+
+  <div id="banner"></div>
+  <div id="feed"></div>
+
+  <div class="note">
+    ⚙︎ <b>État du système.</b> Cette page lit un fichier <code>veille.json</code> produit chaque matin par le collecteur
+    (<code>veille.mjs</code>), lancé automatiquement par GitHub&nbsp;Actions — sans serveur à maintenir. Tant que le collecteur
+    n'a pas tourné, ce sont des données d'exemple qui s'affichent. Voir <b>README-veille.md</b> pour la mise en route (5&nbsp;min).
+  </div>
+</div>
+
+<script>
+const LABELS = { sciences:"Sciences", tech:"Technologie", politique:"Politique & monde", ia:"Intelligence artificielle" };
+const ORDER = ["sciences","tech","politique","ia"];
+
+function esc(s=""){return s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));}
+function fmtDate(d){ if(!d) return ""; const t=Date.parse(d); if(!t) return ""; 
+  return new Date(t).toLocaleDateString("fr-FR",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"}); }
+
+function render(data){
+  document.getElementById("date").textContent = data.dateLabel || new Date().toLocaleDateString("fr-FR",{weekday:"long",day:"numeric",month:"long",year:"numeric"});
+  if(data.generated){
+    document.getElementById("updated").textContent = "Dernière collecte : " + new Date(data.generated).toLocaleString("fr-FR");
+  }
+  if(data.demo){
+    document.getElementById("banner").innerHTML =
+      `⚠︎ Données d'exemple — le collecteur n'a pas encore tourné. Une fois <b>veille.mjs</b> déployé, de vraies actualités remplaceront ces cartes.`;
+    document.getElementById("banner").className = "banner";
+  }
+  const feed = document.getElementById("feed");
+  let html = "";
+  for(const cat of ORDER){
+    const items = (data.categories && data.categories[cat]) || [];
+    html += `<div class="cat"><span>${LABELS[cat]}</span><span class="bar"></span></div>`;
+    if(!items.length){ html += `<div class="empty">Rien de retenu aujourd'hui pour cette rubrique.</div>`; continue; }
+    for(const it of items){
+      html += `<a class="card ${cat}" href="${esc(it.url||"#")}" target="_blank" rel="noopener">
+        <div class="meta"><span class="k">${LABELS[cat]}</span><span>${esc(it.source||"")}</span><span>${fmtDate(it.date)}</span></div>
+        <h3>${esc(it.title||"")}</h3>
+        ${it.summary?`<p>${esc(it.summary)}</p>`:""}
+        <div class="go">Lire la source ↗</div>
+      </a>`;
+    }
+  }
+  feed.innerHTML = html;
+}
+
+async function load(){
+  try{
+    const res = await fetch("veille.json", {cache:"no-store"});
+    if(!res.ok) throw new Error("absent");
+    render(await res.json());
+  }catch(e){
+    // repli : aucun fichier encore → message + structure vide
+    render({ demo:true, categories:{} });
+    document.getElementById("banner").innerHTML =
+      `⚠︎ Aucun <b>veille.json</b> trouvé à côté de cette page. Lance le collecteur (<code>node veille.mjs</code>) ou déploie le workflow. Voir README.`;
+    document.getElementById("banner").className = "banner";
+  }
+}
+load();
+
+document.getElementById("dayBtn").onclick = e => {
+  document.body.classList.toggle("day");
+  e.target.textContent = document.body.classList.contains("day") ? "Nuit" : "Jour";
+};
