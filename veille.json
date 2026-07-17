@@ -1,206 +1,206 @@
 {
-  "generated": "2026-07-16T11:21:26.147Z",
-  "dateLabel": "jeudi 16 juillet 2026",
+  "generated": "2026-07-17T11:07:24.729Z",
+  "dateLabel": "vendredi 17 juillet 2026",
   "demo": false,
   "categories": {
     "sciences": [
       {
-        "title": "Mont Blanc : les guides interdisent les ascensions sur un glacier trop dégradé",
-        "url": "https://www.sciencesetavenir.fr/nature-environnement/mont-blanc-les-guides-italiens-suspendent-les-ascensions-face-a-la-degradation-du-glacier_193804?xtor=RSS-15",
-        "summary": "Les guides de montagne de Courmayeur ont suspendu les ascensions du Mont Blanc par la voie normale côté italien, jugeant les conditions devenues trop dangereuses. En cause, les fortes chaleurs de ces dernières semaines, qui ont fortement fragilisé le glacier et rendu l'itinéraire impraticable pour…",
-        "date": "Thu, 16 Jul 2026 10:47:42 +0000",
+        "title": "Sécheresse extrême : jusqu’où les restrictions d’eau pourraient-elles aller cet été ?",
+        "url": "https://www.futura-sciences.com/planete/actualites/meteorologie-secheresse-extreme-jusquou-restrictions-eau-pourraient-elles-aller-cet-ete-136265/#xtor%3DRSS-8",
+        "summary": "Après trois canicules et des dômes anticycloniques à répétition, la France est complètement asséchée. Le nombre de départements concernés par les restrictions d'eau n'a jamais été aussi élevé et les prévisions s'orientent vers un été historiquement sec.",
+        "date": "Fri, 17 Jul 2026 12:01:06 +0200",
+        "source": "futura-sciences.com",
+        "ts": 1784282466000
+      },
+      {
+        "title": "Ce robot tondeuse sans fil perd 400 € pendant les soldes, votre pelouse y gagne",
+        "url": "https://www.futura-sciences.com/conso/bons-plans/guides-jardin-ce-robot-tondeuse-fil-perd-400-pendant-soldes-votre-pelouse-y-gagne-10769/#xtor%3DRSS-8",
+        "summary": "La dernière démarque des soldes d'été offre 400 € de remise sur le robot tondeuse sans fil Ecovacs GOAT O800 RTK. Une bonne occasion de confier la tonte à un appareil autonome, précis et connecté, capable d'entretenir votre pelouse sans câble périphérique.",
+        "date": "Fri, 17 Jul 2026 12:00:00 +0200",
+        "source": "futura-sciences.com",
+        "ts": 1784282400000
+      },
+      {
+        "title": "LHS 1140 b : une exoplanète en zone habitable et avec une atmosphère !",
+        "url": "https://www.sciencesetavenir.fr/espace/planetes/lhs-1140-b-une-exoplanete-en-zone-habitable-pourvue-d-une-atmosphere_193794?xtor=RSS-9",
+        "summary": "Des astronomes américains viennent de dévoiler la présence d'une atmosphère sur l'exoplanète LHS 1140 b, située à 40 années-lumière de la Terre. C'est la première fois qu'une enveloppe gazeuse est confirmée pour une planète rocheuse résidant dans sa zone habitable. Une telle découverte scientifique…",
+        "date": "Fri, 17 Jul 2026 09:41:23 +0000",
         "source": "sciencesetavenir.fr",
-        "ts": 1784198862000
+        "ts": 1784281283000
       },
       {
-        "title": "La France a changé d’ère : ces signes montrent que le climat d’avant ne reviendra pas",
-        "url": "https://www.futura-sciences.com/planete/actualites/meteorologie-france-change-ere-ces-signes-montrent-climat-avant-ne-reviendra-pas-136234/#xtor%3DRSS-8",
-        "summary": "L'année 2026 est en train de défier tous les extrêmes déjà enregistrés en France. Le climat change, mais depuis quelques mois, c'est un véritable basculement qui semble s'opérer dans notre pays.",
-        "date": "Thu, 16 Jul 2026 12:33:37 +0200",
-        "source": "futura-sciences.com",
-        "ts": 1784198017000
-      },
-      {
-        "title": "Ces anticorps nouvelle génération pourraient transformer la médecine",
-        "url": "https://www.futura-sciences.com/sante/actualites/anticorps-therapeutiques-ces-anticorps-nouvelle-generation-pourraient-transformer-medecine-136256/#xtor%3DRSS-8",
-        "summary": "Les anticorps thérapeutiques ont déjà transformé la prise en charge de nombreux cancers et de maladies auto-immunes ou inflammatoires. Leur force : reconnaître avec une grande précision une cible biologique impliquée dans une maladie.",
-        "date": "Thu, 16 Jul 2026 12:30:50 +0200",
-        "source": "futura-sciences.com",
-        "ts": 1784197850000
-      },
-      {
-        "title": "Le célèbre Samsung Galaxy S25 Ultra AI passe en mode soldes avec une remise monstre",
-        "url": "https://www.futura-sciences.com/conso/bons-plans/guides-smartphones-celebre-samsung-galaxy-s25-ultra-ai-passe-mode-soldes-remise-monstre-10755/#xtor%3DRSS-8",
-        "summary": "Envie de passer à un smartphone haut de gamme sans payer le prix fort ? C'est le moment d'en profiter. Le Samsung Galaxy S25 Ultra AI, l'un des modèles les plus populaires de la marque, bénéficie actuellement d'une remise spectaculaire qui fait tomber son prix à seulement 684 € au lieu de 1...",
-        "date": "Thu, 16 Jul 2026 12:00:04 +0200",
-        "source": "futura-sciences.com",
-        "ts": 1784196004000
-      },
-      {
-        "title": "Parkinson : une simple larme pourrait révéler la maladie grâce à ce nouveau capteur",
-        "url": "https://www.futura-sciences.com/sante/actualites/parkinson-parkinson-simple-larme-pourrait-reveler-maladie-grace-ce-nouveau-capteur-136255/#xtor%3DRSS-8",
-        "summary": "La maladie de Parkinson progresse souvent silencieusement avant l’apparition des premiers troubles moteurs. Pour tenter de la repérer plus tôt, des chercheurs explorent aujourd’hui une piste étonnante : identifier les déséquilibres en dopamine dans les larmes.",
-        "date": "Thu, 16 Jul 2026 11:35:20 +0200",
-        "source": "futura-sciences.com",
-        "ts": 1784194520000
-      },
-      {
-        "title": "SpudCell, la cellule synthétique presque vivante",
-        "url": "https://www.sciencesetavenir.fr/fondamental/celle-ci-est-la-cellule-synthetique-la-plus-aboutie-de-l-histoire_193798?xtor=RSS-10",
-        "summary": "Cette cellule très simple, capable de se nourrir, de grandir, de se diviser et d’évoluer, représente une avancée monumentale dans le domaine du génie biologique.",
-        "date": "Thu, 16 Jul 2026 09:16:59 +0000",
+        "title": "Espace: L'Inde, une nation ambitieuse et conquérante",
+        "url": "https://www.sciencesetavenir.fr/espace/l-inde-jeune-mais-ambitieuse-puissance-spatiale_193825?xtor=RSS-9",
+        "summary": "De Mars à la Lune, l'Inde a multiplié les succès spatiaux ces dernières années, s'imposant comme une puissance montante du secteur. Portée par une industrie privée en plein essor et des ambitions croissantes, elle prépare désormais sa première mission habitée.",
+        "date": "Fri, 17 Jul 2026 09:10:41 +0000",
         "source": "sciencesetavenir.fr",
-        "ts": 1784193419000
+        "ts": 1784279441000
+      },
+      {
+        "title": "Une planète rocheuse en zone habitable aurait une atmosphère : un verrou vient de sauter",
+        "url": "https://www.futura-sciences.com/sciences/actualites/exoplanete-planete-rocheuse-zone-habitable-aurait-atmosphere-verrou-vient-sauter-136254/#xtor%3DRSS-8",
+        "summary": "Après des années de recherches souvent infructueuses, des astronomes ont obtenu la preuve la plus convaincante à ce jour qu'une planète rocheuse située dans la zone habitable de son étoile possède une atmosphère. Une étape cruciale qui ouvre la voie à l'étude détaillée de ces mondes et,...",
+        "date": "Fri, 17 Jul 2026 11:01:34 +0200",
+        "source": "futura-sciences.com",
+        "ts": 1784278894000
+      },
+      {
+        "title": "Les princesses égyptiennes chassaient et tiraient à l'arc",
+        "url": "https://www.sciencesetavenir.fr/archeo-paleo/il-y-a-4000-ans-les-princesses-egyptiennes-etaient-des-professionnelles-du-tir-a-l-arc_193816?xtor=RSS-4",
+        "summary": "Les princesses égyptiennes ne passaient pas leur vie alanguies sur des coussins, au contraire, elles tiraient à l’arc et chassaient, comme les hommes.",
+        "date": "Fri, 17 Jul 2026 08:16:44 +0000",
+        "source": "sciencesetavenir.fr",
+        "ts": 1784276204000
       }
     ],
     "tech": [
       {
-        "title": "Transformation numérique et technologique : Le lycée technique d’Abidjan se dote d’un laboratoire d’innovation de nouvelle génération - FratMat",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQWp4V041VlJXYnY2aFJ4aFJHZjFwMjVycGhmWWlxMXBtTk5RQ2cxY0pkZnZHVXRHMDIxYU14ZUx0WEQyVzNjLVR0RFV5NzJSaThVQU5vUGxfZ0p1XzlGV0NSTGp6WUVKcDgxMXVrUW1sZVRmVm5zWWV1OVJza1JmdFY1YTVFdDhDM2JjOXRPZzktcGhwVFJNN1dZVWFTdk5rU3VOanVfeGxoSXR3VmRrbUx3d1VNOGJhRWZ5VEd3RXBGbVZtdHVEU25qeTJRYmlwNkNINlNjM21JWUNXNFUzNlNYVDIxX09yM3RhT3BEc2RrU1VpODN1TEkxV2ZHQndIcEJJY0J6WHE?oc=5",
-        "summary": "Transformation numérique et technologique : Le lycée technique d’Abidjan se dote d’un laboratoire d’innovation de nouvelle génération FratMat",
-        "date": "Thu, 16 Jul 2026 11:18:58 GMT",
-        "source": "news.google.com",
-        "ts": 1784200738000
-      },
-      {
-        "title": "Tout ce que le Starship doit réussir lors de son treizième vol avant de passer en mode orbital",
-        "url": "https://www.numerama.com/sciences/2296075-tout-ce-que-le-starship-doit-reussir-lors-de-son-treizieme-vol-avant-de-passer-en-mode-orbital.html",
-        "summary": "Le treizième vol du Starship, prévu dans la nuit du 16 au 17 juillet 2026, devrait être le dernier à rester sur une trajectoire suborbitale. Dès le quatorzième essai, le lanceur géant de SpaceX passera à l'étape supérieure… En tout cas, si tout est validé.",
-        "date": "Thu, 16 Jul 2026 11:10:00 +0000",
-        "source": "numerama.com",
-        "ts": 1784200200000
-      },
-      {
-        "title": "Expérimentation contrôlée : encourager l'innovation - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSDdJaXBhekVxX0hEWnRCWHRCZ29MTjN1Vjg5UEVJNVladkNiZmR2dVlvUTBFU2l5ZmdqdnAzME12YmIxLUtJUWtrQ2pDZFBDVnYyalZjbTY3MkRjU0ZBZnRHTElDRVR3eGk1X2JLY0hfb0lXV0RRQUxXa05sQWdMYjVMY0w2UQ?oc=5",
-        "summary": "Expérimentation contrôlée : encourager l'innovation Vietnam.vn",
-        "date": "Thu, 16 Jul 2026 11:07:44 GMT",
-        "source": "news.google.com",
-        "ts": 1784200064000
-      },
-      {
-        "title": "Actualité : OnePlus disparaît d'Europe : la décision radicale de sa maison-mère Oppo",
-        "url": "https://www.lesnumeriques.com/telephone-portable/adieu-oneplus-la-fin-de-la-marque-en-europe-est-officiellement-actee-n259351.html",
-        "summary": "La maison-mère d’OnePlus, Oppo, a officialisé l'arrêt de la commercialisation des produits de la marque en Europe et en Amérique du Nord. Si le groupe promet de maintenir le service après-vente et les mises à jour logicielles pour les clients actuels, cette décision marque un tournant stratégique m…",
-        "date": "2026-07-16T12:51:00+02:00",
+        "title": "Actualité : Un seul abonnement pour protéger PC, Mac et mobiles : Bitdefender Total Security en promotion",
+        "url": "https://www.lesnumeriques.com/antivirus/un-seul-abonnement-pour-proteger-pc-mac-et-mobiles-bitdefender-total-security-en-promotion-n259328.html",
+        "summary": "Bitdefender Total Security est actuellement proposé à 47,50 € la première année. Une formule pensée pour sécuriser jusqu'à cinq appareils avec une protection discrète et complète.",
+        "date": "2026-07-17T13:00:00+02:00",
         "source": "lesnumeriques.com",
-        "ts": 1784199060000
+        "ts": 1784286000000
       },
       {
-        "title": "Actualité : Achats, mails, téléchargements : Avast One baisse son prix",
-        "url": "https://www.lesnumeriques.com/antivirus/achats-mails-telechargements-avast-one-baisse-son-prix-n259273.html",
-        "summary": "Avast One profite d’une remise pouvant atteindre 60 % pour réunir antivirus, VPN et protections de la vie privée dans une seule application dédiée aux usages du quotidien.",
-        "date": "2026-07-16T12:30:00+02:00",
+        "title": "Actualité : Pour la première fois, une atmosphère est détectée autour d’une planète rocheuse habitable",
+        "url": "https://www.lesnumeriques.com/astronomie-conquete-spatiale/pour-la-premiere-fois-une-atmosphere-est-detectee-autour-d-une-planete-rocheuse-habitable-n259401.html",
+        "summary": "C'est une première mondiale : sur un monde rocheux situé en zone habitable de son étoile, une équipe vient de confirmer la présence d'hélium s'échappant de l'atmosphère. C'est un pas crucial vers la possible détection d'une vie au-delà de la Terre.",
+        "date": "2026-07-17T12:27:00+02:00",
         "source": "lesnumeriques.com",
-        "ts": 1784197800000
+        "ts": 1784284020000
       },
       {
-        "title": "J’ai vu l’Odyssée, j’avais peur d’être déçu mais je suis sorti chamboulé",
-        "url": "https://www.numerama.com/pop-culture/2295951-jattendais-nolan-au-tournant-mais-lodyssee-est-un-choc-visuel-colossal.html",
-        "summary": "Malgré des infidélités thématiques majeures qui feront hurler les hellénistes, le pari fou de Christopher Nolan est réussi. L'Odyssée (The Odyssey) s'impose comme un choc de cinéma total, une odyssée sensorielle de trois heures qui redéfinit le blockbuster. Porté par un Matt Damon au sommet de son…",
-        "date": "Thu, 16 Jul 2026 10:05:00 +0000",
+        "title": "Actualité : Ce nettoyeur vapeur présente le meilleur rapport qualité / prix de notre comparatif",
+        "url": "https://www.lesnumeriques.com/nettoyeur-vapeur/ce-nettoyeur-vapeur-presente-le-meilleur-rapport-qualite-prix-de-notre-comparatif-n259404.html",
+        "summary": "Le nettoyeur vapeur Polti Vaporetto SV440 Double s'affiche aujourd'hui à 89,99 € chez Amazon, Boulanger.com et Rakuten. C'est actuellement le meilleur rapport qualité / prix de notre comparatif, selon les 19 modèles testés dans notre laboratoire.",
+        "date": "2026-07-17T12:12:36+02:00",
+        "source": "lesnumeriques.com",
+        "ts": 1784283156000
+      },
+      {
+        "title": "« Votre colis est retenu en attente de paiement » : comment la nouvelle taxe de l’UE pourrait faire le bonheur des escrocs",
+        "url": "https://www.numerama.com/cyberguerre/2296779-votre-colis-est-retenu-en-attente-de-paiement-comment-la-nouvelle-taxe-de-lue-pourrait-faire-le-bonheur-des-escrocs.html",
+        "summary": "Entrée en vigueur le 1er juillet, la taxe européenne sur les petits colis a ouvert un boulevard aux cybercriminels, qui misent sur la confusion des consommateurs pour multiplier les arnaques.",
+        "date": "Fri, 17 Jul 2026 10:10:57 +0000",
         "source": "numerama.com",
-        "ts": 1784196300000
+        "ts": 1784283057000
+      },
+      {
+        "title": "Test Amazfit Balance 3 : un poids lourd qui sait où il va",
+        "url": "https://www.lesnumeriques.com/montre-connectee/amazfit-balance-3-p78358/test.html",
+        "summary": "Avec son design robuste et ses fonctions dédiées à l'Hyrox, la montre connectée Amazfit Balance 3 affiche de nettes ambitions sportives.",
+        "date": "2026-07-17T12:00:00+02:00",
+        "source": "lesnumeriques.com",
+        "ts": 1784282400000
+      },
+      {
+        "title": "Épisode d'émission : L'hebdo gaming des Nums : Denshattack, Dark Scrolls, Castlevania, Xbox",
+        "url": "https://www.lesnumeriques.com/emission/l-hebdo-gaming-des-nums-denshattack-dark-scrolls-castlevania-xbox-em259394.html",
+        "summary": "Rejoignez-nous dès 11h30 sur Twitch pour l'hebdo gaming de Crono !",
+        "date": "2026-07-17T11:30:00+02:00",
+        "source": "lesnumeriques.com",
+        "ts": 1784280600000
       }
     ],
     "politique": [
       {
-        "title": "Disparition de Delphine Aussaguel : des ossements qui pourraient être \"humains\" ont été retrouvés \"sur les lieux indiqués par Cédric Jubillar\", annonce le procureur général",
-        "url": "https://www.franceinfo.fr/replay-radio/affaire-jubillar-le-proces-d-une-disparition/direct-affaire-jubillar-apres-les-aveux-de-cedric-jubillar-de-nouvelles-fouilles-sont-en-cours-pour-retrouver-le-corps-de-delphine-aussaguel_8110025.html#xtor=RSS-3-[lestitres]",
-        "summary": "Le trentenaire, qui a avoué être à l'origine de la mort de sa femme cinq ans après sa disparition, est sur place avec les gendarmes, dans le Tarn.",
-        "date": "Thu, 16 Jul 2026 12:59:50 +0200",
-        "source": "francetvinfo.fr",
-        "ts": 1784199590000
+        "title": "Au Japon, une révision législative confirme le modèle patriarcal de la famille impériale",
+        "url": "https://www.lemonde.fr/international/article/2026/07/17/au-japon-une-revision-legislative-confirme-le-modele-patriarcal-de-la-famille-imperiale_6724180_3210.html",
+        "summary": "Inquiet du risque d’extinction de la lignée impériale, le gouvernement japonais a révisé la législation encadrant, depuis 1947, la Maison impériale, afin d’augmenter le nombre de successeurs potentiels à l’empereur. Même si les Japonais sont ouverts à l’accession d’une femme au trône, le texte main…",
+        "date": "Fri, 17 Jul 2026 13:00:06 +0200",
+        "source": "lemonde.fr",
+        "ts": 1784286006000
       },
       {
-        "title": "Une plainte déposée par AC!! Anti-Corruption concernant la reconversion d'un ex-site Michelin en logements en Indre-et-Loire",
-        "url": "https://www.franceinfo.fr/societe/justice/une-plainte-deposee-par-ac-anti-corruption-concernant-la-reconversion-d-un-ex-site-michelin-en-logements-en-indre-et-loire_8110157.html#xtor=RSS-3-[lestitres]",
-        "summary": "L'association soupçonne une entente entre Michelin, la Set, les promoteurs, ainsi que le maire de Joué-lès-Tours pour économiser \"15 millions d'euros\" en mentant sur la dépollution du site.",
-        "date": "Thu, 16 Jul 2026 12:54:09 +0200",
-        "source": "francetvinfo.fr",
-        "ts": 1784199249000
+        "title": "Pologne : le président nationaliste met son veto à la légalisation des unions civiles",
+        "url": "https://www.lemonde.fr/international/article/2026/07/17/pologne-le-president-nationaliste-met-son-veto-a-la-legalisation-des-unions-civiles_6724179_3210.html",
+        "summary": "Le projet, présenté par le gouvernement centriste de Donald Tusk, visait à instaurer un « statut de la personne la plus proche », une union civile – distincte du mariage – qui pouvait concerner des couples de même sexe.",
+        "date": "Fri, 17 Jul 2026 12:59:58 +0200",
+        "source": "lemonde.fr",
+        "ts": 1784285998000
       },
       {
-        "title": "Incendies : la France n'a jamais été confrontée à autant de feux depuis \"la fin de la Seconde Guerre mondiale\", déclare Emmanuel Macron en visite à Fontainebleau",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendies-emmanuel-macron-attendu-a-fontainebleau-ou-pres-de-950-pompiers-poursuivent-leur-lutte-contre-les-incendies_8109776.html#xtor=RSS-3-[lestitres]",
-        "summary": "Depuis dimanche, près de 2 000 hectares de la forêt de Seine-et-Marne, classée réserve de biosphère par l'Unesco, ont été parcourus par les flammes.",
-        "date": "Thu, 16 Jul 2026 12:46:15 +0200",
+        "title": "Emmanuel Grégoire va porter plainte pour diffamation au nom de la Ville de Paris contre Rachida Dati, pour ses tweets sur le scandale du périscolaire",
+        "url": "https://www.franceinfo.fr/politique/rachida-dati/periscolaire-emmanuel-gregoire-va-porter-plainte-pour-diffamation-contre-rachida-dati-au-nom-de-la-ville-de-paris_8111615.html#xtor=RSS-3-[lestitres]",
+        "summary": "La maire du 7e arrondissement et ancienne candidate à la mairie de la capitale a plusieurs fois accusé l'ancienne équipe municipale d'avoir été au courant de violences sexuelles perpétrées par des animateurs \"sans jamais saisir la justice\".",
+        "date": "Fri, 17 Jul 2026 12:57:01 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1784198775000
+        "ts": 1784285821000
       },
       {
-        "title": "\"Les grêlons sont de plus en plus gros\" : pourquoi les orages sont-ils si violents ?",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/les-grelons-sont-de-plus-en-plus-gros-pourquoi-les-orages-sont-ils-si-violents_8109989.html#xtor=RSS-3-[lestitres]",
-        "summary": "Après la canicule, la métropole est balayée par des épisodes orageux. Alix Roumagnac, président de Predict Services, la filiale \"risques\" de Météo-France, répond aux questions de franceinfo.",
-        "date": "Thu, 16 Jul 2026 12:45:49 +0200",
-        "source": "francetvinfo.fr",
-        "ts": 1784198749000
+        "title": "Loi anti-LGBT+ en Ouganda : abandon des poursuites contre deux femmes s’étant embrassées",
+        "url": "https://www.lemonde.fr/afrique/article/2026/07/17/loi-anti-lgbt-en-ouganda-abandon-des-poursuites-contre-deux-femmes-s-etant-embrassees_6724177_3212.html",
+        "summary": "Les deux femmes, vingtenaires, avaient été arrêtées en février à la suite d’une plainte de voisins à Arua, dans le nord-est du pays. La loi anti-LGBT+ ougandaise, votée en 2023, est considérée comme l’une des plus sévères du monde.",
+        "date": "Fri, 17 Jul 2026 12:48:05 +0200",
+        "source": "lemonde.fr",
+        "ts": 1784285285000
       },
       {
-        "title": "La pétition contre la présomption d'usage légitime des armes à feu par les forces de l'ordre sera examinée mardi en commission des lois",
-        "url": "https://www.franceinfo.fr/faits-divers/police/la-petition-contre-la-presomption-d-usage-legitime-des-armes-a-feu-par-les-forces-de-l-ordre-sera-examinee-mardi-en-commission-des-lois_8110139.html#xtor=RSS-3-[lestitres]",
-        "summary": "Les signataires s'opposent à un texte approuvé par les députés début juillet et qui doit désormais être étudié au Sénat.",
-        "date": "Thu, 16 Jul 2026 12:38:14 +0200",
-        "source": "francetvinfo.fr",
-        "ts": 1784198294000
+        "title": "Coupe du monde 2026 : Pedro Sanchez, le premier ministre espagnol critique de Donald Trump, assistera à la finale, le président argentin Javier Milei absent par « superstition »",
+        "url": "https://www.lemonde.fr/sport/article/2026/07/17/coupe-du-monde-2026-pedro-sanchez-le-premier-ministre-espagnol-critique-de-donald-trump-assistera-a-la-finale-le-president-argentin-javier-milei-absent-par-superstition_6724175_3242.html",
+        "summary": "Si les relations diplomatiques entre l’Espagne et les États-Unis se sont détériorées depuis l’opposition de Pedro Sanchez à la guerre menée par les États-Unis et Israël contre l’Iran, le dirigeant espagnol sera présent à la finale opposant son pays à l’Argentine.",
+        "date": "Fri, 17 Jul 2026 12:42:59 +0200",
+        "source": "lemonde.fr",
+        "ts": 1784284979000
       },
       {
-        "title": "\"L'Argentine ne meurt jamais\" : d'Atlanta à Buenos Aires, la folle émotion des supporters de l'Albiceleste de Lionel Messi",
-        "url": "https://www.franceinfo.fr/coupe-du-monde/reportage-l-argentine-ne-meurt-jamais-d-atlanta-a-buenos-aires-la-folle-emotion-des-supporters-de-l-albiceleste-de-lionel-messi_8110061.html#xtor=RSS-3-[lestitres]",
-        "summary": "Menée par l'Angleterre, la sélection argentine s'est une nouvelle fois réveillée en fin de match pour renverser la situation et atteindre la finale du Mondial. De quoi faire chavirer les supporters argentins.",
-        "date": "Thu, 16 Jul 2026 12:23:40 +0200",
+        "title": "Chute d'arbre, incendie provoqué par la foudre... Ce que l'on sait des deux morts provoquées par les orages",
+        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/chute-d-arbre-incendie-provoque-par-la-foudre-ce-que-l-on-sait-des-deux-morts-provoquees-par-les-orages_8111468.html#xtor=RSS-3-[lestitres]",
+        "summary": "De violents orages ont éclaté dans la nuit de jeudi à vendredi, tuant une femme lors de la chute d'un arbre en Haute-Vienne et un homme dans un incendie provoqué par la foudre en Isère. Voici ce que l'on sait.",
+        "date": "Fri, 17 Jul 2026 12:37:07 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1784197420000
+        "ts": 1784284627000
       }
     ],
     "ia": [
       {
-        "title": "OPINION. « Dans un monde sous l’influence de l’IA, il faut apprendre plus et autrement », par Flavien Reille, président de Theia - La Tribune",
-        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQck5LWmlEd3VyeVZKZE8xWWI0d3Nfc0ZETXU0WFdLMVV4YlpZb0ZKaXBhcEtOLVU0Tnd3akIxaGdNcVZFd1dHQ25QRm92MnREc1U2eXBTVEo4dlZCNzFjUG4tNngxVXJOOUtOQjZzRjRER2VRRDVMMWpmd1Z3ZUw3ZkUzdm11OHIzVGkwNV92ODlOQ3VENlRjaE41bEtNSk1ScGZPU1FHQ2pUcm1kcjFBb3ZMWDRTdWJ5YjA2OFBPX2VmS0lpUlNBalY2RmRKOWd5Z1FxZHEyVUFrTTBmUnBQTXpKTlRHZFJyYXN6WXVVX2JzeW5uUGNoNDNOVlNrZ1BIcDZSUUhhZF9fU1l0cFREVVNsMWNUYjFMMFpuU3VzOHNvTjg?oc=5",
-        "summary": "OPINION. « Dans un monde sous l’influence de l’IA, il faut apprendre plus et autrement », par Flavien Reille, président de Theia La Tribune",
-        "date": "Thu, 16 Jul 2026 11:18:35 GMT",
+        "title": "Services publics – Intelligence artificielle – Déontologie - Acteurs Publics",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWW1tOWlUMDFzc0x0NF8xV0djMndSNDZMZlJQVkJNZG95ZWVoWGUtcnIxa2hnbi1nUGdJTklPektiYktBNk9BSnVxREd4RVNFVHFQZHdMTmMxUUdkeVg4YTJTSkYxcF9aWkdWclFLdF9LU095Y1Jhek9HaU0yNTFvbjlCWTk2ZjUxanBfQk04LU1NNUJW?oc=5",
+        "summary": "Services publics – Intelligence artificielle – Déontologie Acteurs Publics",
+        "date": "Fri, 17 Jul 2026 10:34:08 GMT",
         "source": "news.google.com",
-        "ts": 1784200715000
+        "ts": 1784284448000
       },
       {
-        "title": "Suno : comment le générateur de musique par IA a-t-il pillé Deezer ? - L'Éclaireur Fnac",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQblIzZ3ZQR1NJLUtELUgzelptaFNUT2xZYXZERHRBS1hVWS1YaTVZX1FBTXgzbTk0RHlEODhrUU15MXF2U0RIRk9PcVAyekhld2Vqa2hHaUlxNDliTEs2cHpfZk5pQzBqeDhjUk1ESGVuNjdtS3dSaFFJc3QzblVVV1E3Mm02R3JVTkZwNWZadTlQeThPMDVjRXFUSHZ1TXZhbHFjZXBQci01ZWNQ?oc=5",
-        "summary": "Suno : comment le générateur de musique par IA a-t-il pillé Deezer ? L'Éclaireur Fnac",
-        "date": "Thu, 16 Jul 2026 11:03:41 GMT",
+        "title": "« Face aux géants de l’IA, l’Europe ne doit pas attaquer sur le front ennemi, mais occuper les flancs qu’il néglige » - Challenges",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNY1Fha09QZ3hTUjQ3Mmk2RHcyUmo3d3B0LVN3Qnp6Y2MxQ20xemkxRVlBVTNCcjRnTUFyeVN3Mm9XaHNleUpESkJwblpKVGttNkk1bzk3LWVSRnFMRGdsMzcxX0ZKOGN5S3NWWTktV1loOHNLZmZQbDdqckltMkZkaTZvc0kwM0pVMUVGWXh1cDhRRnVrUS10LThVSXZDci0yTWlCcTZYZ0l5NFpnSjV4anhYbzl1TFJldzJlWjl2cWJtazgxdVlSdUFWaURlWnNtR2FrbEtXR2pVX0NBTUlLM21XemZfMVlZdTJhb05taWVzNDJ0MlBIYVZPZw?oc=5",
+        "summary": "« Face aux géants de l’IA, l’Europe ne doit pas attaquer sur le front ennemi, mais occuper les flancs qu’il néglige » Challenges",
+        "date": "Fri, 17 Jul 2026 10:30:00 GMT",
         "source": "news.google.com",
-        "ts": 1784199821000
+        "ts": 1784284200000
       },
       {
-        "title": "L'intelligence artificielle \"de plus en plus utilisée\" dans la santé : une menace ou un outil bientôt indispensable pour les médecins - TF1 Info",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQalVxek5EQWRLNFctdjZLZGpMc3lDUzhjWVlyUGc4aUxtbXBiTDNia2g0Wi01NDdJRlJrSmJFRlE3eGMxV2R6Yy1zenNkLThNYmhpTFFKZFEybURRbUl0R3BWaXdHY09FTUpQYkdkZ0ZscF9nV3JyX3VUX29Nd1BzRXhoWDMySGdyRWQxUmZSZkRGTFl3dm5OU2ZXVVowOUpyZHVEZnNCOHQzcFhsUHRIOVR1aFd5a0tFcmhjaDJzRnZEekRfai1tS1ZSbEhENG44akFLOEU4dVV5MnliNW5rYlNvZEh4bnRDX0liNmF0TnNmQ1hWT29aVk9OMnFMYWdR?oc=5",
-        "summary": "L'intelligence artificielle \"de plus en plus utilisée\" dans la santé : une menace ou un outil bientôt indispensable pour les médecins TF1 Info",
-        "date": "Thu, 16 Jul 2026 11:03:25 GMT",
+        "title": "Ford lance une IA pour simplifier la gestion de flotte - Le Journal de l'Automobile",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOXVmMHNqVlY3R0dqMElKR3ZQNExGazhnT0c4dDdRWExJVVN2RUFKZ1diSHFLUS1taEpVNnJoVUhDZW5QRG9naWtSUVZyN1ozRU4zV19pYjNfeHNpT0lVNzJsQWJLV20xZEpTbFgtdllBNlVlNG1udVhaN0pCMEpVSkFvSDhRdDFhTmdaN2N6TG9aRkxWQVVRNlZGZTNrZEVB?oc=5",
+        "summary": "Ford lance une IA pour simplifier la gestion de flotte Le Journal de l'Automobile",
+        "date": "Fri, 17 Jul 2026 10:28:20 GMT",
         "source": "news.google.com",
-        "ts": 1784199805000
+        "ts": 1784284100000
       },
       {
-        "title": "Face aux réactions hostiles à l’IA, les dirigeants de la tech craignent pour leur vie - l'Opinion",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbGF0M3M0RERvd3QxR2ZPMFhuWkVvSkxfYjhyNEtKc3dyWUlNLW95bVlNVk1UNTk3T0pOUmxvUjBmX05zYmd0VEtSbGlaT2NObEN5UlZxTXlYN0dzZlk4WFZkbXpFVlpGYXVhWTc3a1c1MWNZSE1LTEh3b3k2OC13Q1oxWFhBQ0doNXc2V0w5eThSMUxTUU5UUThyNENIam5VZzNmemIta3UwV3FRZWIxcW5jVldtZ1d0UFFhUG5n?oc=5",
-        "summary": "Face aux réactions hostiles à l’IA, les dirigeants de la tech craignent pour leur vie l'Opinion",
-        "date": "Thu, 16 Jul 2026 11:02:30 GMT",
+        "title": "Spacex : L'annulation d'un vol d'essai de sa méga fusée Starship arrive au pire moment pour SpaceX dont l'action plonge de 44% par rapport à son pic - BFM Bourse",
+        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOY2ZNQjBQYmlhRmRWbmN0Ym9XRk9pd05TV1BWX2pLOFFUQmlyZDAwOW9zYWh3aFJ0VWlEclhnQUVDZEFQamFfZnhaLWplUjkzeWUyVzNReHFtNTAxNy1MeDByQ3VFV2xxUXh2eFcyQWphdGpNbkwwUERIeXZwUXE0Yk51ZFhydXZFVVlsdHUyUWliUGJEUWxaRjZQeHQ3Ym1qNlNLbGFyVHluY09tODRRM3kxbWpoWUhqNkMtanNwSXBJYmhBSnk3UkJaZk5YNVJwUkZqUW16dk9IVElGZ3BJZ2NqUzl1MU1pQU52bGZVUXZBc3pqNTJOWGFDbXRJZmZWdXJXVHBVQzh0LW5mUHp1UmVsb0trNkctLXctdlI0bnhiOWgxcWEwOGdjdlFVX01zTHRHQTN6VVdJX1Vf?oc=5",
+        "summary": "Spacex : L'annulation d'un vol d'essai de sa méga fusée Starship arrive au pire moment pour SpaceX dont l'action plonge de 44% par rapport à son pic BFM Bourse",
+        "date": "Fri, 17 Jul 2026 10:24:30 GMT",
         "source": "news.google.com",
-        "ts": 1784199750000
+        "ts": 1784283870000
       },
       {
-        "title": "L'IA pourrait-elle être plus dévastatrice pour l'emploi que la Révolution industrielle ? Des prix Nobel sont inquiets ! - Journal du Geek",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSnJYNy1EZVRkQ1V0cVZ1TlhwbEhZeW9RMW5FMEhFZWx6U2NMT0c2NFptSmVDa2pTUUtPamgyN21rcGVJUklISF85dWxnZThwMmFxQ3J3Z01QMWRYRkswajIzcVdEQ1BMd1RDUzktZW9iNXg0RlQtWmp1RGpOaGRJWkVobEVGR0xnc0VLZmU5dFlBa1IxZzNzdVBHanRpX2pOQm9ST2oxN3l0SjVPTU1JTFo5VGx4aHRmeWtBaFdPdnJ3UHJ4MFgtaTZNbnhDVzBGT1oxa1c1cFpSSEdaR3NQMjY4R29LV0pVeV9F?oc=5",
-        "summary": "L'IA pourrait-elle être plus dévastatrice pour l'emploi que la Révolution industrielle ? Des prix Nobel sont inquiets ! Journal du Geek",
-        "date": "Thu, 16 Jul 2026 11:02:04 GMT",
+        "title": "Penser l’histoire et la mémoire de la Shoah à l’ère de l’intelligence artificielle - Ville de Paris",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ1FhRF9KS09uSU5KLTR4eG4xbmZERXFyeGxUWElzQ1VOUWpGQ0drb3NnNGsyTFRTUFdhdEx4Wng2X3VvMjdyQ2hVaVFXblEwUV9QMnppaXdiSko4c1phV3BHLTJWbm8tX2gyb1U5VUtianFZT0ZiX2NZWGNwZWpvTlBxYXg5YkNjYkdZLUVXWmpBM19IRW81aDBUWXF5LW1RLXN1dDhDX3g1LVd0bEF2MnR5Zkg0M2hkYmw2TjVn?oc=5",
+        "summary": "Penser l’histoire et la mémoire de la Shoah à l’ère de l’intelligence artificielle Ville de Paris",
+        "date": "Fri, 17 Jul 2026 10:21:37 GMT",
         "source": "news.google.com",
-        "ts": 1784199724000
+        "ts": 1784283697000
       },
       {
-        "title": "Face aux menaces, les dirigeants de l'IA craignent pour leur vie et investissent en masse pour se protéger - Clubic",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMThXeC1yNHZBc2h2YVFCZklIbEFoeTBYeWozdnpCT1FsRVlQYlhyemRoV21RZHJWQ2J5RXZlbEw1Q0NYbDJZX1BENmhyTVBsZFRjcWQzTk5zaU1NbmxCS1RObktFRGZjTlc0LVdqbVhXX202aDgtdUZFVFFBVFNXdkw4dnNyY1lsanNyMVhSV2pjNkFsUlppRWRzSFVnUFpaLXpoWXlUT1o2Z29uRkFMc0hhRUpVMVZmVWhkTDJKc1M3eVFzRjNUUFpNOVRtRGVHQzBfc1NuMzJSQ0JtTjZFNHZPZ0k?oc=5",
-        "summary": "Face aux menaces, les dirigeants de l'IA craignent pour leur vie et investissent en masse pour se protéger Clubic",
-        "date": "Thu, 16 Jul 2026 11:00:00 GMT",
+        "title": "Avec Build, Roblox veut permettre à n'importe qui de créer un jeu vidéo depuis son smartphone grâce à l'IA, une bonne nouvelle ou une source d’inquiétude pour l’industrie et les créateurs de jeux? - BFM",
+        "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOUFhTZXJuUi1MZmtlaGQtYmhkWUVOUFdlbFZMMlQ1OC1peFRONHpQMFpDaUtCWG1fSUdqRTQ5TlZCcE5tcGtlVkJrUEVmcXB6V29xZFhOZkEwRDNJSG9nMzAtRHRVV2F4RklKZTNhc3c4Tmp5YjdieTlORWlYSnZZbkdnVFRmQnBqOWZESW5TWjg4b2JwMzFSMjFGWEVybGE0ZEhBY0taZEgzcTd0YmpIOWU5NVhnc1BNQXF2LWNQa19Eemk2RTZaLVNsYS1NRWxrMUhsMWViNGl0Q3Qtek5IY24yQk5NMHpJZ1NHdGhLdlVtUXdpbTFHTmY3bTRFUHVDZHVZMXEwdUhEY0k2OS04cW1wQkUyMzV1SzZEMEZScC1MakVULTJ3dVhDekExZmtuWktfeUx4dy1BY2x2UTQwbi1zRXZtWHJ1Ml8xc3lWOGRVckNSRGZuU25FbEloVjgzOXJISml1WQ?oc=5",
+        "summary": "Avec Build, Roblox veut permettre à n'importe qui de créer un jeu vidéo depuis son smartphone grâce à l'IA, une bonne nouvelle ou une source d’inquiétude pour l’industrie et les créateurs de jeux? BFM",
+        "date": "Fri, 17 Jul 2026 10:14:59 GMT",
         "source": "news.google.com",
-        "ts": 1784199600000
+        "ts": 1784283299000
       }
     ]
   }
