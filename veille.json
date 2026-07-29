@@ -1,206 +1,206 @@
 {
-  "generated": "2026-07-28T12:19:48.894Z",
-  "dateLabel": "mardi 28 juillet 2026",
+  "generated": "2026-07-29T12:32:30.195Z",
+  "dateLabel": "mercredi 29 juillet 2026",
   "demo": false,
   "categories": {
     "sciences": [
       {
-        "title": "Pollution: Un opérateur pétrolier sur la sellette en RDC",
-        "url": "https://www.sciencesetavenir.fr/nature-environnement/torchagehuman-rights-watch-denonce-la-pollution-causee-par-l-exploitation-petroliere_193981?xtor=RSS-15",
-        "summary": "Les activités pétrolières de Perenco en République démocratique du Congo sont accusées d’aggraver la pollution de l’air et de menacer la santé des populations locales. Dans un rapport publié lundi 27 juillet , Human Rights Watch dénonce notamment le recours au torchage du gaz et l’incinération de d…",
-        "date": "Tue, 28 Jul 2026 12:07:53 +0000",
+        "title": "Ce que cette étude annonce pour 676 millions de personnes avec la montée des températures devrait nous alerter",
+        "url": "https://www.futura-sciences.com/planete/actualites/canicule-ce-cette-etude-annonce-676-millions-personnes-montee-temperatures-devrait-nous-alerter-136600/#xtor%3DRSS-8",
+        "summary": "Face à des vagues de chaleur plus fréquentes et plus intenses, tous les pays ne disposent pas des mêmes moyens pour protéger leur population. Selon un nouveau rapport, le réchauffement climatique pourrait provoquer environ 430 000 décès supplémentaires par an d’ici 2050. Les pays les plus...",
+        "date": "Wed, 29 Jul 2026 14:17:12 +0200",
+        "source": "futura-sciences.com",
+        "ts": 1785327432000
+      },
+      {
+        "title": "Amazon fait chuter le prix de cette tondeuse à gazon thermique même après les soldes",
+        "url": "https://www.futura-sciences.com/conso/bons-plans/guides-jardin-amazon-fait-chuter-prix-cette-tondeuse-gazon-thermique-meme-apres-soldes-10883/#xtor%3DRSS-8",
+        "summary": "La pelouse ne sait pas que les soldes sont terminées. La tondeuse thermique autotractée Hyundai HYM18150SPX reste en promotion chez Amazon à 215,99 € au lieu de 279 €. Une belle opportunité pour entretenir son jardin avec un modèle puissant, pratique et adapté aux grandes surfaces.",
+        "date": "Wed, 29 Jul 2026 14:00:13 +0200",
+        "source": "futura-sciences.com",
+        "ts": 1785326413000
+      },
+      {
+        "title": "Après les exoplanètes, découverte du premier exosatellite",
+        "url": "https://www.sciencesetavenir.fr/espace/voie-lactee/decouverte-du-premier-potentiel-exosatellite-par-le-very-large-telescope_193968?xtor=RSS-9",
+        "summary": "Une lune située en dehors du Système solaire ? Une série d'observations menées par le Very Large Telescope dévoile l'existence du tout premier exosatellite autour d'une naine brune qui elle-même orbite autour d'une naine rouge. Cette configuration particulière et les caractéristiques de l'\"exolune\"…",
+        "date": "Wed, 29 Jul 2026 11:04:20 +0000",
         "source": "sciencesetavenir.fr",
-        "ts": 1785240473000
+        "ts": 1785323060000
       },
       {
-        "title": "L'étoile supergéante Bételgeuse n'est pas si seule que cela",
-        "url": "https://www.sciencesetavenir.fr/espace/voie-lactee/des-astronomes-revelent-que-betelgeuse-n-est-pas-seule-dans-son-systeme-hote_193929?xtor=RSS-9",
-        "summary": "Bételgeuse, la supergéante rouge la plus connue des étoiles, n'est pas un astre stellaire si seul que ça après tout. Une collaboration internationale dirigée par l'Observatoire de Paris-PSL vient en effet de dévoiler les premières images de sa voisine stellaire. Une telle découverte remet en cause…",
-        "date": "Tue, 28 Jul 2026 12:01:06 +0000",
-        "source": "sciencesetavenir.fr",
-        "ts": 1785240066000
-      },
-      {
-        "title": "Incendies en Gironde et dans les Landes : tout ce que les satellites révèlent sur cinq jours de feu hors norme, décryptage complet",
-        "url": "https://www.futura-sciences.com/planete/actualites/incendie-incendies-gironde-landes-tout-ce-satellites-revelent-cinq-jours-feu-hors-norme-decryptage-complet-136581/#xtor%3DRSS-8",
-        "summary": "Depuis l’espace, l’ampleur des incendies de Gironde et des Landes devient saisissante. Fumées, foyers actifs, surfaces brûlées : les satellites offrent une lecture vertigineuse du drame.",
-        "date": "Tue, 28 Jul 2026 13:28:29 +0200",
+        "title": "« Nous sommes dans la singularité » : pourquoi cette phrase de Sam Altman secoue le monde de l’IA",
+        "url": "https://www.futura-sciences.com/tech/actualites/chatgpt-nous-sommes-singularite-cette-phrase-sam-altman-secoue-monde-ia-136595/#xtor%3DRSS-8",
+        "summary": "Pour Sam Altman, la frontière entre l’intelligence artificielle et l’intelligence humaine serait déjà en train de disparaître. Le patron d’OpenAI affirme que la singularité technologique a commencé, annonçant un tournant historique.",
+        "date": "Wed, 29 Jul 2026 12:35:29 +0200",
         "source": "futura-sciences.com",
-        "ts": 1785238109000
+        "ts": 1785321329000
       },
       {
-        "title": "Incendies et fumées : les meilleurs outils pour suivre les feux, chacun avec une fonction indispensable",
-        "url": "https://www.futura-sciences.com/planete/actualites/incendie-incendies-fumees-meilleurs-outils-suivre-feux-chacun-fonction-indispensable-136580/#xtor%3DRSS-8",
-        "summary": "Où sont localisés les incendies près de chez vous ? Combien d'hectares ont-ils brûlé ? Comment évoluent-ils ? Où se dirige la fumée des feux ? Des sites et applis permettent de répondre à toutes ces questions, découvrez notre sélection des meilleurs outils.",
-        "date": "Tue, 28 Jul 2026 13:07:55 +0200",
+        "title": "Rakuten : 61 € seulement pour relooker votre terrasse avec ces fauteuils de jardin élégants",
+        "url": "https://www.futura-sciences.com/conso/bons-plans/guides-jardin-rakuten-61-seulement-relooker-votre-terrasse-ces-fauteuils-jardin-elegants-10879/#xtor%3DRSS-8",
+        "summary": "Un coin repas extérieur mérite des assises à la hauteur. Chez Rakuten, le lot de 2 fauteuils de jardin Cordoba Phoenix passe à 61 €, avec 5 € de réduction supplémentaires grâce au code RAKUTEN5. Une belle opportunité d'équiper sa terrasse ou son jardin avec un mobilier confortable, résistant et...",
+        "date": "Wed, 29 Jul 2026 12:00:00 +0200",
         "source": "futura-sciences.com",
-        "ts": 1785236875000
+        "ts": 1785319200000
       },
       {
-        "title": "Des chercheurs créent un robot-araignée capable de retrouver et d’aider des victimes dans l’eau",
-        "url": "https://www.futura-sciences.com/tech/actualites/robotique-chercheurs-creent-robot-araignee-capable-retrouver-aider-victimes-eau-136571/#xtor%3DRSS-8",
-        "summary": "Inspiré des araignées capables de marcher sur l'eau, le QuadBoat est un robot quadrupède conçu pour localiser et secourir les personnes en détresse. Une première démonstration montre déjà son potentiel, même si plusieurs défis restent à relever.",
-        "date": "Tue, 28 Jul 2026 12:03:27 +0200",
+        "title": "Le prix du clavier Alienware AW420K chute de 20 % sur le site officiel : switches Cherry MX, format TKL et éclairage RGB au meilleur prix",
+        "url": "https://www.futura-sciences.com/conso/bons-plans/guides-peripheriques-informatiques-prix-clavier-alienware-aw420k-chute-20-site-officiel-switches-cherry-mx-format-tkl-eclairage-rgb-meilleur-prix-10866/#xtor%3DRSS-8",
+        "summary": "Doté d’interrupteurs mécaniques performants, d’une conception compacte sans pavé numérique, d’un câble amovible ou encore de touches ultra-résistantes en PBT, l’Alienware Tenkeyless AW420K en promotion sur le site officiel de DELL a tous les atouts d’un périphérique capable d’accompagner son...",
+        "date": "Wed, 29 Jul 2026 11:30:04 +0200",
         "source": "futura-sciences.com",
-        "ts": 1785233007000
-      },
-      {
-        "title": "Plus que quelques heures de soldes : -56 % sur cet aspirateur robot qui tombe à un prix presque irréel",
-        "url": "https://www.futura-sciences.com/conso/bons-plans/guides-entretien-sols-plus-quelques-heures-soldes-56-cet-aspirateur-robot-tombe-prix-presque-irreel-10871/#xtor%3DRSS-8",
-        "summary": "Plus que quelques heures avant la fin des soldes : le Roborock Saros Z70 est en promotion jusqu'à minuit chez Rakuten. Avec sa navigation intelligente, sa puissance d'aspiration de 22 000 Pa, sa fonction laveur et sa station entièrement automatisée, cet aspirateur robot assure un nettoyage...",
-        "date": "Tue, 28 Jul 2026 12:00:00 +0200",
-        "source": "futura-sciences.com",
-        "ts": 1785232800000
+        "ts": 1785317404000
       }
     ],
     "tech": [
       {
-        "title": "Aramis Biotechnologies, en collaboration avec le CIRAIG, Premier Tech et le CRIBIQ, entreprend une étude d'envergure pour évaluer le potentiel de sa plateforme de bioproduction dans les plantes pour réduire l'empreinte environnementale des technologies - Les Affaires",
-        "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPVDVGTlNvcEZueHlobmFMV2kzdzdob1MzclZxdmlHWnJTZ09oNVBCWjVEY1ZvZVZjdGVWeW13WmU1WklYNU1aSHVVUTRLQzBmRXhYMEM3S3BUc25zMTFlUHkxc2hYaFlPMEJhTXpmeVMzbzRxYlhBNTJCQjhmeEpWMHhMeUw2V0VzWjJUQW5pOGFPN1NtWUdJemRDZ3M1UGNjdzAzcXJiMmo3ZVhvZWVxdmZ2QjVMR2l5OV9Gc3ptdUQ3ZVJRVXRZdEM5NG5tWjk5MDFyYktEam93emM1SXIwaTVFNWJsMU94LU9MaHhvSndzNDgzcnZ1eEpQYjV4SXdQaWYxNEZ2bkF2Q2ZPallyN0Eta2p4OW8wWi0tSm5yMTlJaFN6Y25TVFE1a3FlZWh4dWZtWjUtVVo1ejVLN09jU0xUeDVjMGVidW8xN3lFb0NjZVVKVG5ac2M0b2wxd2F0S2w4WQ?oc=5",
-        "summary": "Aramis Biotechnologies, en collaboration avec le CIRAIG, Premier Tech et le CRIBIQ, entreprend une étude d'envergure pour évaluer le potentiel de sa plateforme de bioproduction dans les plantes pour réduire l'empreinte environnementale des technologies Les Affaires",
-        "date": "Tue, 28 Jul 2026 12:15:20 GMT",
-        "source": "news.google.com",
-        "ts": 1785240920000
-      },
-      {
-        "title": "Actualité : Leapmotor B03, la citadine électrique s’apprête à conquérir l’Europe et la Renault 5 E-Tech",
-        "url": "https://www.lesnumeriques.com/voiture-electrique/leapmotor-b03-la-citadine-electrique-s-apprete-a-conquerir-l-europe-et-la-renault-5-e-tech-n259809.html",
-        "summary": "Officialisée en Chine, la Leapmotor B03 sera la prochaine citadine électrique à petit prix commercialisée en Europe. Découvrez en détail tout ce qu’elle a dans le ventre.",
-        "date": "2026-07-28T14:10:00+02:00",
-        "source": "lesnumeriques.com",
-        "ts": 1785240600000
-      },
-      {
-        "title": "A-t-on enfin trouvé l’étoile qui accompagne la géante Bételgeuse ?",
-        "url": "https://www.numerama.com/sciences/2301389-a-t-on-enfin-trouve-letoile-qui-accompagne-la-geante-betelgeuse.html",
-        "summary": "Depuis des années, les indices s'accumulent en faveur d'un compagnon stellaire qui orbiterait autour de l'étoile Bételgeuse. Une nouvelle étude balaie toutes les incertitudes… Ou presque.",
-        "date": "Tue, 28 Jul 2026 12:00:00 +0000",
+        "title": "Éclipses de Lune et de Soleil : pourquoi il ne peut pas y en avoir plus de 7 par an",
+        "url": "https://www.numerama.com/sciences/629315-pourquoi-il-ne-peut-pas-y-avoir-plus-de-7-eclipses-par-an.html",
+        "summary": "La France va assister à une éclipse solaire mémorable le 12 août 2026. Les éclipses de Lune et de Soleil sont des événements astronomiques marquants. Au cours d'une même année, il n'est pas possible d'avoir plus de 7 éclipses. Comment l'expliquer ?",
+        "date": "Wed, 29 Jul 2026 12:30:27 +0000",
         "source": "numerama.com",
-        "ts": 1785240000000
+        "ts": 1785328227000
       },
       {
-        "title": "Un fournisseur réclame 250 000 $ par semaine à Tesla pour débloquer la production du Cybertruck",
-        "url": "https://www.numerama.com/vroom/2302963-un-fournisseur-reclame-250-000-par-semaine-a-tesla-pour-debloquer-la-production-du-cybertruck.html",
-        "summary": "Le Cybertruck est déjà un casse-tête à plus d’un titre pour Tesla. Et cela ne va pas s’arranger avec ce conflit l’opposant à un fournisseur qui a décidé de bloquer les machines fabriquant les pièces du pick-up. L'affaire se termine devant les tribunaux d'urgence.",
-        "date": "Tue, 28 Jul 2026 11:57:34 +0000",
-        "source": "numerama.com",
-        "ts": 1785239854000
-      },
-      {
-        "title": "Actualité : La machine à glace et sorbetière Ninja CREAMi Deluxe est à 189.99 € (-30 %)",
-        "url": "https://www.lesnumeriques.com/electromenager/la-machine-a-glace-et-sorbetiere-ninja-creami-deluxe-est-a-189-99-30-n259808.html",
-        "summary": "Préparer des glaces maison, des sorbets ou des milk-shakes devient plus simple avec cette machine Ninja. Son tarif actuel rend son usage quotidien nettement plus accessible, ce qui n'arrive pas si souvent.",
-        "date": "2026-07-28T13:45:00+02:00",
+        "title": "Actualité : Warhammer (Prime Video) : le créateur de Hill House à la tête de la série avec Henry Cavill ?",
+        "url": "https://www.lesnumeriques.com/cine-svod/warhammer-prime-video-le-createur-de-hill-house-a-la-tete-de-la-serie-avec-henry-cavill-n259846.html",
+        "summary": "Après Carrie, le showrunner Mike Flanagan pourrait prendre en charge le projet de série Warhammer 40,000 porté par Henry Cavill.",
+        "date": "2026-07-29T14:25:00+02:00",
         "source": "lesnumeriques.com",
-        "ts": 1785239100000
+        "ts": 1785327900000
       },
       {
-        "title": "Innovation – Le Centre d’Innovation et d’Entrepreneuriat de l’UIR obtient le label panafricain Afric’Innov - Article19.ma",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIcVFmUGxFYU45TEhzb0U4SEIwSzdGUWd5TEpEb2prcVdtWEJLUmJyV2RFU0cxLVdGNVhvUWNVck9Zb0JYY05ORFJ4LUJ0Y0N1QnBoRElwQQ?oc=5",
-        "summary": "Innovation – Le Centre d’Innovation et d’Entrepreneuriat de l’UIR obtient le label panafricain Afric’Innov Article19.ma",
-        "date": "Tue, 28 Jul 2026 11:35:41 GMT",
+        "title": "Un nouveau centre d’innovation au Centre d’entrepreneuriat - L’Hebdo du St-Maurice",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTEhTak5mc3RuSHFpOWJobkRwOERoZnYxTjZhZjU5QW9PUVZlQnRqOEFCNkQwTlFRb2swZWxJQ0FyaGJ4cktYNDNDamNPMEwtaFRKcjFtWVdIa0lmMnJjeGZqVXIyZHc5eWdzMXNmTFdvMGgzMW9FNzBUdFZWNFowWUliRDNuWHBad1hfbnByLWlIaFg1VEhIdkYwUVdIR0hPcDR2Uw?oc=5",
+        "summary": "Un nouveau centre d’innovation au Centre d’entrepreneuriat L’Hebdo du St-Maurice",
+        "date": "Wed, 29 Jul 2026 12:03:42 GMT",
         "source": "news.google.com",
-        "ts": 1785238541000
+        "ts": 1785326622000
+      },
+      {
+        "title": "Actualité : Halte aux déchets : de vieux Google Pixel transformés en centre de données",
+        "url": "https://www.lesnumeriques.com/telephone-portable/halte-aux-dechets-de-vieux-google-pixel-transformes-en-centre-de-donnees-n259847.html",
+        "summary": "Avec un seul projet, Google et des chercheurs pourraient limiter deux fléaux modernes de la tech : la pénurie de composants et les déchets électroniques.",
+        "date": "2026-07-29T13:59:00+02:00",
+        "source": "lesnumeriques.com",
+        "ts": 1785326340000
+      },
+      {
+        "title": "Piratage Hugging Face : on sait enfin comment les IA d’OpenAI se sont échappées de leur bac à sable",
+        "url": "https://www.numerama.com/cyberguerre/2303539-piratage-hugging-face-on-sait-enfin-comment-les-ia-dopenai-se-sont-echappees-de-leur-bac-a-sable.html",
+        "summary": "Le 27 juillet 2026, JFrog a levé le voile sur la vulnérabilité qui a permis à deux modèles d'OpenAI de s'extraire de leur environnement de test pour pirater Hugging Face. Une pièce manquante du puzzle, qui en soulève aussitôt d'autres.",
+        "date": "Wed, 29 Jul 2026 11:10:00 +0000",
+        "source": "numerama.com",
+        "ts": 1785323400000
+      },
+      {
+        "title": "20 Sociétés dans l\\'équipement de joint de remplissage, taille du marché, part - Spherical Insights",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdk9PVndzUkl3RU9uWDh6b2loYWNXMjcwUmY3cTUwOTRDand4UGhZNENNQVg2aDBnN0NISDFOakx5SHhGZFhqWmhKRlJWY1dPV1phbmFaMkVjQzVOSFRFaFlheFNOSktWS2N5WkpJNWt4clczd2pXR3E1RGpSMEVKcFo2aFZ4dmRUSVM1amRDR2hBLTh6b1k4Vnkya2haRk1sTGJ4VGNORmtnRVRqUzdWdF9ZY0lXYXdvN2pXNF84RUhrSkhTLTJzdkRsSlFPa1N0X29VX3NR?oc=5",
+        "summary": "20 Sociétés dans l\\'équipement de joint de remplissage, taille du marché, part Spherical Insights",
+        "date": "Wed, 29 Jul 2026 11:06:38 GMT",
+        "source": "news.google.com",
+        "ts": 1785323198000
       }
     ],
     "politique": [
       {
-        "title": "Incendie en Gironde : la ville de Lège-Cap Ferret annonce une \"importante reprise de feu\"",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendies-la-situation-reste-tres-imprevisible-en-gironde-ou-le-retour-de-la-chaleur-fait-craindre-une-nouvelle-aggravation_8124866.html#xtor=RSS-3-[lestitres]",
-        "summary": "La commune compte parmi la vingtaine de villes évacuées dans le département. L'incendie qui ravage la Gironde a déjà brûlé 42 000 hectares.",
-        "date": "Tue, 28 Jul 2026 14:02:44 +0200",
+        "title": "Cinq nouveau-nés retrouvés morts à Orange : une mère de famille et son compagnon placés en garde à vue",
+        "url": "https://www.franceinfo.fr/faits-divers/nouveau-nes-retrouves-morts-a-orange-une-mere-de-famille-placee-en-garde-a-vue_8126807.html#xtor=RSS-3-[lestitres]",
+        "summary": "Les ossements et le corps en décomposition découverts sont ceux de cinq nourrissons, selon les premières constations du médecin légiste dépêché sur place.",
+        "date": "Wed, 29 Jul 2026 14:24:11 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1785240164000
+        "ts": 1785327851000
       },
       {
-        "title": "Baïnes : le littoral aquitain en risque maximal, les préfectures recommandent de \"respecter les zones de baignade surveillée\"",
-        "url": "https://www.franceinfo.fr/faits-divers/noyades/baines-le-littoral-aquitain-en-risque-maximal-les-prefectures-recommandent-de-respecter-les-zones-de-baignade-surveillee_8125415.html#xtor=RSS-3-[lestitres]",
-        "summary": "Les quatre départements côtiers de la Nouvelle-Aquitaine sont concernés par cette alerte mardi.",
-        "date": "Tue, 28 Jul 2026 13:53:52 +0200",
+        "title": "Guerre au Moyen-Orient : les Etats-Unis ont frappé le nord-ouest de l'Iran, selon la télévision d'Etat iranienne",
+        "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-etats-unis-ont-frappe-le-nord-ouest-de-l-iran-selon-la-television-d-etat-iranienne_8127041.html#xtor=RSS-3-[lestitres]",
+        "summary": "Les frappes reprennent au Moyen-Orient après une accalmie des hostilités de plusieurs jours. Le cours du pétrole a bondi face à cette montée des tensions.",
+        "date": "Wed, 29 Jul 2026 14:23:58 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1785239632000
+        "ts": 1785327838000
       },
       {
-        "title": "Un séisme de magnitude 7,1 frappe le sud du Japon, plusieurs blessés et des personnes piégées dans un centre commercial",
-        "url": "https://www.franceinfo.fr/monde/japon/un-seisme-de-magnitude-7-1-frappe-le-sud-du-japon-une-alerte-au-tsunami-emise_8125079.html#xtor=RSS-3-[lestitres]",
-        "summary": "La secousse, qui a atteint le niveau maximum sur l'échelle d'intensité sismique du pays, s'est produite dans la préfecture de Kumamoto.",
-        "date": "Tue, 28 Jul 2026 13:51:47 +0200",
+        "title": "\"Tournant majeur\", \"ligne franchie\"... On vous explique pourquoi le projet de la Fifa de vendre des parts de la Coupe du monde fait polémique",
+        "url": "https://www.franceinfo.fr/sports/foot/on-vous-explique-pourquoi-le-projet-de-la-fifa-de-vendre-des-parts-de-la-coupe-du-monde-fait-polemique_8126741.html#xtor=RSS-3-[lestitres]",
+        "summary": "Après des révélations du média britannique The Times, la Fifa a communiqué dans la soirée, mardi, les détails d’un projet qui permettrait de vendre des parts de la Coupe du monde à des investisseurs privés, via la création d’une société dédiée.",
+        "date": "Wed, 29 Jul 2026 14:21:53 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1785239507000
+        "ts": 1785327713000
       },
       {
-        "title": "Les pompiers progressent face aux incendies en Espagne, le Premier ministre voit \"la lumière au bout du tunnel\"",
-        "url": "https://www.franceinfo.fr/monde/espagne/les-pompiers-progressent-face-aux-incendies-en-espagne-le-premier-ministre-voit-la-lumiere-au-bout-du-tunnel_8125394.html#xtor=RSS-3-[lestitres]",
-        "summary": "Les incendies en Espagne ont déjà ravagé environ 77 000 hectares et 63 000 personnes ont été évacuées. Il s'agit du feu de forêt \"le plus important\" de l'histoire récente de l'Espagne, selon le gouvernement.",
-        "date": "Tue, 28 Jul 2026 13:45:26 +0200",
+        "title": "La chroniqueuse Xenia Fedorova, accusée de relayer la propagande russe, est visée par un arrêté d'expulsion, annonce le ministère de l'Intérieur",
+        "url": "https://www.franceinfo.fr/economie/medias/la-chroniqueuse-xenia-fedorova-accusee-de-relayer-la-propagande-russe-est-visee-par-un-arrete-d-expulsion-annonce-le-ministere-de-l-interieur_8127053.html#xtor=RSS-3-[lestitres]",
+        "summary": "Le Quai d'Orsay a notamment accusé cette intervenante régulière des médias appartenant à Vincent Bolloré de reprendre \"mot pour mot les narratifs de propagande russe\".",
+        "date": "Wed, 29 Jul 2026 14:20:38 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1785239126000
+        "ts": 1785327638000
       },
       {
-        "title": "Une quinzaine d'abattoirs du groupe Bigard bloqués par des agriculteurs, mobilisés contre la baisse des prix de la viande",
-        "url": "https://www.franceinfo.fr/economie/crise/blocus-des-agriculteurs/une-quinzaine-d-abattoirs-du-groupe-bigard-bloques-par-des-agriculteurs-mobilises-contre-la-baisse-des-prix-de-la-viande_8125403.html#xtor=RSS-3-[lestitres]",
-        "summary": "Dans la Sarthe, l'action a duré jusqu'en milieu de journée, mardi. Dans l'Orne, après une discussion avec le directeur de l’abattoir, l'accès à l'usine a été débloqué dans la matinée.",
-        "date": "Tue, 28 Jul 2026 13:34:29 +0200",
+        "title": "\"Un soulagement sans en être un\" : Okaïdi sort de son redressement judiciaire, mais l'inquiétude demeure chez les salariés",
+        "url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/la-marque-de-vetements-pour-enfants-okaidi-sort-de-la-procedure-mais-l-inquietude-demeure-un-soulagement-sans-en-etre-un-3393880.html#xtor=RSS-3-[lestitres]",
+        "summary": "Après six mois de redressement judiciaire, le tribunal de commerce de Lille (Nord) a validé le plan de continuation d'Okaïdi. Si l'entreprise semble avoir sécurisé son avenir, le sentiment du côté des salariés est, quant à lui, partagé entre le soulagement et de fortes inquiétudes.",
+        "date": "Wed, 29 Jul 2026 14:15:33 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1785238469000
+        "ts": 1785327333000
       },
       {
-        "title": "Incendies en Gironde et dans les Landes : quelles sont les entreprises éligibles à l'activité partielle ?",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde-et-dans-les-landes-quelles-sont-les-entreprises-eligibles-a-l-activite-partielle_8125118.html#xtor=RSS-3-[lestitres]",
-        "summary": "Des milliers d'entreprises ont été touchées, directement ou indirectement, par les incendies en Gironde et dans les Landes. Pour y faire face, les services de l'Etat ont mis en place des dispositifs pour leur venir en aide, notamment l'activité partielle.",
-        "date": "Tue, 28 Jul 2026 13:15:44 +0200",
+        "title": "Une femme de 25 ans meurt dans un salon d'esthétique à Nice, trois personnes placées en garde à vue",
+        "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/une-femme-de-25-ans-meurt-dans-un-salon-d-esthetique-a-nice-trois-personnes-placees-en-garde-a-vue-3393874.html#xtor=RSS-3-[lestitres]",
+        "summary": "Ce lundi 27 juillet 2026, une femme âgée de 25 ans est décédée dans un salon d'esthétique situé à Nice. Trois personnes ont été interpellées et placées en garde à vue, indique le procureur Damien Martinelli. Une enquête a été ouverte.",
+        "date": "Wed, 29 Jul 2026 14:15:17 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1785237344000
+        "ts": 1785327317000
       }
     ],
     "ia": [
       {
-        "title": "Comment la révolution des agents IA peut transformer la société en profondeur - epochtimes.fr",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQamRzcmJLcktleE9JdGNSVkdnb2VVa280WE0yRW9SZTFnUnFvVWdIV2MyV3ZMQWcwSUx2LW1ybWh6alR0SVZNb0VUTldjcFJvX0NKbXE0UGJjNTN2NTA0THZPMlpRaUYwdkF4WlFKSXdwRXJ6X01UYngxcTEtMVFfMmpNenRWN0FiNnZ2SWptcTJQWTNXT2lzck9HdzZ6YnpEd1RDOE52ZUF1QXYySlR6OE9KREo?oc=5",
-        "summary": "Comment la révolution des agents IA peut transformer la société en profondeur epochtimes.fr",
-        "date": "Tue, 28 Jul 2026 12:15:25 GMT",
+        "title": "Vers une IA digne de confiance ? - Les Echos",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZWJhLUFTVjNJcl9Ra09xR1ZPX0c2N3RFVVdjLUpCWUsyLTZCanU5MS1xRmMySzRuSnZHcUpJWjNxNlZOM1gtdzRCSzR6eG9UTHNqTUJjUFBVYmtwZTlldXB3U04wQTdlNEw4UE5fVnhJNHpCWWlOZkFNZTRDbTRPeEQ4UFRLMDFReWppamYya3pZTnhiaHc?oc=5",
+        "summary": "Vers une IA digne de confiance ? Les Echos",
+        "date": "Wed, 29 Jul 2026 12:24:51 GMT",
         "source": "news.google.com",
-        "ts": 1785240925000
+        "ts": 1785327891000
       },
       {
-        "title": "Des décors créés en temps réel grâce à l’IA, la prochaine évolution des événements - evenement.com",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSENweXFGRUlhSlEzTXI2eWVNMHNHaS1zc3U3WVJqb3dzUmdTRFlYdzRWQTc5REppMV80SGhGNlhBTURLbWdteHJyendpRFR6UlROODFJQlQ2TFhqZ0JmMzN1a2xIZUlZSXJQa3JNcmRHRzJMUVczTmVoQ2UtZjdNbWxWM0ZESWItX19GRkZOM0tRWTJtQ2N4Z1M5TmczbkUwemt5YkQ1LTI4Rms2YzAzalhDem83bkFleVhSN2RuMzNrLV8xX1VqVTVQRQ?oc=5",
-        "summary": "Des décors créés en temps réel grâce à l’IA, la prochaine évolution des événements evenement.com",
-        "date": "Tue, 28 Jul 2026 12:06:36 GMT",
+        "title": "CX LA MATINALE - RelationclientMag.fr",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR0toWUhCUlJ1Rko1U3RCYTY4ZWFXTXhmemVoZF9jSldRQm9zUThlVzUxcUt4WFdHekhHUEwxQjZwb2JrdkVMdHZmMWNING9YQWZKYkJ6M2Rud3FBX1ZraHlnNHgwRi1GaU9OOWVPc3V6WUpsbUZpR3puQk9NSnMxQnpNT1pwb1dmaXZlYzkwSENJLUxJZlE?oc=5",
+        "summary": "CX LA MATINALE RelationclientMag.fr",
+        "date": "Wed, 29 Jul 2026 12:14:57 GMT",
         "source": "news.google.com",
-        "ts": 1785240396000
+        "ts": 1785327297000
       },
       {
-        "title": "Dario Amodei rejette l'interdiction générale de l'IA, souhaite des tests de sécurité. - fr.qz.com",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcENpOHl6WFdBYzhXOEYwQW4zU2tlRUlwZHF5RWZsVG91MmcydXZ0TGY0OXEweE1nalQ1NVVpWkNnS2hKWGJkb1dJanpzN1hVNGxLQ3NRZ2d1dmZucmV4Ull2eWhKNWc2cTJBUnFoelpzNkhOdk9DdlQ4TGFxeTJpZVk3NnZwUmRBRDVVbXVPMUlGWWc?oc=5",
-        "summary": "Dario Amodei rejette l'interdiction générale de l'IA, souhaite des tests de sécurité. fr.qz.com",
-        "date": "Tue, 28 Jul 2026 12:02:52 GMT",
+        "title": "OpenAI déclare qu'une IA expérimentale a piraté d'autres comptes en ligne lors d'un test de sécurité - Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQWHdDSnNabll6ZVQwendHWEhvY0dDdnhuNXliTzNZMVJCT3BoYVc3SUlsRzllaGJ1MU1HOGsxckYyTkxJbV9rQUQ1YlI1SWJYUm0xOTRJQ093Q0NXQkFMWkZLVThKMWo3SUJaeFVraTZPdzR4QmlRNmF1UnMySEY4Y2VOQnhpMXltSVJCSlk0ZzNmYWM5QVNEZkdFYlNyREVaX0x6RDhEUjlBdjkxZkREdVhTN1FjSnVxWWZWUnZ4Y2R4MUdldUpHVm5USGZXSzRTaTlidUpCcUxQRldNeVVnRF93ZTM3cVRKeXN3Q1lnTWM1SzVDcG1CZi1ZcXU3RHZUMnVuMXJDV2lidw?oc=5",
+        "summary": "OpenAI déclare qu'une IA expérimentale a piraté d'autres comptes en ligne lors d'un test de sécurité Anadolu Ajansı",
+        "date": "Wed, 29 Jul 2026 12:13:02 GMT",
         "source": "news.google.com",
-        "ts": 1785240172000
+        "ts": 1785327182000
       },
       {
-        "title": "AMD signe un accord avec Core Scientific concernant les centres de données dédiés à l'IA - Boursorama",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQ3N0SXUwN1ppTXpIdC1FUVlsNE90RjZFUTRNNnVZS2ZIajRla3lnazZUQ2M4cmRzNmJPNGlXeHJveW9OX2dEbF9NOEtYenlpSnlLQ2xoekJadVl3RjY5akNtZmZueVE4LW0ycU9xNlJHWkxkMDd3RGpLeUtjakM0V2Q2U051My1SRXByREM4SFhOLXAyc0loUkxiZWVncHFGdXlSTllJMUpzeEVncGRSOW1aaTFwVW11WUVTRmpnbGJOVWZZQUZPYVM4TFVRVkR6X0xYaHZDblZJNkhxdDdaYWIzUzVRRXcxR0xYaXpSd1dsdms2SktwOXVB0gH_AUFVX3lxTE14ejNfd0xDVnFWZHR5VjJiUDJvXzRWY29YQ2ZZcEp1dFpRd2E2WXpjUTFJOGQ2ZHZSYUYyNUh6SlBWVUlBOC1iN0tuNmZNLTc3UjJiSUJGNDgxWXhBSkZrazExWlIzeGFlWVVQZWZyanBsWWFCZ0ZpOUlmak8zclNOZ2U0UkFyUXNPQ2loeTlzYlo3azhWV0tUbDN5T1BxZ01sRHhPRmFiUDcyZFk1NkFYcV9hMXBoTlJacGxXcGx1Tlk1Ui1OQm4wWWctN2lDQjVqVzFHZ0RmTDM5dGl3dk1UeFFQZlZiZzZGVzVZZ3A0aWFPbUlDVzJ2b2FDdzh5cw?oc=5",
-        "summary": "AMD signe un accord avec Core Scientific concernant les centres de données dédiés à l'IA Boursorama",
-        "date": "Tue, 28 Jul 2026 11:55:30 GMT",
+        "title": "Deux entreprises israéliennes développent un système antidrones combinant IA et interception par filet - i24NEWS",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaHlRR2RTNFJHZU14VHdidWc3dUltQzNCRm9oSmpiQUhGb3lsWjg4b0ttQ2xObFVxZ0ZfQzZjOWtnUlNSUDZ1X3ZUZ20zU1JZQnNWLXBnMmYwekxpU0I3bUgxUXFzV2MtbU9OSjJHQVMxcS1RQ2V5ekhER0c0SzZuNXpiN3djZzlOTFQzRW1DX0F1ZnZpNXV4ZFBJS0x5bW1MQ3J2eXduRjJ3R3F2aEwwcVllR3JyTmtnNWFJMGdhVkFqTDc0VTJVdFM5R2E0WTNrdWMybExMeF80bXhObmc?oc=5",
+        "summary": "Deux entreprises israéliennes développent un système antidrones combinant IA et interception par filet i24NEWS",
+        "date": "Wed, 29 Jul 2026 12:12:00 GMT",
         "source": "news.google.com",
-        "ts": 1785239730000
+        "ts": 1785327120000
       },
       {
-        "title": "Les inquiétudes liées à l’IA pèsent sur les fabricants de puces ; UPS et Carrier en hausse - Yahoo Finance France",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQajYyNFN5V1YyQTlOc3ctQ3dST1ZNWnp0SmMyTWxlUU41Q011aEVkWVhkWnlxM1RGX0NGV2V6UHZqNldMb0RsSVBpY1p5VkpDTE9HdExOZXBuZ2UwQ1NZMTFlUjVudTZKV0cyS3FHajU1UUJzRUxDVjVkdHBGT0ZqdUpCNWc2c0VaTnVCVjFnUXZodnNfZE1PQmJB?oc=5",
-        "summary": "Les inquiétudes liées à l’IA pèsent sur les fabricants de puces ; UPS et Carrier en hausse Yahoo Finance France",
-        "date": "Tue, 28 Jul 2026 11:53:14 GMT",
+        "title": "Promesses et défis de l’intelligence artificielle pour la pratique juridique - mesinfos",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaHpVdW5nQUVKVC00aWRkM2I3bDdvYmZFcjZ0cW95VWZHUjVUWTFRU1E2OVAxMFJJRnk1MFVsRjFfUHpuWlVubFRRSjhBVGg2N2tPeFlmUGo5elNMWVJKU1pqMDU3RENkNzFyS0U2QUxDa1FpMUpYclJ3Q0w5UzktZ0lJTUlOM2R1ZWVBa1NRb3AzN0UxTi03N3JPX0xSX2FxRnkwNUJmQmw4c2xGU0ZtS0dmdlpBeU02cC1oUnduaw?oc=5",
+        "summary": "Promesses et défis de l’intelligence artificielle pour la pratique juridique mesinfos",
+        "date": "Wed, 29 Jul 2026 12:10:00 GMT",
         "source": "news.google.com",
-        "ts": 1785239594000
+        "ts": 1785327000000
       },
       {
-        "title": "Une percée chinoise dans les puces électroniques fait dévisser les Bourses japonaises et sud-coréennes - RFI",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMTM3ZmxfWjZPRjEtZFBOVmYyZ2d1SFFvaGprMFNrZUsxTEg3MHZYZ2RIVng2ajdwRGxBX0NEVUN4dHNGdHVFQVcxYjJVR3FwUjRhX21OR1NHUV9mRmVVcGdUUlpYbzVkekhOeTFLbGxjbG8wYUFhWXBCTk1hUVdvcUFxTTRfN1dTbHRCZTRhV1o1bElhd2ZZTkRmMmtSV2xldm0wVDVNTERGcXZkV3I3UTRCbEFwQVJJMzdsdVBRZVVEeHlaNlhQdWdVQ05RcG9nMmJUbnphQVRrbkRhNm9FdzVTdGpycXhTcHQ3Wkt4MmwzU05pNEROaXNmd1Y?oc=5",
-        "summary": "Une percée chinoise dans les puces électroniques fait dévisser les Bourses japonaises et sud-coréennes RFI",
-        "date": "Tue, 28 Jul 2026 11:47:45 GMT",
+        "title": "Apple Live Notes : une IA pour résumer les rendez-vous en Apple Store - BlogNT",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaHpYblJfem0tb1BuM0NtcEJsN3NuQkxHS1RiVGRhYnpySU9OQlZqTDB3bVFlNGFDa1lRVVN5b3ZtazNUX1pqc2trTHNUUHBiVV9CUlRKenNfTXUxM0RSR3d6d2NONUlhRzBxUXpsN0RJTlFVd0JPd2k3ZzlJd3V3VmFLemNnZXRxQ0E?oc=5",
+        "summary": "Apple Live Notes : une IA pour résumer les rendez-vous en Apple Store BlogNT",
+        "date": "Wed, 29 Jul 2026 11:55:06 GMT",
         "source": "news.google.com",
-        "ts": 1785239265000
+        "ts": 1785326106000
       }
     ]
   }
