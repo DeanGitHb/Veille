@@ -1,206 +1,206 @@
 {
-  "generated": "2026-08-12T06:39:54.885Z",
-  "dateLabel": "mercredi 12 août 2026",
+  "generated": "2026-08-13T06:41:34.991Z",
+  "dateLabel": "jeudi 13 août 2026",
   "demo": false,
   "categories": {
     "sciences": [
       {
-        "title": "L’IA anticipe nos comportements et devine notre personnalité",
-        "url": "https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/quand-l-intelligence-artificielle-parvient-a-predire-nos-comportements_194208?xtor=RSS-12",
-        "summary": "Une étude publiée dans iScience montre que GPT-4 peut anticiper les réponses moyennes à des questionnaires de personnalité. Une capacité qui ne relève pas d’une quelconque “lecture de l’esprit”, mais de l’exploitation de régularités statistiques.",
-        "date": "Wed, 12 Aug 2026 06:31:15 +0000",
-        "source": "sciencesetavenir.fr",
-        "ts": 1786516275000
+        "title": "Une île de glace grande comme Manhattan s’est détachée : pourquoi les scientifiques la surveillent",
+        "url": "https://www.futura-sciences.com/planete/actualites/groenland-ile-glace-grande-comme-manhattan-detachee-scientifiques-surveillent-136920/#xtor%3DRSS-8",
+        "summary": "Dans le nord-ouest du Groenland, les satellites surveillaient depuis plusieurs années une série de fractures inquiétantes. Début août, l'une d'elles a finalement cédé, donnant naissance à une immense masse de glace désormais libre de dériver dans l'Arctique.",
+        "date": "Thu, 13 Aug 2026 08:29:30 +0200",
+        "source": "futura-sciences.com",
+        "ts": 1786602570000
       },
       {
-        "title": "Miho Janvier, astrophysicienne : « L’éclipse totale de Soleil du 12 août est un moment de vérité pour notre communauté scientifique »",
-        "url": "https://www.lemonde.fr/idees/article/2026/08/12/miho-janvier-astrophysicienne-l-eclipse-totale-de-soleil-du-12-aout-est-un-moment-de-verite-pour-notre-communaute-scientifique_6744673_3232.html",
-        "summary": "Le phénomène visible notamment depuis la France est, pour les scientifiques, l’occasion de tester leur capacité à prédire l’activité du Soleil, explique la membre de la mission spatiale Solar Orbiter, dans une tribune au « Monde ».",
-        "date": "Wed, 12 Aug 2026 08:00:11 +0200",
+        "title": "Les troubles du sommeil précéderaient de plusieurs années les premiers symptômes de la maladie de Charcot",
+        "url": "https://www.futura-sciences.com/sante/actualites/cerveau-troubles-sommeil-precederaient-plusieurs-annees-premiers-symptomes-maladie-charcot-w2t8-136853/#xtor%3DRSS-8",
+        "summary": "Des chercheurs de l'Inserm viennent de faire un pas en avant dans la compréhension de la maladie de Charcot (SLA), offrant l'espoir d'une nouvelle piste thérapeutique pour ralentir sa progression. Ils ont identifié l’implication de l’hypothalamus et découvert que les altérations du sommeil...",
+        "date": "Thu, 13 Aug 2026 08:00:00 +0200",
+        "source": "futura-sciences.com",
+        "ts": 1786600800000
+      },
+      {
+        "title": "L’IA cherche désespérément de l'électricité : et si les data centers étaient alimentés par les vagues ?",
+        "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-ia-cherche-desesperement-electricite-si-data-centers-etaient-alimentes-vagues-136911/#xtor%3DRSS-8",
+        "summary": "Et si les prochains data centers étaient installés en pleine mer ? Avec Ocean-2, Panthalassa teste une plateforme capable de produire son électricité grâce aux vagues, prélude à des centres de calcul flottants. Mais, pour le moment, cette étrange sphère n’intègre pas des composants nécessaires...",
+        "date": "Thu, 13 Aug 2026 06:31:57 +0200",
+        "source": "futura-sciences.com",
+        "ts": 1786595517000
+      },
+      {
+        "title": "« Je n’en peux plus de n’être que des seins. Les yeux des autres me brûlent » : la poitrine, une histoire d’hommes, de femmes et d’époque",
+        "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/13/je-n-en-peux-plus-de-n-etre-que-des-seins-les-yeux-des-autres-me-brulent-la-poitrine-une-histoire-d-hommes-de-femmes-et-d-epoque_6745539_3451060.html",
+        "summary": "« Mes seins et moi » (4/5). Longtemps symbole de la fabrication de femmes-objets, la chirurgie plastique se féminise. #MeToo secoue la société et les attentes des patientes ont changé, redessinant la frontière entre les genres. « Le Monde » a passé plusieurs semaines dans le huis clos d’un cabinet…",
+        "date": "Thu, 13 Aug 2026 06:00:26 +0200",
         "source": "lemonde.fr",
-        "ts": 1786514411000
+        "ts": 1786593626000
       },
       {
-        "title": "« Nous ne nous attendions pas à ça » : les microplastiques pourraient être liés à trois grandes maladies chroniques",
-        "url": "https://www.futura-sciences.com/sante/actualites/maladie-nous-ne-nous-attendions-pas-ca-microplastiques-pourraient-etre-lies-trois-grandes-maladies-chroniques-w2t8-136851/#xtor%3DRSS-8",
-        "summary": "Les microplastiques. Ils sont partout. Et les scientifiques cherchent désormais à déterminer si cette omniprésence dans notre environnement pourrait nuire à notre santé. Ils rapportent aujourd’hui un lien avec plusieurs maladies chroniques comme l’hypertension, le diabète ou les accidents...",
-        "date": "Wed, 12 Aug 2026 08:00:00 +0200",
-        "source": "futura-sciences.com",
-        "ts": 1786514400000
+        "title": "Colombie : le séisme a fait 265 morts, la recherche de survivants dans une phase décisive - lecourrier.vn",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWkZZdk1yZmhiVkRsTVlKeGhtWWY4S25wZ2xZUXFYTWg4a1hjY3NPQVB4YmFiOXV6MnljTF9iaXBZa0pJR3pzem1NaVdQMXRnVlkycEdZbDJtU0pYU3V1NlpObEJ5UTJCd1NRcEc1SG9tUzZja3NSampSVFlzRWRIWXo2azVGVWNfT2dPUDN3a3hEbm1MNkZQUU91RHBDMlpYNTRqemhjRkI5NFNPaFhZSTJGd3NFMkRUdjV2bjVB?oc=5",
+        "summary": "Colombie : le séisme a fait 265 morts, la recherche de survivants dans une phase décisive lecourrier.vn",
+        "date": "Thu, 13 Aug 2026 03:52:00 GMT",
+        "source": "news.google.com",
+        "ts": 1786593120000
       },
       {
-        "title": "Le compte à rebours est lancé : vivez en direct avec Futura le spectacle de l’éclipse",
-        "url": "https://www.futura-sciences.com/sciences/actualites/eclipse-soleil-12-aout-compte-rebours-lance-vivez-direct-futura-spectacle-eclipse-136624/#xtor%3DRSS-8",
-        "summary": "Aujourd'hui, mercredi 12 août 2026, la Lune masquera le Soleil lors d’une éclipse totale visible depuis le Groenland, l’Islande et une partie de l’Espagne. En France, le phénomène sera partiel, mais malgré tout spectaculaire. Horaires, images et explications : Futura vous fait vivre l’événement...",
-        "date": "Wed, 12 Aug 2026 07:31:15 +0200",
-        "source": "futura-sciences.com",
-        "ts": 1786512675000
-      },
-      {
-        "title": "Canicule : ce 12 août, l’éclipse nous offre une parenthèse, mais de combien fera-t-elle baisser la température ?",
-        "url": "https://www.futura-sciences.com/planete/actualites/meteorologie-canicule-ce-12-aout-eclipse-nous-offre-parenthese-mais-fera-t-elle-baisser-temperature-136890/#xtor%3DRSS-8",
-        "summary": "Les conditions météo impactent directement l’observation d’une éclipse : pour avoir la chance de la voir, il faut un ciel dégagé, sinon le spectacle tombe à l’eau ! Mais une éclipse totale peut aussi avoir un impact réel sur la météo.",
-        "date": "Wed, 12 Aug 2026 06:01:23 +0200",
-        "source": "futura-sciences.com",
-        "ts": 1786507283000
-      },
-      {
-        "title": "« A 15 ans, mon corps ne me représentait plus » : ces jeunes qui veulent entreprendre une transition de genre",
-        "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/12/a-15-ans-mon-corps-ne-me-representait-plus-ces-jeunes-qui-veulent-entreprendre-une-transition-de-genre_6744602_3451060.html",
-        "summary": "« Mes seins et moi » (3/5). Les opérations de réassignation sexuelle dans le cadre de parcours de transition se multiplient. Mais cet acte de chirurgie peut diviser les médecins et leur poser un cas de conscience : abus de pouvoir ou abus de faiblesse ? « Le Monde » a passé plusieurs semaines dans…",
-        "date": "Wed, 12 Aug 2026 06:00:35 +0200",
+        "title": "« J’étais au bord des larmes » : l’éclipse solaire, un bref moment de « communion » pour des millions de curieux, en Espagne et en France",
+        "url": "https://www.lemonde.fr/sciences/article/2026/08/13/j-etais-au-bord-des-larmes-l-eclipse-solaire-un-bref-moment-de-communion-pour-des-millions-de-curieux-en-espagne-et-en-france_6745468_1650684.html",
+        "summary": "L’événement, rarissime, a rassemblé des foules d’observateurs en Europe, en début de soirée mercredi, les yeux rivés vers le ciel, pour voir la Lune recouvrir progressivement le Soleil puis le masquer pendant un peu plus d’une minute.",
+        "date": "Thu, 13 Aug 2026 05:31:43 +0200",
         "source": "lemonde.fr",
-        "ts": 1786507235000
+        "ts": 1786591903000
       }
     ],
     "tech": [
       {
-        "title": "Actualité : Bon plan – Le blender Lagrange 609010 à 79,00 € (-21%)",
-        "url": "https://www.lesnumeriques.com/blender/bon-plan-le-blender-lagrange-609010-a-79-00-21-n260308.html",
-        "summary": "Le blender Lagrange 609010 passe sous les 80 € chez Rakuten soit une baisse d'environ 21% sur le prix habituellement constaté.",
-        "date": "2026-08-12T08:30:04+02:00",
+        "title": "Actualité : La multiprise surtension 10 en 1 Ugreen profite d'une remise au panier (-21 %) chez Amazon",
+        "url": "https://www.lesnumeriques.com/electromenager/la-multiprise-surtension-10-en-1-ugreen-profite-d-une-remise-au-panier-21-chez-amazon-n260363.html",
+        "summary": "Cette multiprise Ugreen simplifie le branchement de plusieurs appareils sur un même espace de travail. Avec ses ports USB et son format compact, la promotion du moment renforce clairement son rapport équipement-prix.",
+        "date": "2026-08-13T08:30:00+02:00",
         "source": "lesnumeriques.com",
-        "ts": 1786516204000
+        "ts": 1786602600000
       },
       {
-        "title": "Poursuivre la mise en œuvre synchrone et efficace des tâches de développement scientifique et technologique, d'innovation et de transformation numérique. - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdHZncnNIOWhnaFVfZ01QQVF2dmhxc3R0YlJUOFNHT2VIYlh0aXJWZzN3ZmxBNmFTU0pxdnY5MDFqQW9lMkJBcER1VWhjSC1GTVRjOTNOcnprMHFDSWViTThyampSVzE3MTEySGZyS2tZRWprSE53bVV1SzV6N1pWdWlrOGsyWWJfbGo5SVRxSTJaMlNhODZ2MW9raHR1Z3NJM2JSVjcxcldrZlVVajRUc3R6SjFTa3BPX0VsWVpJQVJDaWFjR0Jnam1qci11Vjgz?oc=5",
-        "summary": "Poursuivre la mise en œuvre synchrone et efficace des tâches de développement scientifique et technologique, d'innovation et de transformation numérique. Vietnam.vn",
-        "date": "Wed, 12 Aug 2026 06:20:50 GMT",
-        "source": "news.google.com",
-        "ts": 1786515650000
+        "title": "Actualité : Bon plan – La barre de son Samsung HW-Q935F \"5 étoiles\" à 549,00 €",
+        "url": "https://www.lesnumeriques.com/barre-de-son/bon-plan-la-barre-de-son-samsung-hw-q935f-5-etoiles-a-549-00-n260364.html",
+        "summary": "La barre de son Samsung HW-Q935F passe sous les 550 € chez Rakuten.",
+        "date": "2026-08-13T08:11:03+02:00",
+        "source": "lesnumeriques.com",
+        "ts": 1786601463000
       },
       {
-        "title": "La toute première Nintendo Switch 2 collector risque de ravir les fans de Zelda",
-        "url": "https://www.numerama.com/pop-culture/2309903-la-toute-premiere-nintendo-switch-2-collector-risque-de-ravir-les-fans-de-zelda.html",
-        "summary": "Une fuite massivement partagée sur le web montre des photos d'une possible Nintendo Switch 2 collector. Ce serait la toute première, et elle se mettrait aux couleurs de The Legend of Zelda.",
-        "date": "Wed, 12 Aug 2026 06:15:12 +0000",
+        "title": "Le nom complet de The Elder Scrolls 6 a peut-être été trouvé",
+        "url": "https://www.numerama.com/pop-culture/2310661-le-nom-complet-de-the-elder-scrolls-6-a-peut-etre-ete-trouve.html",
+        "summary": "Des fans pensent avoir trouvé le nom complet de The Elder Scrolls 6. Le futur RPG de Bethesda pourrait s'appeler The Elder Scrolls 6: Sentinel. Le sous-titre renverrait au lieu où se déroulerait l'aventure.",
+        "date": "Thu, 13 Aug 2026 06:10:09 +0000",
         "source": "numerama.com",
-        "ts": 1786515312000
+        "ts": 1786601409000
       },
       {
-        "title": "Actualité : BYD lance sa Seal 06 version 2027 au prix de départ de 12 000 € et jusqu'à 2 300 km d'autonomie",
-        "url": "https://www.lesnumeriques.com/voiture-electrique/byd-lance-sa-seal-06-version-2027-au-prix-de-depart-de-12-000-et-jusqu-a-2-300-km-d-autonomie-n260304.html",
-        "summary": "BYD lance la Seal 06 2027 à partir de 99 900 ¥, soit environ 12 000 € au taux de change actuel. Pour ce prix, la berline électrique propose jusqu’à 2 300 km d'autonomie dans sa version hybride rechargeable et une recharge rapide en 9 minutes. Un rapport qualité-prix impossible à trouver en Europe.…",
-        "date": "2026-08-12T08:00:00+02:00",
+        "title": "Actualité : Le vidéoprojecteur Xgimi Halo+ GTV profite d'une remise de 220 €",
+        "url": "https://www.lesnumeriques.com/videoprojecteur/le-videoprojecteur-xgimi-halo-gtv-profite-d-une-remise-de-220-n260362.html",
+        "summary": "Ce vidéoprojecteur portable sert aussi bien au salon qu'au jardin, sans dépendre d'une prise. Avec Google TV et 2,5 heures d'autonomie, son tarif actuel le rend plus accessible.",
+        "date": "2026-08-13T08:01:00+02:00",
         "source": "lesnumeriques.com",
-        "ts": 1786514400000
+        "ts": 1786600860000
       },
       {
-        "title": "Actualité : Pas besoin de 100 Go ? Ce forfait RED peut suffire à beaucoup d’usages",
-        "url": "https://www.lesnumeriques.com/forfait-mobile/pas-besoin-de-100-go-ce-forfait-red-peut-suffire-a-beaucoup-d-usages-n259660.html",
-        "summary": "Avec ses 60 Go en 5G à 9,99 €/mois sans engagement, RED by SFR propose un forfait équilibré pour les utilisateurs qui veulent de la data sans exploser leur budget.",
-        "date": "2026-08-12T08:00:00+02:00",
+        "title": "Actualité : Tesla chute du podium des ventes en Chine, pourquoi c'est mauvais signe pour son futur dans l'industrie",
+        "url": "https://www.lesnumeriques.com/voiture-electrique/tesla-chute-du-podium-des-ventes-en-chine-pourquoi-c-est-mauvais-signe-pour-son-futur-dans-l-industrie-n260357.html",
+        "summary": "C'est une dégringolade brutale mais aussi symbolique pour Tesla. Le constructeur étasunien sort du top 10 des ventes de véhicules électriques en Chine, marché Ô combien important. La baisse est de 33 % sur un an.",
+        "date": "2026-08-13T08:00:00+02:00",
         "source": "lesnumeriques.com",
-        "ts": 1786514400000
+        "ts": 1786600800000
       },
       {
-        "title": "Les pratiques commerciales responsables sont liées à l'innovation et au développement durable. - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObGxjUmluaXozSndqVjkxVmNtSmRJdmNoN29MZlZkOFp3SGxDcWN6eEw3bm80UzFkeDRRaXlwWk4tUGhhWTZJb3RQYVUwZlpmbUtyejk3OWM4S2Z5M3U2MnNLdy1Yd0Rackd5Nzk5ZlNyZ0J2Tm1ENXJQMDdyMk9vWDlaZWVLbFoySGJVM0hqODhCZlJCVy1hUUN4MWVWQUZ6?oc=5",
-        "summary": "Les pratiques commerciales responsables sont liées à l'innovation et au développement durable. Vietnam.vn",
-        "date": "Wed, 12 Aug 2026 05:52:53 GMT",
-        "source": "news.google.com",
-        "ts": 1786513973000
+        "title": "Actualité : Un site à sortir avant la rentrée ? Hostinger garde un ticket d’entrée agressif",
+        "url": "https://www.lesnumeriques.com/appli-logiciel/un-site-a-sortir-avant-la-rentree-hostinger-garde-un-ticket-d-entree-agressif-n260159.html",
+        "summary": "Hostinger Business à 3,99 €/mois propose un hébergement complet avec outils IA, sites illimités, e-mails professionnels et performances optimisées pour lancer un projet web.",
+        "date": "2026-08-13T08:00:00+02:00",
+        "source": "lesnumeriques.com",
+        "ts": 1786600800000
       }
     ],
     "politique": [
       {
-        "title": "Rivières à sec, restrictions d'eau, déficit de pluie... Visualisez la sécheresse historique que traverse la France en quatre graphiques",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/rivieres-a-sec-restrictions-d-eau-deficit-de-pluie-visualisez-la-secheresse-historique-que-traverse-la-france-en-quatre-graphiques_8142944.html#xtor=RSS-3-[lestitres]",
-        "summary": "La sécheresse frappe l'Hexagone et la Corse à des niveaux exceptionnels qui rappellent l'été 2022. Sans pluie significative depuis des mois et pour faire face à des cours d'eau asséchés et des nappes phréatiques qui se vident, les autorités enchaînent les arrêtés de restriction d'usage de l'eau.",
-        "date": "Wed, 12 Aug 2026 08:34:37 +0200",
+        "title": "\"On va très certainement s'acheminer vers une année catastrophique pour les glaciers\", alerte un scientifique spécialiste de la haute montagne",
+        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/on-va-tres-certainement-s-acheminer-vers-une-annee-catastrophique-pour-les-glaciers-alerte-un-scientifique-specialiste-de-la-haute-montagne_8145722.html#xtor=RSS-3-[lestitres]",
+        "summary": "Deux refuges permettant l'ascension du mont Blanc sont fermés jusqu'à nouvel ordre en raison d'un risque élevé de chutes de pierres, accentué par la sécheresse et les vagues de chaleur.",
+        "date": "Thu, 13 Aug 2026 08:33:54 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1786516477000
+        "ts": 1786602834000
       },
       {
-        "title": "\"Ça se vend comme des petits pains\" : où peut-on encore trouver des lunettes pour regarder l'éclipse solaire ?",
-        "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/ca-se-vend-comme-des-petits-pains-ou-peut-on-encore-trouver-des-lunettes-pour-regarder-l-eclipse-solaire_8142905.html#xtor=RSS-3-[lestitres]",
-        "summary": "Alors que certains comptent les heures avant de pouvoir voir l'éclipse solaire, mercredi dans la soirée, d'autres sont toujours à la recherche de lunettes de protection avant l'événement. Mais l'indispensable outil d'observation est bien difficile à trouver, surtout à la dernière minute.",
-        "date": "Wed, 12 Aug 2026 08:34:00 +0200",
+        "title": "\"C'était quand même impressionnant !\" : à La Corogne, une éclipse solaire totale un peu gâchée par les nuages pour des milliers de spectateurs",
+        "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/reportage-c-etait-quand-meme-impressionnant-a-la-corogne-une-eclipse-solaire-un-peu-gachee-par-les-nuages-pour-des-milliers-de-spectateurs_8144789.html#xtor=RSS-3-[lestitres]",
+        "summary": "Environ 125 000 personnes se sont réunies mercredi soir sur la plage de la ville du nord-ouest de l'Espagne, selon la mairie. Le jour a laissé place à la nuit pendant une minute et 17 secondes, mais une couverture nuageuse a en partie caché le spectacle tant attendu.",
+        "date": "Thu, 13 Aug 2026 08:30:48 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1786516440000
+        "ts": 1786602648000
       },
       {
-        "title": "Oiseaux qui cessent de chanter, températures qui chutent… Que se passe-t-il dans la nature durant une éclipse solaire totale ?",
-        "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/oiseaux-qui-cessent-de-chanter-temperatures-qui-chutent-que-se-passe-t-il-dans-la-nature-durant-une-eclipse-solaire-totale_8135903.html#xtor=RSS-3-[lestitres]",
-        "summary": "Mercredi, la bande de totalité de l'éclipse va passer par l'Atlantique Nord, l'Islande et le nord de l'Espagne avant de s'achever sur les Baléares. Dans cette zone, de curieux phénomènes devraient se produire durant quelques minutes.",
-        "date": "Wed, 12 Aug 2026 08:33:26 +0200",
+        "title": "\"Je me suis sentie un peu hors du temps\" : à Biarritz, l'éclipse solaire enchante les spectateurs",
+        "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/je-me-suis-sentie-un-peu-hors-du-temps-a-biarritz-l-eclipse-solaire-enchante-les-spectateurs_8145611.html#xtor=RSS-3-[lestitres]",
+        "summary": "L'éclipse était quasiment totale dans les Pyrénées-Atlantiques, ce qui a eu son petit effet sur les spectateurs venus la contempler. Certains parlent même de communion.",
+        "date": "Thu, 13 Aug 2026 08:26:42 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1786516406000
+        "ts": 1786602402000
       },
       {
-        "title": "Suivez avec nous l'éclipse solaire partielle, la première aussi visible dans l'Hexagone depuis 1999",
-        "url": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/direct-suivez-avec-nous-l-eclipse-solaire-partielle-la-premiere-aussi-visible-dans-l-hexagone-depuis-1999_8144207.html#xtor=RSS-3-[lestitres]",
-        "summary": "Tous les yeux sont rivés vers l'ouest mercredi, pour observer l'éclipse partielle qui s'annonce remarquable depuis l'Hexagone, avec un taux d'occultation du Soleil par la Lune allant jusqu'à 99% dans le Sud-Ouest. L'événement va débuter autour de 19h10, mais cet horaire est variable en fonction de…",
-        "date": "Wed, 12 Aug 2026 08:27:40 +0200",
+        "title": "L'administration Trump annule un rapport sur l'Arctique, une nouvelle attaque à la science du climat aux Etats-Unis",
+        "url": "https://www.franceinfo.fr/monde/usa/l-administration-trump-annule-un-rapport-sur-l-arctique-une-nouvelle-attaque-a-la-science-du-climat-aux-etats-unis_8145713.html#xtor=RSS-3-[lestitres]",
+        "summary": "Ce rapport de référence était publié chaque année depuis 2006. Le dernier en date, publié fin 2025, informait que l'Arctique avait vécu son année la plus chaude jamais enregistrée.",
+        "date": "Thu, 13 Aug 2026 08:24:36 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1786516060000
+        "ts": 1786602276000
       },
       {
-        "title": "Au moins 11 jeunes Français sont détenus en Thaïlande pour trafic de cannabis depuis le début de l'été",
-        "url": "https://www.franceinfo.fr/societe/drogue/au-moins-11-jeunes-francais-sont-detenus-en-thailande-pour-trafic-de-cannabis-depuis-le-debut-de-l-ete_8143367.html#xtor=RSS-3-[lestitres]",
-        "summary": "Le Parquet national anti-criminalité organisée enquête sur ces \"plans Thaïlande\", le recrutement de jeunes sur les réseaux par les narcotrafiquants en échange de vacances gratuites.",
-        "date": "Wed, 12 Aug 2026 08:07:07 +0200",
+        "title": "Deux-Sèvres : trois morts dans un incendie parti d'un champ",
+        "url": "https://www.franceinfo.fr/faits-divers/deux-sevres-trois-morts-dans-un-incendie-parti-d-un-champ_8145719.html#xtor=RSS-3-[lestitres]",
+        "summary": "un incendie tragique a emporté une famille entière dans le village de Lhoumois (Deux-Sèvres). Alors que 20 hectares sont partis en fumée sous l'effet de la canicule, le mystère demeure sur l'origine des flammes qui ont piégé trois victimes dans leur maison.",
+        "date": "Thu, 13 Aug 2026 08:18:52 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1786514827000
+        "ts": 1786601932000
       },
       {
-        "title": "EN DIRECT, guerre en Ukraine : la Russie affirme avoir intercepté 502 drones ukrainiens dans la nuit de mardi à mercredi",
-        "url": "https://www.lemonde.fr/international/live/2026/08/12/en-direct-guerre-en-ukraine-la-russie-affirme-avoir-intercepte-502-drones-ukrainiens-dans-la-nuit-de-mardi-a-mercredi_6741928_3210.html",
-        "summary": "Le ministère de la défense russe a précisé que ces attaques avaient visé les oblasts de Belgorod, Briansk, Kalouga, Koursk, Lipetsk, Oriol, Krasnodar, la Crimée et la mer Noire. Le gouverneur de la région de Krasnodar a fait état de deux morts et de douze blessés après une attaque ukrainienne noctu…",
-        "date": "Wed, 12 Aug 2026 07:44:20 +0200",
-        "source": "lemonde.fr",
-        "ts": 1786513460000
+        "title": "\"La seule reconnaissance qu'on a, ce sont les médailles à titre posthume de nos collègues décédés\", dénoncent les syndicats de pompiers qui appellent à la grève",
+        "url": "https://www.franceinfo.fr/societe/mobilisation-des-pompiers/la-seule-reconnaissance-qu-on-a-ce-sont-les-medailles-a-titre-posthume-de-nos-collegues-decedes-denoncent-les-syndicats-de-pompiers-qui-appellent-a-la-greve_8145692.html#xtor=RSS-3-[lestitres]",
+        "summary": "L'intersyndicale dénonce un sous-effectif chronique dans les casernes et un manque de moyens matériels et financiers. Les syndicats attendent des réponses immédiates de l'État.",
+        "date": "Thu, 13 Aug 2026 08:12:00 +0200",
+        "source": "francetvinfo.fr",
+        "ts": 1786601520000
       }
     ],
     "ia": [
       {
-        "title": "« L'IA ne menace pas notre système énergétique, elle le reconfigure… mais au bénéfice de qui ? » - Les Echos",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTlJlOHJ4RmNmUFp2bl9sd1ozYWhvaG5yNGhXODlDUUgxWEN3VkRYSWdBM3VKYVNXWC1WUERQZnFlOW1ybUxkbjVQaURETlRidTdrem5zeW83VHI3YWRNcTIxMVBXZFR4UVZQcHladGlfb2R5aDdnRE5JQzVmZHNFNHVkRXdETFg5SDJVclpONGFuLTBMU3ptcGRENXVIcTBYNnRGWEdKa1R5OFFpQWpxTmlORG9EMzVOVVdKZ0thY2tQQW9XUi02RmM2Y241T2ZobF9obWxn?oc=5",
-        "summary": "« L'IA ne menace pas notre système énergétique, elle le reconfigure… mais au bénéfice de qui ? » Les Echos",
-        "date": "Wed, 12 Aug 2026 06:15:08 GMT",
+        "title": "Artmarket.com : 2T2026 en hausse, de la transition progressive à la mutation « AI-FIRST » d'Artprice - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNjVwdjg2SnBYM3N4VTk3TFVVUjE4TnpUajdGclpDSG83MVdGX2F2V01qUzZRNkJIcmhiRnVmRDVrS2JTRVJMeHNoUGVsSTh3ZDdOMzlyMXRHTGZlTWREaXpSc1VGMldBSHJxOTE3X2taaFJoYjFRUmFGWnl2bS12LUJqekNsMlk4OUNFMTBscnRnNFB3UVNDQzNHNFRSZDNmUDVOX0Y3WDNPMWRNekhRMy05NE9mcU13bjZrYXhHSVVBekNIeHVuZS1iSm5QdEp1Sjg0T2VQTHVQa1QwbGJheV9LeTI?oc=5",
+        "summary": "Artmarket.com : 2T2026 en hausse, de la transition progressive à la mutation « AI-FIRST » d'Artprice PR Newswire",
+        "date": "Thu, 13 Aug 2026 06:15:00 GMT",
         "source": "news.google.com",
-        "ts": 1786515308000
+        "ts": 1786601700000
       },
       {
-        "title": "En finir avec l’illusion de la souveraineté en matière d’IA - ITforBusiness.fr",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRUFPVDE0T0lQejVfSDRBc0p3Rlk2Z25SMjVJTE90dWRxZkhHMXFlSUxZSGVXZHRabk1ULUFicGVFWlhmSFVidExpQ0FhRXJhMW9jVkg4WEppZVlnQTdZNmxna3lhVjNaRmVzckNZZkdQNmVMaGFRb3BXZlViRFpOeS1sM3lyeWRqNDJyclV1RDJVNkJTTW1iLQ?oc=5",
-        "summary": "En finir avec l’illusion de la souveraineté en matière d’IA ITforBusiness.fr",
-        "date": "Wed, 12 Aug 2026 06:00:08 GMT",
+        "title": "Téléphone robot avec caméra à nacelle stabilisée par intelligence artificielle pour les déplacements autonomes - Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQmdBZV9TdU5XN2k0OTdLRERUMUN6WGtVQldXRTVXZ1dYZTQ1cXkxVElETlV4aXduaVpiMmoxTVdTaXJiVHkzLTllZ0pjdFNxNU9NN3MteWJBVl9KZzAzc05FN3NvOExubm9UYnhzQ3B5LVgzTnBDY2F6SGtjYXJRT2ZVeEI?oc=5",
+        "summary": "Téléphone robot avec caméra à nacelle stabilisée par intelligence artificielle pour les déplacements autonomes Vietnam.vn",
+        "date": "Thu, 13 Aug 2026 06:11:30 GMT",
         "source": "news.google.com",
-        "ts": 1786514408000
+        "ts": 1786601490000
       },
       {
-        "title": "Frontier Tower, ce point de ralliement libertarien des technophiles de San Francisco - La Tribune",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMWk0cUtzU3VVRFhfRTBaTW1tYVYwVTFIWEtTaGZtbHNtWTJJTjkxdE5JelpLdDM4T0F3SVUtbzRYQUFnTGF0UHItakNsUWUxOHp5cjIwWnU2N2NySFVNR09WTDdfMWNJRnJOTTZFc3NXcEF6YnNuR211THZwTmdLRHRkSUVXeHBzY1VZTW1Yd3NNSDBfOFQtemFVN3g1c2xlclltRlQ0bWNGR2JpVmV3T0VwdDBDdmVkT2pLYmhrZXZQYnZFS3l2V3hPQ0xZWnFHbUlSU3liV0pOWWl4ZmFuQjdLemtIRTBtUzYxUlJQNENRX1Jr?oc=5",
-        "summary": "Frontier Tower, ce point de ralliement libertarien des technophiles de San Francisco La Tribune",
-        "date": "Wed, 12 Aug 2026 06:00:01 GMT",
+        "title": "Anthropic : une acquisition à 6 milliards de dollars ? - Boursier.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU1JQN0RldW8tTzBlSTZkSzhoa1Y0ZE1WWTVUNnhDdTBQQTRGc0cyOUl2dzFuZ01MYllITG1pV3I2b21zOEZKUXU3czBrelphYjNHem9KNnhfNHhSZXJSUkdQVWIxU0xjMjNmdThjZ2lsSS1reTFtQzUxeVBrM05yNXl4d1BTaVRIUjNsbzVsWHlVR09OTXdSd0ZWMV9NTHVrUlM2UExiczlfdzAwV25Yeg?oc=5",
+        "summary": "Anthropic : une acquisition à 6 milliards de dollars ? Boursier.com",
+        "date": "Thu, 13 Aug 2026 06:09:00 GMT",
         "source": "news.google.com",
-        "ts": 1786514401000
+        "ts": 1786601340000
       },
       {
-        "title": "Le tout premier Forum international WAN-IFRA sur l'intelligence artificielle (IA) se tiendra au Vietnam. - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkdGQ2ZnVEtfSE9nNFNnZ3Z3bzhhRU5MSXp1TXlVOW9XQjRYY0JBR2V6d0JvTklPY0YzYThfNVRIYTZzaVRUR1NOT1Zpd2hsUmpXQzkwdmcyc0MwZWVGWDRNWllIRmdfMnVLX0FGcHJjTjZON19fSlotWXA5VXJ5UW9Md09WRmt2SXQ0X1RYVExMc3lTNldVUklQZ2VUMUVJeXgxWEdIM18?oc=5",
-        "summary": "Le tout premier Forum international WAN-IFRA sur l'intelligence artificielle (IA) se tiendra au Vietnam. Vietnam.vn",
-        "date": "Wed, 12 Aug 2026 05:52:53 GMT",
+        "title": "Votre identité vaut de l'or, et l'IA vient de la mettre en vente sur Le Bon Coin - Korben",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qTUtwQ0hnMUltNkRqQUl4Wm83bUh6ZkdacHVkZjNEYkIwMHJEMExjd0dSdGo5SXlzbDl2T0prR2pZNG8ta2F1d0VTN3UwZmItVEtPQlNsYVdHcHpVczBaRg?oc=5",
+        "summary": "Votre identité vaut de l'or, et l'IA vient de la mettre en vente sur Le Bon Coin Korben",
+        "date": "Thu, 13 Aug 2026 06:03:25 GMT",
         "source": "news.google.com",
-        "ts": 1786513973000
+        "ts": 1786601005000
       },
       {
-        "title": "ANALYSE – Data centers : La guerre intérieure qui peut faire perdre aux États-Unis la course à l’IA face à la Chine - lediplomate.media",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLV8xOU1HdTQ0M0hUdlpJc0FaZXFtNHd4UUdDbnQ3UUlIdWlvUW13R29XMWFuRWEzME04TjY3Y01xeHJVSW1pc3ByRXFfRGQzMXg0Q0kyc2RNZHNwMVU3eXFmY19VWi1VaXNIYXZOWHBNazEycGdNZGk5Um9HSHk1UHp2ejNuclhjZ3pEcnc1ckZXM25FaXdCckhvZldBTTYybC05UXl5SnpvZ2pl?oc=5",
-        "summary": "ANALYSE – Data centers : La guerre intérieure qui peut faire perdre aux États-Unis la course à l’IA face à la Chine lediplomate.media",
-        "date": "Wed, 12 Aug 2026 05:43:32 GMT",
+        "title": "« Je me sens vraiment responsable » : qui sont les experts qui perfectionnent ChatGPT et ses rivaux ? - latribune.fr",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ2tIZzBNT2w3ZUZ1VlBPRUNkQnE0R2hUZ241bzZwZ0QtX1MwMFZfaDdoY3dTdDBLYkVUcWpzZkdjVkFDNlVVMmpPdHp5SEdZMHFyeUhoZkVDekRXWGg5WlFYV3dwWm1TYkFoZGNtUkpYX1o5RFhTU0ZYNDVvUG12OGp0Y0JORmFUTzZLNzZxYWRqNHo0LURoSmRKTTdZUmo1OThoeWZfOHRoVHBOTXJiVzM0b1pJT01VdVdTWEVJSEdJb1B3SWJVYW5JNnJzNGhCRTN6eEFyd1diaHJNU1dN?oc=5",
+        "summary": "« Je me sens vraiment responsable » : qui sont les experts qui perfectionnent ChatGPT et ses rivaux ? latribune.fr",
+        "date": "Thu, 13 Aug 2026 06:00:02 GMT",
         "source": "news.google.com",
-        "ts": 1786513412000
+        "ts": 1786600802000
       },
       {
-        "title": "IA : Pékin fait plier Meta, la start-up Manus reste dans l'orbite chinoise - Les Echos",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY1ZnTjBXX0hKUUVIVVBsTUhDZ1BnUWRjeW5DMG5SMFRMbzVMSTQyVW1waDNqZFVEbzNtSUdER2tYVFV6cDVMZzBtZGlpcUlRTklnTTBwUVhTRGVLQ1lQNzdPTldJeXhhUldjWUtFRmNZZmFfWTFRdGptSm1XMVdhdy1peTd5RVZTUVRCRk16ZGozQURmbTYyZjVpUk92cTFrMzF1bzl4VUhkOTIzV25yQllReW1JMDJnTk41Sm9fNGg?oc=5",
-        "summary": "IA : Pékin fait plier Meta, la start-up Manus reste dans l'orbite chinoise Les Echos",
-        "date": "Wed, 12 Aug 2026 05:40:41 GMT",
+        "title": "IA : Pourquoi le véritable danger n’est pas celui que vous croyez - graphseobourse.fr",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNWtldWN0ZmFhNFAtOG9PZzhkbWFZakN2QlJfeDIxUEpXTDBuYkVPYXIxT3I5YmVTU0FNdlhrdFdvV1E2cWFuQjBvYnc3SHBaZ0FsV3UzYzlwLU9RdXlBRjA3eENwRFlLNENVR21xOXZBU01GQkIyZWJ2RTZPQ2w5WllON0I1U0VMNEZfV0xWUmQ5Wm8?oc=5",
+        "summary": "IA : Pourquoi le véritable danger n’est pas celui que vous croyez graphseobourse.fr",
+        "date": "Thu, 13 Aug 2026 05:52:00 GMT",
         "source": "news.google.com",
-        "ts": 1786513241000
+        "ts": 1786600320000
       }
     ]
   }
