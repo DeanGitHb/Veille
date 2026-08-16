@@ -1,206 +1,206 @@
 {
-  "generated": "2026-08-15T05:36:51.821Z",
-  "dateLabel": "samedi 15 août 2026",
+  "generated": "2026-08-16T05:38:59.489Z",
+  "dateLabel": "dimanche 16 août 2026",
   "demo": false,
   "categories": {
     "sciences": [
       {
-        "title": "À Rotterdam, ce bâtiment vivant veut faire entrer la nature au cœur de la ville",
-        "url": "https://www.futura-sciences.com/maison/actualites/architecture-rotterdam-ce-batiment-vivant-veut-faire-entrer-nature-coeur-ville-136999/#xtor%3DRSS-8",
-        "summary": "Le 21 juillet dernier, le studio d’architecture MVRDV a remporté le concours organisé par la Fondation Shift pour imaginer la première « Shift Embassy », nommée « Rotterdam ROCKS! ». L’objectif de cette œuvre architecturale ? Contribuer positivement au changement social en facilitant l’accès aux...",
-        "date": "Sat, 15 Aug 2026 06:32:32 +0200",
+        "title": "Une promenade hors du temps : en Chine, ce musée qui se fond dans la nature nous fait traverser l’histoire de la Terre",
+        "url": "https://www.futura-sciences.com/maison/actualites/architecture-promenade-hors-temps-chine-ce-musee-fond-nature-nous-fait-traverser-histoire-terre-136753/#xtor%3DRSS-8",
+        "summary": "À Shenzhen, un nouveau bâtiment vient de sortir de terre. Pourtant, il semblerait avoir toujours été là tant il se fond dans le paysage chinois. Le 28 juillet dernier, le muséum d’Histoire naturelle a accueilli ses premiers visiteurs, il compte parmi les plus vastes nouveaux musées d’Histoire...",
+        "date": "Sun, 16 Aug 2026 06:29:25 +0200",
         "source": "futura-sciences.com",
-        "ts": 1786768352000
+        "ts": 1786854565000
       },
       {
-        "title": "Un plongeur italien découvre des centaines d’amphores antique en Sicile",
-        "url": "https://www.lemonde.fr/videos/video/2026/08/15/un-plongeur-italien-decouvre-des-centaines-d-amphores-antiques-en-sicile_6746505_1669088.html",
-        "summary": "Cette trouvaille est déjà considérée par les autorités italiennes comme « l’une des découvertes archéologiques sous-marines les plus importantes de ces dernières années ». Le plongeur Giacomo De Mola a raconté au « Monde » ce qu’il a vécu.",
-        "date": "Sat, 15 Aug 2026 06:00:48 +0200",
-        "source": "lemonde.fr",
-        "ts": 1786766448000
-      },
-      {
-        "title": "25 ans, une bascule : ce que nous confions à ChatGPT endort doucement notre bon sens",
-        "url": "https://www.futura-sciences.com/tech/actualites/chatgpt-25-ans-bascule-ce-nous-confions-chatgpt-endort-doucement-notre-bon-sens-136679/#xtor%3DRSS-8",
-        "summary": "Pour fêter les 25 ans de Futura, chaque journaliste partage les images et évènements qui les ont le plus marqués au cours de ces décennies. En moins de quatre ans depuis la sortie de ChatGPT, le monde a beaucoup changé. Depuis, tout tourne autour de l’intelligence artificielle, pour le meilleur...",
-        "date": "Fri, 14 Aug 2026 20:56:29 +0200",
+        "title": "Alerte sous la douche : ce que votre shampoing cache vraiment sous l’étiquette",
+        "url": "https://www.futura-sciences.com/planete/actualites/pollution-alerte-sous-douche-ce-votre-shampoing-cache-vraiment-sous-etiquette-136972/#xtor%3DRSS-8",
+        "summary": "Vous pensez tout savoir sur votre gel douche en décortiquant son étiquette ? Erreur. Des scientifiques nous apprennent que nos produits d’hygiène du quotidien cachent un nombre hallucinant de substances non déclarées.",
+        "date": "Sat, 15 Aug 2026 21:02:49 +0200",
         "source": "futura-sciences.com",
-        "ts": 1786733789000
+        "ts": 1786820569000
       },
       {
-        "title": "ARCHÉOLOGIE : Les usagers du train peuvent découvrir l'exposition «Gares aux Gaulois» - Infos Dijon",
-        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxORlA1cmFUQkxvcVlnZHNqX29OZUMycjVZNHo0NHRZaGVUWGpDMHNqZFVrQVJxU3JyTGw3eWMtMld6VUFwV0pUMk9mVmpqSkNyZGY0RkY1R09nakRfb3h5TTZpeDJ2WllER0s5ZlNBTld6LWx5RWw2LUVzcGFxZUQ0TzMteV9jQnJKZThtQ05XeGx4OU9ZZEhlNUJ6LWxzUTl5N3ZmWVN3Z0p3WHVUQUhIRU9tWG5xb1NxallYQy1lZVlQS1U5QV9HQ2w0ZXRxNEpHVktHZ2pGc3ZQQlo4bmgtOWdrVjJ5UVRkcmhTSHJwZl9VTUFhMU5lSHpWcTU2ZDlYQVNweWJyWXg2bGZScGRocTdmbjhUWTBwOFE?oc=5",
-        "summary": "ARCHÉOLOGIE : Les usagers du train peuvent découvrir l'exposition «Gares aux Gaulois» Infos Dijon",
-        "date": "Fri, 14 Aug 2026 18:18:00 GMT",
-        "source": "news.google.com",
-        "ts": 1786731480000
-      },
-      {
-        "title": "Ce géant de roche fonce vers nous : en frôlant la Terre en 2029, c'est pourtant lui qui va se faire secouer",
-        "url": "https://www.futura-sciences.com/sciences/actualites/asteroide-ce-geant-roche-fonce-vers-nous-frolant-terre-2029-cest-pourtant-lui-va-faire-secouer-136949/#xtor%3DRSS-8",
-        "summary": "En 2029, un astéroïde doit s'approcher de la Terre, mais s'il ne présente aucun risque pour nous, l'inverse n'est pas forcément sûr. Les scientifiques craignent que ce passage ne lui soit fatal.",
-        "date": "Fri, 14 Aug 2026 20:01:35 +0200",
+        "title": "Patient bizarre : il saigne du front sans aucune plaie, les médecins expliquent ce phénomène rarissime",
+        "url": "https://www.futura-sciences.com/sante/actualites/maladie-patient-bizarre-il-saigne-front-aucune-plaie-medecins-expliquent-ce-phenomene-rarissime-136988/#xtor%3DRSS-8",
+        "summary": "Sur X, un médecin a raconté une anecdote étonnante d’un patient qui s’est mis à saigner abondamment du front alors qu’il n’avait aucune blessure. Une grave crise de panique aurait déclenché ce symptôme.",
+        "date": "Sat, 15 Aug 2026 20:01:42 +0200",
         "source": "futura-sciences.com",
-        "ts": 1786730495000
+        "ts": 1786816902000
       },
       {
-        "title": "Éclipse solaire totale en Espagne : les observations de deux astronomes",
-        "url": "https://www.sciencesetavenir.fr/espace/systeme-solaire/eclipse-du-12-aout-2026-ce-qu-il-faut-retenir-de-ce-phenomene-historique-en-europe_194246?xtor=RSS-9",
-        "summary": "Vingt-sept ans après la dernière éclipse solaire totale visible en Europe continentale, celle du 12 août 2026 a offert aux astronomes une occasion rare d’étudier la couronne solaire. Depuis l’Espagne, Alain Doressoundiram et Federico Landini racontent à Sciences et Avenir leurs observations.",
-        "date": "Fri, 14 Aug 2026 17:02:37 +0000",
-        "source": "sciencesetavenir.fr",
-        "ts": 1786726957000
+        "title": "Se marier avec une IA n’est plus un film : ce risque pour votre vie privée et votre portefeuille",
+        "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-marier-ia-nest-plus-film-ce-risque-votre-vie-privee-votre-portefeuille-136965/#xtor%3DRSS-8",
+        "summary": "Et si l’intelligence artificielle devenait un partenaire de vie au point de pouvoir se marier avec elle ? Une chercheuse de Harvard s’est penchée sur cette possibilité à l’heure où les IA pourraient, dans un futur hypothétique, dépasser l’intelligence humaine. Mais cette union soulèverait des...",
+        "date": "Sat, 15 Aug 2026 18:29:43 +0200",
+        "source": "futura-sciences.com",
+        "ts": 1786811383000
+      },
+      {
+        "title": "Oubliez le débat entre graisses et glucides : cette étude révèle le vrai secret pour protéger votre cœur",
+        "url": "https://www.futura-sciences.com/sante/actualites/regime-alimentaire-oubliez-debat-graisses-glucides-cette-etude-revele-vrai-secret-proteger-votre-coeur-k2m6-136901/#xtor%3DRSS-8",
+        "summary": "Pauvre en glucides ou pauvre en graisses : le débat occupe la nutrition depuis des décennies. Une étude suivant près de 200 000 personnes pendant trente ans suggère qu'il passe à côté de l'essentiel. Deux régimes affichant la même composition en nutriments peuvent produire des effets opposés sur...",
+        "date": "Sat, 15 Aug 2026 18:00:00 +0200",
+        "source": "futura-sciences.com",
+        "ts": 1786809600000
+      },
+      {
+        "title": "Titan ne fera aucun cadeau : ce test extrême prépare Dragonfly à l’épreuve qui l’attend",
+        "url": "https://www.futura-sciences.com/sciences/actualites/astronomie-titan-ne-fera-aucun-cadeau-ce-test-extreme-prepare-dragonfly-epreuve-attend-135002/#xtor%3DRSS-8",
+        "summary": "Alors qu'elle doit partir en 2028 pour explorer Titan, la sonde spatiale Dragonfly en est encore aux phases de test. Dernier palier en date : la vérification de son bouclier thermique, ce qui a nécessité de le faire chauffer à plus de 2 000 degrés.",
+        "date": "Sat, 15 Aug 2026 17:00:00 +0200",
+        "source": "futura-sciences.com",
+        "ts": 1786806000000
       }
     ],
     "tech": [
       {
-        "title": "Pas de taxe au kilomètre pour les VE, 20 km en plus pour la R5, Porsche forme une alliance avec Xpeng : le récap’ Vroom de la semaine",
-        "url": "https://www.numerama.com/vroom/2312127-pas-de-taxe-au-kilometre-pour-les-ve-20-km-en-plus-pour-la-r5-porsche-forme-une-alliance-avec-xpeng-le-recap-vroom-de-la-semaine.html",
-        "summary": "À la une sur Vroom cette semaine : Un rapport officiel déconseille la taxe au kilomètre, la R5 gagne quelques kilomètres d'autonomie en plus et Porsche quitte le pool CO₂ de Volkswagen pour s'associer à Xpeng.",
-        "date": "Sat, 15 Aug 2026 05:28:00 +0000",
+        "title": "Les plus belles photos de l’éclipse, date de la prochaine éclipse et le boss de la NASA qui flingue 20 ans de dérive – le récap’ sciences",
+        "url": "https://www.numerama.com/sciences/2312139-les-plus-belles-photos-de-leclipse-date-de-la-prochaine-eclipse-et-le-boss-de-la-nasa-qui-flingue-20-ans-de-derive-le-recap-sciences.html",
+        "summary": "Bien que la semaine scientifique sur Numerama a été écrasée par l'actualité autour de l'éclipse solaire du 12 août 2026. Mais en y regardant de plus près, il n'y avait pas que ça.",
+        "date": "Sun, 16 Aug 2026 05:30:00 +0000",
         "source": "numerama.com",
-        "ts": 1786771680000
+        "ts": 1786858200000
       },
       {
-        "title": "Actualité : Voici le meilleur appareil photo instantané à prix abordable de notre comparatif",
-        "url": "https://www.lesnumeriques.com/appareil-photo-instantane/voici-le-meilleur-appareil-photo-instantane-a-prix-abordable-de-notre-comparatif-n260450.html",
-        "summary": "L'appareil photo instantané Fujifilm instax mini 12 s'affiche aujourd'hui à 79,97 € chez Amazon et Boulanger.com. C'est actuellement le meilleur appareil photo instantané à prix abordable de notre comparatif, selon les 24 modèles testés dans notre laboratoire.",
-        "date": "2026-08-15T07:16:35+02:00",
+        "title": "Actualité : Pour une bonne perceuse visseuse à prix abordable, privilégiez...",
+        "url": "https://www.lesnumeriques.com/perceuse-visseuse/pour-une-bonne-perceuse-visseuse-a-prix-abordable-privilegiez-n260470.html",
+        "summary": "La perceuse visseuse Bosch Professional GSR 12V-15 FC s'affiche aujourd'hui à 261,94 € chez Amazon. Celle-ci est actuellement la meilleure perceuse visseuse à prix abordable de notre comparatif, selon les 5 modèles testés dans notre laboratoire.",
+        "date": "2026-08-16T07:07:36+02:00",
         "source": "lesnumeriques.com",
-        "ts": 1786770995000
+        "ts": 1786856856000
       },
       {
-        "title": "Actualité : Canicule : la chaleur se prolonge ce week-end, mais une partie de la France pourra enfin respirer",
-        "url": "https://www.lesnumeriques.com/societe-numerique/canicule-la-chaleur-se-prolonge-ce-week-end-mais-une-partie-de-la-france-pourra-enfin-respirer-n260448.html",
-        "summary": "La canicule se prolonge ce week-end du 15 au 16 août. Ce sont 83 départements qui restent en vigilance orange. Rappelons qu'il s'agit du cinquième épisode caniculaire de l'année 2026 en France. Les maximales grimperont jusqu'à 39 degrés sur la moitié est du pays.",
-        "date": "2026-08-15T07:15:00+02:00",
-        "source": "lesnumeriques.com",
-        "ts": 1786770900000
-      },
-      {
-        "title": "Actualité : J’ai testé cet étrange gadget qui analyse mon sommeil… sans que je n'aie rien à porter au lit",
-        "url": "https://www.lesnumeriques.com/divers-sante/j-ai-teste-cet-etrange-gadget-qui-analyse-mon-sommeil-sans-que-je-n-aie-rien-a-porter-au-lit-n260208.html",
-        "summary": "J’ai testé pendant un mois le Sleepal, une lampe de chevet capable d’analyser votre sommeil sans montre, bague ou bracelet connecté. Précision, richesse des données, confort d’utilisation : voici ce que vaut cet étonnant assistant nocturne.",
-        "date": "2026-08-15T07:00:00+02:00",
-        "source": "lesnumeriques.com",
-        "ts": 1786770000000
-      },
-      {
-        "title": "Créer des liens pour faire passer l'innovation vietnamo-japonaise du laboratoire au marché. - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY0sxcVVlYjV5NlNFSUcyS2c5NV9hLUtDRkVxeFB6MjljdWJlUjZzeFMtdHAtYmZqRmcxUzE4YTB5X2JnSHQtdkhmNWhHcW54b1FCTUVjeGZQWEszSGJuZVBhREZQOVVMZEhMNjAtY2FNeGtCNmNEQ2t3dURUaFRsWENJRFZYSjVxZHE3Sjd6VlAzZGxxS1hVbUZUZG5uQQ?oc=5",
-        "summary": "Créer des liens pour faire passer l'innovation vietnamo-japonaise du laboratoire au marché. Vietnam.vn",
-        "date": "Sat, 15 Aug 2026 04:07:41 GMT",
+        "title": "Hô Chi Minh-Ville accélère sa transformation numérique au niveau local - lecourrier.vn",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT3FpbTZ3QVhQZ2EteEJraS1jMGs4THF3Yk55OTl1Qk44MmRIS2QtSWs2TlhFaXloelZ3R21icFRhLVBhRjA4eXRKcUl0a2xRQjVDZEJLSThVM3F3cDhBX0tkeHE0ZlJtZHczRnBReDFEa0xBYkRBT0dxS0tKSmJBd3NzRkw0ZlFPd092QXluN1ZIbnpObk1lVDVrRmVNQkEtUVF2eWJzNDM?oc=5",
+        "summary": "Hô Chi Minh-Ville accélère sa transformation numérique au niveau local lecourrier.vn",
+        "date": "Sun, 16 Aug 2026 05:05:00 GMT",
         "source": "news.google.com",
-        "ts": 1786766861000
+        "ts": 1786856700000
       },
       {
-        "title": "Actualité : Bon plan – Le chargeur Anker Zolo 140 W \"5 étoiles\" à 69,99 € (-22%)",
-        "url": "https://www.lesnumeriques.com/chargeur/bon-plan-le-chargeur-anker-zolo-140-w-5-etoiles-a-69-99-22-n260446.html",
-        "summary": "Le chargeur Anker Zolo 140 W passe sous les 70 € chez Amazon Marketplace soit une baisse d'environ 22% sur le prix habituellement constaté. C'est actuellement le meilleur produit de notre comparatif.",
-        "date": "2026-08-15T03:43:02+02:00",
+        "title": "Actualité : Pixel 11 : pourquoi Google me donne presque envie de garder mon ancien Pixel",
+        "url": "https://www.lesnumeriques.com/telephone-portable/pixel-11-pourquoi-google-me-donne-presque-envie-de-garder-mon-ancien-pixel-n260393.html",
+        "summary": "La conférence Made by Google 2026 s'achève sur un léger parfum de réchauffé. Entre hausses des prix, fonctions gadgets et incohérences de gamme, ce nouveau lancement de smartphones m'a un peu laissé de marbre.",
+        "date": "2026-08-16T07:00:00+02:00",
         "source": "lesnumeriques.com",
-        "ts": 1786758182000
+        "ts": 1786856400000
+      },
+      {
+        "title": "Actualité : Snapdragon C : la future puce low cost de Qualcomm aura (peut-être) du mal à se mesurer au MacBook Neo",
+        "url": "https://www.lesnumeriques.com/cpu-processeur/snapdragon-c-la-future-puce-low-cost-de-qualcomm-aura-peut-etre-du-mal-a-se-mesurer-au-macbook-neo-n260441.html",
+        "summary": "Qualcomm a fait un bref détail technique de son nouveau processeur Snapdragon C, destiné à alimenter le marché des PC portables entrée de gamme. Attendu au tournant après la secousse MacBook Neo, la puce pourrait avoir du mal à tenir la comparaison.",
+        "date": "2026-08-16T07:00:00+02:00",
+        "source": "lesnumeriques.com",
+        "ts": 1786856400000
+      },
+      {
+        "title": "Actualité : Top produit – La machine à café automatique avec broyeur Delonghi Magnifica Evo Next à 497,99 €",
+        "url": "https://www.lesnumeriques.com/machine-a-cafe-automatique/top-produit-la-machine-a-cafe-automatique-avec-broyeur-delonghi-magnifica-evo-next-a-497-99-n260469.html",
+        "summary": "La machine à café automatique avec broyeur Delonghi Magnifica Evo Next s'affiche aujourd'hui à 497,99 € chez Fnac.com marketplace. C'est actuellement l'un des meilleurs produit de notre comparatif.",
+        "date": "2026-08-16T05:29:02+02:00",
+        "source": "lesnumeriques.com",
+        "ts": 1786850942000
       }
     ],
     "politique": [
       {
-        "title": "Canicule : 64 départements maintenus en vigilance orange, une baisse des chaleurs attendue dimanche",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-64-departements-maintenus-en-vigilance-orange-une-baisse-des-chaleurs-attendue-dimanche_8148410.html#xtor=RSS-3-[lestitres]",
-        "summary": "La baisse des températures amorcée depuis le pic de jeudi-vendredi devrait cependant s'accompagner d'orages dans le sud-ouest de la France.",
-        "date": "Sat, 15 Aug 2026 07:27:10 +0200",
+        "title": "Canicule : seuls le sud-est et une partie de l'est de la France restent en vigilance orange, 28 départements concernés",
+        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-seuls-le-sud-est-et-une-partie-de-l-est-de-la-france-restent-en-vigilance-orange-28-departements-concernes_8149508.html#xtor=RSS-3-[lestitres]",
+        "summary": "Lundi, Météo-France maintient la vigilance orange canicule pour 16 départements.",
+        "date": "Sun, 16 Aug 2026 07:31:11 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1786771630000
+        "ts": 1786858271000
       },
       {
-        "title": "\"Ce courrier, c'est dur\" : les policiers attendent que Laurent Nuñez prenne leur défense après la note de Gérald Darmanin sur les violences sexuelles sur mineurs",
-        "url": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/ce-courrier-c-est-dur-les-policiers-attendent-que-laurent-nunez-prenne-leur-defense-apres-la-note-de-gerald-darmanin-sur-les-violences-sexuelles-sur-mineurs_8147579.html#xtor=RSS-3-[lestitres]",
-        "summary": "Le ministre de l'Intérieur a annoncé jeudi qu'il allait \"répondre point par point\" à la note accablante adressée par le garde des Sceaux sur le traitement des violences sexuelles sur mineurs par les policiers et les gendarmes.",
-        "date": "Sat, 15 Aug 2026 07:01:56 +0200",
+        "title": "Quelles sont les limites de notre corps face aux fortes chaleurs prolongées ?",
+        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/quelles-sont-les-limites-de-notre-corps-face-aux-fortes-chaleurs-prolongees_8138318.html#xtor=RSS-3-[lestitres]",
+        "summary": "Notre corps met en place plusieurs mécanismes pour maintenir sa température autour de 37°C. Mais lorsque les fortes températures persistent, ces défenses peuvent atteindre leur point de rupture et faire encourir de sérieux risques à notre santé.",
+        "date": "Sun, 16 Aug 2026 07:10:22 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1786770116000
+        "ts": 1786857022000
       },
       {
-        "title": "Un voyage gratuit pour transporter de la drogue... On vous explique pourquoi le \"plan Thaïlande\" est surtout \"un bon plan pour aller en prison\"",
-        "url": "https://www.franceinfo.fr/societe/drogue/un-voyage-gratuit-pour-transporter-de-la-drogue-on-vous-explique-pourquoi-le-plan-thailande-est-surtout-un-bon-plan-pour-aller-en-prison_8147252.html#xtor=RSS-3-[lestitres]",
-        "summary": "Une dizaine de jeunes Français sont détenus en Asie depuis le début de l'été après avoir été arrêtés dans des aéroports avec plusieurs kilos de cannabis dans leurs bagages.",
-        "date": "Sat, 15 Aug 2026 07:01:13 +0200",
+        "title": "\"La peopolisation ne fabrique pas de la légitimité\" : faire la couverture de \"Paris-Match\" est-il une opération payante pour les politiques ?",
+        "url": "https://www.franceinfo.fr/politique/emmanuel-macron/la-peopolisation-ne-fabrique-pas-de-la-legitimite-faire-la-couverture-de-paris-match-est-il-une-operation-payante-pour-les-politiques_8147498.html#xtor=RSS-3-[lestitres]",
+        "summary": "La dernière une de l'hebdomadaire, qui met en scène Emmanuel Macron et Raphaël Glusckmann durant leurs vacances respectives, a suscité de multiples réactions et controverses. A l'approche de la présidentielle, ces apparitions ont-elles un effet positif sur l'image des responsables politiques ?",
+        "date": "Sun, 16 Aug 2026 07:09:49 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1786770073000
+        "ts": 1786856989000
       },
       {
-        "title": "\"On ne va pas embêter quelqu'un pour trois géraniums\" : en Côte-d'Or, les agents de l'OFB font respecter les restrictions d'eau avec pédagogie",
-        "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/reportage-on-ne-va-pas-embeter-quelqu-un-pour-trois-geraniums-en-cote-d-or-les-agents-de-l-ofb-font-respecter-les-restrictions-d-eau-avec-pedagogie_8146079.html#xtor=RSS-3-[lestitres]",
-        "summary": "Franceinfo a suivi une équipe de l'Office français de la biodiversité au cours d'une mission de police dans le secteur de Beaune, alors que l'arrosage et le nettoyage sont interdits dans la plupart des communes du département.",
-        "date": "Sat, 15 Aug 2026 07:00:21 +0200",
+        "title": "\"En couple, j'avais tendance à me sacrifier pour l'autre\" : célibataires, ils racontent pourquoi ils ont arrêté de chercher l'amour",
+        "url": "https://www.franceinfo.fr/societe/temoignages-en-couple-j-avais-tendance-a-me-sacrifier-pour-l-autre-celibataires-ils-racontent-pourquoi-ils-ont-arrete-de-chercher-l-amour_8143337.html#xtor=RSS-3-[lestitres]",
+        "summary": "Plus d'un adulte sur cinq vivait seul en France en 2023. Un choix loin d'être toujours subi. Succession de rendez-vous amoureux décevants, ancienne relation toxique, envie de mieux se connaître seul... Des célibataires se confient sur leur choix de vie.",
+        "date": "Sun, 16 Aug 2026 07:09:09 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1786770021000
+        "ts": 1786856949000
       },
       {
-        "title": "A Chypre ou Malte, des start-up très discrètes se disputent le filon des services d’IA érotiques",
-        "url": "https://www.lemonde.fr/pixels/article/2026/08/15/a-chypre-ou-malte-des-start-up-tres-discretes-se-disputent-le-filon-des-services-d-ia-erotiques_6746578_4408996.html",
-        "summary": "Difficile de savoir qui se cache derrière ces entreprises aux statuts opaques, qui modèrent peu leurs contenus et entraînent leurs IA sur des données à la légalité douteuse.",
-        "date": "Sat, 15 Aug 2026 07:00:11 +0200",
+        "title": "Fortes pluies et coupures de courant : l’ouragan Lala menace Hawaï",
+        "url": "https://www.lemonde.fr/planete/article/2026/08/16/fortes-pluies-et-coupures-de-courant-l-ouragan-lala-menace-hawai_6747129_3244.html",
+        "summary": "Plus de 40 000 foyers sont déjà privés d’électricité, et les autorités appellent à la vigilance face à des risques de crues soudaines. Lala pourrait déverser de 25 à 50 centimètres de pluie sur la Grande Île, avec des cumuls dépassant 60 centimètres.",
+        "date": "Sun, 16 Aug 2026 06:11:41 +0200",
         "source": "lemonde.fr",
-        "ts": 1786770011000
+        "ts": 1786853501000
       },
       {
-        "title": "Face aux ingérences étrangères, que proposent les partis politiques, à huit mois de l'élection présidentielle ?",
-        "url": "https://www.franceinfo.fr/politique/ingerence/face-aux-ingerences-etrangeres-que-proposent-les-partis-politiques-a-huit-mois-de-l-election-presidentielle_8145860.html#xtor=RSS-3-[lestitres]",
-        "summary": "Alors que plusieurs candidats ont déjà été ciblés par des campagnes de désinformation attribuées à la Russie, les formations politiques avancent des réponses différentes, de la régulation des réseaux sociaux au renforcement des dispositifs existants.",
-        "date": "Sat, 15 Aug 2026 06:59:34 +0200",
-        "source": "francetvinfo.fr",
-        "ts": 1786769974000
+        "title": "En Sierra Leone, la cohabitation exemplaire des chrétiens et des musulmans, loin des tensions confessionnelles des pays de la région",
+        "url": "https://www.lemonde.fr/le-monde-des-religions/article/2026/08/16/en-sierra-leone-la-cohabitation-exemplaire-des-chretiens-et-des-musulmans-loin-des-tensions-confessionnelles-des-pays-de-la-region_6747124_6038514.html",
+        "summary": "Contrairement au Mali, au Niger, au Burkina Faso ou au Nigeria, minés par les divisions religieuses, l’ancienne colonie britannique voit sa population vivre sereinement sa foi. Chaque famille ou presque est interconfessionnelle, et les leaders religieux n’ont de cesse de promouvoir la cohésion nati…",
+        "date": "Sun, 16 Aug 2026 06:00:33 +0200",
+        "source": "lemonde.fr",
+        "ts": 1786852833000
       }
     ],
     "ia": [
       {
-        "title": "\"Elles changent ma vie\" : les lunettes \"intelligentes\" gagnent du terrain - lecourrier.vn",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd1gwVHdTbTMyeDROUmJfS3hSLXVPNk8zdlZvYVBfb0VmUF9STl9xeXZjbm1WRmVUZldPRjJsQjVnUDRJeEJ3eHd0QjI2NEdVenFzc2pBdHE3dVRZdnRyX3haOWNqeHh6NHdSaXFIdjVhNEE5STBDenpvZ2FzZjU3QXZZWWg5QmFZX3lIT3RwOEhnSjIwQm02bU1UNmo4SklmS2tNZg?oc=5",
-        "summary": "\"Elles changent ma vie\" : les lunettes \"intelligentes\" gagnent du terrain lecourrier.vn",
-        "date": "Sat, 15 Aug 2026 04:12:00 GMT",
+        "title": "Anthropic découvre un trou de 11 mois dans la sécurité de ses IA - Clubic",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS19JTVR1TDduVG1oQ1hiQzZqT2d1a2hhYmJaV3k5ZzJVYUpnNndEVXRnQl9QQ0d3M1ZIdTBvVXZFZV8ySl9kREpjaVM2UnNqXzhISmRYcFo4SXNwRlZseVI2OEhyLTNmR21DaWF2RVdsYUotTVFpbzZuRFhGNWxiMlptdzN1NGdmeFd0SkZZVTJ2c2JVaTY2amw3RnRaSFJsMkJ4eDBrUTBaVFNzSWc?oc=5",
+        "summary": "Anthropic découvre un trou de 11 mois dans la sécurité de ses IA Clubic",
+        "date": "Sun, 16 Aug 2026 05:33:00 GMT",
         "source": "news.google.com",
-        "ts": 1786767120000
+        "ts": 1786858380000
       },
       {
-        "title": "« Je cherchais une manière de réduire ma consommation de vidéos porno » : le succès grandissant des services d’IA érotiques - lemonde.fr",
-        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxObW85QVo3eEFUQWJlNkpJVDJKajRHQkxtY1FNYUQxb1Q4ajBVY2U2ZFF5SUFPSlNXUlF1TlNTZHNFeWRLYkpmU2lsS2JrNWR3S0djSDFISHRvYnFRNEhUeWZlSlZCRXNhZnRKRkxPUDZYRHpycFZtWEpHcGRhRzZTNTlvUk9HWnhwR2NpNDJHZU1iVkZXdUhQZlN0WThWeElZbUZqTnZSQlRINDNmX3ZsSnJuMGZEZlk4OU1sdGhFVzBzTHpFanBpX3VSQk1lbldNbGJQV2w4ZmxnTDJIWjAyM1NEeEpQa2RzcjlIRW11bWQ1UHZRczZhVTZkRVd0dXd3Q0VXdzYyVnJzZjc0aG5tYlVuQm9CQQ?oc=5",
-        "summary": "« Je cherchais une manière de réduire ma consommation de vidéos porno » : le succès grandissant des services d’IA érotiques lemonde.fr",
-        "date": "Sat, 15 Aug 2026 04:00:29 GMT",
+        "title": "Ils veulent fabriquer un soleil miniature: de Sam Altman à Jeff Bezos, pourquoi les géants de l'IA investissent des milliards dans la fusion nucléaire (alors qu'il n'existe pas une seule centrale fonctionnelle) - bfmtv.com",
+        "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQSjRDYUtVcVQ0X2hWd2oxTVJCTEVtRUo3UUtjd09NbUNyN3B5YUduMUNUYTJFZHNydmt3XzRqVkNBa29rTWdwTDlhbWVoaHhjcWdlQV9xdkNlczlIN1Z6V2MtdmNfVzAzTkRCV2ZKOUhFWG9QU2ZLTE1vMENvMTVaV2hmcFlELVlBa1JTai0tNE5DNlAwYTF2RktPZEo3R2tLa3ExTTNRRnlER3p6SzVGTGdmbDVwTmtUMkloaVlGRi1NMHFndnpsWm1LNDZmMF9CSDhaS01lZ2RGTE1wRUgtNzlZVGppUDQxNWlZeDFTMDhneEpSRmNsLWFqV2xtcnZ1dnNKUk5EM1V6aXo1QnliNEhCNWpfcWNkY210QVgxeWtrYTB4aWNUSEJzYU9XNUxYdGNsWTdBaXNtendYZDZnU3ViMzA1TFlxYVJYZlVsZF9rNXo2dURhMDUzcTVmOGRwYVd0SFdGT3NfQ1Q3N2RhRVZvVFBndWFPRkdtaFJMc09VS3FWMDRqamZoNVRwbmc?oc=5",
+        "summary": "Ils veulent fabriquer un soleil miniature: de Sam Altman à Jeff Bezos, pourquoi les géants de l'IA investissent des milliards dans la fusion nucléaire (alors qu'il n'existe pas une seule centrale fonctionnelle) bfmtv.com",
+        "date": "Sun, 16 Aug 2026 04:59:00 GMT",
         "source": "news.google.com",
-        "ts": 1786766429000
+        "ts": 1786856340000
       },
       {
-        "title": "Google déploie son intelligence artificielle Gemini auprès des lycéens. - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ25vVXJvRERIQUdsMzM3dEZBZktWVnhvZEhkelU3cmppNklLYkRhY2NRSVV3MENFTVNOOGhJVVctOVQ2SFlCZ1FxblZ1bnlwVHZjR3UxWjYyS1VXOGphVktnN3FUVjVwRmtCN05SbVU0djdzWnljdS1WMmI2N0l5clpuaURhZ3QwTjZHVVdSbzdDdUtV?oc=5",
-        "summary": "Google déploie son intelligence artificielle Gemini auprès des lycéens. Vietnam.vn",
-        "date": "Sat, 15 Aug 2026 03:33:23 GMT",
+        "title": "La course à l'intelligence artificielle s'étend désormais au marché du crédit. - Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS3FyOC1aU2diSDZUWDg1dXk3NzZIcy12X3d2Y1I2LUFOMXU2a3dyVUxSNHdNemI3eWdFTjRFdEZNbmdKOE50N1lzelFSeXE1SEJ0U2NKRVc0UmxvRXZPMDJRZ2hQV2x6RElodldTcTJnZ3VZMFVubS1aQjhoWnh4SzN0X2pNOVdfT09HcQ?oc=5",
+        "summary": "La course à l'intelligence artificielle s'étend désormais au marché du crédit. Vietnam.vn",
+        "date": "Sun, 16 Aug 2026 04:56:38 GMT",
         "source": "news.google.com",
-        "ts": 1786764803000
+        "ts": 1786856198000
       },
       {
-        "title": "Qui gouvernera la nouvelle infrastructure cognitive de l’humanité ? - Pressenza - International Press Agency",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMVZDVmw3NEZ3cDlrRHc4YnVFR1ZLVDBsZGdNYUdiWXA5LUdONGJCVTZKVmEySWtBcHZPSjVhYzJhaW1kYzFoVUF4QzJrYXdQNWlOQzczQU9YeGQzcm5DMEhxR1NreW85NkRqQlZuTHJoWGR1Y0M4T01JM0IxemdyWnJtaXRCb2dCMmdqdnlEWk5qYkNzTjk4bmxIc2FoU19kc0laMA?oc=5",
-        "summary": "Qui gouvernera la nouvelle infrastructure cognitive de l’humanité ? Pressenza - International Press Agency",
-        "date": "Sat, 15 Aug 2026 00:56:00 GMT",
+        "title": "Ce nouveau métier sans diplôme dédié rapporte 150 000 euros par an grâce à l'IA - journaldunet.com",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53blpmazdoU1dnUzNpeFFSaFlUSlpIZlNxcmE2b05XWDBVRkR4WmNtd0prUlFfaFgzUkR6Zk9VOWZyTlFlalBzMWlvYkpIUHZFOXBQT01NMnBNSklPZWlGb2ZwcHZmcDR1LXp4Slg2ckdHaWozWGExRGFwMA?oc=5",
+        "summary": "Ce nouveau métier sans diplôme dédié rapporte 150 000 euros par an grâce à l'IA journaldunet.com",
+        "date": "Sun, 16 Aug 2026 04:55:00 GMT",
         "source": "news.google.com",
-        "ts": 1786755360000
+        "ts": 1786856100000
       },
       {
-        "title": "IA en entreprise : attention aux coûts cachés du fait-maison - Presse Agence",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSUpHazE1cjVHM0pkcHlVaG1CQXZLT3l3TzFqOFdHMjI3SE0zX3Y4WXp3TmFKX1VQRl9yUXBUWndzY3Nla0UyMGtjS3pTRzFWQ19SNk0ydml6b1pjMURKWGppQkRqazlxcFh5M3loVlRNOUZ6WkZ0WlJVMGRuNjVMRzJ6cmVDTEFmTHhTZ0doV2lkanJUQ1U0YnptNmV1X0EzZWJnd3dLYXpzYVNEVVp6RU85MGZGU3B0MmtZ?oc=5",
-        "summary": "IA en entreprise : attention aux coûts cachés du fait-maison Presse Agence",
-        "date": "Sat, 15 Aug 2026 00:00:00 GMT",
+        "title": "SpaceX peut-il s’imposer à la Frontière de l’IA ? - Investing.com France",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZEVQaTdrMkw2aDlnY2tOV1BtekU1ZDhzcU9VX0RNcVNDQTBnYUstbC1mRDhYLU1zdURneDRCbkN5RGhjcEdSMHFwd1hUVUpFNE5tZ0FCeTBmMzhrZVRLaWgzNXhZdkgzQVFQdml5SVp4VWxUMG9CamVBMFE1ZDdSX0YyRFFobEh3djRQTlZRWFJTNk1PakZSUHRJRUhkSUdoRGxF?oc=5",
+        "summary": "SpaceX peut-il s’imposer à la Frontière de l’IA ? Investing.com France",
+        "date": "Sun, 16 Aug 2026 04:11:00 GMT",
         "source": "news.google.com",
-        "ts": 1786752000000
+        "ts": 1786853460000
       },
       {
-        "title": "PARIS : Intelligence artificielle – De l’image fixe à la vidéo transformable, une nouvelle chaîne de production visuelle - Presse Agence",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd2Jud1NBcVBya0JnaWN3WGtyVDQ0M0lPUTZWRTVVbFlteEF0YVotQ0RzTG54dVpWOHNYb0J5ZTd2eDVEODlYQXR0ZTc1ZGl0dnFXaDEtZmp1ZGU1MlpRbkMzaHRYQWxfd3E5ckFkc0tqM3Z6WjB3UGdpX3k4U29ZcUhSOTRlV0N0MFZKVjBVLWt5QTQ1dnNINGlrU2xwS1JqbXV1bk95cUVjTU03dmJhb21MUEVhYWI2LUFmSUVsbWhJaExSVXdwdWZrOW1KM2pBQ3NXcG5R?oc=5",
-        "summary": "PARIS : Intelligence artificielle – De l’image fixe à la vidéo transformable, une nouvelle chaîne de production visuelle Presse Agence",
-        "date": "Sat, 15 Aug 2026 00:00:00 GMT",
+        "title": "Tarare : il crée une intelligence artificielle pour aider sa fille handicapée - mesinfos",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWElUX0pfSDBPU2luWFY0TlRTQ2tFS2ZiSDB2dVZJX1VTYVZzSVY4cTRaQy1PQlRTeTFEUlBKM3hmaVZtbkpUY2p2akxyVUN2NHZEMEJvdFVLLU5MdHBfdG40OWtrNEY5Nmd0RklIakliNkZlRzBqRFN3cUhvUEw1SEQyd0xMczFmektraEU5RFk3N1lCWUthOVFKOG85YnZ6TGFSdjRHeDNySGd5LVNXeV9qUFJXcnZkdFhBUg?oc=5",
+        "summary": "Tarare : il crée une intelligence artificielle pour aider sa fille handicapée mesinfos",
+        "date": "Sun, 16 Aug 2026 04:00:00 GMT",
         "source": "news.google.com",
-        "ts": 1786752000000
+        "ts": 1786852800000
       }
     ]
   }
