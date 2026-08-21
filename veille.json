@@ -1,206 +1,206 @@
 {
-  "generated": "2026-08-20T05:42:54.582Z",
-  "dateLabel": "jeudi 20 août 2026",
+  "generated": "2026-08-21T05:46:01.787Z",
+  "dateLabel": "vendredi 21 août 2026",
   "demo": false,
   "categories": {
     "sciences": [
       {
-        "title": "La NASA annonce l’échec de sa périlleuse mission de sauvetage du télescope scientifique Swift",
-        "url": "https://www.lemonde.fr/sciences/article/2026/08/20/la-nasa-annonce-l-echec-de-sa-perilleuse-mission-de-sauvetage-du-telescope-scientifique-swift_6750137_1650684.html",
-        "summary": "Un robot spatial devait rejoindre le télescope vieillissant, s’y agripper puis relever son orbite afin de prolonger sa mission scientifique. Faute d’une intervention réussie, Swift poursuivra sa lente descente avant de se désintégrer dans l’atmosphère terrestre.",
-        "date": "Thu, 20 Aug 2026 00:52:43 +0200",
-        "source": "lemonde.fr",
-        "ts": 1787179963000
-      },
-      {
-        "title": "Un été au Groenland : je voulais découvrir une île isolée, j’ai trouvé le monde entier à ses portes",
-        "url": "https://www.futura-sciences.com/sciences/actualites/series-ete-ete-groenland-je-voulais-decouvrir-ile-isolee-jai-trouve-monde-entier-portes-136902/#xtor%3DRSS-8",
-        "summary": "Le Groenland suscite les convoitises, les tensions, mais aussi, l’admiration. À première vue, cette île glacée du pôle nord semble sans aucun intérêt et pourtant tout le monde veut s’en emparer : les grands dirigeants de la Planète, les scientifiques et, plus récemment, les touristes du monde...",
-        "date": "Wed, 19 Aug 2026 20:08:33 +0200",
+        "title": "Des chercheurs ont créé un cœur robotique capable d’imiter une insuffisance cardiaque, pour mieux soigner la nôtre",
+        "url": "https://www.futura-sciences.com/sante/actualites/maladies-cardiovasculaires-chercheurs-ont-cree-coeur-robotique-capable-imiter-insuffisance-cardiaque-mieux-soigner-notre-137136/#xtor%3DRSS-8",
+        "summary": "Des chercheurs de l’UNSW Sydney (Université de Nouvelle-Galles du Sud) ont mis au point un cœur robotique mou, entièrement synthétique et programmable, qui reproduit fidèlement la structure interne et les mouvements de torsion du ventricule gauche humain, celui qui propulse le sang oxygéné dans...",
+        "date": "Fri, 21 Aug 2026 06:08:14 +0200",
         "source": "futura-sciences.com",
-        "ts": 1787162913000
+        "ts": 1787285294000
       },
       {
-        "title": "« Je suis en train de scier la branche sur laquelle je suis assis » : ces travailleurs qui filment leurs gestes pour entraîner les IA en Inde",
-        "url": "https://www.lemonde.fr/pixels/article/2026/08/19/en-inde-le-paradoxe-des-travailleurs-qui-filment-leurs-gestes-du-quotidien-pour-entrainer-les-ia-je-suis-en-train-de-scier-la-branche-sur-laquelle-je-suis-assis_6749933_4408996.html",
-        "summary": "Vendeur de vêtements, coiffeur, garagiste… De plus en plus de salariés enregistrent des images qui serviront à entraîner des robots conçus pour automatiser leurs tâches. Ce qui, à terme, peut menacer leur emploi.",
-        "date": "Wed, 19 Aug 2026 19:00:05 +0200",
+        "title": "Franchises médicales : le gouvernement renonce au doublement des plafonds dans l’immédiat et promet une future réforme « juste »",
+        "url": "https://www.lemonde.fr/politique/article/2026/08/20/franchises-medicales-le-gouvernement-renonce-au-doublement-des-plafonds-dans-l-immediat-annonce-stephanie-rist_6751296_823448.html",
+        "summary": "Pour freiner la croissance des dépenses de santé, le gouvernement avait annoncé il y a près d’un mois le doublement du montant maximum des franchises, de 100 à 200 euros par an. La ministre de la santé, Stéphanie Rist, a admis que ce choix avait pu apparaître « brutal ».",
+        "date": "Thu, 20 Aug 2026 21:07:56 +0200",
         "source": "lemonde.fr",
-        "ts": 1787158805000
+        "ts": 1787252876000
       },
       {
-        "title": "Les meilleures tablettes pour les étudiants à la rentrée 2026",
-        "url": "https://www.futura-sciences.com/conso/guides-achat/guides-pc-tablettes-meilleures-tablettes-etudiants-rentree-1555/#xtor%3DRSS-8",
-        "summary": "Pratique à transporter et agréable à utiliser au quotidien, la tablette gagne du terrain sur les bancs des universités. Le choix du bon modèle passe avant tout par les besoins de la formation, les applications utilisées et le budget prévu.",
-        "date": "Wed, 19 Aug 2026 18:30:00 +0200",
+        "title": "On a détecté des sortes de boules de « photons nucléaires », les glueballs !",
+        "url": "https://www.futura-sciences.com/sciences/actualites/physique-particules-on-detecte-sortes-boules-photons-nucleaires-glueballs-137133/#xtor%3DRSS-8",
+        "summary": "Il existe un zoo très riche de particules liées aux forces nucléaires qui lient les protons et les neutrons dans les noyaux, forces qui découlent en fait d'autres plus profondes appelées forces nucléaires fortes et qui « collent » des particules élémentaires, les quarks, dans les protons et les...",
+        "date": "Thu, 20 Aug 2026 21:03:54 +0200",
         "source": "futura-sciences.com",
-        "ts": 1787157000000
+        "ts": 1787252634000
       },
       {
-        "title": "Ces neurones qui nous poussent... à dormir ! - bluewin.ch",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQXFUcnZhLU9iWlJvYU5SMEJoUmZhdnFWb2hKT3RzbFZPRE1JSUM2S2VGcVZmbTgwSXhEbHRneDhvR0Z5VlZHdXhyLW1VRURQSV8xLXI4NDdWTUozWGtWQ0M1RjR4NDdKZHV5d3MxMGU4MG1ZM0Q1eXdqMVdhNEktM2VfbmpLQTA2R29JVjVHczFUdVY4XzNtc3U3bmI0X0lJNXpsSEF4RTJMS0JteHVHNmt3NjJWNjIwdTZjTkhtZVpHZw?oc=5",
-        "summary": "Ces neurones qui nous poussent... à dormir ! bluewin.ch",
-        "date": "Wed, 19 Aug 2026 16:12:00 GMT",
-        "source": "news.google.com",
-        "ts": 1787155920000
+        "title": "Un été au Groenland : comment vit-on dans l’une des régions les plus extrêmes du monde ?",
+        "url": "https://www.futura-sciences.com/sciences/actualites/series-ete-ete-groenland-vit-on-regions-plus-extremes-monde-136928/#xtor%3DRSS-8",
+        "summary": "Un froid polaire, des vents dignes de ceux d’un ouragan, un isolement total en hiver… Bienvenue au Groenland ! Comment vit-on sur l'île la plus extrême du monde au niveau climatique ? Découvrez le quatrième épisode de ma série de cinq reportages inédits Un été au Groenland.",
+        "date": "Thu, 20 Aug 2026 20:07:00 +0200",
+        "source": "futura-sciences.com",
+        "ts": 1787249220000
       },
       {
-        "title": "Canicules : déjà 7.300 morts en excès en France en 2026",
-        "url": "https://www.sciencesetavenir.fr/nature-environnement/climat/canicule-en-france-deja-7-300-morts-en-exces-recensees-cette-annee-selon-un-bilan-provisoire_194347?xtor=RSS-15",
-        "summary": "Les épisodes de fortes chaleurs survenus depuis mai en France sont associés à un bilan provisoire de 7.300 morts en excès. Ce chiffre devrait encore augmenter, alors qu'une troisième vague de chaleur, l'une des plus longues jamais enregistrées dans le pays, sévit depuis fin juillet.",
-        "date": "Wed, 19 Aug 2026 15:52:06 +0000",
-        "source": "sciencesetavenir.fr",
-        "ts": 1787154726000
+        "title": "Regardez cette impressionnante armée de robots chinois se préparer pour des Jeux hors norme",
+        "url": "https://www.futura-sciences.com/tech/actualites/robot-humanoide-regardez-cette-impressionnante-armee-robots-chinois-preparer-jeux-hors-norme-137187/#xtor%3DRSS-8",
+        "summary": "Une armée de 80 robots humanoïdes parfaitement alignés, marchant au même rythme. La vidéo publiée par Booster Robotics a de quoi évoquer une scène de science-fiction. Mais derrière cette démonstration se cache surtout une préparation très concrète. Booster Robotics compte en effet montrer ce que...",
+        "date": "Thu, 20 Aug 2026 18:29:10 +0200",
+        "source": "futura-sciences.com",
+        "ts": 1787243350000
+      },
+      {
+        "title": "Un petit site peut suffire pour tester une idée avant septembre",
+        "url": "https://www.futura-sciences.com/conso/bons-plans/guides-tech-petit-site-peut-suffire-tester-idee-avant-septembre-11021/#xtor%3DRSS-8",
+        "summary": "À partir de 1 € HT par mois, IONOS propose un hébergement web avec domaine, certificat SSL et email inclus, une base accessible pour lancer rapidement un projet.",
+        "date": "Thu, 20 Aug 2026 18:00:00 +0200",
+        "source": "futura-sciences.com",
+        "ts": 1787241600000
       }
     ],
     "tech": [
       {
-        "title": "Actualité : Bon plan – Le robot-pâtissier KitchenAid Artisan 5KSM175PS Vert \"5 étoiles\" à 499,99 € (-13%)",
-        "url": "https://www.lesnumeriques.com/robot-patissier/bon-plan-le-robot-patissier-kitchenaid-artisan-5ksm175ps-vert-5-etoiles-a-499-99-13-n260620.html",
-        "summary": "Le robot-pâtissier KitchenAid Artisan 5KSM175PS Vert passe sous les 500 € chez Boulanger.com soit une baisse d'environ 13% sur le prix habituellement constaté. C'est actuellement l'un des meilleurs produit de notre comparatif.",
-        "date": "2026-08-20T07:34:02+02:00",
+        "title": "Actualité : Amazon : des Blu-ray 4K pour 24.99 € les deux",
+        "url": "https://www.lesnumeriques.com/loisirs/amazon-des-blu-ray-4k-pour-24-99-les-deux-n260485.html",
+        "summary": "Cette promo Amazon permet de compléter facilement une collection de films en Blu-ray ou 4K. Le tarif devient plus cohérent pour deux références récentes, ce qui n'arrive pas si souvent.",
+        "date": "2026-08-21T07:39:34+02:00",
         "source": "lesnumeriques.com",
-        "ts": 1787204042000
+        "ts": 1787290774000
       },
       {
-        "title": "Trade Republic lance le Livret A dans son application et dépasse 400 000 PEA",
-        "url": "https://www.numerama.com/business/2314127-trade-republic-lance-le-livret-a-dans-son-application-et-depasse-400-000-pea.html",
-        "summary": "Trade Republic ajoute le Livret A à son application et franchit les 400 000 PEA. La néobanque allemande veut passer du statut de courtier à celui de banque principale des Français.",
-        "date": "Thu, 20 Aug 2026 05:30:00 +0000",
-        "source": "numerama.com",
-        "ts": 1787203800000
+        "title": "Actualité : Bon plan – Le clavier Logitech MX Keys S Plus Graphite à 99,99 € (-16%)",
+        "url": "https://www.lesnumeriques.com/clavier/bon-plan-le-clavier-logitech-mx-keys-s-plus-graphite-a-99-99-16-n260676.html",
+        "summary": "Le clavier Logitech MX Keys S Plus Graphite passe sous les 100 € chez Darty.com soit une baisse d'environ 16% sur le prix habituellement constaté.",
+        "date": "2026-08-21T07:04:02+02:00",
+        "source": "lesnumeriques.com",
+        "ts": 1787288642000
       },
       {
-        "title": "Vinh Long dynamise l'écosystème de l'innovation, des sciences et des technologies. - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWjhLWXk3WXFBSFV2Z2o5NDJCckdjZ0xzRm1JZ3c3V0lpQlc1UG1jOEpGcnYwbG9TZE1KcXMxSzBJUU5jYS1aY2xoUVZVT2x0WGhFdTBoZ0JXeU4xb3N4QXhyM2xYeDJlU3pkc1lQSnBZVFo1QzRUM2ZxOEhFOHJwQVdfY1lSaGVVT09uU0Vnd2c0NmdPSWVSZVJ0WFpwNjQ5S1E?oc=5",
-        "summary": "Vinh Long dynamise l'écosystème de l'innovation, des sciences et des technologies. Vietnam.vn",
-        "date": "Thu, 20 Aug 2026 05:09:15 GMT",
+        "title": "Actualité : Bon plan – L'aspirateur robot Mova P70 Pro Ultra \"5 étoiles\" à 549,00 € (-11%)",
+        "url": "https://www.lesnumeriques.com/aspirateur-robot/bon-plan-l-aspirateur-robot-mova-p70-pro-ultra-5-etoiles-a-549-00-11-n260674.html",
+        "summary": "L'aspirateur robot Mova P70 Pro Ultra passe sous les 550 € chez Amazon soit une baisse d'environ 11% sur le prix habituellement constaté. C'est actuellement l'un des meilleurs produit de notre comparatif.",
+        "date": "2026-08-21T07:01:03+02:00",
+        "source": "lesnumeriques.com",
+        "ts": 1787288463000
+      },
+      {
+        "title": "De nouvelles perspectives pour les entreprises technologiques russes au Vietnam - lecourrier.vn",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbXB5Rm5GdDdoN05SbTZqMUFNb05pY2VUcmtEVFd4R0NFR3MzMXRKb1RkOEdRLWlIa0VLdXNhWGRwenpOWnh0VFZRUmVqSVc0cUNDNUtNaVI5QmUtbTBrQ2dhZGt3VG5VZlhETG5hMW1PZXZOWVFtNkhPcXc1Z2lCN2VleU5VZ1Byb3ZvZFZJdVdoNUwyUEIxbnl4TmhNZENEend6VkdLR3NuU0VjV2lKejNZekY?oc=5",
+        "summary": "De nouvelles perspectives pour les entreprises technologiques russes au Vietnam lecourrier.vn",
+        "date": "Fri, 21 Aug 2026 04:51:00 GMT",
         "source": "news.google.com",
-        "ts": 1787202555000
+        "ts": 1787287860000
       },
       {
-        "title": "Cérémonie d'ouverture du Forum sur la technologie et l'innovation pour l'industrie du tourisme à Da Nang - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQWtnMVpYcEFFZGRtanRfSXRmbTVOQUMxZjFwNlZRV3Q3ODdmVEl1c0ZSckxSM04tVlBxUFRSenZ0Y1lMd2RKQWdwblA5ME9IcU1FYUU4bkhabUxwQjhQNVU1N1llQkxFZ0dheVBsWFpEZkU0eV90WkdFbU9rTHdVRm9tVEFmSTBFVDN1dkFNckRUVTAxSXRJUHlyVHBqTlYy?oc=5",
-        "summary": "Cérémonie d'ouverture du Forum sur la technologie et l'innovation pour l'industrie du tourisme à Da Nang Vietnam.vn",
-        "date": "Thu, 20 Aug 2026 05:05:15 GMT",
+        "title": "Résolution N°19 : le Vietnam repense son modèle de développement - lecourrier.vn",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjdFYmp3TWk1V2h2eEt5YmE1UmMyQzd5Z0dhTHAtM08yN1owUkkzZXhxdjJzMUV2TzEtTDB5U3lJNF84clhhSHQ3V0xOYlhwMzAwR1U3YjFHcEcwWVd2ZlhFQVgwV242cllCdDZ4TGVwU1JoR20zWHNrdHBEem1JX3p4WGlTUU9RZ0J6eHpmTUZ0RThmaF8xUG44SnhTSGl4S0ZoMA?oc=5",
+        "summary": "Résolution N°19 : le Vietnam repense son modèle de développement lecourrier.vn",
+        "date": "Fri, 21 Aug 2026 04:46:00 GMT",
         "source": "news.google.com",
-        "ts": 1787202315000
+        "ts": 1787287560000
       },
       {
-        "title": "Actualité : Voici le meilleur sac photo à prix abordable de notre comparatif",
-        "url": "https://www.lesnumeriques.com/sac-photo/voici-le-meilleur-sac-photo-a-prix-abordable-de-notre-comparatif-n260619.html",
-        "summary": "Le sac photo Case Logic Bryker Camera/Drone Medium Backpack s'affiche aujourd'hui à 66,90 € chez Digit-photo.com. C'est actuellement le meilleur sac photo à prix abordable de notre comparatif, selon les 29 modèles testés dans notre laboratoire.",
-        "date": "2026-08-20T07:00:36+02:00",
-        "source": "lesnumeriques.com",
-        "ts": 1787202036000
-      },
-      {
-        "title": "Test SwitchBot Standing Circulator Fan : un ventilateur connecté sur pied ou de table qui offre le choix entre batterie ou secteur",
-        "url": "https://www.lesnumeriques.com/ventilateur/switchbot-ventilateur-sur-pied-oscillant-p78236/test.html",
-        "summary": "Le SwitchBot Standing Circulator Fan veut jouer les ventilateurs polyvalents avec son format modulable, sa batterie intégrée et son application. Nous avons pris les mesures de son souffle, son bruit et sa consommation pour voir ce qu'il peut offrir au quotidien.",
-        "date": "2026-08-20T07:00:00+02:00",
-        "source": "lesnumeriques.com",
-        "ts": 1787202000000
+        "title": "Le Vietnam et le Brésil promeuvent la coopération en matière d'innovation et de transformation numérique. - Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMGNlWUhuOHNzbldrWG1tbnlMUjhXeGtEdHMzcldMZndDMEx1Zm95emp0WVFtZVdpd1pLUVBwQzRNdGJjOVdYcmtLRUJXR1ljTV9PcFJoOWszRi1vQ3Q2N3dQaU5EWGxHN05qNHNHbDJ6UkZHcDFyNU9JMnl6YzVQSE9TaEZZRzRKMGczajV1eVdhU2MzX2NN?oc=5",
+        "summary": "Le Vietnam et le Brésil promeuvent la coopération en matière d'innovation et de transformation numérique. Vietnam.vn",
+        "date": "Fri, 21 Aug 2026 04:09:40 GMT",
+        "source": "news.google.com",
+        "ts": 1787285380000
       }
     ],
     "politique": [
       {
-        "title": "Donald Trump affirme que la Corée du Nord possède 57 armes nucléaires, Séoul estime qu’elle pourrait en avoir jusqu’à 120",
-        "url": "https://www.franceinfo.fr/monde/coree-du-nord/donald-trump-affirme-que-la-coree-du-nord-possede-57-armes-nucleaires_8154152.html#xtor=RSS-3-[lestitres]",
-        "summary": "L'estimation officielle du président américain est inhabituelle par sa précision, qui a répété malgré tout qu'il s'entendait \"très bien\" avec Kim Jong Un.",
-        "date": "Thu, 20 Aug 2026 07:20:21 +0200",
+        "title": "\"Le fruit est brûlé, il ne grossit plus\", face à la sécheresse, les producteurs de pommes s'inquiètent pour leur récolte",
+        "url": "https://france3-regions.franceinfo.fr/pays-de-la-loire/loire-atlantique/nantes/le-fruit-est-brule-il-ne-grossit-plus-face-a-la-secheresse-les-producteurs-de-pommes-s-inquietent-pour-leur-recolte-3404182.html#xtor=RSS-3-[lestitres]",
+        "summary": "En Loire-Atlantique, la sécheresse a de lourdes conséquences sur les cultures de pomme. Les producteurs ont perdu en moyenne 30% de leur exploitation à cause des canicules successives. Les vergers doivent désormais faire face à un stress hydrique important. Les représentants de la filière demandent…",
+        "date": "Fri, 21 Aug 2026 07:41:00 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1787203221000
+        "ts": 1787290860000
       },
       {
-        "title": "La Corée du Nord possède 57 armes nucléaires, selon Donald Trump, et de 80 à 120, selon Séoul",
-        "url": "https://www.lemonde.fr/international/article/2026/08/20/la-coree-du-nord-possede-57-armes-nucleaires-selon-donald-trump-et-de-80-a-120-selon-seoul_6749900_3211.html",
-        "summary": "Le président des Etats-Unis a également critiqué la Corée du Sud et déclaré qu’il rencontrerait le dirigeant de la Corée du Nord, Kim Jong-un, avant la fin de l’année, sans donner plus de précision.",
-        "date": "Thu, 20 Aug 2026 07:13:22 +0200",
-        "source": "lemonde.fr",
-        "ts": 1787202802000
-      },
-      {
-        "title": "Guerre en Ukraine : neuf personnes tuées à Kiev et sa région dans des bombardements russes",
-        "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-sept-personnes-sont-mortes-a-kiev-et-sa-region-dans-des-bombardements-russes_8154434.html#xtor=RSS-3-[lestitres]",
-        "summary": "En Russie, le maire de Moscou, Sergueï Sobianine, a annoncé jeudi matin sur Telegram que 250 drones avaient été lancés en direction de la région de Moscou depuis mercredi soir.",
-        "date": "Thu, 20 Aug 2026 07:11:03 +0200",
+        "title": "En Syrie, l'administration kurde est désormais intégrée dans celle de l'Etat",
+        "url": "https://www.franceinfo.fr/monde/revolte-en-syrie/en-syrie-l-administration-kurde-est-desormais-integree-dans-celle-de-l-etat_8155802.html#xtor=RSS-3-[lestitres]",
+        "summary": "Cette annonce fait suite à des mois de négociations consécutives à un accord conclu, en janvier, entre les Kurdes et les autorités islamistes.",
+        "date": "Fri, 21 Aug 2026 07:39:18 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1787202663000
+        "ts": 1787290758000
       },
       {
-        "title": "A Kiev, quelques instants de fête volés à la guerre : « Jamais de ma vie je n’ai vu autant de belles personnes au même endroit »",
-        "url": "https://www.lemonde.fr/m-le-mag/article/2026/08/20/a-kiev-quelques-instants-voles-a-la-guerre_6750613_4500055.html",
-        "summary": "Pour la deuxième année d’affilée, le festival de musique et d’arts plastiques Vyriy a réuni à Kiev, les 8 et 9 août, plusieurs milliers de personnes, malgré les attaques incessantes des drones russes. Soldats en permission et familles se sont mêlés aux fêtards pour danser et célébrer le folklore uk…",
-        "date": "Thu, 20 Aug 2026 07:00:06 +0200",
-        "source": "lemonde.fr",
-        "ts": 1787202006000
-      },
-      {
-        "title": "Eurovolley : est-ce enfin l'heure pour les Bleues de monter sur un podium international ?",
-        "url": "https://www.franceinfo.fr/sports/volley/championnat-d-europe/eurovolley-est-ce-enfin-l-heure-pour-les-bleues-de-monter-sur-un-podium-international_8152232.html#xtor=RSS-3-[lestitres]",
-        "summary": "Privée de sa capitaine Héléna Cazaute notamment, l'équipe de France a des objectifs élevés dans ce championnat d'Europe, un an après leur 8e place au Mondial.",
-        "date": "Thu, 20 Aug 2026 07:00:01 +0200",
+        "title": "\"Forts orages, vents violents, fortes chaleurs\" : comment l'accumulation des sédiments pourrait rendre \"inopérants\" de nombreux barrages dans le monde d'ici 2060",
+        "url": "https://www.franceinfo.fr/environnement/forts-orages-vents-violents-fortes-chaleurs-comment-l-accumulation-des-sediments-pourrait-rendre-inoperants-de-nombreux-barrages-dans-le-monde-d-ici-2060_8136833.html#xtor=RSS-3-[lestitres]",
+        "summary": "Selon une étude, 58% de ces installations hydrauliques à petit réservoir et 38% des grands barrages verraient leur capacité de stockage d'eau gravement réduite en raison de l'accumulation de sédiments. Cela concernerait deux milliards de personnes.",
+        "date": "Fri, 21 Aug 2026 07:32:03 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1787202001000
+        "ts": 1787290323000
       },
       {
-        "title": "En Chine, le fondateur d’Evergrande, géant immobilier tombé en faillite, condamné à la prison à vie",
-        "url": "https://www.lemonde.fr/international/article/2026/08/20/en-chine-le-fondateur-d-evergrande-geant-immobilier-tombe-en-faillite-condamne-a-la-prison-a-vie_6750612_3210.html",
-        "summary": "Xu Jiayin est, en outre, condamné à plus d’un milliard d’euros d’amende. Avec un passif de plus de 300 milliards de dollars, Evergrande avait été contraint à la liquidation et avait été à l’origine de la crise immobilière chinoise.",
-        "date": "Thu, 20 Aug 2026 06:57:51 +0200",
+        "title": "Les patients saluent la première reconnaissance officielle du syndrome de fatigue chronique par l'Assurance-maladie",
+        "url": "https://www.franceinfo.fr/sante/les-patients-saluent-la-premiere-reconnaissance-officielle-du-syndrome-de-fatigue-chronique-par-l-assurance-maladie_8155820.html#xtor=RSS-3-[lestitres]",
+        "summary": "L'Assurance maladie ne relie donc plus l'encéphalomyélite myalgique à un trouble psychiatrique ou psychologique, rapporte vendredi France Inter. Une reconnaissance \"institutionnelle\" qualifiée \"d'étape importante\" par une association de patients.",
+        "date": "Fri, 21 Aug 2026 07:27:54 +0200",
+        "source": "francetvinfo.fr",
+        "ts": 1787290074000
+      },
+      {
+        "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+        "url": "https://www.lemonde.fr/international/live/2026/08/21/en-direct-guerre-en-ukraine-les-dernieres-informations_6746952_3210.html",
+        "summary": "Deux femmes ont été tuées au cours de la nuit de jeudi à vendredi, dans le village de Lebiaje, dans le district ukrainien de Tchouhouïv, lors d’une attaque de drones, a annoncé le chef de l’administration militaire de l’oblast de Kharkiv.",
+        "date": "Fri, 21 Aug 2026 06:46:53 +0200",
         "source": "lemonde.fr",
-        "ts": 1787201871000
+        "ts": 1787287613000
+      },
+      {
+        "title": "La Corse, le Var et les Alpes-Maritimes en vigilance orange \"orages\" vendredi matin, les deux départements du Sud-Est aussi concernés par une alerte \"pluie-inondation\"",
+        "url": "https://www.franceinfo.fr/environnement/meteo/alertes-meteo-et-vigilances/la-corse-le-var-et-les-alpes-maritimes-en-vigilance-orange-orages-vendredi-matin-les-deux-departements-du-sud-est-aussi-concernes-par-une-alerte-pluie-inondation_8155757.html#xtor=RSS-3-[lestitres]",
+        "summary": "\"Jusqu'à la mi-journée de vendredi, la situation reste à surveiller\" sur la région Provence-Alpes-Côte d'Azur, avec une \"aggravation de la vigilance vers l'orange\" pour d'autres départements, selon Météo-France.",
+        "date": "Fri, 21 Aug 2026 06:46:52 +0200",
+        "source": "francetvinfo.fr",
+        "ts": 1787287612000
       }
     ],
     "ia": [
       {
-        "title": "Quand l’IA se met au service des apprentis et valorise les compétences spécialisées des formateurs - Le Temps",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaXB2eGtjYVcybzJpemJubHltV000U2FhOVpHUTlFSHlacGdYeW9uZ1JMNTdnNGVjS1h5cWFOVDFIakpPR2UxcF92Z01CZUlNUUh0MExMdlh5RzFaRWZNR0JNNkNjZzQ4WDMtU0FhTDBqMUxmako3TWhWVUpVWnp4NG9KSTN2WXB5Q21KRjhWdjM0eldyaU82djBNcXUxcDhvOXF4LXYyR1BsRFdZNE9kRDJzUnI3SGtHT0c1TlVvdW5mYVZ4TVp3cWJ3?oc=5",
-        "summary": "Quand l’IA se met au service des apprentis et valorise les compétences spécialisées des formateurs Le Temps",
-        "date": "Thu, 20 Aug 2026 05:27:07 GMT",
+        "title": "« Faire un prompt, attendre le résultat, refaire un prompt… J'ai l'impression que c'est de la mort cérébrale » : ces salariés qui ne veulent pas se laisser faire par l'IA - Les Echos",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPeGVqRFA1ZXVKOGZFdmJ0U3BzS19SOHRUd0Z4TDNLZjBnN2d3WXFhZXhTcmRETzk3bElRUlhNWjEtTzZHYmlQbnVmMjJHOXFkNEpITmk1R05veFI4ZjlORWR2WmZneFg0dGVwUnFoRTctekhhYjNhcFlkcXNIVklSa0dHVmpzWXNuakNwWDlQRllFaTZsalVaODNJMU5fYlBhQmtkZEMzVDFweGxvcHdfM2hGSlhncEZyZmlQYVJBSG4tLUxVb3ZSUDh4Z1JCRW1JVFhaXzdmMm83YVdoVWxLbDhWZGtnZlBpZ2NQSnNYYnM4WGloajIzMGZTN2VpbHJTTk1xMFF0Q3VIdG1yeVZrU0c0YUZ5aVRfSE1YcjVEb1g0bkJodzNGelo0NHVmSG91NjlaNEd0R0VROGgzelRLVFhQWmQtOGFXcnc?oc=5",
+        "summary": "« Faire un prompt, attendre le résultat, refaire un prompt… J'ai l'impression que c'est de la mort cérébrale » : ces salariés qui ne veulent pas se laisser faire par l'IA Les Echos",
+        "date": "Fri, 21 Aug 2026 05:26:37 GMT",
         "source": "news.google.com",
-        "ts": 1787203627000
+        "ts": 1787289997000
       },
       {
-        "title": "ChatGPT va afficher des publicités en France dès le 24 août, y compris dans l’abonnement Go - macg.co",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT084YURlSi1NZ3B6WHZ4REE1NzNnM3V5M1B6Tkt1THZPZ3RSUVlTOEZMemRTTnc3VzZYYzZuYjEySjdWdlBTVTNudGo5cTZZSW5adDVMcHhSQzBJLVRVREF0S29RcnFhTkpvVEQzSjVpcm9VSHdNemZqLXp2Q25STndvSGFLU1g4OElkZWVnbk5INnRiVFZTMzE2ZEhTRFVKYTRQVk13QzhQTDh6NXFZOEh3ckxfNGNqbXgtckhJcTBobUtqZ21pcU1iQlpiUlJBQW9qRmFEaEUydFZiRzNCOS1SelQ?oc=5",
-        "summary": "ChatGPT va afficher des publicités en France dès le 24 août, y compris dans l’abonnement Go macg.co",
-        "date": "Thu, 20 Aug 2026 05:25:00 GMT",
+        "title": "À Singapour, ce data center utilise des neurones humains pour faire fonctionner l’IA - Clubic",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeC1LMnY2YzdDaGVoLVZSNU5pdzFqeTkzYktET1VDZEc4U3dsWGdBcXNUN1dibjROdkdEODk5UnZQSHU2U1c1MVlnaHRXWGQ4TXpaWTJIUWVteVlQN0kyMFpCaTZOWUYtWVZLTTk4Uk5ESjB5dGtpZkZDUnJCVlZ4dmRPTUxKSkdNdFZrbzlJVUdmRlZQeHcwdGxPaXRBX3g4emxVR25rcnVOS0xxd1FWZHJrUzhUTlZxUEN6VnFHNlU0WDc0MHlz?oc=5",
+        "summary": "À Singapour, ce data center utilise des neurones humains pour faire fonctionner l’IA Clubic",
+        "date": "Fri, 21 Aug 2026 05:25:00 GMT",
         "source": "news.google.com",
-        "ts": 1787203500000
+        "ts": 1787289900000
       },
       {
-        "title": "« Appauvrir la créativité des équipes pour une productivité immédiate revient à sacrifier l'avenir » : l'utilisation pertinente de l'IA, un sujet stratégique pour les entreprises - Les Echos",
-        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPNnRfQTVuR0NwX2xmN1lyWTJwbjBnS3E2SFJSR1JoczhSX2xMTDRjTUVWLXpRNFRVU0JZb0wzcFBOa1pKeTVXZE02Z2RJLVNxaGFFSUxjUW8tS3VORFZUVUxvSFpUTUlWbm1fbmU3YmF0Q1Z3UjFvNTZjckljazdVa2JMb0Zabml0elZhazVJRG1mZFJnTXdTcGYxRElNUmROS1NTeHNDM2ZlS1ZkVUg5aWhrdkxLbHhTQ3BuRVJJNDAzbUQxRlRid0txNVhCV0xaR0FrdUY0OHdYUG9CWTdSeXRyUWdMNXI0NXpXZ1ZUemc5OEZDaEFCMURhcjNSZGJ3Z2ZldmJBNFFQazhnd2xRVV9UX1RZaE8yY2NzRXBpeDhyelo5VEVuRmhucVdVZlVyRjh1dGw0dmV2dEhtcXhMTGs0NE9ONWdadGJIQy15c29DaWdfTEE?oc=5",
-        "summary": "« Appauvrir la créativité des équipes pour une productivité immédiate revient à sacrifier l'avenir » : l'utilisation pertinente de l'IA, un sujet stratégique pour les entreprises Les Echos",
-        "date": "Thu, 20 Aug 2026 05:21:09 GMT",
+        "title": "Économie. Les entreprises face à la fraude avec l'IA : « Il y a une nécessaire prise de conscience » - Le Dauphiné Libéré",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUU5GTktpaWlUUzlxRS1acC05Z3FRcWw3bFNkNTNvcHRDazVTaHZHV0FtSkhGSlE5OGM0ZGRraGdiVFpOdTJBOWg1UVNOdWdVWU5jblhUMl9SdlBicGh6bzFRY0YtQzM2TUNWaUhZSkpzVGpiN0p5NlJEQU9ybG1aWURQQ2RXZHBXR3Z1X3VuQl9pOGt5R1RxMHhaaXhnZEFTSUwxMWhCQmlVR3NUbGpnQTZxV2NILUR4VW1mclV0LTdKemZ2VXpzR3E4Yw?oc=5",
+        "summary": "Économie. Les entreprises face à la fraude avec l'IA : « Il y a une nécessaire prise de conscience » Le Dauphiné Libéré",
+        "date": "Fri, 21 Aug 2026 05:11:08 GMT",
         "source": "news.google.com",
-        "ts": 1787203269000
+        "ts": 1787289068000
       },
       {
-        "title": "Anthropic 1, OpenAI 0 : le match de l'IA se durcit avant les « méga-IPO » - Les Echos",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYVdncU5TLVFZMnhEcEJGTHRyV0cwZEhySXhqc3dEZ3c2SnlxNTZfXzF2NmpYY2lnRkVDRnJpYkg2UU0zVThCYUZGUmVRNE9PdFZPRGJfSkltRC0zelA4d2JNZWpMU3JCdFltOGpjcjB4Q2JDQS01TmMwazFZREU3Z1BrSnE1V19DLXA0Vzd3N3pYYjhOak92cTNUZldFcGJxcnFNNC1mX2hZcU81ZGdOSUdlWlFHcS1mMVM4UWNJREFOZF9vaUQtQmJxZklLeWxN?oc=5",
-        "summary": "Anthropic 1, OpenAI 0 : le match de l'IA se durcit avant les « méga-IPO » Les Echos",
-        "date": "Thu, 20 Aug 2026 05:20:08 GMT",
+        "title": "« Je pense qu'il faut garder confiance dans notre besoin d'humanité » : Rima Abdul-Malak optimiste sur la révolution de l'IA - Les Echos",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQbURPM1VoeWZFUlNKQTVnNVExRjNXVWN4TlhzS2VqcmV2cFBiSU5HNkxLNkRyVzk2aDhQOVVCZnVwOC0zb18yb1FRMnUwc0hyQ0c4Z1hRTW0ydUVPM2haM0k2TDljc3plQUpsM2JuU0lVeVNqS1F5XzVRWXdvSmU5UnBUZUtWbTJiakc3QlE0UHZuYlFJU2kyZUVaeDdQcUs4cGlodTl1elBFYjdLakNlY1oxeFB5VWhLTHdCLXIwNVFVd08xUHVMOXphRVRONnFrZHk5bEpkRkkxOGc5MWNjVTZ2TlVNZGxGWWZ3RENZY1pXWk9Icm5YZzEwZ09QUTh0TExsVlhqRF93cERYN1lpeVFyRQ?oc=5",
+        "summary": "« Je pense qu'il faut garder confiance dans notre besoin d'humanité » : Rima Abdul-Malak optimiste sur la révolution de l'IA Les Echos",
+        "date": "Fri, 21 Aug 2026 05:00:36 GMT",
         "source": "news.google.com",
-        "ts": 1787203208000
+        "ts": 1787288436000
       },
       {
-        "title": "Intégrer l'enseignement de l'intelligence artificielle (IA) dans les écoles secondaires avec 12 leçons de base par an. - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZl9USXQ2TmpReHVTcnVzbk0zZ2NqVUFvZFNsdWRac3FzcU1MSllyd3JvUVV0VXBHSEpFT2xyUGFvUlhLVm9hLWNIeGlBVTNqMEJtSWczVVVrd2wyN01tenp5b254UDdiOXB1ZC1TUDRjdGZxWC1wUXN1Q1Q3NTVlVmEzbWdHdUlrZElRRDBXUWxYYjctdlR0TUtYSDZSejBqeEFjRllTc2FUMndxdkdQNw?oc=5",
-        "summary": "Intégrer l'enseignement de l'intelligence artificielle (IA) dans les écoles secondaires avec 12 leçons de base par an. Vietnam.vn",
-        "date": "Thu, 20 Aug 2026 05:19:27 GMT",
+        "title": "IA quelqu’un ? (1/2) L’hypothèse du cerveau de silicium - Revue21",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBETWlsQk5wZ2VXd2Y3NE1HLVlvUVhuZUdJdXhlS1R4Qk5hZ1RYeVNtNDhqSElTTnVpb05LclpQNDNyQUVtRndHQTlNZ3BhNFo3bml0U0xwQV9xR0x5WWk0WFdCclRueHps?oc=5",
+        "summary": "IA quelqu’un ? (1/2) L’hypothèse du cerveau de silicium Revue21",
+        "date": "Fri, 21 Aug 2026 04:31:32 GMT",
         "source": "news.google.com",
-        "ts": 1787203167000
+        "ts": 1787286692000
       },
       {
-        "title": "Lettre du jour: L’intelligence artificielle (IA), bourreau du climat? - Tribune de Genève",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWXVDclVMcGtkR1VPaU1obnJJVDVWMGM3YjBlUUt0UkNrMDd4OGJORGFJbXVtRm03RTBScFZFdVo5elJiR0FZcFkxa0xxd3VSdkdZTHk1SHhKb0J3ZXdhVmJhYmdYWUNOVUYtLURGaEVHMjhpOUg5bWpEYlZCOGlSNFE4aVFXcWw0cGlIenNQcHVfc21ad0tfOElYeW91bXBIbFF6NnZ5aUg?oc=5",
-        "summary": "Lettre du jour: L’intelligence artificielle (IA), bourreau du climat? Tribune de Genève",
-        "date": "Thu, 20 Aug 2026 05:00:00 GMT",
+        "title": "Technologie. Notes de frais, CV, virements... Comment l'IA fait bondir la fraude au sein des entreprises - Le Dauphiné Libéré",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNzVJdmRJTldJSDlRS1BsdEc5cUtCSlA0U0VzZFU4c3Vlck90YTRkTFVueXRUTERzc2NxTlgwRy13TUpWRjAyRjBDRDZWX21qakk5RFJEREdFQld3dGlJOGUtZmNJRzlrSnJmQ3NLZTE0b1ZBLVdvUUtNa1FBWlV0M2tOTVBzZHRmY25SdG40RHRVeDhzSXo5Q1ZIQ25zbFZnTGNPQzdZOG91bl94bnFWSXJicEZKcEUxb3Y3ZnUyRWlXaHZtRUs0N3Nma1h6cmUxT1I4OFJqYUh1dE5fUTlSWA?oc=5",
+        "summary": "Technologie. Notes de frais, CV, virements... Comment l'IA fait bondir la fraude au sein des entreprises Le Dauphiné Libéré",
+        "date": "Fri, 21 Aug 2026 04:30:51 GMT",
         "source": "news.google.com",
-        "ts": 1787202000000
+        "ts": 1787286651000
       }
     ]
   }
