@@ -1,206 +1,206 @@
 {
-  "generated": "2026-08-22T05:38:49.496Z",
-  "dateLabel": "samedi 22 août 2026",
+  "generated": "2026-08-23T05:41:54.435Z",
+  "dateLabel": "dimanche 23 août 2026",
   "demo": false,
   "categories": {
     "sciences": [
       {
-        "title": "Fusée réutilisable : une start-up chinoise réussit son atterrissage sur terre",
-        "url": "https://www.sciencesetavenir.fr/espace/exploration/chine-la-start-up-landspace-recupere-sur-terre-le-premier-etage-de-sa-fusee-reutilisable-zhuque-3_194393?xtor=RSS-9",
-        "summary": "La start-up chinoise LandSpace a réussi à faire atterrir sur la terre ferme le premier étage de sa fusée Zhuque-3, après la mise en orbite d’un satellite. La Chine avait déjà récupéré en juillet un premier étage de fusée Longue Marche-10B, mais sur une plateforme en mer.",
-        "date": "Sat, 22 Aug 2026 05:11:54 +0000",
-        "source": "sciencesetavenir.fr",
-        "ts": 1787375514000
-      },
-      {
-        "title": "Espace : Trump vise plus de 1000 lancements et retours par an",
-        "url": "https://www.sciencesetavenir.fr/espace/exploration/trump-veut-faire-passer-les-etats-unis-a-plus-de-1000-lancements-et-retours-spatiaux-par-an_194382?xtor=RSS-9",
-        "summary": "Donald Trump veut accélérer très fortement le rythme des opérations spatiales depuis les Etats-Unis, avec un objectif de plus de 1000 lancements et retours dans l’atmosphère par an d’ici 2030. Sa stratégie prévoit de nouveaux sites et entend aussi développer le transport commercial vers la Lune et…",
-        "date": "Sat, 22 Aug 2026 04:52:01 +0000",
-        "source": "sciencesetavenir.fr",
-        "ts": 1787374321000
-      },
-      {
-        "title": "La canicule, piège silencieux pour les personnes atteintes de maladies chroniques",
-        "url": "https://www.lemonde.fr/sante/article/2026/08/22/la-canicule-piege-silencieux-pour-les-personnes-atteintes-de-maladies-chroniques_6752521_1651302.html",
-        "summary": "Les malades qui souffrent d’insuffisance cardiaque, rénale ou de troubles psychiatriques sont particulièrement vulnérables aux vagues de chaleur. Le corps médical se heurte à plusieurs difficultés pour adapter et maintenir leurs traitements.",
-        "date": "Sat, 22 Aug 2026 05:00:07 +0200",
+        "title": "Les enseignements inattendus du chant des bulles",
+        "url": "https://www.lemonde.fr/sciences/article/2026/08/23/les-enseignements-inattendus-du-chant-des-bulles_6753756_1650684.html",
+        "summary": "Une nouvelle étude explique l’origine du bruit que font les bulles, après des années d’hypothèses concurrentes. La levée de ce mystère pourrait ouvrir la voie à de nouvelles études, notamment sur l’évolution des glaciers ou l’absorption du CO₂ par les océans.",
+        "date": "Sun, 23 Aug 2026 06:00:57 +0200",
         "source": "lemonde.fr",
-        "ts": 1787367607000
+        "ts": 1787457657000
       },
       {
-        "title": "On commence peut-être à détecter des étoiles qui brûlent de la matière noire !",
-        "url": "https://www.futura-sciences.com/sciences/actualites/astronomie-on-commence-peut-etre-detecter-etoiles-brulent-matiere-noire-137185/#xtor%3DRSS-8",
-        "summary": "L'astrophysicien Richard Taillet n'est hélas plus avec nous. On aimerait bien avoir son avis sur un travail théorique récent connectant la physique de l'infiniment petit avec la matière noire et celle de l'infiniment grand avec des ondes gravitationnelles dont certaines seraient anciennes,...",
-        "date": "Fri, 21 Aug 2026 21:01:23 +0200",
-        "source": "futura-sciences.com",
-        "ts": 1787338883000
+        "title": "L'enjeu de l'IA physique pour le développement des robots humanoïdes",
+        "url": "https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/l-enjeu-de-l-ia-physique-pour-le-developpement-des-robots-humanoides_194388?xtor=RSS-12",
+        "summary": "A la conférence mondiale de la robotique de Pékin, le patron d'ACE Robotics estime qu'il y aura un \"moment ChatGPT\" pour les robots humanoïdes d'ici fin 2027.",
+        "date": "Sat, 22 Aug 2026 19:28:45 +0000",
+        "source": "sciencesetavenir.fr",
+        "ts": 1787426925000
       },
       {
-        "title": "Un été au Groenland : baignade, potagers, moustiques… 8 choses que je ne pensais pas voir au Groenland !",
-        "url": "https://www.futura-sciences.com/sciences/actualites/series-ete-ete-groenland-baignade-potagers-moustiques-8-choses-je-ne-pensais-pas-voir-groenland-137129/#xtor%3DRSS-8",
-        "summary": "Vous imaginez le Groenland comme un désert de glace où seuls les phoques et les ours polaires peuvent survivre ? Détrompez-vous, sur une partie de cette île méconnue, il est possible de porter un short, se baigner dans les fjords, cultiver un potager, observer des chevaux sauvages, ou encore, se...",
-        "date": "Fri, 21 Aug 2026 20:07:44 +0200",
+        "title": "Plus d’étoiles, plus de masse, plus de planètes ? Cette découverte du télescope James-Webb change le visage de l’Univers primitif",
+        "url": "https://www.futura-sciences.com/sciences/actualites/cosmologie-plus-etoiles-plus-masse-plus-planetes-cette-decouverte-telescope-james-webb-change-visage-univers-primitif-137197/#xtor%3DRSS-8",
+        "summary": "Depuis quelques années, les jeunes galaxies déjà massives et évoluées, débusquées dans de vieilles strates de lumière par le télescope James-Webb, rendent perplexes les astrophysiciens. Faut-il modifier le modèle standard en cosmologie ou mieux le comprendre ? Un résultat récent suggère que le...",
+        "date": "Sat, 22 Aug 2026 21:07:29 +0200",
         "source": "futura-sciences.com",
-        "ts": 1787335664000
+        "ts": 1787425649000
       },
       {
-        "title": "Le jour où deux orages de grêles se sont rencontrés au pire endroit possible et provoqué 1 milliard de dollars de dégâts",
-        "url": "https://www.futura-sciences.com/planete/actualites/meteo-jour-deux-tempetes-sont-rencontrees-pire-endroit-possible-provoque-1-milliard-dollars-degats-137196/#xtor%3DRSS-8",
-        "summary": "Un désastre exceptionnel s'est produit dans l'une des plus grandes villes du Canada il y a quelques années. Un orage de grêle géante a tout pulvérisé sur son passage, à tel point que le coût des dégâts a atteint un niveau impensable.",
-        "date": "Fri, 21 Aug 2026 18:27:45 +0200",
+        "title": "Patient Bizarre : elle éternue… et des vers sortent de son nez, une infection qu’elle n’aurait jamais dû attraper !",
+        "url": "https://www.futura-sciences.com/sante/actualites/parasites-patient-bizarre-elle-eternue-vers-sortent-son-nez-infection-quelle-naurait-jamais-attraper-137156/#xtor%3DRSS-8",
+        "summary": "Une femme de 58 ans a ressenti une douleur au visage qui s’est rapidement intensifiée. Peu de temps après, elle a remarqué que des vers sortaient de son nez quand elle éternuait. Les médecins ont découvert qu’elle avait été contaminée par un parasite qui infecte généralement les animaux.",
+        "date": "Sat, 22 Aug 2026 20:07:09 +0200",
         "source": "futura-sciences.com",
-        "ts": 1787329665000
+        "ts": 1787422029000
+      },
+      {
+        "title": "Cette astuce appliquée une seule fois par jour économiserait plus de 3 000 litres d'eau par an",
+        "url": "https://www.futura-sciences.com/planete/actualites/eco-gestes-cette-astuce-appliquee-seule-fois-jour-economiserait-plus-3-000-litres-eau-an-k2m6-137049/#xtor%3DRSS-8",
+        "summary": "Chaque Français consomme en moyenne 150 litres d'eau par jour. Face aux sécheresses de plus en plus fréquentes, ce chiffre interroge. Peut-on vraiment changer ses habitudes sans bouleverser son quotidien ? La réponse est oui, et c'est plus basique qu'on ne le croit.",
+        "date": "Sat, 22 Aug 2026 18:00:00 +0200",
+        "source": "futura-sciences.com",
+        "ts": 1787414400000
+      },
+      {
+        "title": "Testé autour de la Lune, ce gilet pourrait réduire de 60 % les radiations reçues par les astronautes",
+        "url": "https://www.futura-sciences.com/sciences/actualites/espace-teste-autour-lune-ce-gilet-pourrait-reduire-60-radiations-recues-astronautes-137003/#xtor%3DRSS-8",
+        "summary": "S’éloigner de la Terre signifie s’exposer à un environnement radiatif particulièrement hostile. Pour les futures missions lunaires et martiennes, les astronautes devront se protéger des particules énergétiques venues du Soleil et des rayons cosmiques. Une équipe de chercheurs a développé une...",
+        "date": "Sat, 22 Aug 2026 16:23:03 +0200",
+        "source": "futura-sciences.com",
+        "ts": 1787408583000
       }
     ],
     "tech": [
       {
-        "title": "Fuites de GTA 6 et cartes Pokémon 30ᵉ anniversaire, le recap Pop Culture de la semaine",
-        "url": "https://www.numerama.com/tech/2316177-fuites-de-gta-6-et-cartes-pokemon-30%e1%b5%89-anniversaire-le-recap-pop-culture-de-la-semaine.html",
-        "summary": "Le futur n’attend pas : anticipez l’avenir des nouvelles technologies et de l’IA en lisant gratuitement ToujoursPlus, chaque jeudi dans votre boîte mail !",
-        "date": "Sat, 22 Aug 2026 05:30:00 +0000",
-        "source": "numerama.com",
-        "ts": 1787376600000
-      },
-      {
-        "title": "Actualité : Pour un bon lave-linge à prix abordable, privilégiez...",
-        "url": "https://www.lesnumeriques.com/lave-linge/pour-un-bon-lave-linge-a-prix-abordable-privilegiez-n260729.html",
-        "summary": "Le lave-linge Bosch WAN28218FF s'affiche aujourd'hui à 479,99 € chez Darty.com. C'est actuellement le meilleur lave-linge à prix abordable de notre comparatif, selon les 9 modèles testés dans notre laboratoire.",
-        "date": "2026-08-22T07:08:35+02:00",
+        "title": "Actualité : Des “photons sombres” pourraient être la matière noire tant recherchée",
+        "url": "https://www.lesnumeriques.com/astronomie-conquete-spatiale/matiere-noire-les-photons-sombres-une-idee-finalement-brillante-ecartee-trop-tot-n260735.html",
+        "summary": "Et si la solution au plus grand mystère de l'Univers avait été balayée un peu trop vite ? En revisitant le comportement chaotique du plasma primordial, des physiciens réhabilitent une piste audacieuse : celle d'une lumière “noire”.",
+        "date": "2026-08-23T07:15:00+02:00",
         "source": "lesnumeriques.com",
-        "ts": 1787375315000
+        "ts": 1787462100000
       },
       {
-        "title": "Test Google Pixel 11 Pro XL : un excellent smartphone aux ambitions XS",
-        "url": "https://www.lesnumeriques.com/telephone-portable/google-pixel-11-pro-xl-p78618/test.html",
-        "summary": "Avec le Pixel 11 Pro XL, Google lance une version plus aboutie de son prédécesseur, en tentant d’en gommer les principales faiblesses. Plus endurant, plus intelligent et plus ambitieux en photo, ce nouveau millésime se cherche des arguments : de quoi justifier une facture qui, elle, ne manque pas d…",
-        "date": "2026-08-22T07:00:00+02:00",
+        "title": "Actualité : Voici le meilleur aspirateur traîneau à prix abordable de notre comparatif",
+        "url": "https://www.lesnumeriques.com/aspirateur-sans-sac/voici-le-meilleur-aspirateur-traineau-a-prix-abordable-de-notre-comparatif-n260757.html",
+        "summary": "L'aspirateur traîneau Rowenta Compact Power Cyclonic 3A RO3731EA s'affiche aujourd'hui à 89,99 € chez Amazon. C'est actuellement le meilleur aspirateur traîneau à prix abordable de notre comparatif, selon les 21 modèles testés dans notre laboratoire.",
+        "date": "2026-08-23T07:00:36+02:00",
         "source": "lesnumeriques.com",
-        "ts": 1787374800000
+        "ts": 1787461236000
       },
       {
-        "title": "La production intelligente, moteur de la double transition - lecourrier.vn",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWGpCU182dElCVElUYjZtV1RORnB2TVIwS3g2SVMtMUFva3ZIZkhwZ1Nmb0lramVEVUxDcHQ0d19Tc1ZsS2xNbUJJdy1YeHhTUGdubkwxNFhueW5TbndTN2xKN2VOQTlETEswVEV0c0JlRWxIY0YzUkZGWDNUcXpNX21YVmdnR3hPQzhyTWhDWHNLOUt2d19n?oc=5",
-        "summary": "La production intelligente, moteur de la double transition lecourrier.vn",
-        "date": "Sat, 22 Aug 2026 04:15:00 GMT",
-        "source": "news.google.com",
-        "ts": 1787372100000
+        "title": "Test Btootos A90 Pro : à 24 €, les écouteurs les plus vendus d'Amazon sont loin de valoir leur succès",
+        "url": "https://www.lesnumeriques.com/ecouteurs-sans-fil/btootos-a90-pro-meilleur-prix-p78697/test.html",
+        "summary": "Parmi les écouteurs les plus vendus sur Amazon, les Btootos A90 Pro affichent un prix alléchant de 24 €. Mais que valent réellement ces écouteurs plébiscités par les acheteurs ? Nous les avons testés pour le savoir.",
+        "date": "2026-08-23T07:00:00+02:00",
+        "source": "lesnumeriques.com",
+        "ts": 1787461200000
       },
       {
-        "title": "Maîtriser l'espace marin grâce à la technologie et à l'innovation. - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNblU1U1BzMmFjTEtoazkyNWZiTUc0ZHZtTTgwQ0xvaWxUSjNJWGZRbU1WVDFHVVp6TlBia3doWlBCVC03dXB1UjVZVUNiVXZVMjNhUDIzLWxJTHdPQklVNTA2RDFJakJMczBER3dyZ2FaSUZHX3o4WXdUNGJaTDYxZFdzWEhBNUhodGtoag?oc=5",
-        "summary": "Maîtriser l'espace marin grâce à la technologie et à l'innovation. Vietnam.vn",
-        "date": "Sat, 22 Aug 2026 04:02:19 GMT",
-        "source": "news.google.com",
-        "ts": 1787371339000
+        "title": "Actualité : Bon plan – Le four encastrable Siemens iQ700 HR776G3B1 \"5 étoiles\" à 1 168,99 € (-25%)",
+        "url": "https://www.lesnumeriques.com/four-encastrable/bon-plan-le-four-encastrable-siemens-iq700-hr776g3b1-5-etoiles-a-1-168-99-25-n260756.html",
+        "summary": "Le four encastrable Siemens iQ700 HR776G3B1 passe sous les 1200 € chez Darty.com soit une baisse d'environ 25% sur le prix habituellement constaté. C'est actuellement le meilleur produit de notre comparatif.",
+        "date": "2026-08-23T06:31:04+02:00",
+        "source": "lesnumeriques.com",
+        "ts": 1787459464000
       },
       {
-        "title": "Promouvoir l'innovation et la transformation numérique dans les coopératives. - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeUJ0VVc4c1o3UDRRQmVrOFFORE5ZLW1ick1QM3oxR1FZNWx1WENXVElmbkdsVjNUeHBHU3p2cTEyY1VQSUxpcWl3aDdXOEw3VGY3VFd5TjZVVGlpVUZ5Nmk0a3o2VTdfZUFXYlBpTGYtX0hBc0N4cVB4QUtJMVpLaGlB?oc=5",
-        "summary": "Promouvoir l'innovation et la transformation numérique dans les coopératives. Vietnam.vn",
-        "date": "Sat, 22 Aug 2026 02:38:11 GMT",
+        "title": "Stratégie de développement du delta du Mékong - Partie finale : Écosystème d'innovation - Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd3RPLUZuMkI3TTRJWXpzLUpTaE1VeGs3MHlxVWpFTVB3bGJvTVVraENtNmVaUTJ0VWh1ZTFIYkJ0bEIwQTg4YkloOTRqZHRuc2RDYWQ3enpLZ3FsZ1RBZndzejRPSm11TG1OWnBJXzZ5cUNZSEVvM2dxQXBORkdSR0JxRGhPRVdqUjVKQzdlWHFlR1J0Qi1EZlpWS3lleUZydjJYYkVlQXlyXzk0VDNR?oc=5",
+        "summary": "Stratégie de développement du delta du Mékong - Partie finale : Écosystème d'innovation Vietnam.vn",
+        "date": "Sun, 23 Aug 2026 03:54:07 GMT",
         "source": "news.google.com",
-        "ts": 1787366291000
+        "ts": 1787457247000
+      },
+      {
+        "title": "Promotion industrielle dans les régions du Centre et des Hauts Plateaux du Centre dans un nouveau contexte de développement : renforcement des liens, transition écologique et amélioration de la compétitivité. - Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT2J5ZUFyRTVqUzhlMlZUd25sN3RzSkwwTU4zY3M1QkZUY05HQmFVTDNjdGdxdUh3bk81YWlKSzlEbk5ESTNGaVgxQnB0YUJ1ZE5IcGwtMHdEUWo1bkNpUUJYUjJXMl93S2ExQWNvWmRpTFFkekE4OFdOWnBSUDAzOE4wTTNXUGNGM0ItWHRtWE5YSTFKT2NqVGNtVEVtMGk1b28zNXlOZEFZZW1sSnJmQVBIU2dGd0dvei1wWTZNVzZ3QVJwX3NneDgwR3BTVm9DdU5Ra2dnQQ?oc=5",
+        "summary": "Promotion industrielle dans les régions du Centre et des Hauts Plateaux du Centre dans un nouveau contexte de développement : renforcement des liens, transition écologique et amélioration de la compétitivité. Vietnam.vn",
+        "date": "Sun, 23 Aug 2026 03:17:15 GMT",
+        "source": "news.google.com",
+        "ts": 1787455035000
       }
     ],
     "politique": [
       {
-        "title": "Au Caire, la longue restauration d’un mausolée soufi : « Ce type de projets ne doivent pas s’adresser aux seuls touristes »",
-        "url": "https://www.lemonde.fr/m-le-mag/article/2026/08/22/au-caire-la-longue-restauration-d-un-mausolee-soufi-ce-type-de-projets-ne-doivent-pas-s-adresser-aux-seuls-touristes_6752796_4500055.html",
-        "summary": "Depuis cinq ans, au Caire, l’ONG américaine World Monuments Fund s’emploie à faire renaître de ses ruines un complexe religieux du XVIᵉ siècle édifié par le maître soufi Ibrahim Al-Gulshani. Cette restauration vise aussi à redynamiser ce quartier médiéval méconnu de la capitale égyptienne et à y at…",
-        "date": "Sat, 22 Aug 2026 07:30:06 +0200",
-        "source": "lemonde.fr",
-        "ts": 1787376606000
-      },
-      {
-        "title": "Cyberattaque contre le fisc : pourquoi Sébastien Lecornu réclame-t-il la création d'une nouvelle unité, alors que plusieurs agences existent déjà ?",
-        "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaque-contre-le-fisc-pourquoi-sebastien-lecornu-reclame-t-il-la-creation-d-une-nouvelle-unite-alors-que-plusieurs-agences-existent-deja_8156213.html#xtor=RSS-3-[lestitres]",
-        "summary": "L'agence nationale de cybersécurité peut déjà remplir les missions demandées par le Premier ministre, estiment des experts. Ils appellent à donner plus de pouvoirs à cette entité existante et à renforcer les obligations en matière de sécurité informatique.",
-        "date": "Sat, 22 Aug 2026 07:16:47 +0200",
+        "title": "Un séisme de magnitude 5,9 touche les environs de Tokyo, plus de 30 blessés",
+        "url": "https://www.franceinfo.fr/monde/japon/un-seisme-de-magnitude-5-9-touche-les-environs-de-tokyo-plus-de-30-blesses_8158037.html#xtor=RSS-3-[lestitres]",
+        "summary": "Les autorités ont mis en garde contre un risque accru de glissements de terrain dans la région et de potentielles fortes répliques dans les jours à venir.",
+        "date": "Sun, 23 Aug 2026 07:38:42 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1787375807000
+        "ts": 1787463522000
       },
       {
-        "title": "\"C'est le moment de faire valoir nos propositions\" : face aux chaleurs records et aux incendies, les écologistes entendent porter l'enjeu de l'\"urgence\" climatique pendant la campagne présidentielle",
-        "url": "https://www.franceinfo.fr/politique/eelv/reportage-c-est-le-moment-de-faire-valoir-nos-propositions-face-aux-chaleurs-records-et-aux-incendies-les-ecologistes-entendent-porter-l-enjeu-de-l-urgence-climatique-pendant-la-campagne-presidentielle_8156030.html#xtor=RSS-3-[lestitres]",
-        "summary": "En invitant samedi l'intersyndicale des pompiers à leurs Journées d'été, les écologistes veulent mettre la pression sur le gouvernement dès la rentrée autour des sujets environnementaux.",
-        "date": "Sat, 22 Aug 2026 07:15:14 +0200",
+        "title": "\"La France ne peut plus se permettre d'ignorer l'Arabie saoudite\" : comment Mohammed ben Salmane, autrefois paria, est redevenu un partenaire de Paris",
+        "url": "https://www.franceinfo.fr/france/la-france-ne-peut-plus-se-permettre-d-ignorer-l-arabie-saoudite-comment-mohammed-ben-salmane-autrefois-paria-est-redevenu-un-partenaire-de-paris_8156534.html#xtor=RSS-3-[lestitres]",
+        "summary": "Le prince héritier saoudien débute dimanche une visite officielle de deux jours en France. Huit ans après l'assassinat de Jamal Khashoggi et sa mise au ban, \"MBS\" retrouve les honneurs de la France.",
+        "date": "Sun, 23 Aug 2026 07:10:08 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1787375714000
+        "ts": 1787461808000
       },
       {
-        "title": "L'opposant russe Lev Chlosberg, condamné à onze ans de prison, symbole d'une répression débridée à l'approche des législatives",
-        "url": "https://www.franceinfo.fr/monde/russie/portrait-l-opposant-russe-lev-chlosberg-condamne-a-onze-ans-de-prison-symbole-d-une-repression-debridee-a-l-approche-des-legislatives_8151950.html#xtor=RSS-3-[lestitres]",
-        "summary": "Le vice-président du parti libéral Iabloko, seule formation russe à réclamer un cessez-le-feu en Ukraine, a été lourdement condamné pour avoir discrédité l'armée.",
-        "date": "Sat, 22 Aug 2026 07:13:42 +0200",
+        "title": "\"On a la sensation que quelque chose nous échappe\" : après le piratage du fisc, syndicats et élus s'interrogent sur les failles de la DGFiP",
+        "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/on-a-la-sensation-que-quelque-chose-nous-echappe-apres-le-piratage-du-fisc-syndicats-et-elus-s-interrogent-sur-les-failles-de-la-dgfip_8156264.html#xtor=RSS-3-[lestitres]",
+        "summary": "Après le vol des données de près de 700 000 particuliers et professionnels, des employés des finances publiques et des spécialistes de la cybersécurité cherchent à comprendre comment ce piratage a pu se produire.",
+        "date": "Sun, 23 Aug 2026 07:09:44 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1787375622000
+        "ts": 1787461784000
       },
       {
-        "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
-        "url": "https://www.lemonde.fr/international/live/2026/08/22/en-direct-guerre-en-ukraine-un-mort-a-kiev-dans-une-nouvelle-attaque-nocturne-russe_6746952_3210.html",
-        "summary": "Des frappes russes ont fait au moins deux morts dans la nuit de vendredi à samedi, à Kiev et à Zaporijia, ont annocné les autorités locales après une journée marquée par une attaque meurtrière sur un centre commercial du centre du pays.",
-        "date": "Sat, 22 Aug 2026 06:48:43 +0200",
+        "title": "Un séisme de magnitude 5,9 secoue l’est du Japon, faisant plus de 30 blessés dans la région de Tokyo",
+        "url": "https://www.lemonde.fr/international/article/2026/08/23/un-seisme-de-magnitude-5-9-secoue-l-est-du-japon-faisant-plus-de-30-blesses-dans-la-region-de-tokyo_6753860_3210.html",
+        "summary": "Après le tremblement de terre qui a perturbé le trafic des trains régionaux dans la capitale, les autorités ont mis en garde contre un risque accru de glissements de terrain et de fortes répliques dans les prochains jours.",
+        "date": "Sun, 23 Aug 2026 07:02:00 +0200",
         "source": "lemonde.fr",
-        "ts": 1787374123000
+        "ts": 1787461320000
       },
       {
-        "title": "Droits de douane : pas d’accord de dernière minute entre le Canada et les Etats-Unis ; Ottawa imposera des surtaxes d’un même montant, « au dollar près », affirme Mark Carney",
-        "url": "https://www.lemonde.fr/international/article/2026/08/22/apres-l-echec-des-negociations-de-la-derniere-chance-les-nouveaux-droits-de-douane-americains-entrent-en-vigueur-contre-le-canada_6752728_3210.html",
-        "summary": "Faute d’entente entre les deux pays, les nouveaux droits de douane de 50 % voulus par Donald Trump contre un certain nombre de produits canadiens sont entrés en vigueur samedi.",
-        "date": "Sat, 22 Aug 2026 06:43:26 +0200",
+        "title": "« La justice syrienne juge désormais la responsabilité morale dans les crimes du régime Al-Assad »",
+        "url": "https://www.lemonde.fr/un-si-proche-orient/article/2026/08/23/la-justice-syrienne-juge-desormais-la-responsabilite-morale-dans-les-crimes-du-regime-al-assad_6753826_6116995.html",
+        "summary": "Le procès de l’ancien grand mufti de Damas, Ahmad Hassoun, marque une nouvelle étape dans le jugement des responsables de l’ancien régime en Syrie, analyse l’historien Jean-Pierre Filiu dans sa chronique.",
+        "date": "Sun, 23 Aug 2026 07:00:10 +0200",
         "source": "lemonde.fr",
-        "ts": 1787373806000
+        "ts": 1787461210000
+      },
+      {
+        "title": "EN DIRECT, guerre en Ukraine : trois morts dans des frappes russes dans la région de Zaporijia, selon les autorités locales",
+        "url": "https://www.lemonde.fr/international/live/2026/08/23/en-direct-guerre-en-ukraine-trois-morts-dans-des-frappes-russes-dans-la-region-de-zaporijia-selon-les-autorites-locales_6753793_3210.html",
+        "summary": "Selon Ivan Fedorov, chef de l’administration militaire de l’oblast de Zaporijia, les bombardements russes menés dans la nuit de samedi à dimanche ont aussi fait vingt blessés.",
+        "date": "Sun, 23 Aug 2026 06:35:47 +0200",
+        "source": "lemonde.fr",
+        "ts": 1787459747000
       }
     ],
     "ia": [
       {
-        "title": "DayOne prépare son IPO à Wall Street : faut-il investir dans les data centers de l’IA ? - leconseilpatrimoine.fr",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNci12emE1eUU3c2hVeUJhVWhJQnRtMG9OcTZPT2RyVnNLdXRPNThYOHl3b2FMV25aZndaMHZrSGkwUFpiRkpJUVRTYzJfeXBZcEtackF1YThEWVdUeVVGWnRxZmNGM09DWklMeEdnVE16N28tOUVBUmNPWmRjT0FZWDdCX2JfbktpbUZqbkxFNTZySm13YWpPVWY4U2JFdDFUeGdVOERBbHNKaGs?oc=5",
-        "summary": "DayOne prépare son IPO à Wall Street : faut-il investir dans les data centers de l’IA ? leconseilpatrimoine.fr",
-        "date": "Sat, 22 Aug 2026 05:33:24 GMT",
+        "title": "L’IA guérira la plupart des maladies d’ici 10 ans, selon le fondateur de Claude - Le Tribunal du Net",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMXcwejhhSThlWmI2TWZhQWZmUk9sWjBqdnp2dlVtQUhTVENBZk41VXZ1QW1qT1lROGdIV0ZTdEdZN1Z2Q21jX09DYmlTX2FwbGZIWlZjR3E0aUpnbC1DX3R4UHRHTzZ3YjdCSHozMVJRRGQ0ZVRxM0FvU0lsREtfNkJoNXNLZXpIQVJJODl3?oc=5",
+        "summary": "L’IA guérira la plupart des maladies d’ici 10 ans, selon le fondateur de Claude Le Tribunal du Net",
+        "date": "Sun, 23 Aug 2026 05:27:00 GMT",
         "source": "news.google.com",
-        "ts": 1787376804000
+        "ts": 1787462820000
       },
       {
-        "title": "FireWatch : comment fonctionne cette plate-forme qui détecte les feux de forêts ? - CNews",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObl9iMzMzU19rN3A1bmxiRlFYQzV6eERLSmpaVVd1THlPa0cwWDY5TjVhbnlBRjBlOXM5azVIaGpHV2lXaGhBbS0zc2tadlplNVJEbGJQajlxT1FjZWNtOE5hMktxVEszb1QyUXBHdGpfYkZ1VzBTcmVuWDFMUGJYRE1lT0N1cEJfbWpqTTJJdUZEak1JSVd1SXlBSnl3TEI5cGdrdGpFWUJXUEF6U0d1UFpGQ1BpRUHSAbwBQVVfeXFMTVhNUDY2WjN5dUo1eWoyVjBqMzVYSE1GTFItQ041aGZ6Q25ySURzb0phMWs4M1A4d2FiVjFLYXFUOW9jUkdURTFqTjFOUXlsWWtENjBMWGt2aXU0RmNVWHlRQk5lRExBZFJ1M21oOUVreDdwaWdhU0RwWE1xZHRQVHZ4T2NsZ2M2Y3RJdEdpWGFENlFoeWNGUEJsV3BrZm5QNEFRVTYxcmRjNFFDV1IwVFBLOVZCazlfNndNdWg?oc=5",
-        "summary": "FireWatch : comment fonctionne cette plate-forme qui détecte les feux de forêts ? CNews",
-        "date": "Sat, 22 Aug 2026 05:02:06 GMT",
+        "title": "1 million de foyers, 24 heures sur 24, ce data center IA géant à Londres met le réseau sous tension, ce qui inquiète la facture - europe-infos.fr",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPYkRrVTFuTjhvNEpvMHlvZGpSNzdQQm1lWi1UUXVYcWpvb25PMkpfcjV6a203RGRtTkpHeVBpSkpCbC1hMHAzMlVIZFItaWZuaHQyYjh2SFZJdWFGTDRLYW1PMlBJMmNXRlduazBYcGQxV3BQWlkyUHAxbWRvWUoySTFwRnhPSjFvRG1aNWpKckMweWhuekU5TzAzQ19wU25FRVloNlROeWVIcVdSZms3VzgwZW84VTVhUmFuM0l0ZzdORG9PWEVTSmZyV0tCU3lWM2o5RU1kUVpPbF81YktKWnhMMUZUYTRaa2Ywd3VvVXJOUmptWEphYlZ5U2ZxZVU?oc=5",
+        "summary": "1 million de foyers, 24 heures sur 24, ce data center IA géant à Londres met le réseau sous tension, ce qui inquiète la facture europe-infos.fr",
+        "date": "Sun, 23 Aug 2026 04:48:10 GMT",
         "source": "news.google.com",
-        "ts": 1787374926000
+        "ts": 1787460490000
       },
       {
-        "title": "Le jeu de l’IA en politique québécoise en vaut-il la chandelle? - Le Devoir",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYUtFTWlvUTVsSUlSVGtMNEc4NjBHWnJZNEl0dnFSLUpmVzR3eFR2WVJMR19yNkFTRVFEN1o3UThpaW1XcnJIMTdqYVhJR1lOaGdFMFFrSTFKV0lYc1dtWnotX3Q3QkUtU041X0FodmxMVU96M285MXdlUlIwel96U0hSSHUtMDhmWFhNTEhwYWtpZnR4SUlJRUVIYw?oc=5",
-        "summary": "Le jeu de l’IA en politique québécoise en vaut-il la chandelle? Le Devoir",
-        "date": "Sat, 22 Aug 2026 04:00:00 GMT",
+        "title": "Un gigantesque centre de données dédié à l'intelligence artificielle à Londres pourrait consommer autant d'électricité qu'un million de foyers. - Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd0p3dXJ5MUIwUTFmRmJkX1gxT1VDSV9HenVIWDdqS001R1FYTjNYcnNjSW5Ud3RuSU1KN3lUWXZZa2lHWUZYdHJCdjhDbjNSQ1hqWEN3X3JEMU1xSEFsLWxSOUlHWGJXQWFNRlRuNG9leFdsbjRncEt4LUhOM0hOd0dkQ01qUVJYeldET2FLdk5xMXlTQTZLTGh5eTB0Rjd3c1I3V3l5WnBKWGtuVlE?oc=5",
+        "summary": "Un gigantesque centre de données dédié à l'intelligence artificielle à Londres pourrait consommer autant d'électricité qu'un million de foyers. Vietnam.vn",
+        "date": "Sun, 23 Aug 2026 04:08:28 GMT",
         "source": "news.google.com",
-        "ts": 1787371200000
+        "ts": 1787458108000
       },
       {
-        "title": "Le dernier secret du Zodiac : l’IA a-t-elle identifié le plus célèbre tueur en série d’Amérique ? - Courrier international",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOa29KS3hRMXFjUUNOTzdERlNpN0F4NDZ5a3d5UzBES0htODhMREZVT2tJcjI2WG1yN0I2THVueGItWEhCRTgtVmRmc2o0WTl2VlpseEtlQzkwa1RpUFQ0SjEyanpTUERtOEQwOEdkMmdCdW9NZHBxeU1UUlM1U1phR21zR09wZWkxZzdfcnlLNUFIbTU5X25uSUhTRUtjUTkwSUtEQXNTa1JJNGpqSWswMHFlV21ZQWRqNmpaVHA4ZC01VDlsa2h3MDlGdHJhQi1jbVczazZaQVBpalYyR0RaQUlvc2RqRmhxZG5WX1BOOFltUQ?oc=5",
-        "summary": "Le dernier secret du Zodiac : l’IA a-t-elle identifié le plus célèbre tueur en série d’Amérique ? Courrier international",
-        "date": "Sat, 22 Aug 2026 03:33:25 GMT",
+        "title": "Ax-les-Thermes. Ludovia 2026 : l’école au défi de l’intelligence artificielle - ladepeche.fr",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeUlYWW1hU0VWeWkxR083Q2ZvNmttdjN3al9HQlJpd21lS1lubzZfZHF6U1U2TFBUQllkZjRWUlQyUWxiRjhWb3I1M1VJYkJiNTBYMnZ1allLQ3I0UmZuQ3U3dkVTRXc3RHBJSE11NnF3UHFUUWplVXFpWlVfSlI2bEJkT3FRaFFLclVmVkNpMXhxaEdIYzlVdVg1TXNHZk4zMElUWEhRUjdzZw?oc=5",
+        "summary": "Ax-les-Thermes. Ludovia 2026 : l’école au défi de l’intelligence artificielle ladepeche.fr",
+        "date": "Sun, 23 Aug 2026 03:12:00 GMT",
         "source": "news.google.com",
-        "ts": 1787369605000
+        "ts": 1787454720000
       },
       {
-        "title": "Top 5 IA du 21/08/2026 - Boursorama",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWEZTZXZCQ001SWRNVENQMmtGSGVwRjZqdjFBTlpWc2k4b0stTUtkVC0xSkxrV2JndkZJWWFpWDljMmlqOFRRbG9pTG9lZFB3ZHUwaVNPUjBWNTJGcTU4QnNfMVpPV0xSdkItY3ZJQkNqUEdiNURxVTRLOThid1FFUXVUMGZ5ZVVqOEhGcEIzbFhxNlN5SW1iaUVRa01OWUhyRGfSAacBQVVfeXFMT3psVG1rSzRncFhlSDFXRXVrMkRwTUV5MllYQ0w0a0w2UEsxRTVlNjFsY2RzU0tWenpwMmRFRlRvX2JQdzRILTJzSzRjakZjMWtFUWR1SGZEY2NUc0ItN2x5Y3QzQXFXSjY4NGRHS2hRMkRCRWItcjhyOWdHazhocDFlc3dLQzJPbzliTFNBS1VpVk5LS3Fmb1BEOEdOVFQwYkRCQTRtcGM?oc=5",
-        "summary": "Top 5 IA du 21/08/2026 Boursorama",
-        "date": "Sat, 22 Aug 2026 03:00:10 GMT",
+        "title": "Livre – L’intelligence artificielle et la question de l’homme - Conflits : Revue de Géopolitique",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOODRvRGtGcjJoRFFfb0RCRFpsLWZfQ0s2ZjYtX0RNX0xtaFM0RlNvcl9wcGhsd2htbzRxSHZDRWItQnhSUThjLTVKc1NMVjdhRkZudnctY1YtSklQLUN3TjJSek1wMlU3MGdmNzludVh1T196bUFEakJCZFl3VXFvMG1nWjBqWjNqeTlYczVGXzJjdw?oc=5",
+        "summary": "Livre – L’intelligence artificielle et la question de l’homme Conflits : Revue de Géopolitique",
+        "date": "Sun, 23 Aug 2026 02:43:16 GMT",
         "source": "news.google.com",
-        "ts": 1787367610000
+        "ts": 1787452996000
       },
       {
-        "title": "Tours Eiffel - GenAI Arkéa - Agentique Sosh - Pourrissement cognitif - Compute Mistral - Paradoxe coûts... - Secrets de Data",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8ybERzSXpzZ3U2NlNuRGdneVROektzbFZhQW55cDlabGxFWEt5ck1QRGJpRlRWT0dXRFFmTk1WaDRWdDBSdHBDZ0ROdjBMZzVsaEFwY0w4UWNmSWxDbWhYdWJxT1pxWDdSMTh6NFUtNVBOdkZheGM0MHlhMA?oc=5",
-        "summary": "Tours Eiffel - GenAI Arkéa - Agentique Sosh - Pourrissement cognitif - Compute Mistral - Paradoxe coûts... Secrets de Data",
-        "date": "Sat, 22 Aug 2026 02:09:41 GMT",
+        "title": "Chine demande à l'Indonésie de soutenir WAICO dans le milieu de la concurrence en IA avec les États-Unis - VOI.ID",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5NUmJJdkhHUXVoVlo1OXgwV1U2SHg2UWEwQmExWVlxM1U1WkJEM0xRbU9BbEN2SkstR09OVkNsQTVtUldkQUdpTUV30gFCQVVfeXFMTVA3SExtM3Y5NG0waUFRTS1lcTBFSm8zdkpIZ2lqa3kxQnV5TVRCUmphNE40aVNiWTN4c2FuVThVcDR3?oc=5",
+        "summary": "Chine demande à l'Indonésie de soutenir WAICO dans le milieu de la concurrence en IA avec les États-Unis VOI.ID",
+        "date": "Sun, 23 Aug 2026 02:29:42 GMT",
         "source": "news.google.com",
-        "ts": 1787364581000
+        "ts": 1787452182000
       }
     ]
   }
