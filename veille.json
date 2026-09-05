@@ -1,206 +1,206 @@
 {
-  "generated": "2026-09-04T09:34:32.851Z",
-  "dateLabel": "vendredi 4 septembre 2026",
+  "generated": "2026-09-05T09:00:17.588Z",
+  "dateLabel": "samedi 5 septembre 2026",
   "demo": false,
   "categories": {
     "sciences": [
       {
-        "title": "Des découvertes titanesques dans le \"Jurassic Park\" thaïlandais",
-        "url": "https://www.sciencesetavenir.fr/archeo-paleo/visite-du-jurassic-park-thailandais-et-ses-decouvertes-titanesques_194638?xtor=RSS-4",
-        "summary": "Depuis quelques années, la Thaïlande est devenue le pôle d'attraction privilégié des paléontologues d'Asie et d'ailleurs. Quantité de nouvelles espèces de dinosaures ont déjà été exhumées, confirmant que le sol du pays comble un vide géologique et renferme des animaux différents de ceux trouvés ail…",
-        "date": "Fri, 04 Sep 2026 09:06:36 +0000",
+        "title": "Dépression : la révolution des traitements express",
+        "url": "https://www.sciencesetavenir.fr/sante/depression-de-nouveaux-traitements-qui-agissent-en-quelques-jours_194587?xtor=RSS-16",
+        "summary": "Et si on soignait la dépression résistante en reprogrammant les circuits cérébraux ? Ultrasons focalisés, stimulation magnétique accélérée et psychédéliques ouvrent la voie à des thérapies en cinq jours, avec moins d’effets secondaires, mais qui sont encore en cours d’évaluation clinique. Explorati…",
+        "date": "Sat, 05 Sep 2026 08:00:00 +0000",
         "source": "sciencesetavenir.fr",
-        "ts": 1788512796000
+        "ts": 1788595200000
       },
       {
-        "title": "Une trithérapie à la naissance pourrait éliminer le VIH",
-        "url": "https://www.sciencesetavenir.fr/sante/un-triple-traitement-a-la-naissance-eliminerait-le-vih_194618?xtor=RSS-16",
-        "summary": "Une étude sur des macaques montre qu’il serait possible de se débarrasser complètement du virus responsable du Sida chez les nouveaux-nés, protégeant les bébés nés des mères séropositives.",
-        "date": "Fri, 04 Sep 2026 08:36:56 +0000",
-        "source": "sciencesetavenir.fr",
-        "ts": 1788511016000
-      },
-      {
-        "title": "Blue Origin et SpaceX annulent leur venue au sommet spatial de Paris",
-        "url": "https://www.sciencesetavenir.fr/espace/blue-origin-et-spacex-se-retirent-du-sommet-spatial-de-paris-sur-fond-de-pressions-americaines_194653?xtor=RSS-9",
-        "summary": "Blue Origin et SpaceX ont annulé leur participation au sommet spatial international organisé les 9 et 10 septembre 2026 à Paris. Quatre entreprises américaines renoncent désormais à ce rendez-vous, sur fond de rumeurs de pressions de la Maison Blanche.",
-        "date": "Fri, 04 Sep 2026 08:09:55 +0000",
-        "source": "sciencesetavenir.fr",
-        "ts": 1788509395000
-      },
-      {
-        "title": "Cdiscount fracasse le prix de ce spa gonflable 4 places : l’été joue les prolongations",
-        "url": "https://www.futura-sciences.com/conso/bons-plans/guides-piscine-spa-cdiscount-fracasse-prix-ce-spa-gonflable-4-places-ete-joue-prolongations-11185/#xtor%3DRSS-8",
-        "summary": "Pas besoin de transformer le jardin en centre de thalasso pour buller à la maison. Le spa gonflable carré Sunspa 4 places passe de 555,95 € à seulement 299,99 € chez Cdiscount. À ce tarif, le kit arrive avec tout son attirail : deux appuis-tête, filtre, épuisette, brosse, tapis et couverture...",
-        "date": "Fri, 04 Sep 2026 10:00:00 +0200",
+        "title": "Voici le lien insoupçonné entre notre alimentation et un type courant de cancer du poumon",
+        "url": "https://www.futura-sciences.com/sante/actualites/cancer-poumon-voici-lien-insoupconne-notre-alimentation-type-courant-cancer-poumon-w2t8-137080/#xtor%3DRSS-8",
+        "summary": "Une découverte scientifique révèle que notre régime alimentaire pourrait influencer le risque de cancer du poumon. Qui aurait pensé que ce que nous mangeons joue un rôle dans cette maladie traditionnellement associée au tabagisme ? Des chercheurs américains viennent d'identifier un lien entre le...",
+        "date": "Sat, 05 Sep 2026 09:00:00 +0200",
         "source": "futura-sciences.com",
-        "ts": 1788508800000
+        "ts": 1788591600000
       },
       {
-        "title": "Urinoirs optimisés et slips enterrés au palmarès des Ig-Nobel 2026",
-        "url": "https://www.sciencesetavenir.fr/sciences/urinoirs-optimises-et-slips-enterres-au-menu-des-anti-nobel-2026_194649?xtor=RSS-18",
-        "summary": "Comment ne pas éclabousser partout lors d'un pipi, évaluer la qualité des sols à l'aide de vieux slips ou encore piétiner des serpents venimeux, la 26è édition des Ig-Nobel a une fois de plus fait honneur à sa réputation avec un palmarès aussi hétéroclite que truculent. Exceptionnellement, l'évènem…",
-        "date": "Fri, 04 Sep 2026 07:47:03 +0000",
-        "source": "sciencesetavenir.fr",
-        "ts": 1788508023000
+        "title": "Et si un virus très répandu contribuait aussi au développement d'Alzheimer ?",
+        "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-si-virus-tres-repandu-contribuait-aussi-developpement-alzheimer-w2t8-137078/#xtor%3DRSS-8",
+        "summary": "L’hypothèse d’un lien entre la maladie d’Alzheimer et le virus de l’herpès (HSV-1) refait surface, suggérant que des infections virales pourraient jouer un rôle dans l’apparition de lésions cérébrales caractéristiques de cette pathologie – et peut-être d'autres maladies...",
+        "date": "Sat, 05 Sep 2026 08:00:00 +0200",
+        "source": "futura-sciences.com",
+        "ts": 1788588000000
       },
       {
-        "title": "Les robots européens plaident leur cause à Bruxelles",
-        "url": "https://www.lemonde.fr/sciences/article/2026/09/04/les-robots-europeens-plaident-leur-cause-a-bruxelles_6765743_1650684.html",
-        "summary": "Face aux performances parfois bluffantes des robots humanoïdes chinois mises en lumière lors de récents Jeux sportifs organisés à Pékin, les chercheurs européens font valoir leurs atouts pour rester dans la course.",
-        "date": "Fri, 04 Sep 2026 09:34:17 +0200",
+        "title": "Voici les légumes verts à privilégier en septembre, selon leurs atouts nutritionnels",
+        "url": "https://www.futura-sciences.com/sante/actualites/alimentation-voici-legumes-verts-privilegier-septembre-selon-leurs-atouts-nutritionnels-137502/#xtor%3DRSS-8",
+        "summary": "Septembre est synonyme de rentrée et se prête aussi, pour beaucoup d’entre nous, aux bonnes résolutions. Et si l'une d'entre elles était de mettre au menu des légumes de saison, de préférence cultivés à proximité, afin de profiter pleinement de leurs qualités nutritionnelles et de leur goût,...",
+        "date": "Sat, 05 Sep 2026 06:31:16 +0200",
+        "source": "futura-sciences.com",
+        "ts": 1788582676000
+      },
+      {
+        "title": "Au large de l’Angleterre, des chercheurs pensent avoir retrouvé la trace d’immense supervolcan",
+        "url": "https://www.futura-sciences.com/planete/actualites/supervolcan-large-angleterre-chercheurs-pensent-avoir-retrouve-trace-immense-supervolcan-137524/#xtor%3DRSS-8",
+        "summary": "Un volcan de plusieurs centaines de millions d'années vient d'être découvert tout près des côtes britanniques. Aujourd'hui éteint, il avait dû être extrêmement actif dans un lointain passé.",
+        "date": "Fri, 04 Sep 2026 21:16:50 +0200",
+        "source": "futura-sciences.com",
+        "ts": 1788549410000
+      },
+      {
+        "title": "Sébastien Lecornu inaugure l’usine de fusées réutilisables de MaiaSpace à Vernon",
+        "url": "https://www.lemonde.fr/economie/article/2026/09/04/sebastien-lecornu-inaugure-l-usine-de-fusees-reutilisables-de-maiaspace-a-vernon_6765862_3234.html",
+        "summary": "L’usine doit à terme couvrir 12 000 mètres carrés et produire divers composants de fusées dont la capacité d’emport est de 4 tonnes en orbite basse, contre 22,8 tonnes pour la fusée Falcon 9 de SpaceX.",
+        "date": "Fri, 04 Sep 2026 21:13:21 +0200",
         "source": "lemonde.fr",
-        "ts": 1788507257000
+        "ts": 1788549201000
       }
     ],
     "tech": [
       {
-        "title": "Actualité : Mova donne le sens du toucher à ses aspirateurs-robots et un bras à sa tondeuse",
-        "url": "https://www.lesnumeriques.com/robot-tondeuse/mova-donne-le-sens-du-toucher-a-ses-aspirateurs-robots-et-un-bras-a-sa-tondeuse-n261122.html",
-        "summary": "À l’IFA 2026, Mova veut donner davantage de sens et surtout de bras à ses robots. Sa tondeuse AstraX peut déplacer des objets, arroser ou cueillir certains fruits, tandis que ses aspirateurs apprennent à détecter les contacts.",
-        "date": "2026-09-04T11:30:00+02:00",
-        "source": "lesnumeriques.com",
-        "ts": 1788514200000
-      },
-      {
-        "title": "Bilan de l’été 2026 : 53 jours de vague de chaleur et des records que le changement climatique rend de moins en moins exceptionnels",
-        "url": "https://www.numerama.com/sciences/2325119-bilan-de-lete-2026-53-jours-de-vague-de-chaleur-et-des-records-que-le-changement-climatique-rend-de-moins-en-moins-exceptionnels.html",
-        "summary": "Météo-France a publié un bilan de l'été 2026, marqué par les canicules et les vagues de chaleur. Un tel été aurait été « quasi impossible sans changement climatique ». Quasiment aucune partie du territoire n'a été épargnée.",
-        "date": "Fri, 04 Sep 2026 09:28:56 +0000",
-        "source": "numerama.com",
-        "ts": 1788514136000
-      },
-      {
-        "title": "Vietnam prévoit d’investir 10.000 milliards de dôngs dans des infrastructures de recherche mutualisées - lecourrier.vn",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNGYtZUp1cXh0d0FpM05JWm9zS1ZwTy1pVC1EWFRSeFZOMW5SWUF5Ql9iZmJnZVV6dmtFVWJtU1VRLUc0bldQNWJJd1EtTXJid3E5N29fa21OMHpheEo1UEdzOHhQUUFzMGpneDJjNnZxTFdEcnB1cFZTU3JsMnE1OFQ3eEdXQ0RVWGVwWXRqRjVNVXFUcGpMOGVQZkxvTndTVmswVk1UT1pMMjJvQlQ5cm5YVlA2ajA0NWw0SVVhMW5SWThRM3ptN3dTSld4eVds?oc=5",
-        "summary": "Vietnam prévoit d’investir 10.000 milliards de dôngs dans des infrastructures de recherche mutualisées lecourrier.vn",
-        "date": "Fri, 04 Sep 2026 09:26:00 GMT",
+        "title": "TECNO Modular Phone et TAURUS : les innovations de l'IFA 2026 - BlogNT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWo0VFlSbmVvOUhGNmthWllwM1dULVlna182LWZlUWcxUEVoSGRyeEs0LXg2UEpEY0xUcnEzRjJSYVRJbDdnNzZWWWR4TUdCT1pqdE9EZC1UU0x4aFZMRzdkOG1CaTIxQV84M1VOTWh2ZWxMYmdrVGdkbW5HcU1nWThXQ0ZwckZM?oc=5",
+        "summary": "TECNO Modular Phone et TAURUS : les innovations de l'IFA 2026 BlogNT",
+        "date": "Sat, 05 Sep 2026 08:50:46 GMT",
         "source": "news.google.com",
-        "ts": 1788513960000
+        "ts": 1788598246000
       },
       {
-        "title": "Actualité : Netflix prépare une série Donjons & Dragons avec Alfonso Cuarón, et ça s’annonce très sombre",
-        "url": "https://www.lesnumeriques.com/cine-svod/netflix-prepare-une-serie-donjons-dragons-avec-alfonso-cuaron-et-ca-s-annonce-tres-sombre-n261363.html",
-        "summary": "Le géant du streaming est en train de développer l'adaptation en série live-action du célèbre jeu de rôles Donjons et Dragons, et en particulier son univers horrifique Ravenloft.",
-        "date": "2026-09-04T11:25:00+02:00",
+        "title": "Actualité : Un adolescent crée un robot tortue pour détecter les menaces environnementales sous-marines avec 96 % de précision",
+        "url": "https://www.lesnumeriques.com/concept/un-adolescent-cree-un-robot-tortue-pour-detecter-les-menaces-environnementales-sous-marines-avec-96-de-precision-n261326.html",
+        "summary": "Âgé de seulement 15 ans, Evan Budz a décidé de protéger les fonds marins grâce à sa création : un robot en forme de tortue.",
+        "date": "2026-09-05T10:50:00+02:00",
         "source": "lesnumeriques.com",
-        "ts": 1788513900000
+        "ts": 1788598200000
       },
       {
-        "title": "Tesla lance officiellement le Cybercab à Austin, mais seulement 45 exemplaires sont en service au Texas",
-        "url": "https://www.numerama.com/vroom/2325055-tesla-lance-officiellement-le-cybercab-a-austin-mais-seulement-45-exemplaires-sont-en-service-au-texas.html",
-        "summary": "C'est enfin l'heure du lancement pour le Cybercab. Le taxi autonome de Tesla rejoint officiellement la flotte de véhicules actuellement constituée de Model Y sous FSD Unsupervised. Un événement discret, mais qui soulève déjà des questions.",
-        "date": "Fri, 04 Sep 2026 09:13:05 +0000",
+        "title": "Wonder Woman lave son linge sale, The Witcher 3 se montre généreux et Dragon Ball Super a droit à un joli lifting : c’est le récap pop culture de la semaine",
+        "url": "https://www.numerama.com/pop-culture/2325789-wonder-woman-lave-son-linge-sale-the-witcher-3-se-montre-genereux-et-dragon-ball-super-a-droit-a-un-joli-lifting-cest-le-recap-pop-culture-de-la-semaine.html",
+        "summary": "La semaine de la rentrée a été riche en actus du côté de la pop culture. Un moment propice pour Gal Gadot, l’actrice qui incarne Wonder Woman au cinéma, pour faire quelques révélations sur le pourquoi du comment Wonder Woman 3 ne verra, a priori, jamais le jour. De son côté, grand prince, CD Projek…",
+        "date": "Sat, 05 Sep 2026 08:45:00 +0000",
         "source": "numerama.com",
-        "ts": 1788513185000
+        "ts": 1788597900000
       },
       {
-        "title": "StarCraft 3 à la BlizzCon ? De curieux indices ont été relevés sur le site officiel, qui fait semblant de buguer",
-        "url": "https://www.numerama.com/pop-culture/2325113-starcraft-3-a-la-blizzcon-de-curieux-indices-ont-ete-releves-sur-le-site-officiel-qui-fait-semblant-de-buguer.html",
-        "summary": "Juste avant BlizzCon 2026, le site officiel de StarCraft s'est mis à buguer volontairement, pendant qu'un quotidien coréen annonce un accord entre Blizzard et Nexon. De quoi raviver l'espoir d'un StarCraft 3, quinze ans après le dernier épisode.",
-        "date": "Fri, 04 Sep 2026 09:09:11 +0000",
+        "title": "La série Spider-Noir est annulée malgré 11 nominations aux Emmy Awards",
+        "url": "https://www.numerama.com/pop-culture/2325925-la-serie-spider-noir-est-annulee-malgre-11-nominations-aux-emmy-awards.html",
+        "summary": "Spider-Noir a beau avoir reçu onze nominations aux Emmy Awards, un record en 2026 pour une série diffusée sur Amazon Prime Video, il n'y aura pas de deuxième saison.",
+        "date": "Sat, 05 Sep 2026 08:31:04 +0000",
         "source": "numerama.com",
-        "ts": 1788512951000
+        "ts": 1788597064000
+      },
+      {
+        "title": "Actualité : On a dégoté la barre de son la plus titanesque de l’IFA (vos voisins vont adorer ses 11.8.8 canaux)",
+        "url": "https://www.lesnumeriques.com/barre-de-son/on-a-degote-la-barre-de-son-la-plus-titanesque-de-l-ifa-vos-voisins-vont-adorer-ses-11-8-8-canaux-n261399.html",
+        "summary": "Avec son X Pro, Ultimea signe l’un des systèmes home cinéma sans fil à éléments séparés les plus ambitieux jamais créés. Capable de grimper jusqu’à 11.8.8 canaux, il fait le pont entre la simplicité du sans fil et les compositions traditionnelles à enceintes passives, avec une débauche de haut-parl…",
+        "date": "2026-09-05T10:21:00+02:00",
+        "source": "lesnumeriques.com",
+        "ts": 1788596460000
+      },
+      {
+        "title": "Actualité : Le 8 septembre la Lune va trôner entre deux planètes ; Saturne et étoiles filantes en prime",
+        "url": "https://www.lesnumeriques.com/astronomie-conquete-spatiale/le-8-septembre-la-lune-va-troner-entre-les-planetes-saturne-et-etoiles-filantes-en-prime-n261405.html",
+        "summary": "Le mois de septembre offre encore un beau spectacle, notamment pour découvrir les planètes visibles à l'œil nu : Jupiter, Mars et Saturne, sans oublier Vénus en tout début de nuit. De plus, des étoiles filantes viendront fuser dans le ciel entre le 8 et le 10 septembre.",
+        "date": "2026-09-05T10:15:00+02:00",
+        "source": "lesnumeriques.com",
+        "ts": 1788596100000
       }
     ],
     "politique": [
       {
-        "title": "Olivier Faure, Raphaël Glucksmann, Ségolène Royal... Qui sont (à ce stade) les candidats à la primaire socialiste pour la présidentielle 2027 ?",
-        "url": "https://www.franceinfo.fr/elections/presidentielle/raphael-glucksmann-segolene-royal-qui-sont-a-ce-stade-les-candidats-a-la-primaire-socialiste-pour-la-presidentielle-2027_8159171.html#xtor=RSS-3-[lestitres]",
-        "summary": "Les militants et sympathisants du PS et de Place publique sont invités à choisir leur prétendant les 9 et 10 octobre prochains.",
-        "date": "Fri, 04 Sep 2026 11:30:44 +0200",
+        "title": "Crue meurtrière au Népal : un troisième rescapé, de nationalité chinoise, a été extrait vivant d'un tunnel",
+        "url": "https://www.franceinfo.fr/monde/asie/seisme-au-nepal/crue-meurtriere-au-nepal-un-troisieme-rescape-de-nationalite-chinoise-a-ete-extrait-vivant-d-un-tunnel_8178500.html#xtor=RSS-3-[lestitres]",
+        "summary": "Juste après le désastre, les autorités népalaises avaient estimé à une centaine le nombre d'ouvriers susceptibles d'être bloqués dans ce tunnel.",
+        "date": "Sat, 05 Sep 2026 10:57:23 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1788514244000
+        "ts": 1788598643000
       },
       {
-        "title": "La nécessaire dissuasion européenne envers la Russie",
-        "url": "https://www.lemonde.fr/idees/article/2026/09/04/la-necessaire-dissuasion-europeenne-envers-la-russie_6765759_3232.html",
-        "summary": "En désignant Moscou comme le responsable d’une attaque avortée impliquant un drone chargé d’explosifs à l’aéroport de Leipzig, début août, Berlin a fait un premier pas. La riposte à cet acte de guerre, jusqu’ici limitée, ne saurait cependant se restreindre à la seule Allemagne. Les pays du Vieux Co…",
-        "date": "Fri, 04 Sep 2026 11:30:02 +0200",
-        "source": "lemonde.fr",
-        "ts": 1788514202000
-      },
-      {
-        "title": "Dans le détroit d’Ormuz, une reprise limitée des hostilités",
-        "url": "https://www.lemonde.fr/international/article/2026/09/04/dans-le-detroit-d-ormuz-une-reprise-limitee-des-hostilites_6765757_3210.html",
-        "summary": "Après un mois d’accalmie, deux nuits de frappes américaines et des représailles iraniennes quotidiennes ont ravivé les tensions dans le Golfe, sans qu’aucun camp souhaite une escalade totale.",
-        "date": "Fri, 04 Sep 2026 11:29:11 +0200",
-        "source": "lemonde.fr",
-        "ts": 1788514151000
-      },
-      {
-        "title": "EN DIRECT, guerre en Ukraine : la Russie dit avoir intercepté 490 drones ukrainiens pendant la nuit",
-        "url": "https://www.lemonde.fr/international/live/2026/09/04/en-direct-guerre-en-ukraine-la-russie-dit-avoir-intercepte-490-drones-ukrainiens-pendant-la-nuit_6760568_3210.html",
-        "summary": "Les opérations d’interception ont eu lieu au-dessus des territoires de la Russie, de la Crimée, annexée par la Russie en 2014, et des eaux de la mer Noire, selon le ministère de la défense russe.",
-        "date": "Fri, 04 Sep 2026 11:23:52 +0200",
-        "source": "lemonde.fr",
-        "ts": 1788513832000
-      },
-      {
-        "title": "Indemnisations accélérées, aides au carburant prolongées... Ce qu'il faut retenir du plan de soutien aux agriculteurs dévoilé par la ministre Annie Genevard",
-        "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/indemnisations-accelerees-aides-au-carburant-prolongees-ce-qu-il-faut-retenir-du-plan-de-soutien-aux-agriculteurs-devoile-par-la-ministre-annie-genevard_8176580.html#xtor=RSS-3-[lestitres]",
-        "summary": "Après un été marqué par des épisodes climatiques intenses et des pertes de rendement importantes, ces mesures, dotées d'une enveloppe d'un milliard d'euros, visent à éviter des faillites et relancer la production.",
-        "date": "Fri, 04 Sep 2026 11:18:02 +0200",
+        "title": "Election présidentielle : \"Entre le Rassemblement national et moi, il y a deux mondes\", lance Gabriel Attal à la braderie de Lille",
+        "url": "https://www.franceinfo.fr/politique/direct-campagne-presidentielle-jean-luc-melenchon-gabriel-attal-et-marine-tondelier-venus-vendre-leur-candidature-a-la-braderie-de-lille_8178386.html#xtor=RSS-3-[lestitres]",
+        "summary": "La braderie de Lille, lancée au Moyen-âge, est l'un des événements les plus emblématiques de la vie lilloise. Mais il s'agit aussi d'un lieu prisé des personnalités politiques nationales.",
+        "date": "Sat, 05 Sep 2026 10:48:59 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1788513482000
+        "ts": 1788598139000
       },
       {
-        "title": "Xenia Fedorova : Jean-Noël Barrot se dit « affligé » du retour de la propagandiste pro-Poutine sur CNews et dans le « JDNews »",
-        "url": "https://www.lemonde.fr/actualite-medias/article/2026/09/04/xenia-fedorova-jean-noel-barrot-se-dit-afflige-du-retour-de-la-propagandiste-pro-poutine-sur-cnews-et-dans-le-jdnews_6765756_3236.html",
-        "summary": "La chroniqueuse russe, expulsée de France cet été et dont la chaîne de Vincent Bolloré a annoncé le retour prochain à l’antenne, à distance, « n’est pas une journaliste mais une agente d’ingérence au service de la Russie », a fait valoir le ministre des affaires étrangères.",
-        "date": "Fri, 04 Sep 2026 11:16:25 +0200",
-        "source": "lemonde.fr",
-        "ts": 1788513385000
+        "title": "Guerre en Ukraine : les émissaires de Donald Trump attendus à Moscou et à Kiev pour \"faire avancer les choses\", selon le président américain",
+        "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-les-emissaires-de-donald-trump-attendus-a-moscou-et-a-kiev-pour-faire-avancer-les-choses-selon-le-president-americain_8178449.html#xtor=RSS-3-[lestitres]",
+        "summary": "Les deux émissaires américains se sont déjà rendus à Moscou, pour la dernière fois en janvier, mais ne se sont encore jamais allés dans la capitale ukrainienne.",
+        "date": "Sat, 05 Sep 2026 10:42:52 +0200",
+        "source": "francetvinfo.fr",
+        "ts": 1788597772000
+      },
+      {
+        "title": "Sept départements du sud de la France sont en vigilance orange \"canicule\" avec des températures \"inédites pour un mois de septembre\"",
+        "url": "https://www.franceinfo.fr/environnement/meteo/sept-departements-du-sud-de-la-france-sont-en-vigilance-orange-canicule-des-temperatures-inedites-pour-un-mois-de-septembre_8178356.html#xtor=RSS-3-[lestitres]",
+        "summary": "Ces chaleurs doivent continuer sur la journée de dimanche, avant un rafraîchissement prévu pour lundi.",
+        "date": "Sat, 05 Sep 2026 10:32:57 +0200",
+        "source": "francetvinfo.fr",
+        "ts": 1788597177000
+      },
+      {
+        "title": "Donald Trump affirme que ses émissaires se rendent à Moscou et à Kiev avec un plan \"visant à mettre fin à la guerre\"",
+        "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-affirme-que-ses-emissaires-se-rendent-a-moscou-et-a-kiev-avec-un-plan-visant-a-mettre-fin-a-la-guerre_8177936.html#xtor=RSS-3-[lestitres]",
+        "summary": "Ce sera la première fois que Jared Kushner et Steve Witkoff se rendront à Kiev depuis le retour de Donald Trump au pouvoir l'année dernière.",
+        "date": "Sat, 05 Sep 2026 10:30:52 +0200",
+        "source": "francetvinfo.fr",
+        "ts": 1788597052000
+      },
+      {
+        "title": "Trois hommes soupçonnés de projeter un départ vers l'Etat islamique et une attaque antisémite mis en examen",
+        "url": "https://www.franceinfo.fr/faits-divers/terrorisme/trois-hommes-soupconnes-de-projeter-un-depart-vers-l-etat-islamique-et-une-attaque-antisemite-mis-en-examen_8178488.html#xtor=RSS-3-[lestitres]",
+        "summary": "Arrêtés mardi, les suspects ont été placés en détention dans la foulée de leur mise en examen, dans la nuit de vendredi à samedi.",
+        "date": "Sat, 05 Sep 2026 10:24:18 +0200",
+        "source": "francetvinfo.fr",
+        "ts": 1788596658000
       }
     ],
     "ia": [
       {
-        "title": "Acheter un assistant IA ne construit pas une compétence IA",
-        "url": "https://www.lemondeinformatique.fr/actualites/lire-acheter-un-assistant-ia-ne-construit-pas-une-competence-ia-100769.html",
-        "summary": "L’IA arrive dans les entreprises au moment où une partie du marché s’emploie déjà à la rendre invisible. (...)",
-        "date": "2026-09-04T11:21:32+01:00",
-        "source": "lemondeinformatique.fr",
-        "ts": 1788517292000
-      },
-      {
-        "title": "Construire pour changer de modèle évite le prochain vendor Lock-in",
-        "url": "https://www.lemondeinformatique.fr/actualites/lire-construire-pour-changer-de-modele-evite-le-prochain-vendor-lock-in-100768.html",
-        "summary": "Pendant vingt ans, les entreprises ont appris à vivre avec le vendor lock-in : une base difficile à migrer, un ERP autour duquel tout finit (...)",
-        "date": "2026-09-04T11:12:42+01:00",
-        "source": "lemondeinformatique.fr",
-        "ts": 1788516762000
-      },
-      {
-        "title": "Vous avez la possibilité de la désactiver : la méthode simple et efficace pour dire adieu à l’intelligence artificielle dans WhatsApp - TF1 Info",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNcmI4ZUFyZWJvUWZoZ0o3REhOS0Z0LWF2bTlNdjVlY0o4TVh1YlJnMHQ5cHd4bzdIQWNXSG5udnkxYXNGek9Qb3kzUVBJd0lFYWw1U3BxdFdObi1wMHpCYzF5RG11V0VkMHVraVMwQVdrYzNTRGxDeDdIS1UwQ183aEZtNERyTk54R2liemJlQmFWTDNuMDhyT2hHamI4Ty1LWE41TmdrcVh0T2VfeDFoNk42ZzNOUnU4M09Ebk8zYTZiVGlEVmo1eHpDa2pwVHcyN2JxT3dvSWZsdm5IMjdCX3JLYmQ2dmh2TnI0SDhqSmtyOW9IMnNCRWt6Qk5yYUxLMjREeC0yRGo?oc=5",
-        "summary": "Vous avez la possibilité de la désactiver : la méthode simple et efficace pour dire adieu à l’intelligence artificielle dans WhatsApp TF1 Info",
-        "date": "Fri, 04 Sep 2026 09:30:41 GMT",
+        "title": "Des agents IA d'OpenAI auraient contourné leurs garde-fous pour collaborer sur internet - Les Echos",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSzA1NHQwdUZEcUo2TXYyTUFkMHZxT3RFd1Z1OGxoanlPLVVDOFFOUy1tRUM1S3pnV2lCU2lKb0d6S3JwbkV5TWduTFhWVUh1MldpSGhlYUxIVVphc0pUNXVlbjI3SGU3cUxVWG1Jc2dEVmNsbHIydEdzbk13Yk9EY1dGN3l3eFJMSk5PTkl4WG5sZHJkMndIMmRGclVsNnlELVVDdExxdzlqTTl4d05BbEVFMTRLWnR1ZDlqQmVSLVd0QW9QZUQ0aFhZWldMSThqMTdlaXVjejhVaEdPOThfOWdGNm8wNE1SN0Qwaw?oc=5",
+        "summary": "Des agents IA d'OpenAI auraient contourné leurs garde-fous pour collaborer sur internet Les Echos",
+        "date": "Sat, 05 Sep 2026 08:44:38 GMT",
         "source": "news.google.com",
-        "ts": 1788514241000
+        "ts": 1788597878000
       },
       {
-        "title": "OpenAI lance GPT-6 Astra, un modèle IA capable de piratage - Stratégies",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVi1teElKMW1xcjlmZnBvVWdhaGYwTVlSUE95QU1ydGtLb29JX0dIWkNXUGRmNmZMZWdyQWdSVzFiWVphczNwOFVud25QaHlyYmtYM3cwdVdBNTNrbmNKZnVtXzU4M3RRMEZ6bXRaTFBWMEM1Nnc5RmZIWm14TTJyUmFxZHRoeHRuVHdzMW4xdUc0S0hFeHhZYldjU0Z0dTFKZjlXMzZIbDBxdnQyRlRrQmJlTXZfU1prZERuSThLOWU?oc=5",
-        "summary": "OpenAI lance GPT-6 Astra, un modèle IA capable de piratage Stratégies",
-        "date": "Fri, 04 Sep 2026 09:22:54 GMT",
+        "title": "GPT-6 Astra : performances en hausse, transparence en baisse - L'Essentiel de l'Éco",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS1JjSTc0QUd6cFNxRl9pVG50anFvS1NsM24tTHc3eVRjazdYR0hXVWRVdDBVU3JoeUY4XzMwa3ktTk9NVFdVMWNiUG5YTmV5WXF4RGhqVVJWVFNSM1ktX1QzQmJyNjBzZXZiSEJBU1VYSU92d0Q3QjdaVlh4UW5KTHhFVlZzcDc4dDVXS1BFN1ZZX01PMmc?oc=5",
+        "summary": "GPT-6 Astra : performances en hausse, transparence en baisse L'Essentiel de l'Éco",
+        "date": "Sat, 05 Sep 2026 08:43:07 GMT",
         "source": "news.google.com",
-        "ts": 1788513774000
+        "ts": 1788597787000
       },
       {
-        "title": "AI Act : les 7 règles à respecter dès maintenant (et les 2 à venir) - journaldunet.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd2owTkRvbGw3dHF6bVJEYXFsLXd0VDIxZXdIa3ZaM0RrYjFUREt6VWRqMUE4NkZ0Qzk4a2NVZHd5bEpBT3Y2OGhxc1M2emduQVRwN1d1OUdCazc2NTg5SDJOeGtCcUotUTlNUGQtQTVuaWVVcVpKMHJqa1BIVDRFRUFGaXljVmdyeEpCZzdDcHQ5Y1FxT2duTW15aFV1ajVNbGJZajhjNEp0M0ktUThud2NRcGoybHhzNFlvb0hOWERxclBRUnc?oc=5",
-        "summary": "AI Act : les 7 règles à respecter dès maintenant (et les 2 à venir) journaldunet.com",
-        "date": "Fri, 04 Sep 2026 09:22:14 GMT",
+        "title": "Rentrée scolaire 2026 : légitimer, interdire, faire avec… ? Comment les profs s’adaptent face à l’IA - La Croix",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdUZfdUtBNTh5bEhZRXYyd3hoRzlBTUt5MzhKTnQ2TW55RXIzVjJOR2NYWkJ2UFV6Vy1jTmZOWXdjTHl4SUFYTGpHRHQzMVlZUGgzSnRUT1BVUjBwRV9kYTZBaW5mTEM1dGQ1QVFSMnBUSVhnQi0zZ2oxUXZXN1BWX2wzZVEtMUZJbkwtV2RCcnpCaVVJd3NnZzF4SHl4cGJXZ0w5blZLWUxrb09tS0ZvME13Y2FCNzZtSlRCMGFzYzRCeUxSSlozbEVBcXRIaHM?oc=5",
+        "summary": "Rentrée scolaire 2026 : légitimer, interdire, faire avec… ? Comment les profs s’adaptent face à l’IA La Croix",
+        "date": "Sat, 05 Sep 2026 08:37:19 GMT",
         "source": "news.google.com",
-        "ts": 1788513734000
+        "ts": 1788597439000
       },
       {
-        "title": "« Les artisans aussi peuvent profiter de l'intelligence artificielle » : expert en IA, Loïc Conan bientôt en conférence - Actu.fr",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRk9ZSW9KWnNUekRicVBGLUhjOG9BTk5uY2ZGN2RxaEd6M0RMUUU2V2ZWY29vOXJEZXh2b2xkOUwyYkMtelBLVWJpVVpuOV9hZ0o5QklmUGgzT3dST0w3dXk4M3ZrdG5wQUVfU0xPREVCclpaendvVG80N3BUVUZRdHpIakRXWW5Fc2wtRDh4TzJ6VTlEMkI1aEpLOWZVdzBIV0xRZWVZSWV4RGF0QnZndUN0OWMxWFQtdXN4eWQ3SFZ4WXQxY0dCTEtHd1B6SGZKTkZhX2pucmNDbWRqVlhfNFVBYjdGUnhma2NDd08wcndRaGJOdUtqZ18xSVdyR0RX?oc=5",
-        "summary": "« Les artisans aussi peuvent profiter de l'intelligence artificielle » : expert en IA, Loïc Conan bientôt en conférence Actu.fr",
-        "date": "Fri, 04 Sep 2026 09:15:51 GMT",
+        "title": "«Nouvel essaim dans la nature» : des agents IA d’OpenAI dévoyés avaient déjà collaboré sur internet avant l’incident Hugging Face - Le Figaro",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbFlCMXNNSlVRcW85QTh3bEJnd2hHeXhQcDRlOFpXbzZOMmR3VndqTzFtVnBtdWZLc1BDMEs3d1BPYXZIc20zVGJrRXVmZnhLRjljTW1hNDd6Y0dIc3M0NnZqYUFoSUtybXZBdjhDLUpZYkxaT0NmV1RucEpQaFhPYnpfYmJhVTRUN1hDdXZvYVpLY2JOdFdzQ3Jvcmt6N2w4elNXMmgtUVhpaE9GYTFjY0VhaDYxX2F3MHlTZ005NjVrNmVhUkVMcGwwbHdHcFpuRHJuWUtkV1MzbzVkUGROS2pvVW1xQUQtRWRNdUJua2ZpWWNlRVdFZnNfenI?oc=5",
+        "summary": "«Nouvel essaim dans la nature» : des agents IA d’OpenAI dévoyés avaient déjà collaboré sur internet avant l’incident Hugging Face Le Figaro",
+        "date": "Sat, 05 Sep 2026 08:29:35 GMT",
         "source": "news.google.com",
-        "ts": 1788513351000
+        "ts": 1788596975000
+      },
+      {
+        "title": "Moches et pas chères, d’où vient cette épidémie d’affiches générées par intelligence artificielle - Yahoo Actualités",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMlg0X2hxbm81Ui0zT2xiVUNlMldKaHZDdGxENVJWMEhjWnhmMk4zUGZOX2Fkbk5IN1FaYV9hWld6LTFxUjJtQm8xUVV2WVk5UkRyV0IxWWw5Y21vU2RLSEJOaDdzeHo2RWVvTmQ5bl9zX1lPM1FyWVZkNklQcUwyYlpLR0dfcU9j?oc=5",
+        "summary": "Moches et pas chères, d’où vient cette épidémie d’affiches générées par intelligence artificielle Yahoo Actualités",
+        "date": "Sat, 05 Sep 2026 08:02:36 GMT",
+        "source": "news.google.com",
+        "ts": 1788595356000
+      },
+      {
+        "title": "D’où vient cette épidémie d’affiches générées par IA ? - 20 Minutes",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa0ctaFlhMVJiRkduS2hENHVuXzMzRnVXaGxZZ0ItOWY5VF9pOVplZ09SeHJnNDVfdDJIRVAzaHcxUU9od0pNd2VCSk9LTk9PVl9DbEhTT040MHNrRWlrSzNTRWRCUHFkajhCclhVblFMcHJsSEVuejJmeV9qMWdiQldMcFlkanRJWk1fRmpFSE9LdnBzcENhbjlGTUt0QjY2b1hwR09jY2d3MEEwOFlGeTRYcm5xUWVzTlJheTVYQmJDNF9BOE5KdUNKVWJjUVph?oc=5",
+        "summary": "D’où vient cette épidémie d’affiches générées par IA ? 20 Minutes",
+        "date": "Sat, 05 Sep 2026 08:02:00 GMT",
+        "source": "news.google.com",
+        "ts": 1788595320000
       }
     ]
   }
