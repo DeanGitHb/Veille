@@ -1,206 +1,206 @@
 {
-  "generated": "2026-09-05T09:00:17.588Z",
-  "dateLabel": "samedi 5 septembre 2026",
+  "generated": "2026-09-06T09:22:56.940Z",
+  "dateLabel": "dimanche 6 septembre 2026",
   "demo": false,
   "categories": {
     "sciences": [
       {
-        "title": "Dépression : la révolution des traitements express",
-        "url": "https://www.sciencesetavenir.fr/sante/depression-de-nouveaux-traitements-qui-agissent-en-quelques-jours_194587?xtor=RSS-16",
-        "summary": "Et si on soignait la dépression résistante en reprogrammant les circuits cérébraux ? Ultrasons focalisés, stimulation magnétique accélérée et psychédéliques ouvrent la voie à des thérapies en cinq jours, avec moins d’effets secondaires, mais qui sont encore en cours d’évaluation clinique. Explorati…",
-        "date": "Sat, 05 Sep 2026 08:00:00 +0000",
+        "title": "La plante de la semaine : ses plumeaux capturent la rosée et se couvrent de « diamants » au soleil",
+        "url": "https://www.futura-sciences.com/maison/actualites/jardin-plante-semaine-plumeaux-capturent-rosee-couvrent-diamants-soleil-137522/#xtor%3DRSS-8",
+        "summary": "Les Français sont de vrais « jardinophiles » ! Et vous ? Avec cette chronique, (re)découvrez une plante, un fruit, un légume.En septembre, synonyme de rentrée, alors que les massifs se dégarnissent peu à peu, une majestueuse graminée, l’herbe aux diamants, se déploie et montre ses plus beaux...",
+        "date": "Sun, 06 Sep 2026 11:03:59 +0200",
+        "source": "futura-sciences.com",
+        "ts": 1788685439000
+      },
+      {
+        "title": "Connaissez-vous la règle des 8-8-8, cette routine simple recommandée par un médecin pour mieux équilibrer vos journées ?",
+        "url": "https://www.futura-sciences.com/sante/actualites/hygiene-vie-connaissez-vous-regle-8-8-8-cette-routine-simple-recommandee-medecin-mieux-equilibrer-vos-journees-k2m6-137243/#xtor%3DRSS-8",
+        "summary": "Huit heures de sommeil, huit heures de travail, huit heures pour soi : la formule circule comme une recommandation médicale. Elle vient en réalité du mouvement ouvrier du XIXe siècle. Reste qu'un médecin y voit un repère utile, à condition de ne pas la suivre à la lettre.",
+        "date": "Sun, 06 Sep 2026 10:00:00 +0200",
+        "source": "futura-sciences.com",
+        "ts": 1788681600000
+      },
+      {
+        "title": "Ces codes anciens qui préservent leurs secrets",
+        "url": "https://www.sciencesetavenir.fr/archeo-paleo/archeologie/ces-codes-anciens-qui-preservent-leurs-secrets_194596?xtor=RSS-4",
+        "summary": "Étrusque, rongorongo, linéaire A… vieilles de 500 ou de 5000 ans, plusieurs écritures restent illisibles malgré parfois plus d’un siècle de recherches. Mais de nouvelles méthodes pourraient enfin faire parler ces signes muets.",
+        "date": "Sun, 06 Sep 2026 08:00:00 +0000",
         "source": "sciencesetavenir.fr",
-        "ts": 1788595200000
+        "ts": 1788681600000
       },
       {
-        "title": "Voici le lien insoupçonné entre notre alimentation et un type courant de cancer du poumon",
-        "url": "https://www.futura-sciences.com/sante/actualites/cancer-poumon-voici-lien-insoupconne-notre-alimentation-type-courant-cancer-poumon-w2t8-137080/#xtor%3DRSS-8",
-        "summary": "Une découverte scientifique révèle que notre régime alimentaire pourrait influencer le risque de cancer du poumon. Qui aurait pensé que ce que nous mangeons joue un rôle dans cette maladie traditionnellement associée au tabagisme ? Des chercheurs américains viennent d'identifier un lien entre le...",
-        "date": "Sat, 05 Sep 2026 09:00:00 +0200",
+        "title": "Un randonneur fait une découverte inquiétante dans un parc national protégé",
+        "url": "https://www.futura-sciences.com/planete/actualites/environnement-randonneur-fait-decouverte-inquietante-parc-national-protege-w2t8-137084/#xtor%3DRSS-8",
+        "summary": "Après sa visite dans les parcs nationaux de Kings Canyon et de Sequoia, en Californie, un randonneur a posté les images de comportements choquants de la part de certains touristes, suscitant la consternation. Vandalisme, irresponsabilité, négligence… Comment inciter les promeneurs au respect et...",
+        "date": "Sun, 06 Sep 2026 09:00:00 +0200",
         "source": "futura-sciences.com",
-        "ts": 1788591600000
+        "ts": 1788678000000
       },
       {
-        "title": "Et si un virus très répandu contribuait aussi au développement d'Alzheimer ?",
-        "url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-si-virus-tres-repandu-contribuait-aussi-developpement-alzheimer-w2t8-137078/#xtor%3DRSS-8",
-        "summary": "L’hypothèse d’un lien entre la maladie d’Alzheimer et le virus de l’herpès (HSV-1) refait surface, suggérant que des infections virales pourraient jouer un rôle dans l’apparition de lésions cérébrales caractéristiques de cette pathologie – et peut-être d'autres maladies...",
-        "date": "Sat, 05 Sep 2026 08:00:00 +0200",
-        "source": "futura-sciences.com",
-        "ts": 1788588000000
-      },
-      {
-        "title": "Voici les légumes verts à privilégier en septembre, selon leurs atouts nutritionnels",
-        "url": "https://www.futura-sciences.com/sante/actualites/alimentation-voici-legumes-verts-privilegier-septembre-selon-leurs-atouts-nutritionnels-137502/#xtor%3DRSS-8",
-        "summary": "Septembre est synonyme de rentrée et se prête aussi, pour beaucoup d’entre nous, aux bonnes résolutions. Et si l'une d'entre elles était de mettre au menu des légumes de saison, de préférence cultivés à proximité, afin de profiter pleinement de leurs qualités nutritionnelles et de leur goût,...",
-        "date": "Sat, 05 Sep 2026 06:31:16 +0200",
-        "source": "futura-sciences.com",
-        "ts": 1788582676000
-      },
-      {
-        "title": "Au large de l’Angleterre, des chercheurs pensent avoir retrouvé la trace d’immense supervolcan",
-        "url": "https://www.futura-sciences.com/planete/actualites/supervolcan-large-angleterre-chercheurs-pensent-avoir-retrouve-trace-immense-supervolcan-137524/#xtor%3DRSS-8",
-        "summary": "Un volcan de plusieurs centaines de millions d'années vient d'être découvert tout près des côtes britanniques. Aujourd'hui éteint, il avait dû être extrêmement actif dans un lointain passé.",
-        "date": "Fri, 04 Sep 2026 21:16:50 +0200",
-        "source": "futura-sciences.com",
-        "ts": 1788549410000
-      },
-      {
-        "title": "Sébastien Lecornu inaugure l’usine de fusées réutilisables de MaiaSpace à Vernon",
-        "url": "https://www.lemonde.fr/economie/article/2026/09/04/sebastien-lecornu-inaugure-l-usine-de-fusees-reutilisables-de-maiaspace-a-vernon_6765862_3234.html",
-        "summary": "L’usine doit à terme couvrir 12 000 mètres carrés et produire divers composants de fusées dont la capacité d’emport est de 4 tonnes en orbite basse, contre 22,8 tonnes pour la fusée Falcon 9 de SpaceX.",
-        "date": "Fri, 04 Sep 2026 21:13:21 +0200",
+        "title": "En Indonésie, six aéroports paralysés après l’éruption de l’Anak Krakatoa",
+        "url": "https://www.lemonde.fr/international/article/2026/09/06/en-indonesie-l-aeroport-de-jakarta-ferme-apres-l-eruption-de-l-anak-krakatoa_6766955_3210.html",
+        "summary": "Six aéroports indonésiens, dont celui de Jakarta, ont été fermés dimanche en raison des cendres émises par l’Anak Krakatoa. Plus de 200 vols et 20 000 passagers ont déjà été affectés.",
+        "date": "Sun, 06 Sep 2026 08:10:38 +0200",
         "source": "lemonde.fr",
-        "ts": 1788549201000
+        "ts": 1788675038000
+      },
+      {
+        "title": "Ce secret du thé vert pourrait bien aider votre cerveau à mieux résister au vieillissement",
+        "url": "https://www.futura-sciences.com/sante/actualites/demence-ce-secret-vert-pourrait-bien-aider-votre-cerveau-mieux-resister-vieillissement-w2t8-137082/#xtor%3DRSS-8",
+        "summary": "Le thé vert, riche en antioxydants, semble jouer un rôle protecteur pour le cerveau en réduisant les lésions de la substance blanche chez les personnes âgées. Découvrons comment cette boisson pourrait contribuer à la prévention des troubles cognitifs.",
+        "date": "Sun, 06 Sep 2026 08:00:00 +0200",
+        "source": "futura-sciences.com",
+        "ts": 1788674400000
       }
     ],
     "tech": [
       {
-        "title": "TECNO Modular Phone et TAURUS : les innovations de l'IFA 2026 - BlogNT",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWo0VFlSbmVvOUhGNmthWllwM1dULVlna182LWZlUWcxUEVoSGRyeEs0LXg2UEpEY0xUcnEzRjJSYVRJbDdnNzZWWWR4TUdCT1pqdE9EZC1UU0x4aFZMRzdkOG1CaTIxQV84M1VOTWh2ZWxMYmdrVGdkbW5HcU1nWThXQ0ZwckZM?oc=5",
-        "summary": "TECNO Modular Phone et TAURUS : les innovations de l'IFA 2026 BlogNT",
-        "date": "Sat, 05 Sep 2026 08:50:46 GMT",
-        "source": "news.google.com",
-        "ts": 1788598246000
-      },
-      {
-        "title": "Actualité : Un adolescent crée un robot tortue pour détecter les menaces environnementales sous-marines avec 96 % de précision",
-        "url": "https://www.lesnumeriques.com/concept/un-adolescent-cree-un-robot-tortue-pour-detecter-les-menaces-environnementales-sous-marines-avec-96-de-precision-n261326.html",
-        "summary": "Âgé de seulement 15 ans, Evan Budz a décidé de protéger les fonds marins grâce à sa création : un robot en forme de tortue.",
-        "date": "2026-09-05T10:50:00+02:00",
+        "title": "Actualité : \"La perfection de l'IA est aussi sa faiblesse\" : le numéro un mondial du go écrase la machine lors d'un duel serré",
+        "url": "https://www.lesnumeriques.com/intelligence-artificielle/la-perfection-de-l-ia-est-aussi-sa-faiblesse-le-numero-un-mondial-du-go-ecrase-la-machine-lors-d-un-duel-serre-n261416.html",
+        "summary": "On parle souvent des IA qui écrasent des champions de leur discipline. Mais cette fois-ci, Shin Jin-seo, numéro un mondial du go, a écrasé la machine KataGo avec un score de 2-1 lors du tournoi Ssen Math-Hankyung Gisin, en Corée du Sud. Il faut toutefois préciser que Shin Jin-seo avait un avantage…",
+        "date": "2026-09-06T11:15:00+02:00",
         "source": "lesnumeriques.com",
-        "ts": 1788598200000
+        "ts": 1788686100000
       },
       {
-        "title": "Wonder Woman lave son linge sale, The Witcher 3 se montre généreux et Dragon Ball Super a droit à un joli lifting : c’est le récap pop culture de la semaine",
-        "url": "https://www.numerama.com/pop-culture/2325789-wonder-woman-lave-son-linge-sale-the-witcher-3-se-montre-genereux-et-dragon-ball-super-a-droit-a-un-joli-lifting-cest-le-recap-pop-culture-de-la-semaine.html",
-        "summary": "La semaine de la rentrée a été riche en actus du côté de la pop culture. Un moment propice pour Gal Gadot, l’actrice qui incarne Wonder Woman au cinéma, pour faire quelques révélations sur le pourquoi du comment Wonder Woman 3 ne verra, a priori, jamais le jour. De son côté, grand prince, CD Projek…",
-        "date": "Sat, 05 Sep 2026 08:45:00 +0000",
-        "source": "numerama.com",
-        "ts": 1788597900000
-      },
-      {
-        "title": "La série Spider-Noir est annulée malgré 11 nominations aux Emmy Awards",
-        "url": "https://www.numerama.com/pop-culture/2325925-la-serie-spider-noir-est-annulee-malgre-11-nominations-aux-emmy-awards.html",
-        "summary": "Spider-Noir a beau avoir reçu onze nominations aux Emmy Awards, un record en 2026 pour une série diffusée sur Amazon Prime Video, il n'y aura pas de deuxième saison.",
-        "date": "Sat, 05 Sep 2026 08:31:04 +0000",
-        "source": "numerama.com",
-        "ts": 1788597064000
-      },
-      {
-        "title": "Actualité : On a dégoté la barre de son la plus titanesque de l’IFA (vos voisins vont adorer ses 11.8.8 canaux)",
-        "url": "https://www.lesnumeriques.com/barre-de-son/on-a-degote-la-barre-de-son-la-plus-titanesque-de-l-ifa-vos-voisins-vont-adorer-ses-11-8-8-canaux-n261399.html",
-        "summary": "Avec son X Pro, Ultimea signe l’un des systèmes home cinéma sans fil à éléments séparés les plus ambitieux jamais créés. Capable de grimper jusqu’à 11.8.8 canaux, il fait le pont entre la simplicité du sans fil et les compositions traditionnelles à enceintes passives, avec une débauche de haut-parl…",
-        "date": "2026-09-05T10:21:00+02:00",
+        "title": "Actualité : La batterie de votre smartphone fond ? Ces 5 applications Google et leurs réglages sont probablement à blâmer",
+        "url": "https://www.lesnumeriques.com/mobilite-c17/la-batterie-de-votre-smartphone-fond-ces-5-applications-google-et-leurs-reglages-sont-probablement-a-blamer-n261379.html",
+        "summary": "Certaines applications sont spécialement gourmandes en batterie. C'est notamment le cas de celles de Google, mais quelques réglages permettent de trouver un bon équilibre entre fonctionnalités et autonomie sur votre smartphone.",
+        "date": "2026-09-06T10:38:00+02:00",
         "source": "lesnumeriques.com",
-        "ts": 1788596460000
+        "ts": 1788683880000
       },
       {
-        "title": "Actualité : Le 8 septembre la Lune va trôner entre deux planètes ; Saturne et étoiles filantes en prime",
+        "title": "Les films et séries vous prennent pour des imbéciles, et c’est leur plus gros défaut",
+        "url": "https://www.numerama.com/pop-culture/2322189-les-films-et-series-vous-prennent-pour-des-imbeciles-et-cest-leurs-plus-gros-defauts.html",
+        "summary": "Entre dialogues sur-expliqués, sous-textes éliminés et consignes de révision forcée, la production audiovisuelle ne fait plus confiance à son public. Adaptées à des spectateurs le nez rivé sur leur smartphone, les créations actuelles cèdent à un nivellement par le bas généralisé qui infantilise les…",
+        "date": "Sun, 06 Sep 2026 08:15:00 +0000",
+        "source": "numerama.com",
+        "ts": 1788682500000
+      },
+      {
+        "title": "Actualité : \"Épisode inédit pour le mois de septembre\" : la vague de chaleur s'étendra jusqu'à lundi sur la France",
+        "url": "https://www.lesnumeriques.com/societe-numerique/episode-inedit-pour-le-mois-de-septembre-la-vague-de-chaleur-s-etendra-jusqu-a-lundi-sur-la-france-n261419.html",
+        "summary": "La vague de chaleur se poursuit et continuera jusqu'à lundi sur la France. Ce dimanche 6 septembre, ce sont six départements qui sont toujours en vigilance orange canicule avec l'Ardèche, l'Aude, la Drôme, le Gard, l'Hérault et le Vaucluse. Météo-France parle dans son bulletin d'un \"épisode inédit…",
+        "date": "2026-09-06T10:15:00+02:00",
+        "source": "lesnumeriques.com",
+        "ts": 1788682500000
+      },
+      {
+        "title": "Actualité : Spectacle magique : Mars et Jupiter seront facilement visibles à l'œil nu grâce à la Lune le 8 septembre",
         "url": "https://www.lesnumeriques.com/astronomie-conquete-spatiale/le-8-septembre-la-lune-va-troner-entre-les-planetes-saturne-et-etoiles-filantes-en-prime-n261405.html",
-        "summary": "Le mois de septembre offre encore un beau spectacle, notamment pour découvrir les planètes visibles à l'œil nu : Jupiter, Mars et Saturne, sans oublier Vénus en tout début de nuit. De plus, des étoiles filantes viendront fuser dans le ciel entre le 8 et le 10 septembre.",
-        "date": "2026-09-05T10:15:00+02:00",
+        "summary": "Un minuscule croissant de Lune trônant entre Mars la rouge et l'éclat blanc de Jupiter, voilà le beau spectacle qu'offrira le ciel le 8 septembre au matin, sans nécessiter d'autre instrument que ses yeux. Saturne est également visible dans la nuit, ainsi qu'une pluie d'étoiles filantes entre le 8 e…",
+        "date": "2026-09-06T09:30:00+02:00",
         "source": "lesnumeriques.com",
-        "ts": 1788596100000
+        "ts": 1788679800000
+      },
+      {
+        "title": "Actualité : Disney+ : notre top 10 des meilleures séries à voir en streaming en septembre 2026",
+        "url": "https://www.lesnumeriques.com/cine-svod/disney-notre-top-10-des-meilleures-series-a-voir-en-streaming-en-septembre-2026-n261268.html",
+        "summary": "Qu'est-ce qu'on regarde en septembre 2026 sur Disney+ ? Des séries acclamées du label FX aux productions Marvel, le choix est vaste. Pour vous guider, Les Numériques a passé le catalogue au crible pour retenir les 10 séries absolument immanquables en ce moment.",
+        "date": "2026-09-06T09:15:00+02:00",
+        "source": "lesnumeriques.com",
+        "ts": 1788678900000
       }
     ],
     "politique": [
       {
-        "title": "Crue meurtrière au Népal : un troisième rescapé, de nationalité chinoise, a été extrait vivant d'un tunnel",
-        "url": "https://www.franceinfo.fr/monde/asie/seisme-au-nepal/crue-meurtriere-au-nepal-un-troisieme-rescape-de-nationalite-chinoise-a-ete-extrait-vivant-d-un-tunnel_8178500.html#xtor=RSS-3-[lestitres]",
-        "summary": "Juste après le désastre, les autorités népalaises avaient estimé à une centaine le nombre d'ouvriers susceptibles d'être bloqués dans ce tunnel.",
-        "date": "Sat, 05 Sep 2026 10:57:23 +0200",
+        "title": "Des frappes israéliennes font quatre morts dans le sud du Liban, selon le ministère de la Santé libanais",
+        "url": "https://www.franceinfo.fr/monde/proche-orient/l-armee-israelienne-ordonne-aux-habitants-d-une-zone-du-sud-du-liban-d-evacuer_8179475.html#xtor=RSS-3-[lestitres]",
+        "summary": "Alors que les affrontements ont diminué depuis juin, l'armée israélienne poursuit ses opérations militaires sporadiques dans le sud du pays, où l'Etat hébreu continue d'occuper une bande frontalière d'une dizaine de kilomètres.",
+        "date": "Sun, 06 Sep 2026 11:12:00 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1788598643000
+        "ts": 1788685920000
       },
       {
-        "title": "Election présidentielle : \"Entre le Rassemblement national et moi, il y a deux mondes\", lance Gabriel Attal à la braderie de Lille",
-        "url": "https://www.franceinfo.fr/politique/direct-campagne-presidentielle-jean-luc-melenchon-gabriel-attal-et-marine-tondelier-venus-vendre-leur-candidature-a-la-braderie-de-lille_8178386.html#xtor=RSS-3-[lestitres]",
-        "summary": "La braderie de Lille, lancée au Moyen-âge, est l'un des événements les plus emblématiques de la vie lilloise. Mais il s'agit aussi d'un lieu prisé des personnalités politiques nationales.",
-        "date": "Sat, 05 Sep 2026 10:48:59 +0200",
+        "title": "Un enfant tué et sept personnes blessées après une explosion causée par une fuite de gaz dans un pavillon à Aubervilliers",
+        "url": "https://www.franceinfo.fr/faits-divers/un-enfant-tue-et-sept-personnes-blessees-apres-une-explosion-causee-par-une-fuite-de-gaz-dans-un-pavillon-a-aubervilliers_8179433.html#xtor=RSS-3-[lestitres]",
+        "summary": "Une maison de la rue Paul Verlaine a été complètement détruite samedi soir. Une enquête judiciaire a été ouverte sous l'autorité du parquet de Bobigny.",
+        "date": "Sun, 06 Sep 2026 10:59:39 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1788598139000
+        "ts": 1788685179000
       },
       {
-        "title": "Guerre en Ukraine : les émissaires de Donald Trump attendus à Moscou et à Kiev pour \"faire avancer les choses\", selon le président américain",
-        "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-les-emissaires-de-donald-trump-attendus-a-moscou-et-a-kiev-pour-faire-avancer-les-choses-selon-le-president-americain_8178449.html#xtor=RSS-3-[lestitres]",
-        "summary": "Les deux émissaires américains se sont déjà rendus à Moscou, pour la dernière fois en janvier, mais ne se sont encore jamais allés dans la capitale ukrainienne.",
-        "date": "Sat, 05 Sep 2026 10:42:52 +0200",
+        "title": "Elections régionales en Allemagne : les bureaux de votes sont ouverts en Saxe-Anhalt, où l'extrême droite est favorite",
+        "url": "https://www.franceinfo.fr/monde/europe/allemagne/direct-elections-regionales-en-allemagne-les-bureaux-de-votes-sont-ouverts-en-saxe-anhalt-ou-l-extreme-droite-est-favorite_8179493.html#xtor=RSS-3-[lestitres]",
+        "summary": "Le parti d'extrême droite Alternative für Deutschland (AfD) est en passe de remporter ce Land de l'est du pays, où l'extrême droite pourrait faire une percée inédite dans le pays depuis 1945.",
+        "date": "Sun, 06 Sep 2026 10:51:56 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1788597772000
+        "ts": 1788684716000
       },
       {
-        "title": "Sept départements du sud de la France sont en vigilance orange \"canicule\" avec des températures \"inédites pour un mois de septembre\"",
-        "url": "https://www.franceinfo.fr/environnement/meteo/sept-departements-du-sud-de-la-france-sont-en-vigilance-orange-canicule-des-temperatures-inedites-pour-un-mois-de-septembre_8178356.html#xtor=RSS-3-[lestitres]",
-        "summary": "Ces chaleurs doivent continuer sur la journée de dimanche, avant un rafraîchissement prévu pour lundi.",
-        "date": "Sat, 05 Sep 2026 10:32:57 +0200",
+        "title": "En Indonésie, une éruption volcanique entraîne la suspension des vols dans six aéroports",
+        "url": "https://www.franceinfo.fr/monde/asie/les-vols-suspendus-dans-six-aeroports-en-indonesie-apres-une-eruption-volcanique_8179523.html#xtor=RSS-3-[lestitres]",
+        "summary": "Dès samedi, la suspension du trafic à l'aéroport international de Jakarta, qui se trouve à 150 km du volcan, a affecté plus de 200 vols et 20 000 passagers.",
+        "date": "Sun, 06 Sep 2026 10:49:59 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1788597177000
+        "ts": 1788684599000
       },
       {
-        "title": "Donald Trump affirme que ses émissaires se rendent à Moscou et à Kiev avec un plan \"visant à mettre fin à la guerre\"",
-        "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-affirme-que-ses-emissaires-se-rendent-a-moscou-et-a-kiev-avec-un-plan-visant-a-mettre-fin-a-la-guerre_8177936.html#xtor=RSS-3-[lestitres]",
-        "summary": "Ce sera la première fois que Jared Kushner et Steve Witkoff se rendront à Kiev depuis le retour de Donald Trump au pouvoir l'année dernière.",
-        "date": "Sat, 05 Sep 2026 10:30:52 +0200",
+        "title": "Négationnisme, distorsion de l'histoire, visée idéologique... La désinformation sur la Shoah très présente sur les réseaux sociaux",
+        "url": "https://www.franceinfo.fr/societe/antisemitisme/negationnisme-distorsion-de-l-histoire-visee-ideologique-la-desinformation-sur-la-shoah-tres-presente-sur-les-reseaux-sociaux_8178749.html#xtor=RSS-3-[lestitres]",
+        "summary": "En cette journée de cérémonie en hommage aux déportés et victimes de France de la Shoah, rescapés et historiens alertent sur le danger des contenus en ligne, notamment ceux créés par l'IA.",
+        "date": "Sun, 06 Sep 2026 10:47:50 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1788597052000
+        "ts": 1788684470000
       },
       {
-        "title": "Trois hommes soupçonnés de projeter un départ vers l'Etat islamique et une attaque antisémite mis en examen",
-        "url": "https://www.franceinfo.fr/faits-divers/terrorisme/trois-hommes-soupconnes-de-projeter-un-depart-vers-l-etat-islamique-et-une-attaque-antisemite-mis-en-examen_8178488.html#xtor=RSS-3-[lestitres]",
-        "summary": "Arrêtés mardi, les suspects ont été placés en détention dans la foulée de leur mise en examen, dans la nuit de vendredi à samedi.",
-        "date": "Sat, 05 Sep 2026 10:24:18 +0200",
-        "source": "francetvinfo.fr",
-        "ts": 1788596658000
+        "title": "Au Népal, les autorités répètent que les recherches se poursuivent malgré les difficultés",
+        "url": "https://www.lemonde.fr/planete/article/2026/09/06/au-nepal-les-autorites-repetent-que-les-recherches-se-poursuivent-malgre-les-difficultes_6767059_3244.html",
+        "summary": "Les secours assurent continuer leurs recherches dans le nord du Népal, onze jours après la crue soudaine qui a causé 1 341 morts et près de 5 000 disparus. Quatre personnes ont été retrouvées vivantes ces deux derniers jours.",
+        "date": "Sun, 06 Sep 2026 10:27:14 +0200",
+        "source": "lemonde.fr",
+        "ts": 1788683234000
       }
     ],
     "ia": [
       {
-        "title": "Des agents IA d'OpenAI auraient contourné leurs garde-fous pour collaborer sur internet - Les Echos",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSzA1NHQwdUZEcUo2TXYyTUFkMHZxT3RFd1Z1OGxoanlPLVVDOFFOUy1tRUM1S3pnV2lCU2lKb0d6S3JwbkV5TWduTFhWVUh1MldpSGhlYUxIVVphc0pUNXVlbjI3SGU3cUxVWG1Jc2dEVmNsbHIydEdzbk13Yk9EY1dGN3l3eFJMSk5PTkl4WG5sZHJkMndIMmRGclVsNnlELVVDdExxdzlqTTl4d05BbEVFMTRLWnR1ZDlqQmVSLVd0QW9QZUQ0aFhZWldMSThqMTdlaXVjejhVaEdPOThfOWdGNm8wNE1SN0Qwaw?oc=5",
-        "summary": "Des agents IA d'OpenAI auraient contourné leurs garde-fous pour collaborer sur internet Les Echos",
-        "date": "Sat, 05 Sep 2026 08:44:38 GMT",
-        "source": "news.google.com",
-        "ts": 1788597878000
+        "title": "Actualité : \"La perfection de l'IA est aussi sa faiblesse\" : le numéro un mondial du go écrase la machine lors d'un duel serré",
+        "url": "https://www.lesnumeriques.com/intelligence-artificielle/la-perfection-de-l-ia-est-aussi-sa-faiblesse-le-numero-un-mondial-du-go-ecrase-la-machine-lors-d-un-duel-serre-n261416.html",
+        "summary": "On parle souvent des IA qui écrasent des champions de leur discipline. Mais cette fois-ci, Shin Jin-seo, numéro un mondial du go, a écrasé la machine KataGo avec un score de 2-1 lors du tournoi Ssen Math-Hankyung Gisin, en Corée du Sud. Il faut toutefois préciser que Shin Jin-seo avait un avantage…",
+        "date": "2026-09-06T11:15:00+02:00",
+        "source": "lesnumeriques.com",
+        "ts": 1788686100000
       },
       {
-        "title": "GPT-6 Astra : performances en hausse, transparence en baisse - L'Essentiel de l'Éco",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS1JjSTc0QUd6cFNxRl9pVG50anFvS1NsM24tTHc3eVRjazdYR0hXVWRVdDBVU3JoeUY4XzMwa3ktTk9NVFdVMWNiUG5YTmV5WXF4RGhqVVJWVFNSM1ktX1QzQmJyNjBzZXZiSEJBU1VYSU92d0Q3QjdaVlh4UW5KTHhFVlZzcDc4dDVXS1BFN1ZZX01PMmc?oc=5",
-        "summary": "GPT-6 Astra : performances en hausse, transparence en baisse L'Essentiel de l'Éco",
-        "date": "Sat, 05 Sep 2026 08:43:07 GMT",
+        "title": "\"La perfection de l'IA est aussi sa faiblesse\" : le numéro un mondial du go écrase la machine lors d'un duel serré - Les Numériques",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNRzJ5Z1dtdE1WVEs0VjF3MEhGMGd1UDFiVTV6X1ZBSTVKSW1jaXBGVXhQck8xU0g3OFVsNkNGeTN1d05yNVNJcjkxOXR4b3VrcTVaenNGNlVLRzAxcjgzWUVLYlJ6TDA3MjZqNGt1bzJXakg1dUFlZWNlY2VLbHBwRkEybzk4dHM0NDRsLUVXRGhZMXNTNU5neHdjVlNTZVRVb0VYWmdZMURFQXJaYmZMY19yS0tqUzhYenNNakllU1RIcHZqUC1uejNaV0RLd2k2SUFzemg1VGJndnFNdXlrMEl4QThTT2R0bG5EaHNyeXFKMmFkR0NzSDhHbmt3RFhXQVAtdjhvSGdIR3M?oc=5",
+        "summary": "\"La perfection de l'IA est aussi sa faiblesse\" : le numéro un mondial du go écrase la machine lors d'un duel serré Les Numériques",
+        "date": "Sun, 06 Sep 2026 09:15:00 GMT",
         "source": "news.google.com",
-        "ts": 1788597787000
+        "ts": 1788686100000
       },
       {
-        "title": "Rentrée scolaire 2026 : légitimer, interdire, faire avec… ? Comment les profs s’adaptent face à l’IA - La Croix",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdUZfdUtBNTh5bEhZRXYyd3hoRzlBTUt5MzhKTnQ2TW55RXIzVjJOR2NYWkJ2UFV6Vy1jTmZOWXdjTHl4SUFYTGpHRHQzMVlZUGgzSnRUT1BVUjBwRV9kYTZBaW5mTEM1dGQ1QVFSMnBUSVhnQi0zZ2oxUXZXN1BWX2wzZVEtMUZJbkwtV2RCcnpCaVVJd3NnZzF4SHl4cGJXZ0w5blZLWUxrb09tS0ZvME13Y2FCNzZtSlRCMGFzYzRCeUxSSlozbEVBcXRIaHM?oc=5",
-        "summary": "Rentrée scolaire 2026 : légitimer, interdire, faire avec… ? Comment les profs s’adaptent face à l’IA La Croix",
-        "date": "Sat, 05 Sep 2026 08:37:19 GMT",
+        "title": "Des candidats cachent des instructions dans leur CV pour piéger les IA des recruteurs - Clubic",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTWlIYkhrZWxqdXRSaDR2OTI1cFRneDNaMmZ1NV8tWkVTdkFMZHZvTWFLNVRmMmhvQjkzeS1iS1kzRElSUEpZcGViNWNINENzVFBoM1MxSlRFNnlHcmtYX3JhYlFsS0FFYVlzbEpUd0Q1NFhBcnBjSWlkZTU3WEQwUnlhN0F3WElYWUlLWk91VDZsYmdRaWMxcEw4bk1OdHRLN0RTdDhpOHVKM2JuT0Rva1hMeW1tM3ZWTTJyUkpDSHJkSml6aEpqWm5R?oc=5",
+        "summary": "Des candidats cachent des instructions dans leur CV pour piéger les IA des recruteurs Clubic",
+        "date": "Sun, 06 Sep 2026 08:55:00 GMT",
         "source": "news.google.com",
-        "ts": 1788597439000
+        "ts": 1788684900000
       },
       {
-        "title": "«Nouvel essaim dans la nature» : des agents IA d’OpenAI dévoyés avaient déjà collaboré sur internet avant l’incident Hugging Face - Le Figaro",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbFlCMXNNSlVRcW85QTh3bEJnd2hHeXhQcDRlOFpXbzZOMmR3VndqTzFtVnBtdWZLc1BDMEs3d1BPYXZIc20zVGJrRXVmZnhLRjljTW1hNDd6Y0dIc3M0NnZqYUFoSUtybXZBdjhDLUpZYkxaT0NmV1RucEpQaFhPYnpfYmJhVTRUN1hDdXZvYVpLY2JOdFdzQ3Jvcmt6N2w4elNXMmgtUVhpaE9GYTFjY0VhaDYxX2F3MHlTZ005NjVrNmVhUkVMcGwwbHdHcFpuRHJuWUtkV1MzbzVkUGROS2pvVW1xQUQtRWRNdUJua2ZpWWNlRVdFZnNfenI?oc=5",
-        "summary": "«Nouvel essaim dans la nature» : des agents IA d’OpenAI dévoyés avaient déjà collaboré sur internet avant l’incident Hugging Face Le Figaro",
-        "date": "Sat, 05 Sep 2026 08:29:35 GMT",
+        "title": "L’IA est-elle en train de coder Windows 11 à la place des humains ? Microsoft sème le doute - PhonAndroid",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZlpsSFBvOFRZM2pTMFNia3JGQ2RrTXlJSUE2TDczbkwwV0dTbmJZSURBZGtsTDNvd0JTZFhyQVFQbFlxNE1rV0JVbHBxYnk5Q2hwRFNONmo3c1dSVHRNeGx5N004eExJRkxPTzhVWVZzU0FBSFhGam5NVjJTTFdJd01JV2NMcFNJVHJMNDV1Y0NNQWVrZk11MC1mUGw2QVB0am15Yi1vWDNvTVNRcTNGdUFRLUlrU2xlMXNPMHRB?oc=5",
+        "summary": "L’IA est-elle en train de coder Windows 11 à la place des humains ? Microsoft sème le doute PhonAndroid",
+        "date": "Sun, 06 Sep 2026 08:34:25 GMT",
         "source": "news.google.com",
-        "ts": 1788596975000
+        "ts": 1788683665000
       },
       {
-        "title": "Moches et pas chères, d’où vient cette épidémie d’affiches générées par intelligence artificielle - Yahoo Actualités",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMlg0X2hxbm81Ui0zT2xiVUNlMldKaHZDdGxENVJWMEhjWnhmMk4zUGZOX2Fkbk5IN1FaYV9hWld6LTFxUjJtQm8xUVV2WVk5UkRyV0IxWWw5Y21vU2RLSEJOaDdzeHo2RWVvTmQ5bl9zX1lPM1FyWVZkNklQcUwyYlpLR0dfcU9j?oc=5",
-        "summary": "Moches et pas chères, d’où vient cette épidémie d’affiches générées par intelligence artificielle Yahoo Actualités",
-        "date": "Sat, 05 Sep 2026 08:02:36 GMT",
+        "title": "Pologne enseigne aux étudiants à reconnaître les nouvelles fausses et les deepfakes IA - VOI.ID",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB5VEJNQ2doTEJJeWpYZl93WmFiTkZLQ0hDZC1ITUNHZTlKZGZYc09ZNlk4cjJCd3M5ckxjUm5nSTFORUJuOHQtS05B0gFCQVVfeXFMTzZSQXNXTXVKRjJxeU10SUhZSkpYM2NjVnBZVC1GbjYtZWdhVzUzS0R4MHdVXzdNNlZRTGZoaGt3R3NR?oc=5",
+        "summary": "Pologne enseigne aux étudiants à reconnaître les nouvelles fausses et les deepfakes IA VOI.ID",
+        "date": "Sun, 06 Sep 2026 08:20:29 GMT",
         "source": "news.google.com",
-        "ts": 1788595356000
+        "ts": 1788682829000
       },
       {
-        "title": "D’où vient cette épidémie d’affiches générées par IA ? - 20 Minutes",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa0ctaFlhMVJiRkduS2hENHVuXzMzRnVXaGxZZ0ItOWY5VF9pOVplZ09SeHJnNDVfdDJIRVAzaHcxUU9od0pNd2VCSk9LTk9PVl9DbEhTT040MHNrRWlrSzNTRWRCUHFkajhCclhVblFMcHJsSEVuejJmeV9qMWdiQldMcFlkanRJWk1fRmpFSE9LdnBzcENhbjlGTUt0QjY2b1hwR09jY2d3MEEwOFlGeTRYcm5xUWVzTlJheTVYQmJDNF9BOE5KdUNKVWJjUVph?oc=5",
-        "summary": "D’où vient cette épidémie d’affiches générées par IA ? 20 Minutes",
-        "date": "Sat, 05 Sep 2026 08:02:00 GMT",
+        "title": "L’Intelligence artificielle a‑t‑elle vraiment \"tué\" l’auteur ? - RTBF",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaGJKOGMyZDhKaHJRZkg1anVTQUlCaXc0Z2kzLXhNZGFmR3N3eEZCVk9SSWV6a2EyOVo5M3J4U3RZandJank2MVpZZ1BmdldoU3ZTRGdGcDRNOENBNzBuVTFaZEJBRXg4OXc5VXVKT0tGUHN3OHRqXzQtTXh5VXR5b3BhT2VvLS1FVi1SYnZSbE5xdUtDYzEzcWt1UQ?oc=5",
+        "summary": "L’Intelligence artificielle a‑t‑elle vraiment \"tué\" l’auteur ? RTBF",
+        "date": "Sun, 06 Sep 2026 08:02:00 GMT",
         "source": "news.google.com",
-        "ts": 1788595320000
+        "ts": 1788681720000
       }
     ]
   }
