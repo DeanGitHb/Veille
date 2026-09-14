@@ -1,206 +1,206 @@
 {
-  "generated": "2026-09-13T10:12:22.411Z",
-  "dateLabel": "dimanche 13 septembre 2026",
+  "generated": "2026-09-14T10:34:41.621Z",
+  "dateLabel": "lundi 14 septembre 2026",
   "demo": false,
   "categories": {
     "sciences": [
       {
-        "title": "Vous avez aimé l’éclipse de Soleil ? Place désormais à l’occultation de… Vénus",
-        "url": "https://www.lemonde.fr/sciences/article/2026/09/13/vous-avez-aime-l-eclipse-de-soleil-place-desormais-a-l-occultation-de-venus_6772500_1650684.html",
-        "summary": "La Lune dissimulera l’étoile du Berger pendant un peu plus d’une heure, lundi, à la mi-journée en France. Une « rencontre » qui se produit en moyenne deux fois par an, mais qui ne bénéficie pas toujours de conditions idéales pour son observation.",
-        "date": "Sun, 13 Sep 2026 12:00:03 +0200",
-        "source": "lemonde.fr",
-        "ts": 1789293603000
-      },
-      {
-        "title": "La plante de la semaine : ce fruitier ancien demande peu d’eau et cache bien d’autres qualités",
-        "url": "https://www.futura-sciences.com/maison/actualites/jardin-plante-semaine-ce-fruitier-ancien-demande-peu-eau-cache-bien-autres-qualites-137676/#xtor%3DRSS-8",
-        "summary": "Les Français sont de vrais « jardinophiles » ! Et vous ? Avec cette chronique, (re)découvrez une plante, un fruit, un légume.C’est un fruitier qui donne de petites « pommes » jaunes à rouges en septembre, pourtant, cela fait bien longtemps qu’il a été oublié. Ce petit arbre, c’est l’azérolier....",
-        "date": "Sun, 13 Sep 2026 11:07:16 +0200",
+        "title": "+1 184 % dans une ville française : ces chiffres montrent où la chaleur devient la plus dangereuse",
+        "url": "https://www.futura-sciences.com/sante/actualites/pollution-air-1-184-ville-francaise-ces-chiffres-montrent-chaleur-devient-plus-dangereuse-137714/#xtor%3DRSS-8",
+        "summary": "Chaleur, pollution, incendies, pollens… Les conséquences sanitaires du changement climatique sont particulièrement marquées dans les villes. Un vaste rapport européen révèle une aggravation des risques, mais aussi des réponses encore très inégales. En France, certaines communes affichent des...",
+        "date": "Mon, 14 Sep 2026 12:27:21 +0200",
         "source": "futura-sciences.com",
-        "ts": 1789290436000
+        "ts": 1789381641000
       },
       {
-        "title": "Vieillir en bonne santé : ce qu'un psychiatre conseille d'emprunter aux personnes de plus de 60 ans",
-        "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-vieillir-bonne-sante-ce-quun-psychiatre-conseille-emprunter-personnes-plus-60-ans-k2m6-137322/#xtor%3DRSS-8",
-        "summary": "Le bien-être émotionnel a tendance à s'améliorer avec l'âge, alors même que la santé, le statut ou les revenus évoluent souvent dans l'autre sens. Ce paradoxe a une explication documentée, et elle ne tient pas à l'âge lui-même mais à la perception du temps qui reste.",
-        "date": "Sun, 13 Sep 2026 10:00:00 +0200",
+        "title": "Cdiscount lâche le Galaxy S23 Ultra à 385 €, mais l'offre est limitée !",
+        "url": "https://www.futura-sciences.com/conso/bons-plans/guides-smartphones-cdiscount-lache-galaxy-s23-ultra-385-mais-offre-limitee-11268/#xtor%3DRSS-8",
+        "summary": "Les French Days touchent à leur fin et le Samsung Galaxy S23 Ultra en profite pour passer sous les 400 € chez Cdiscount. Avec le code COCORICO15, ce smartphone 5G tombe à seulement 385 €.",
+        "date": "Mon, 14 Sep 2026 12:00:00 +0200",
         "source": "futura-sciences.com",
-        "ts": 1789286400000
+        "ts": 1789380000000
       },
       {
-        "title": "Acouphènes : la piste des circuits neuronaux",
-        "url": "https://www.sciencesetavenir.fr/sante/faire-taire-les-acouphenes-les-pistes-les-plus-prometteuses-de-la-recherche_194590?xtor=RSS-16",
-        "summary": "Longtemps considérés comme un simple trouble de l’oreille, les acouphènes sont aussi le résultat d’un dysfonctionnement cérébral. Cette nouvelle vision transforme la recherche et laisse enfin entrevoir des traitements efficaces pour des millions de personnes.",
-        "date": "Sun, 13 Sep 2026 08:00:00 +0000",
+        "title": "Cette bague va beaucoup plus loin que les modèles actuels : elle analyse ce qui se passe dans votre corps grâce à votre sueur",
+        "url": "https://www.futura-sciences.com/tech/actualites/sante-cette-bague-va-beaucoup-plus-loin-modeles-actuels-elle-analyse-ce-passe-votre-corps-grace-votre-sueur-137554/#xtor%3DRSS-8",
+        "summary": "Aux États-Unis, une équipe de recherche a mis au point une bague connectée conçue pour la surveillance biochimique quotidienne, qui analyse simultanément et en continu plusieurs biomarqueurs présents dans la sueur.",
+        "date": "Mon, 14 Sep 2026 11:07:13 +0200",
+        "source": "futura-sciences.com",
+        "ts": 1789376833000
+      },
+      {
+        "title": "\"Nous sommes confrontés à un rapport de force entre santé publique et intérêts industriels\"",
+        "url": "https://www.sciencesetavenir.fr/nutrition/mathilde-touvier-nous-sommes-en-permanence-confrontes-a-un-rapport-de-force-entre-les-imperatifs-de-sante-publique-et-certains-interets-industriels-mathilde-touvier_194672?xtor=RSS-28",
+        "summary": "Publicité, Nutri-Score, aliments ultra-transformés : pour Mathilde Touvier, nouvelle présidente du comité du Programme national nutrition santé (PNNS), les recommandations individuelles ne suffisent plus. L’épidémiologiste appelle à agir davantage sur l’offre alimentaire et à renforcer, à terme, le…",
+        "date": "Mon, 14 Sep 2026 09:07:07 +0000",
         "source": "sciencesetavenir.fr",
-        "ts": 1789286400000
+        "ts": 1789376827000
       },
       {
-        "title": "Exceptionnel : les premiers pas d’un bébé rhinocéros de quelques jours au Kenya",
-        "url": "https://www.futura-sciences.com/planete/actualites/mystere-exceptionnel-premiers-pas-bebe-rhinoceros-quelques-jours-kenya-127951/#xtor%3DRSS-8",
-        "summary": "Sous le soleil rasant des terres dorées du Kenya, un bébé rhinocéros âgé de quelques jours à peine découvre le monde sous l’objectif du photographe Greg du Toit. Encore fragile auprès de sa mère, la petite femelle s’aventure, observe et semble apprivoiser cette immensité sauvage qui sera la...",
-        "date": "Sun, 13 Sep 2026 09:30:00 +0200",
+        "title": "Dernier jour des French Days : la trottinette électrique Kukirin G2 passe de 699 € à 454 €",
+        "url": "https://www.futura-sciences.com/conso/bons-plans/guides-velos-trottinettes-dernier-jour-french-days-trottinette-electrique-kukirin-g2-passe-699-454-11266/#xtor%3DRSS-8",
+        "summary": "La Kukirin G2 accélère sur les promos pour le dernier jour des French Days chez Cdiscount : affichée à 469 €, cette trottinette électrique pliable tombe à seulement 454 € avec le code COCORICO15.",
+        "date": "Mon, 14 Sep 2026 10:00:00 +0200",
         "source": "futura-sciences.com",
-        "ts": 1789284600000
+        "ts": 1789372800000
       },
       {
-        "title": "Décaler ses repas le week-end : une étude française met en évidence un risque inattendu pour le cœur",
-        "url": "https://www.futura-sciences.com/sante/actualites/alimentation-decaler-repas-week-end-etude-francaise-met-evidence-risque-inattendu-coeur-137602/#xtor%3DRSS-8",
-        "summary": "On sait que le contenu de notre assiette compte pour la santé du cœur. Mais une autre habitude, particulièrement courante le week-end, pourrait également peser dans la balance.",
-        "date": "Sun, 13 Sep 2026 09:13:17 +0200",
+        "title": "Après avoir planté 66 milliards d’arbres, la Chine observe un phénomène inattendu dans ses nouvelles forêts",
+        "url": "https://www.futura-sciences.com/planete/actualites/foret-apres-avoir-plante-66-milliards-arbres-chine-observe-phenomene-inattendu-nouvelles-forets-k2m6-137342/#xtor%3DRSS-8",
+        "summary": "Quelque 66 milliards d'arbres plantés depuis 1978, 34 milliards supplémentaires prévus d'ici 2050. Les forêts issues de ce programme chinois poussent 66 % plus vite que les forêts naturelles. Un résultat qui semble valider la stratégie, jusqu'à ce qu'on regarde ce qui se passe ensuite.",
+        "date": "Mon, 14 Sep 2026 10:00:00 +0200",
         "source": "futura-sciences.com",
-        "ts": 1789283597000
+        "ts": 1789372800000
       }
     ],
     "tech": [
       {
-        "title": "Actualité : 8 ans avec le même iPhone XS : pourquoi je refuse toujours d'en changer",
-        "url": "https://www.lesnumeriques.com/societe-numerique/8-ans-avec-le-meme-iphone-xs-pourquoi-je-refuse-toujours-d-en-changer-n261609.html",
-        "summary": "J’ai acheté mon iPhone XS en 2018 et, presque huit ans plus tard, c’est toujours mon smartphone personnel. Il a connu des milliers d’heures d’utilisation, plusieurs versions d’iOS et, forcément, quelques signes de fatigue. À quelques encablures de l’iPhone 18, j’ai eu envie de raconter ces années p…",
-        "date": "2026-09-13T12:00:00+02:00",
+        "title": "Actualité : Netflix s'attaque à un monument du jeu vidéo : une série Diablo est en préparation",
+        "url": "https://www.lesnumeriques.com/cine-svod/netflix-s-attaque-a-un-monument-du-jeu-video-une-serie-diablo-est-en-preparation-n261805.html",
+        "summary": "Que les fans du jeu vidéo Diablo se réjouissent : la célèbre franchise de Blizzard Entertainment va connaître les honneurs d'une adaptation en série d'animation à venir sur Netflix.",
+        "date": "2026-09-14T12:24:00+02:00",
         "source": "lesnumeriques.com",
-        "ts": 1789293600000
+        "ts": 1789381440000
       },
       {
-        "title": "Les meilleurs jeux vidéo à faire absolument avec ses enfants : notre top pour découvrir le médium en famille",
-        "url": "https://www.numerama.com/tech/2241761-les-meilleurs-jeux-video-a-faire-absolument-avec-ses-enfants-notre-top-pour-decouvrir-le-medium-en-famille.html",
-        "summary": "La rentrée est passée, les cartables ont retrouvé leur place dans l'entrée et les bonnes habitudes vont progressivement reprendre. Mais cette routine de l'année scolaire a parfois du bon, surtout quand le week-end arrive : quelques épisodes de Bob l'éponge ou une partie de Mario Kart en récompense…",
-        "date": "Sun, 13 Sep 2026 09:45:00 +0000",
+        "title": "Diablo IV Age of Hatred Collection sur Switch 2 : où précommander le hack’n’slash de Blizzard ?",
+        "url": "https://www.numerama.com/pop-culture/2332605-diablo-iv-age-of-hatred-collection-sur-switch-2-ou-precommander-le-hacknslash-de-blizzard.html",
+        "summary": "[Précommande] On s'en doutait et c'est maintenant officiel, Diablo IV débarque enfin sur Nintendo Switch 2. La collection Age of Hatred réunit le jeu de base et ses deux extensions pour une sortie prévue dès le 15 septembre 2026.",
+        "date": "Mon, 14 Sep 2026 10:20:05 +0000",
         "source": "numerama.com",
-        "ts": 1789292700000
+        "ts": 1789381205000
       },
       {
-        "title": "Actualité : Cyclisme : Engo lance les Engo3 Cyclist, des lunettes intelligentes pour ne plus jamais quitter la route des yeux",
-        "url": "https://www.lesnumeriques.com/capteur-activite/cyclisme-engo-lance-les-engo3-cyclist-des-lunettes-intelligentes-pour-ne-plus-jamais-quitter-la-route-des-yeux-n261643.html",
-        "summary": "Avec les Engo3 Cyclist, la marque française adapte ses lunettes à réalité augmentée au vélo. Les données d’effort et les alertes d’un radar Garmin Varia s’affichent devant les yeux, sans consulter le compteur.",
-        "date": "2026-09-13T11:45:00+02:00",
+        "title": "Actualité : Cette caméra de surveillance présente le meilleur rapport qualité / prix de notre comparatif",
+        "url": "https://www.lesnumeriques.com/camera-surveillance/cette-camera-de-surveillance-presente-le-meilleur-rapport-qualite-prix-de-notre-comparatif-n261810.html",
+        "summary": "La caméra de surveillance TP-Link Tapo C510W s'affiche aujourd'hui à 36,99 € chez Amazon et Boulanger.com. C'est actuellement le meilleur rapport qualité / prix de notre comparatif, selon les 79 modèles testés dans notre laboratoire.",
+        "date": "2026-09-14T12:14:34+02:00",
         "source": "lesnumeriques.com",
-        "ts": 1789292700000
+        "ts": 1789380874000
       },
       {
-        "title": "Actualité : 5,2 milliards d'euros, 3 000 emplois : la France produira la batterie solide des voitures électriques européennes",
-        "url": "https://www.lesnumeriques.com/voiture-electrique/5-2-milliards-d-euros-3-000-emplois-la-france-produira-la-batterie-solide-des-voitures-electriques-europeennes-n261783.html",
-        "summary": "C’est à Dunkerque dans le nord de la France que ProLogium pose ses valises. Le groupe taïwanais produira des batteries solides pour les voitures électriques européennes dans cette usine. C’est en 2028 que les premières cellules de quatrième génération sortiront de ce site français. On parle de 5,2…",
-        "date": "2026-09-13T11:45:00+02:00",
-        "source": "lesnumeriques.com",
-        "ts": 1789292700000
+        "title": "Sciences et technologies, moteurs de la nouvelle productivité - lecourrier.vn",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcGIwUEd5YnFCUmdoOUlKTk13amJCeThtUGpvUUJVQm5XNWg0cUlEbVh3cDNnOUJ0alVodndJdVJmOWM3ZHZXc3MzMnItVzZZLTFrNHV6dEtGbkpuYnZhSWdOZmk0QmlvMFZVWEp4REgxeE8td21NOEVBMVZRb3hJTUdUQkZOZTRJYWNjTEQyQjRYSTU3NHlrWFoxTQ?oc=5",
+        "summary": "Sciences et technologies, moteurs de la nouvelle productivité lecourrier.vn",
+        "date": "Mon, 14 Sep 2026 09:58:00 GMT",
+        "source": "news.google.com",
+        "ts": 1789379880000
       },
       {
-        "title": "Actualité : L'écran OLED Odyssey G9 de 49 pouces passe à 647.10 € grâce à un code promo chez Samsung",
-        "url": "https://www.lesnumeriques.com/moniteur/l-ecran-oled-odyssey-g9-de-49-pouces-passe-a-647-10-grace-a-un-code-promo-chez-samsung-n261782.html",
-        "summary": "Cet écran ultra-large vise autant le jeu que le multitâche, avec un vrai confort d'affichage. À ce niveau de remise, cet écran Samsung devient plus accessible sur un format encore rare.",
-        "date": "2026-09-13T11:30:00+02:00",
+        "title": "Actualité : “Celui qui gagne sur l’IA gagne tout” : Donald Trump ne veut pas ralentir son développement, malgré des risques majeurs",
+        "url": "https://www.lesnumeriques.com/intelligence-artificielle/celui-qui-gagne-sur-l-ia-gagne-tout-donald-trump-ne-veut-pas-ralentir-son-developpement-malgre-des-risques-majeurs-n261806.html",
+        "summary": "Alors qu’OpenAI, Anthropic et xAI veulent lever le pied sur le développement de l’IA, Donald Trump va à contre-courant pour ne pas perdre cette nouvelle ruée vers l’or face à la Chine.",
+        "date": "2026-09-14T11:57:00+02:00",
         "source": "lesnumeriques.com",
-        "ts": 1789291800000
+        "ts": 1789379820000
       },
       {
-        "title": "Actualité : Et si votre café du matin pouvait bientôt combler une carence majeure sans changer de goût ?",
-        "url": "https://www.lesnumeriques.com/science-espace/et-si-votre-cafe-du-matin-pouvait-bientot-combler-une-carence-majeure-sans-changer-de-gout-n261681.html",
-        "summary": "Des chercheurs du MIT ont inventé une microparticule capable d'ajouter du fer, et même de l'iode, à des aliments courants comme le café, le thé ou le pain, sans en changer le goût ni la couleur. Une piste sérieuse contre la carence en fer, qui touche près de deux milliards de personnes dans le mond…",
-        "date": "2026-09-13T11:18:00+02:00",
-        "source": "lesnumeriques.com",
-        "ts": 1789291080000
+        "title": "Baguette One décollera de Biscarosse en 2027, une première dans l’histoire spatiale française",
+        "url": "https://www.numerama.com/sciences/2332555-baguette-one-decollera-de-biscarosse-en-2027-une-premiere-dans-lhistoire-spatiale-francaise.html",
+        "summary": "La fusée conçue par l'entreprise bordelaise HyPrSpace décollera en 2027. Baguette One devrait être lancée depuis un site militaire dans les Landes, ce qui n'a jamais été réalisé dans l'histoire spatiale française.",
+        "date": "Mon, 14 Sep 2026 09:55:19 +0000",
+        "source": "numerama.com",
+        "ts": 1789379719000
       }
     ],
     "politique": [
       {
-        "title": "Le Premier ministre canadien, Mark Carney, va se rendre avec Emmanuel Macron à Saint-Pierre-et-Miquelon",
-        "url": "https://www.franceinfo.fr/monde/canada/le-premier-ministre-canadien-mark-carney-va-se-rendre-avec-emmanuel-macron-a-saint-pierre-et-miquelon_8190524.html#xtor=RSS-3-[lestitres]",
-        "summary": "\"Il s'agira de la première visite officielle d'un Premier ministre canadien dans l'archipel\", a souligné la présidence française. Emmanuel Macron y est attendu du 19 au 21 septembre.",
-        "date": "Sun, 13 Sep 2026 12:07:41 +0200",
-        "source": "francetvinfo.fr",
-        "ts": 1789294061000
+        "title": "Derrière le projet d’investissement dans les parcs d’attractions à Cergy-Pontoise, la quête d’influence du puissant fonds souverain saoudien PIF",
+        "url": "https://www.lemonde.fr/economie/article/2026/09/14/derriere-le-projet-d-investissement-dans-les-parcs-d-attractions-a-cergy-pontoise-la-quete-d-influence-du-puissant-fonds-souverain-saoudien-pif_6773782_3234.html",
+        "summary": "Ce fonds, mis en cause dans l’assassinat du journaliste Jamal Khashoggi en 2018 et dans plusieurs affaires d’atteintes aux droits humains, est étroitement contrôlé par le prince héritier saoudien, Mohammed Ben Salman.",
+        "date": "Mon, 14 Sep 2026 12:30:06 +0200",
+        "source": "lemonde.fr",
+        "ts": 1789381806000
       },
       {
-        "title": "Guerre en Ukraine : le Kremlin n'exclut pas une reprise des négociations trilatérales avec Kiev en octobre",
-        "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-kremlin-n-exclut-pas-une-reprise-des-negociations-trilaterales-avec-kiev-en-octobre_8190662.html#xtor=RSS-3-[lestitres]",
-        "summary": "C'est ce qu'a déclaré Dmitri Peskov, dimanche, à des journalistes russes, cité par les agences russes Ria Novosti et Tass.",
-        "date": "Sun, 13 Sep 2026 11:58:47 +0200",
+        "title": "Une ONG accuse Israël d'\"éliminer\" la possibilité d'une nation palestinienne en Cisjordanie occupée",
+        "url": "https://www.franceinfo.fr/monde/palestine/une-ong-accuse-israel-d-eliminer-la-possibilite-d-une-nation-palestinienne-en-cisjordanie-occupee_8191793.html#xtor=RSS-3-[lestitres]",
+        "summary": "L'ONG de défense des droits humains B'Tselem affirme que cet objectif s'appuie sur \"la violence et l'intimidation, les restrictions de mouvement, l'étouffement économique, la destruction sociale et politique, le nettoyage ethnique et la conquête territoriale\".",
+        "date": "Mon, 14 Sep 2026 12:25:47 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1789293527000
+        "ts": 1789381547000
       },
       {
-        "title": "Arctique : face aux grandes puissances, l’Union européenne veut muscler sa stratégie",
-        "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/arctique-face-aux-grandes-puissances-l-union-europeenne-veut-muscler-sa-strategie_8190659.html#xtor=RSS-3-[lestitres]",
-        "summary": "La Finlande accueille aujourd’hui et demain un sommet des dirigeants de l’Union européenne consacré à l’Arctique. Une région où les tensions géopolitiques s’exacerbent, sous la pression des Etats-Unis, mais aussi de la Russie et de la Chine. Les défis sont nombreux et l'Union européenne peaufine sa…",
-        "date": "Sun, 13 Sep 2026 11:54:40 +0200",
+        "title": "Plus que quelques jours pour désigner les illustrations des nouveaux billets en euros",
+        "url": "https://www.franceinfo.fr/monde/europe/plus-que-quelques-jours-pour-designer-les-illustrations-des-nouveaux-billets-en-euros_8190977.html#xtor=RSS-3-[lestitres]",
+        "summary": "Entre le visage de personnalités historiques ou un aperçu du patrimoine écologique de l'Union sur les futurs billets européens, que choisiriez-vous ? La consultation en ligne lancée par la Banque centrale européenne est encore ouverte jusqu'au 21 septembre afin de trancher entre ces deux options.",
+        "date": "Mon, 14 Sep 2026 12:17:00 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1789293280000
+        "ts": 1789381020000
       },
       {
-        "title": "Le musée d'Orsay rend hommage à Auguste Bartholdi, créateur de la Statue de la Liberté",
-        "url": "https://www.franceinfo.fr/culture/arts-expos/musee-orsay/le-musee-d-orsay-rend-hommage-a-auguste-bartholdi-createur-de-la-statue-de-la-liberte_8190671.html#xtor=RSS-3-[lestitres]",
-        "summary": "A l'occasion du 140e anniversaire de la statue et des 250 ans de l'indépendance des Etats-Unis, le musée présente \"Auguste Bartholdi. La Liberté éclairant le monde\", retraçant l'histoire du célèbre monument et de son concepteur français.",
-        "date": "Sun, 13 Sep 2026 11:51:47 +0200",
+        "title": "La proposition de Marine Le Pen de réserver les logements sociaux aux Français \"nourrit une lubie xénophobe\", dénonce la présidente de la confédération des bailleurs sociaux",
+        "url": "https://www.franceinfo.fr/economie/immobilier/reforme-du-logement/la-proposition-de-marine-le-pen-de-reserver-les-logements-sociaux-aux-francais-nourrit-une-lubie-xenophobe-denonce-la-presidente-de-la-confederation-des-bailleurs-sociaux_8191742.html#xtor=RSS-3-[lestitres]",
+        "summary": "Pour Emmanuelle Cosse, les propositions annoncées par la candidate du RN \"parlaient très peu de logement mais utilisent la crise actuelle et désignent un bouc émissaire, les immigrés\".",
+        "date": "Mon, 14 Sep 2026 12:08:31 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1789293107000
+        "ts": 1789380511000
       },
       {
-        "title": "Présidentielle 2027 : Marine Le Pen à Hénin-Beaumont, Fête de l'Humanité... La rentrée politique se poursuit",
-        "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-marine-le-pen-a-henin-beaumont-fete-de-l-humanite-la-rentree-politique-se-poursuit_8190491.html#xtor=RSS-3-[lestitres]",
-        "summary": "La candidate RN doit notamment doit prononcer, dimanche après-midi, son premier véritable discours d'une campagne perturbée par des polémiques et les signes de tensions avec son numéro 2 Jordan Bardella.",
-        "date": "Sun, 13 Sep 2026 11:43:42 +0200",
-        "source": "francetvinfo.fr",
-        "ts": 1789292622000
+        "title": "« C’est une manière de nous chasser sans le dire » : à l’université, les étudiants non européens confrontés à la flambée de leurs droits d’inscription",
+        "url": "https://www.lemonde.fr/international/article/2026/09/14/c-est-une-maniere-de-nous-chasser-sans-le-dire-a-l-universite-les-etudiants-non-europeens-confrontes-a-la-flambee-de-leurs-droits-d-inscription_6773748_3210.html",
+        "summary": "Instaurés en 2019, les frais différenciés d’inscription aux universités publiques françaises pour les étudiants extracommunautaires ne sont appliqués réellement que depuis la rentrée 2026. Des droits 16 fois plus cher, qui pénalisent en majorité les étudiants africains.",
+        "date": "Mon, 14 Sep 2026 12:00:05 +0200",
+        "source": "lemonde.fr",
+        "ts": 1789380005000
       },
       {
-        "title": "Après 130 ans de navigation, le \"Belem\" entame sept mois de travaux à Saint-Nazaire",
-        "url": "https://www.franceinfo.fr/economie/transports/chantiers-navals-de-saint-nazaire/apres-130-ans-de-navigation-le-belem-entame-sept-mois-de-travaux-a-saint-nazaire_8190638.html#xtor=RSS-3-[lestitres]",
-        "summary": "Le célèbre trois-mâts, qui a fêté ses 130 ans cette année, est mis en cale sèche à Saint-Nazaire (Loire-Atlantique) pour une vaste restauration. Pendant sept mois, sa coque en acier et sa structure vont être entièrement rénovées, pour un coût de 5,5 millions d’euros.",
-        "date": "Sun, 13 Sep 2026 11:27:35 +0200",
-        "source": "francetvinfo.fr",
-        "ts": 1789291655000
+        "title": "Au Japon, la victoire des conservateurs à Okinawa ouvre la voie à une militarisation accrue du petit archipel",
+        "url": "https://www.lemonde.fr/international/article/2026/09/14/au-japon-la-victoire-des-conservateurs-a-okinawa-ouvre-la-voie-a-une-militarisation-accrue-du-petit-archipel_6773747_3210.html",
+        "summary": "Le candidat soutenu par le gouvernement japonais, Genta Koja, a remporté, dimanche, l’élection au poste de gouverneur d’Okinawa. Il a défait le sortant, Denny Tamaki, qui s’était opposé à la militarisation de cet archipel, en première ligne face aux menaces chinoises.",
+        "date": "Mon, 14 Sep 2026 12:00:04 +0200",
+        "source": "lemonde.fr",
+        "ts": 1789380004000
       }
     ],
     "ia": [
       {
-        "title": "« Nous avons encore beaucoup à faire » : Sam Altman, le patron d’Open AI, reporte son entrée en Bourse sur fond d’alertes concernant la sécurité de l’IA - challenges.fr",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPQWphU20xcWVlN212ak0tLWlLS1pWeUNRYkNPMDkxcHNpRkJKNjlQUm1pcHZHeUFIUXBRNlVXS0FmSEdYSXlaZXV0ejVrbHNpVHBzSzBPZzh5dEJucjBNaVlmSzd4RGZqTVhqbF8tM1pJaVRER2lKQkxFaHJwOFl1NWVvOVM1OFBVc2dXbllPQTh6dTNoLWp6YUZjaWVZRXlYMmxDcFhkV1VjUW96d2Nvd1lKUjhtUkNKZ29nTXNzeVNONFJPU0RMci1NdVpjQThCNnREeWN3U2NDeUQtT1MtUEZyYXBxT21OazFrM3ZpZFVpejZNanY0bFAzRmp6YkdJc3R1X1U0SjFpS3B2VDhYVGM0RQ?oc=5",
-        "summary": "« Nous avons encore beaucoup à faire » : Sam Altman, le patron d’Open AI, reporte son entrée en Bourse sur fond d’alertes concernant la sécurité de l’IA challenges.fr",
-        "date": "Sun, 13 Sep 2026 10:05:00 GMT",
-        "source": "news.google.com",
-        "ts": 1789293900000
+        "title": "DeepSeek dévoile son modèle V4.1-Flash",
+        "url": "https://www.lemondeinformatique.fr/actualites/lire-deepseek-devoile-son-modele-v41-flash-100778.html",
+        "summary": "Après avoir lancé V4-Pro en avril dernier, DeepSeek poursuit sa course à l’efficacité. L’entreprise chinoise (...)",
+        "date": "2026-09-14T11:20:11+01:00",
+        "source": "lemondeinformatique.fr",
+        "ts": 1789381211000
       },
       {
-        "title": "Le patron d’Anthropic appelle à ralentir l’IA après des incidents où des agents autonomes ont pris le contrôle - Le Temps",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbzZmalV3UTBLYi1WN3ZOTjIxdl93cEJ1ZTktdkRVaGxUYzhtMDZzX3h2UHo1d2liSUwyVUlmRkMxTk9qMGJJM3l6N0lVZUFsT242Q2VDTmM3UHVTVUFJbU93MzhVNVpycUN0LVZsZU1MRVFWQ2VJRU1hemRFRXdMQWZROWpVQlFEdjFnTVVrUjUycGl0TU9udVBNdEUzUlpRdl94R040NU1LTDF4WndNMmwzemZFbUhuYm45UnlOczU5YTFsYW9uZnlhS0tMcTdBb3c0czBuWVRuZTdPZGIzMG82eTdLZUpsY3hrXzVNZmp1QjEyaTdaUg?oc=5",
-        "summary": "Le patron d’Anthropic appelle à ralentir l’IA après des incidents où des agents autonomes ont pris le contrôle Le Temps",
-        "date": "Sun, 13 Sep 2026 10:03:51 GMT",
+        "title": "Les actions liées à l'IA chutent après un appel du secteur à ralentir au nom de la sécurité - Boursier.com",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaEFacW5XT29qR1FZMjdVVXdSSS1sTi1pM1Z5OE1STkEweXkwSGlmUnlGVThnTDd0QzJpeWN2MUl6QTllQzdLWGZqalhkY2tWQ2xONU0tbkxOSnNVLVctMnpPVTlSWm9FSFZCUXQzX3pOT0MyUHpwTnlrWWEzSDJydGx2dExDdHlKd2dpUmkwR2tDWlFiZzdpZXRKQUZJOVBRbmJWT2J2OThSR3czMEY1b2FKVTJaT0Uwa09tVHlVOTFGN0MwM0wwVENPcVFqSzh6dy0wb3U4RS1EYWh1OXNFeA?oc=5",
+        "summary": "Les actions liées à l'IA chutent après un appel du secteur à ralentir au nom de la sécurité Boursier.com",
+        "date": "Mon, 14 Sep 2026 10:03:18 GMT",
         "source": "news.google.com",
-        "ts": 1789293831000
+        "ts": 1789380198000
       },
       {
-        "title": "Vous pourrez bientôt remixer les chansons Universal avec l’IA, en toute légalité - Journal du Geek",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVzV3UTNfWGNadDNCVTU4UXpoQUE2eHo2QjhwRW5PUHpaMGpCSEtOcHo4YnVrcUNHMVRzeWh5WFQ1enZQUk4zWlBhUEc0LTZ6TFNobGNoTFBzek1nOS1BcFR3d3EtYTFPVVVxeE5YZV9ldV9nZ0k5c2pRQmZYbGppTmVtS1BlWmo0YjZ1d0w1MXJNdzQ1bHdWeUdqZ1VQRC0wTS15R0JzampmTFhJWWpjeUxIWDRfOUFfN0RWaw?oc=5",
-        "summary": "Vous pourrez bientôt remixer les chansons Universal avec l’IA, en toute légalité Journal du Geek",
-        "date": "Sun, 13 Sep 2026 10:02:33 GMT",
+        "title": "Intelligence artificielle : la peur d’une IA incontrôlable pèse sur la Bourse de Paris, qui recule ce lundi - Sud Ouest",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOGtHazhONkZJMnludlB6eHNLOTQxeW9jajcwSU54MXRtRy1sUzlSdWpod3FBNG51VEo1Z2cyWElmTFVtcElVMElSa01PQ3VIV2xlcVEyd0xLUHkwN2dyV3FIemdMTElRamR2QTlGZnFJTVgtUmlwcDNXa3FVUWVNQ0xJcDV4b2VPeWdWN2NXV3NTam8zOVE1VzBkU1R5NXhycDVqZlZ1Z1FhLVVIWkdESjhKQklHV1VtdURveWhmR00zUXRyZmt3bzRpakxJVzJvZVZLQVFUaVNCZy1qbWF3ZEx3VHA?oc=5",
+        "summary": "Intelligence artificielle : la peur d’une IA incontrôlable pèse sur la Bourse de Paris, qui recule ce lundi Sud Ouest",
+        "date": "Mon, 14 Sep 2026 10:01:12 GMT",
         "source": "news.google.com",
-        "ts": 1789293753000
+        "ts": 1789380072000
       },
       {
-        "title": "Musk, Altman, Amodei… Alertes des grands patrons de la tech sur l’IA, pour mieux garder la main - humanite.fr",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeEM5YVR2eVhpUWR1XzFQLVlGS2NQTy1EQWM1QnRmd0Zwa3YwUmFibU0xZEVwQjBIeHNxY0k4Y0hOckJkbjl3eF9CMFlNcGlyUXc2X296TzMtNlViT0w4aGlYLWhwQkJ2b2gxaGdEajF2NW16TTBaa21hV0sxeEJ4RVA2ZFVubVY4YkF4ZGVxY1B0ZC1YTFFyMG5wdV9ncXdzbkR0dndtdnU2SmE3VE4wZElKdDFmZDZzUFd0MUpNYnZKYVBtNVgzbUY1YWZ3UkFZRFZrYVpESy1wWDQ?oc=5",
-        "summary": "Musk, Altman, Amodei… Alertes des grands patrons de la tech sur l’IA, pour mieux garder la main humanite.fr",
-        "date": "Sun, 13 Sep 2026 09:59:22 GMT",
+        "title": "Cette association propose une conférence pour mieux comprendre l'intelligence artificielle - Actu.fr",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQczUwLUZBamNCN3JxNVlwQjNvTy1USUVvY19weEpkb3hpM2dkemxjSko1VmtqMUppYWFCdmJtc29UMWF4S3BjVk1xSjU5VHhvRUxQRjdDRlZCeko1YmN2dS1UOWJBUlpOUWV1UlZoLTltaDRTQUFlNXpaeXB6T2ktbVUxLW9IZzBudDNfZE00eGhiOWcyZmh4MHItVEJOa0taZ1lucnRubkxwUEdWeV9fYUkwd3ZFbTF3VDQ3Z3F3ZERidXBYYUsxRnV1OWM2WjdhbGNpLTZzS0lzc0J2V2tHcnlB?oc=5",
+        "summary": "Cette association propose une conférence pour mieux comprendre l'intelligence artificielle Actu.fr",
+        "date": "Mon, 14 Sep 2026 09:58:02 GMT",
         "source": "news.google.com",
-        "ts": 1789293562000
+        "ts": 1789379882000
       },
       {
-        "title": "FireGuardians : Quand l’intelligence artificielle accompagne les soldats du feu - PresseLib",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOHhKdTFhOWk3YWVKQVlqN1VvM2V6ZTU4WkcwRXJIMU9FSmt0YXBsNlNCMUh4dk1IS292RUFMSXpmSmFCMzZfSjJHRnNNOENhVWl3eTdlM3FDNUp0bEVwUHdGUU1IUHUxSlJPV2pOcExZc1ByblVzMWplSDcxV3RoQU9ubmNNTkNDdVp4QzVXX2xfb0JjMHVIaG51dEJNNGRheXE5YVZzV041dzQ?oc=5",
-        "summary": "FireGuardians : Quand l’intelligence artificielle accompagne les soldats du feu PresseLib",
-        "date": "Sun, 13 Sep 2026 09:55:20 GMT",
-        "source": "news.google.com",
-        "ts": 1789293320000
+        "title": "Actualité : “Celui qui gagne sur l’IA gagne tout” : Donald Trump ne veut pas ralentir son développement, malgré des risques majeurs",
+        "url": "https://www.lesnumeriques.com/intelligence-artificielle/celui-qui-gagne-sur-l-ia-gagne-tout-donald-trump-ne-veut-pas-ralentir-son-developpement-malgre-des-risques-majeurs-n261806.html",
+        "summary": "Alors qu’OpenAI, Anthropic et xAI veulent lever le pied sur le développement de l’IA, Donald Trump va à contre-courant pour ne pas perdre cette nouvelle ruée vers l’or face à la Chine.",
+        "date": "2026-09-14T11:57:00+02:00",
+        "source": "lesnumeriques.com",
+        "ts": 1789379820000
       },
       {
-        "title": "Intelligence artificielle : la Chine propose la création d’une zone «open source» pour les Brics - Le Figaro",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTTNucU5hc1lYRXlwWmpCUU5OVzQxNVEwSUU4N2FfZ0dHM0RkQjlBZmUxdmVqM1c2TTc4SGxidXkxLXNqQU9pZEgzYVFqNGZuZ1VYand4VjRkR1JTa2FVdS1GeGtycnQwWTJtUjM4QmN5TUlLVGhHemJXZ1lrMkQtOFpHTTZuYVZDYlBtZVFjU2JXUVZiaU14U1lKdzJYeEYxNWU3emN2c0dmbHhnazZvQWdCNTQ4V3Q2XzhCT3NLZy15Wk9SVF9iWTJFTVllczNzMWJj?oc=5",
-        "summary": "Intelligence artificielle : la Chine propose la création d’une zone «open source» pour les Brics Le Figaro",
-        "date": "Sun, 13 Sep 2026 09:46:49 GMT",
+        "title": "“Celui qui gagne sur l’IA gagne tout” : Donald Trump ne veut pas ralentir son développement, malgré des risques majeurs - Les Numériques",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQamRGU2tlN3Y4cjdLZjQxT09lWDl5SXo5aTFxUEw0dnBkSmtRSXNGTFZnSFlROG1yVjRHeURHaFA3YmtzdEQxbWl0X0llSG9TdFRCRlU0bFZadUxNVGpqaTdFMldZVlNuUHB6V3Bidk9pTGdYVVJlMjQ3X0xoeU1FR2RIM3pId0d5NmgtQVdiUWYybU9EX29ZVHhVQndrYW5jU1ZuVjZHUDVCb0I2a2Itd3g0X2xjdTRHUW9Zc2d3Qy1KNHc4Zkk1NG5EelNlSjFOeTJTM0pVd251bGt2bnRrWTlXTkRhd1puWkdheTFMNGhBMUtzNkRtQ0dTUm9zcEVUaE00SEI3bFhfcEFhTGhzWg?oc=5",
+        "summary": "“Celui qui gagne sur l’IA gagne tout” : Donald Trump ne veut pas ralentir son développement, malgré des risques majeurs Les Numériques",
+        "date": "Mon, 14 Sep 2026 09:57:00 GMT",
         "source": "news.google.com",
-        "ts": 1789292809000
+        "ts": 1789379820000
       }
     ]
   }
