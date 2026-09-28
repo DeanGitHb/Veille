@@ -1,206 +1,206 @@
 {
-  "generated": "2026-09-27T10:31:32.798Z",
-  "dateLabel": "dimanche 27 septembre 2026",
+  "generated": "2026-09-28T11:38:50.366Z",
+  "dateLabel": "lundi 28 septembre 2026",
   "demo": false,
   "categories": {
     "sciences": [
       {
-        "title": "Star Wars avait imaginé des IA partout… mais pas du tout comme celles que nous construisons aujourd’hui",
-        "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-star-wars-avait-imagine-ia-partout-mais-pas-tout-comme-celles-nous-construisons-aujourdhui-137883/#xtor%3DRSS-8",
-        "summary": "Alors que les IA génératives envahissent notre quotidien, certains se demandent pourquoi les IA semblent absentes des grands univers de la science-fiction que sont Star Wars ou Star Trek. Est-ce un manque d’anticipation de leurs créateurs, ou bien une volonté manifeste ?",
-        "date": "Sun, 27 Sep 2026 12:18:33 +0200",
-        "source": "futura-sciences.com",
-        "ts": 1790504313000
-      },
-      {
-        "title": "La plante de la semaine : cet arbuste exotique offre des fleurs superbes et des fruits au goût « à nul autre pareil »",
-        "url": "https://www.futura-sciences.com/maison/actualites/jardin-plante-semaine-cet-arbuste-exotique-offre-fleurs-superbes-fruits-gout-nul-autre-pareil-138036/#xtor%3DRSS-8",
-        "summary": "Les Français sont de vrais « jardinophiles » ! Et vous ? Avec cette chronique, (re)découvrez une plante, un fruit, un légume.Voilà un arbre exotique qui pourrait bien s’inviter dans votre jardin, même loin de son pays d’origine. Cet arbuste, c’est le feijoa, un nom aussi dépaysant que… lui !",
-        "date": "Sun, 27 Sep 2026 11:08:49 +0200",
-        "source": "futura-sciences.com",
-        "ts": 1790500129000
-      },
-      {
-        "title": "Voici l'appareil oublié qui pourrait faire chuter votre facture d'électricité",
-        "url": "https://www.futura-sciences.com/maison/actualites/electricite-voici-appareil-oublie-pourrait-faire-chuter-votre-facture-electricite-k2m6-138005/#xtor%3DRSS-8",
-        "summary": "Un chauffe-eau contient déjà de l'énergie stockée sous forme de chaleur. Piloté au bon moment, il peut absorber l'électricité solaire produite en milieu de journée, pour un coût bien inférieur à celui d'une batterie. Des chercheurs australiens y voient le prochain levier de la transition...",
-        "date": "Sun, 27 Sep 2026 10:00:00 +0200",
-        "source": "futura-sciences.com",
-        "ts": 1790496000000
-      },
-      {
-        "title": "Cancer colorectal : les bénéfices du dépistage se confirment",
-        "url": "https://www.sciencesetavenir.fr/sante/cancer-colorectal-quand-le-depistage-fait-reculer-la-mortalite_194958?xtor=RSS-16",
-        "summary": "Une participation de 70 % au dépistage a réduit de moitié la mortalité par cancer colorectal chez les 50-69 ans au Pays basque espagnol.",
-        "date": "Sun, 27 Sep 2026 08:00:00 +0000",
+        "title": "Peut-on implanter des spatioports n'importe où sur la Terre ?",
+        "url": "https://www.sciencesetavenir.fr/espace/exploration/peut-on-construire-des-sites-de-lancements-de-fusee-partout-sur-la-planete_194886?xtor=RSS-9",
+        "summary": "Le lancement récurrent de fusées soulève des questions sur les raisons empêchant une omniprésence technologique planétaire des spatioports. Cette problématique met notamment en lumière des paramètres physiques et géographiques clés au bon déroulement de tout décollage spatial.",
+        "date": "Mon, 28 Sep 2026 11:16:40 +0000",
         "source": "sciencesetavenir.fr",
-        "ts": 1790496000000
+        "ts": 1790594200000
       },
       {
-        "title": "Amours, rivalités, ruses… la vie secrète des oiseaux de nos jardins est digne d’un grand spectacle",
-        "url": "https://www.futura-sciences.com/planete/actualites/escales-amours-rivalites-ruses-vie-secrete-oiseaux-nos-jardins-digne-grand-spectacle-134147/#xtor%3DRSS-8",
-        "summary": "Ils sont là chaque matin, posés sur une branche, furtifs sur une pelouse ou cachés dans une haie… et pourtant, nous passons à côté sans vraiment les voir. Les oiseaux de nos jardins ne sont pas de simples visiteurs : ils observent, communiquent, s’adaptent et jouent un rôle essentiel dans un...",
-        "date": "Sun, 27 Sep 2026 09:30:00 +0200",
+        "title": "Les data centers sont un gouffre énergétique : mais leur principal défaut pourrait devenir leur meilleur atout",
+        "url": "https://www.futura-sciences.com/tech/actualites/informatique-data-centers-sont-gouffre-energetique-mais-leur-principal-defaut-pourrait-devenir-leur-meilleur-atout-137389/#xtor%3DRSS-8",
+        "summary": "Les datacenters, piliers du numérique, sont des infrastructures gourmandes en ressources et se multiplient en France. Leur impact sur les sols, l'eau et l'énergie inquiète et génère des tensions locales, notamment autour du foncier ou de l'électricité. Leur localisation et leur conception ne...",
+        "date": "Mon, 28 Sep 2026 12:51:19 +0200",
         "source": "futura-sciences.com",
-        "ts": 1790494200000
+        "ts": 1790592679000
       },
       {
-        "title": "Vous relâchez les araignées dehors ? Ce geste peut en réalité leur être fatal",
-        "url": "https://www.futura-sciences.com/planete/actualites/araignee-vous-relachez-araignees-dehors-ce-geste-peut-realite-leur-etre-fatal-w2t8-137986/#xtor%3DRSS-8",
-        "summary": "Vous trouvez une araignée dans votre salon et votre premier réflexe est de l'attraper pour la jeter dehors. Mauvaise idée, selon les spécialistes des arachnides. Ce geste, pourtant instinctif, peut nuire à l'araignée elle-même et perturber l'équilibre de votre environnement. Voici pourquoi il...",
-        "date": "Sun, 27 Sep 2026 09:00:00 +0200",
+        "title": "-62 % sur cet évier de cuisine en acier inoxydable : son prix prend littéralement l’eau",
+        "url": "https://www.futura-sciences.com/conso/bons-plans/guides-gros-electromenager-62-cet-evier-cuisine-acier-inoxydable-son-prix-prend-litteralement-eau-11400/#xtor%3DRSS-8",
+        "summary": "La cuisine prend un sérieux coup de neuf sans mettre le budget à l’eau ! Affiché à 254,90 €, cet évier de cuisine VEVOR de style campagnard profite d’une remise spectaculaire de 62 % et tombe à seulement 96,60 €. Une chute de prix qui rend cette grande cuve en acier inoxydable 304 nettement plus...",
+        "date": "Mon, 28 Sep 2026 12:00:00 +0200",
         "source": "futura-sciences.com",
-        "ts": 1790492400000
+        "ts": 1790589600000
+      },
+      {
+        "title": "Cocaïne : quand la drogue ronge de l’intérieur",
+        "url": "https://www.lemonde.fr/realites-biomedicales/article/2026/09/28/cocaine-quand-la-drogue-ronge-de-l-interieur_6785033_6579630.html",
+        "summary": "Épisode 1/3. Selon sa voie d’administration, intranasale, voire intraveineuse, la cocaïne peut provoquer des lésions tissulaires étendues, jusqu’à menacer des structures nerveuses et vasculaires vitales. Trois histoires cliniques extrêmes.",
+        "date": "Mon, 28 Sep 2026 11:37:43 +0200",
+        "source": "lemonde.fr",
+        "ts": 1790588263000
+      },
+      {
+        "title": "4,33 milliards d’années : cette date vertigineuse repousse très loin les premières chances de la vie",
+        "url": "https://www.futura-sciences.com/sciences/actualites/origine-vie-433-milliards-annees-cette-date-vertigineuse-repousse-tres-loin-premieres-chances-vie-138035/#xtor%3DRSS-8",
+        "summary": "On sait que les planètes rocheuses du Système solaire sont nées de collisions et d'accrétion par un effet boule de neige d'astéroïdes, de comètes, voire de petites planètes, il y a environ 4,5 milliards d'années. Ces collisions libéraient beaucoup d'énergie, sous forme de chaleur notamment, de...",
+        "date": "Mon, 28 Sep 2026 11:16:57 +0200",
+        "source": "futura-sciences.com",
+        "ts": 1790587017000
+      },
+      {
+        "title": "Le mystère des enfants illégitimes de Thomas Jefferson enfin résolu",
+        "url": "https://www.sciencesetavenir.fr/fondamental/biologie-cellulaire/des-analyses-genetiques-levent-le-mystere-des-enfants-illegitimes-de-thomas-jefferson_195101?xtor=RSS-10",
+        "summary": "Depuis deux siècles, le troisième président américain est soupçonné d’avoir abusé de sa position de \"propriétaire\" d’esclaves pour avoir eu des enfants avec l’une d’entre elle, Sally Hemings. Grâce aux récents progrès sur l’ADN ancien et le décryptage du génome, un groupe de scientifiques affirme q…",
+        "date": "Mon, 28 Sep 2026 09:15:48 +0000",
+        "source": "sciencesetavenir.fr",
+        "ts": 1790586948000
       }
     ],
     "tech": [
       {
-        "title": "Actualité : Cette platine vinyle présente le meilleur rapport qualité / prix de notre comparatif",
-        "url": "https://www.lesnumeriques.com/platine-vinyle/cette-platine-vinyle-presente-le-meilleur-rapport-qualite-prix-de-notre-comparatif-n262397.html",
-        "summary": "La platine vinyle JBL Spinner BT s'affiche aujourd'hui à 349,00 € chez Amazon, Fnac.com, Boulanger.com, Darty.com, Fnac.com marketplace et Cdiscount Marketplace. C'est actuellement le meilleur rapport qualité / prix de notre comparatif, selon les 8 modèles testés dans notre laboratoire.",
-        "date": "2026-09-27T12:14:34+02:00",
-        "source": "lesnumeriques.com",
-        "ts": 1790504074000
-      },
-      {
-        "title": "Votre abonnement Amazon Prime peut aussi faire baisser votre facture d’électricité de 120 €",
-        "url": "https://www.numerama.com/tech/2339709-votre-abonnement-amazon-prime-peut-aussi-faire-baisser-votre-facture-delectricite-de-120-e.html",
-        "summary": "EDF rembourse 120 euros aux membres Amazon Prime qui souscrivent chez elle un contrat d'électricité en offre de marché, depuis ce mardi 22 septembre et jusqu'au lundi 28 septembre 2026. L'opération est limitée à 10 000 remises.",
-        "date": "Sun, 27 Sep 2026 10:00:00 +0000",
+        "title": "SpaceX franchit la dernière étape avant de lancer la relève de Sophie Adenot vers l’ISS",
+        "url": "https://www.numerama.com/sciences/2341625-spacex-franchit-la-derniere-etape-avant-denvoyer-la-releve-de-sophie-adenot-vers-liss.html",
+        "summary": "SpaceX a allumé au sol les neuf moteurs du Falcon 9 de la mission Crew-13 fin septembre, sans le faire décoller. C'est le dernier gros test de la fusée avant un départ vers l'ISS prévu ce jeudi 1er octobre, avec près de trois semaines de retard.",
+        "date": "Mon, 28 Sep 2026 11:31:00 +0000",
         "source": "numerama.com",
-        "ts": 1790503200000
+        "ts": 1790595060000
       },
       {
-        "title": "Test Solix Nexus ANC : ces écouteurs Action à moins de 10 € en font plus que prévu",
-        "url": "https://www.lesnumeriques.com/ecouteurs-sans-fil/solix-nexus-anc-p78929/test.html",
-        "summary": "Trouvables chez Action pour seulement 9,95 €, les Solix Nexus ANC semblent cocher un certain nombre de cases. Nous avons donc vérifié ce que valent ces écouteurs, accessibles à tout moment dans l’une des enseignes les plus populaires de France.",
-        "date": "2026-09-27T12:00:00+02:00",
-        "source": "lesnumeriques.com",
-        "ts": 1790503200000
+        "title": "Industrie 4.0 : coup d’envoi du label l4.0 & outil TIMA - leconomistemaghrebin.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZmpKV1VfbHhQa0lzeVp4OHNZZW52Uk95OWVEalQ1bkRlem5JeG1CYWVaMzN2VnV1bkJHMVVPRkZFbHR2d0c3cVZ6ZHVocklGYllvNjQtT1B6cERsbUhvRGdxUUxSeWhwZ0Uya1lJaTBCQmk3emVydGVZNnpiVngwamd2RUdRS0cxaTNDdHcwZXBJWlZvdnpocVl0bnBucWdT?oc=5",
+        "summary": "Industrie 4.0 : coup d’envoi du label l4.0 & outil TIMA leconomistemaghrebin.com",
+        "date": "Mon, 28 Sep 2026 11:23:59 GMT",
+        "source": "news.google.com",
+        "ts": 1790594639000
       },
       {
-        "title": "Dossier : OVH ou autre hébergeur web : quelles alternatives choisir ?",
-        "url": "https://www.lesnumeriques.com/appli-logiciel/ovh-ou-autre-hebergeur-web-quelles-alternatives-choisir-a261673.html",
-        "summary": "OVHcloud reste une référence de l’hébergement web, mais d’autres solutions peuvent mieux répondre à certains besoins.Hostinger, IONOS, o2switch ou Infomaniak misent chacun sur des atouts différents. Prix, performances, simplicité, stockage ou accompagnement : voici les principaux critères à compare…",
-        "date": "2026-09-27T12:00:00+02:00",
-        "source": "lesnumeriques.com",
-        "ts": 1790503200000
+        "title": "Le Vietnam intensifie son développement industriel et change d’échelle manufacturière - Cyril Jarnias",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcFBiSVF1ZjlwTXZjVzF2RGRobHJVXy1wc0Jxa3lWQ0ZnWDFFQVJweloyN0pxMHdPMkxlWXphZ2JwbXo4Smxta0FaMWdHVml5cDg2X1AwdHgxWnBQOUZvYTdQYzdKZkdlNU1Mb25FczJuc0FWb0MxWUhOaF9PbjNyRTMwV0RjZXJjWmdn?oc=5",
+        "summary": "Le Vietnam intensifie son développement industriel et change d’échelle manufacturière Cyril Jarnias",
+        "date": "Mon, 28 Sep 2026 11:07:47 GMT",
+        "source": "news.google.com",
+        "ts": 1790593667000
       },
       {
-        "title": "Actualité : Nouveautés HBO Max : les séries et films à ne pas manquer en streaming en octobre 2026",
-        "url": "https://www.lesnumeriques.com/cine-svod/nouveautes-hbo-max-les-series-et-films-a-ne-pas-manquer-en-streaming-en-octobre-2026-n262339.html",
-        "summary": "Qu'est-ce qu'on regarde en octobre 2026 sur HBO Max ? Les Numériques vous présente ici la liste complète des nouveaux films, séries et documentaires qui rejoignent le catalogue de la plateforme de streaming ce mois-ci.",
-        "date": "2026-09-27T11:58:00+02:00",
-        "source": "lesnumeriques.com",
-        "ts": 1790503080000
+        "title": "La promotion des sciences, des technologies, de l'innovation et de la transformation numérique contribue à la croissance. - Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVksxZnVNVndtVlNsejJlSUhSaXI5YThNYUtnOU1pSGNSWnNRdUk1dUlheUdOVFBQUlo3QmVnUTVxSU0wcnpqSU5mSlJiclJwZXBGa184TENiZXUycE5kMDFlX1QyVTN3OUV0YV9TR3dPNWlmZjJvU3BwcHc0TWpQbDdTWHlmUHVRU1RJT0R6MFIwd0M4LTRENnhUdzQ0QnZjWV9fdlYydnhhT0FTd0ZMOWdn?oc=5",
+        "summary": "La promotion des sciences, des technologies, de l'innovation et de la transformation numérique contribue à la croissance. Vietnam.vn",
+        "date": "Mon, 28 Sep 2026 11:01:06 GMT",
+        "source": "news.google.com",
+        "ts": 1790593266000
       },
       {
-        "title": "Actualité : Il aspire, lave et se vide tout seul pendant 3 mois : voici le nouveau bébé de Miele",
-        "url": "https://www.lesnumeriques.com/aspirateur-balai/il-aspire-lave-et-se-vide-tout-seul-pendant-3-mois-voici-le-nouveau-bebe-de-miele-n262349.html",
-        "summary": "Miele présente la deuxième génération de sa gamme d'aspirateurs sans fil Duoflex avec la bien nommée version HX2. Et alors que le HX1 se limitait à l'aspiration des sols, le nouveau-venu combine aspiration, nettoyage à l'eau et entretien autonome. Équipé d'une station de vidange automatique, il ser…",
-        "date": "2026-09-27T10:49:00+02:00",
-        "source": "lesnumeriques.com",
-        "ts": 1790498940000
+        "title": "Arhab préside la cérémonie de clôture de la manifestation sur l'entrepreneuriat et l'innovation dans la formation et l'enseignement professionnels - aps.dz",
+        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQbWhoSHp3eDVucTI3UEMzNHhNbWl3WFdXZ1pqQUlBQkNIaEx4djlVT2V1RkYxb094UXVXZ285azBIUnp0aHZCQ2dvX05sclVPdW1KTXNBWTBTZExjemFGMndkUk9CM1pHeG00Q1g4dlM1X0lfZElQQ1pQd2FqSmxzN1lFOFFLNTVUYjdQc00wSjhCRzF2cEhMMEdnY1ZWaEhTb0tlMkNkUFA2NUo2WTVOb1ZFa1Q2UGpTdS1ZVW1icFB0aXZ2SEdKR091ZnEwTHcyWmtOU1BrS05MbVVETTVHVktMQm0yWFVaZ2c3Q3FWeXV0RmNTMkdEUjFCbldla2FtWHlqV0Z4cU9WeC1IdWN2bndHM2dXcDdrd3F1N1J4RXNsUGhhRkQzQVFPUkMtZGVkU25mbA?oc=5",
+        "summary": "Arhab préside la cérémonie de clôture de la manifestation sur l'entrepreneuriat et l'innovation dans la formation et l'enseignement professionnels aps.dz",
+        "date": "Mon, 28 Sep 2026 10:44:00 GMT",
+        "source": "news.google.com",
+        "ts": 1790592240000
+      },
+      {
+        "title": "Volkswagen ID. Tiguan : nos premières impressions au volant du successeur de l’ID.4",
+        "url": "https://www.numerama.com/vroom/2341711-volkswagen-id-tiguan-nos-premieres-impressions-a-bord-du-successeur-de-lid-4.html",
+        "summary": "Le successeur de l’ID.4 s’appelle ID. Tiguan, c’est désormais officiel. J’ai pu prendre le volant du modèle encore camouflé et je vous partage mon premier ressenti.",
+        "date": "Mon, 28 Sep 2026 10:20:03 +0000",
+        "source": "numerama.com",
+        "ts": 1790590803000
       }
     ],
     "politique": [
       {
-        "title": "Elections sénatoriales 2026 : les premiers résultats viennent de tomber dans les Hautes-Alpes, en Corse-du-Sud et dans le Territoire de Belfort",
-        "url": "https://www.franceinfo.fr/elections/senatoriales/direct-elections-senatoriales-2026-suivez-le-vote-des-grands-electeurs-et-les-premiers-resultats-du-scrutin_8206589.html#xtor=RSS-3-[lestitres]",
-        "summary": "Si l'alliance entre Les Républicains et les centristes doit conserver la majorité, le suspense demeure sur la constitution d'un possible groupe pour le Rassemblement national ou une entrée de La France insoumise dans l'hémicycle du Palais du Luxembourg.",
-        "date": "Sun, 27 Sep 2026 12:17:49 +0200",
+        "title": "Visite du pape à Metz : Léon XIV déplore le retour de la guerre en Europe et appelle à \"sacrifier certaines positions pour le bien supérieur de la paix\" sur le continent",
+        "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/direct-visite-du-pape-a-metz-dialogue-interreligieux-discours-sur-l-europe-derniere-messe-suivez-la-derniere-journee-du-voyage-de-leon-xiv_8203175.html#xtor=RSS-3-[lestitres]",
+        "summary": "Avant la prise de parole du souverain pontife américain, Emmanuel Macron a appelé l'Europe à retrouver le \"courage de ses pères fondateurs\" et à ne pas céder au \"repli\" et au \"retour des nationalismes\".",
+        "date": "Mon, 28 Sep 2026 13:23:16 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1790504269000
+        "ts": 1790594596000
       },
       {
-        "title": "Au Royaume-Uni, la police évoque un « incident majeur » après l’arrestation de plusieurs personnes près d’une base de l’armée de l’air",
-        "url": "https://www.lemonde.fr/international/article/2026/09/27/au-royaume-uni-la-police-evoque-un-incident-majeur-apres-l-arrestation-de-plusieurs-personnes-pres-d-une-base-de-l-armee-de-l-air_6784099_3210.html",
-        "summary": "Des démineurs militaires examinent plusieurs véhicules près de la base de Fairford, d’où l’armée américaine est autorisée à frapper des sites de missiles iraniens, et des habitations du village voisin de Whelford ont été évacuées.",
-        "date": "Sun, 27 Sep 2026 12:00:59 +0200",
+        "title": "EN DIRECT, guerre en Ukraine : les attaques russes font deux morts dans la région de Kiev et deux jeunes victimes dans les oblasts de Dnipropetrovsk et Kharkiv",
+        "url": "https://www.lemonde.fr/international/live/2026/09/28/en-direct-guerre-en-ukraine-a-kiev-les-dernieres-attaques-russes-font-deux-morts-dans-la-region-de-kiev-et-une-jeune-victime-a-kharkiv_6783795_3210.html",
+        "summary": "Volodymyr Zelensky a annoncé, lundi matin, que deux personnes, dont une de nationalité azerbaïdjanaise, ont été tuées près de la capitale ukrainienne. Un garçon de 13 ans, blessé dans l’oblast de Kharkiv, est par ailleurs mort à l’hôpital.",
+        "date": "Mon, 28 Sep 2026 13:12:04 +0200",
         "source": "lemonde.fr",
-        "ts": 1790503259000
+        "ts": 1790593924000
       },
       {
-        "title": "Sadio Mané, la star du football, se lance dans la transformation des mangues au Sénégal",
-        "url": "https://www.lemonde.fr/afrique/article/2026/09/27/sadio-mane-la-star-du-football-se-lance-dans-la-transformation-des-mangues-au-senegal_6784098_3212.html",
-        "summary": "L’ancien attaquant de Liverpool a posé, le 19 septembre, la première pierre d’une usine qui produira de la pulpe de mangue, de la mangue séchée, mais aussi du beurre de mangue, dans son village natal, en Casamance.",
-        "date": "Sun, 27 Sep 2026 12:00:08 +0200",
-        "source": "lemonde.fr",
-        "ts": 1790503208000
-      },
-      {
-        "title": "\"C'est un scandale sans nom\" : Arnaud Gallais, victime de violences sexuelles, dénonce l'insuffisance de la prise en compte de ce fléau dans l'Eglise par le pape Léon XIV",
-        "url": "https://www.franceinfo.fr/societe/religion/pedophilie-de-l-eglise/video-c-est-un-scandale-sans-nom-une-victime-denonce-l-insuffisance-de-la-prise-en-compte-des-violences-sexuelles-dans-l-eglise-par-le-pape-leon-xiv_8211932.html#xtor=RSS-3-[lestitres]",
-        "summary": "Arnaud Gallais, président de l'association Mouv'Enfants, dénonce des \"crimes de masse\" commis dans l'Eglise et ne se satisfait pas de la rencontre organisée entre le pape et sept victimes de violences sexuelles.",
-        "date": "Sun, 27 Sep 2026 11:53:39 +0200",
+        "title": "Blocus dans des lycées : Jean-Luc Mélenchon accuse le gouvernement d'ordonner la \"répression\", Sébastien Lecornu regrette une \"surenchère irresponsable\" de LFI",
+        "url": "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/lycee/blocus-des-lycees-jean-luc-melenchon-denonce-la-repression-du-gouvernement-sebastien-lecornu-regrette-une-surenchere-irresponsable-de-lfi_8213258.html#xtor=RSS-3-[lestitres]",
+        "summary": "La mobilisation des élèves, qui dénoncent notamment le manque de moyens, s'intensifie dans plusieurs lycées de France, et notamment d'Ile-de-France. Les ministres de l'Intérieur et de l'Education nationale ont prévenu lundi qu'en cas de violences et de blocage total, les forces de l'ordre intervien…",
+        "date": "Mon, 28 Sep 2026 13:11:50 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1790502819000
+        "ts": 1790593910000
       },
       {
-        "title": "Visite du pape à Lourdes : Léon XIV encourage l'Eglise de France à \"poursuivre\" son action face au \"fléau\" des violences sexuelles",
-        "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/direct-visite-du-pape-en-france-suivez-la-rencontre-tres-attendue-entre-le-pape-leon-xiv-et-des-victimes-de-violences-sexuelles-a-lourdes_8202998.html#xtor=RSS-3-[lestitres]",
-        "summary": "Toute la matinée, familles, religieux, personnes en fauteuil roulant et bébés en poussette se sont pressés, au son de cantiques diffusés par des haut-parleurs, sur la prairie du sanctuaire marial pour une messe géante.",
-        "date": "Sun, 27 Sep 2026 11:42:45 +0200",
+        "title": "Une pétition contre des textes de Charles Maurras présentés à Avignon, \"face à la banalisation des discours racistes\"",
+        "url": "https://www.franceinfo.fr/societe/antisemitisme/une-petition-contre-des-textes-de-charles-maurras-presentes-a-avignon-face-a-la-banalisation-des-discours-racistes_8213303.html#xtor=RSS-3-[lestitres]",
+        "summary": "Une présentation de l'auteur antisémite, royaliste, antidreyfusard et figure d'extrême droite, mort en 1952, doit être faite vendredi lors d'une conférence consacrée aux auteurs qui ont écrit en langue provençale, à la médiathèque Ceccano.",
+        "date": "Mon, 28 Sep 2026 13:00:36 +0200",
         "source": "francetvinfo.fr",
-        "ts": 1790502165000
+        "ts": 1790593236000
       },
       {
-        "title": "EN DIRECT, guerre en Ukraine : la Russie revendique des bombardements contre un centre de données à Kiev et le port de Kilia",
-        "url": "https://www.lemonde.fr/international/live/2026/09/27/en-direct-guerre-en-ukraine-la-russie-revendique-des-bombardements-contre-un-centre-de-donnees-a-kiev-et-le-port-de-kilia_6783795_3210.html",
-        "summary": "Le centre de données contre lequel l’armée russe revendique des frappes est celui de l’opérateur Vodafone, présenté comme l’un des principaux fournisseurs de téléphonie mobile et d’Internet haut débit des forces ukrainiennes, notamment pour la transmission de renseignements, selon Moscou.",
-        "date": "Sun, 27 Sep 2026 11:24:10 +0200",
-        "source": "lemonde.fr",
-        "ts": 1790501050000
+        "title": "\"Enfin une chance d'égalité thérapeutique\" : depuis juin, 85 600 boîtes de médicaments anti-obésité vendues en France",
+        "url": "https://www.franceinfo.fr/sante/medicament/enfin-une-chance-d-egalite-therapeutique-depuis-juin-85-600-boites-de-medicaments-anti-obesite-vendues-en-france_8213240.html#xtor=RSS-3-[lestitres]",
+        "summary": "Près de 18% des adultes français sont touchés par l'obésité, \"une maladie de tissu adipeux qui se fibrose\", rappelle le Collectif national des associations d'obèses, qui dénonce une grossophobie persistante.",
+        "date": "Mon, 28 Sep 2026 12:46:59 +0200",
+        "source": "francetvinfo.fr",
+        "ts": 1790592419000
+      },
+      {
+        "title": "Sur les réseaux sociaux, la désinformation continue pour inciter à ne pas avorter",
+        "url": "https://www.franceinfo.fr/societe/ivg/ivg-et-desinformation-quand-les-reseaux-sociaux-incitent-a-ne-pas-avorter_8213207.html#xtor=RSS-3-[lestitres]",
+        "summary": "L'accès à l'IVG est de plus en plus difficile en France, alerte un baromètre du Planning familial dévoilé à l'occasion de la Journée internationale pour le droit à l'avortement. La désinformation reste aussi très présente sur les réseaux sociaux.",
+        "date": "Mon, 28 Sep 2026 12:44:16 +0200",
+        "source": "francetvinfo.fr",
+        "ts": 1790592256000
       }
     ],
     "ia": [
       {
-        "title": "L’AACC appelle les agences à s’engager pour une IA responsable - CB News",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOemVQUlQ2dDNrTDlqSjdkUDY3dm5sNUtyNFEwWXZKckRVajZkbThqanBxRE4xMUM4LVF6Z2R3NGpWYmdhc1c2cjI4Z2RHaVNXcVRLVk45S1dHd05EX081OFNjSThkNllReVlxNDVmbThOdnJzSk1EdXhibzlBenNYM0pWdE9oQQ?oc=5",
-        "summary": "L’AACC appelle les agences à s’engager pour une IA responsable CB News",
-        "date": "Sun, 27 Sep 2026 10:19:27 GMT",
+        "title": "IA incontrôlable : des dizaines de milliers d’attaques - lequotidiendesentreprises.fr",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFYzVXNtX1pheDBqOFBQU29aR1BSTDRMV2pVQXdhSnJ5b3FPRkdRU0dXTnh0c3MyYXdMaTh4WUFmNWVpZnY0Rmg4TTNLZjNaeWVDRV9fei0xMFptUG1wY0RmOGJfOE9aMkx5LVEwaF9CX21lLWt5VzFHVTBVcW5TUnhwYVBOZWhfZjVyTHpjU2p5MXlPcGtERGRsQW9nNElzdEVnOUFKeWI?oc=5",
+        "summary": "IA incontrôlable : des dizaines de milliers d’attaques lequotidiendesentreprises.fr",
+        "date": "Mon, 28 Sep 2026 11:28:18 GMT",
         "source": "news.google.com",
-        "ts": 1790504367000
+        "ts": 1790594898000
       },
       {
-        "title": "À Besançon, la filière du dispositif médical fait sa rentrée sous le signe de l’IA au Kursaal - maCommune.info",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeFd2YlpzVmJEZlhocmwzbjBSUGFmdkVyU1VERVZhSTVLUWRITkJ2eXFacWprNGFaMUFtalFpQTY4VlpySkZCTm1ZY0V6bUZmSkxMTTh0bnA3VUxMV09QLXJCOUF0OXcxV1Q4Q1F2anBoU08wM2wza19ERlFRUGRPVHpmUEZSNlFoeGVibDRjSlEzNXBFaVZEemkwLWpRbFVDTmlTU3Z0RFJLMGtJQVUxZ1hlWWpjR3N6eEZR?oc=5",
-        "summary": "À Besançon, la filière du dispositif médical fait sa rentrée sous le signe de l’IA au Kursaal maCommune.info",
-        "date": "Sun, 27 Sep 2026 10:00:00 GMT",
+        "title": "Grenoble : l'association Pause IA alerte sur les risques de perte de contrôle des intelligences artificielles - Place Gre'net",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNY1pScjVtNFVmWFNxNER5TjNSU3A4WUFwLW9QSWVidWdRbWRkMWlkalUtSGJrVl9FeUJMdTZkWFNlVHdVeThFOFpvcmZGOEF4LV9Nc1c2OVhIMnZXc1VfQlBGSmJRZUE4YzlUQk85RGdqQS10NEI2TEs3ekdWZ2lEVjlidThaTUcwNE5DX2hUZFRTYVJ3VXNpaW1PQTR6TzZra1d5ZlRzVUVxWGRXcjVpUVZEaTRfME41Qi1TemZhY3ZDcjV5cy1abUszRHFXV3ZnQi01X0c1eV9jV0l5RDgtVGx2QVBsWEtCN1kxQnN1VDVSUFhDOHZV?oc=5",
+        "summary": "Grenoble : l'association Pause IA alerte sur les risques de perte de contrôle des intelligences artificielles Place Gre'net",
+        "date": "Mon, 28 Sep 2026 11:20:01 GMT",
         "source": "news.google.com",
-        "ts": 1790503200000
+        "ts": 1790594401000
       },
       {
-        "title": "Intel : Lip-Bu Tan mise sur l’IA agentique et croit au potentiel de l’informatique quantique photonique - HardwareCooking",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPclVDUHJjY284NWpzQ0Y2bFhMbDduOEVBbGhUUk1ydHdlcGRTV1lnQklzTlFoZzB4bEpWb2FaN2ZmN2dseGxyS2xHbENhNUNtLVp4VEpCYmFudDVuNGEyLVFDQTR0V1hnZVlqblYwNVpwWWMxSHltQTZOdXJmek5xNWY5bGVIWTY3eVRDU0ZtTkswdWpqenQtTEhrWUhpbTRHaFpMLUltZlFfZV8yMk5N?oc=5",
-        "summary": "Intel : Lip-Bu Tan mise sur l’IA agentique et croit au potentiel de l’informatique quantique photonique HardwareCooking",
-        "date": "Sun, 27 Sep 2026 09:52:48 GMT",
+        "title": "Les modèles d’IA moins chers bousculent OpenAI et Anthropic - letemps.ch",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcEMwSmM5YTV5aV92NUVVV2kwdTBTSHZ0T3NIM0w5N2haRjRWRk43dUdUTVV4ZTY5Z3pILUVHUmpSV1NhQVpxNVdsVHUyOENwanExdGNXTXdVbkNRNHhUa192SkFyUG1IZXZLSS1ZRUVvQkJFRUREUXlJaFhCc0pIYTRJVEUtak80T3VaY0FEUlNrUzI4am9WdEhSRm1wcHczby15cm16YmViS1laYXQ4TXcxWUQ?oc=5",
+        "summary": "Les modèles d’IA moins chers bousculent OpenAI et Anthropic letemps.ch",
+        "date": "Mon, 28 Sep 2026 11:17:02 GMT",
         "source": "news.google.com",
-        "ts": 1790502768000
+        "ts": 1790594222000
       },
       {
-        "title": "Clonage vocal par IA : une star des anime japonais attaque TikTok - Telerama",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZVlxVkM5OUNGQm5kZDgwZG1EVjRRbTVMOFUxanhJOTlVTDZzV0sxakpwVThhWXRXVWQ0T3Z1LTNXMnZGYVdiZFNpakFGZVJRWXJGR0Q5T3p1UmpwU2ZXZHgwUFRKMExQQ21hclRwOWdHWWIyeGFxWk90Z0FnZVF4TVlzVlVNSVVEWXdXcHJ3c2MtRTdOZjljMllpWENMenUwcHZyaFBhRU4tUQ?oc=5",
-        "summary": "Clonage vocal par IA : une star des anime japonais attaque TikTok Telerama",
-        "date": "Sun, 27 Sep 2026 09:43:01 GMT",
+        "title": "Intelligence artificielle en entreprise : je t’aime, moi non plus - Citoyens.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXpoMHc2d3lZTzhYMFdldGl0QThjd3hIYy0xLXlVQ0hFM1B0SU42d0Y0UXlacHRhV0NMbUhfQkJWTmdxVnJLRUpmMVFFQnV1bGxwREpQa3hEQWhmNzRZbklDWWJQd01VM2F3Z3hFeWNKbTh0cEc0bFlqdnJMOUVrV2RoNjlKeWRzZWs5LS1JdWhVbUJVTnRFUTEzUHZFc3hCNUd6REln?oc=5",
+        "summary": "Intelligence artificielle en entreprise : je t’aime, moi non plus Citoyens.com",
+        "date": "Mon, 28 Sep 2026 11:16:36 GMT",
         "source": "news.google.com",
-        "ts": 1790502181000
+        "ts": 1790594196000
       },
       {
-        "title": "Comment l’IA transforme le métier d’expert-comptable : l’expérience de Véronique PROST - Info-Chalon.com",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcGtsNlUyR3VxSEFUTDdJSHNUVkYtTXVQVm9hY3hfdmlUbkRYX0RhQ2EzUzNxYWQ1aTBtc0xSVHdiaUpUY2NoZDU1bEt0ZjYxZl9DbEd3NGVYQ0tSWERnNF95X0hhZkZ4Rk5KNTBNeE5ub1MzZTdiVUxReXFhekgyX1ZZNGxvVW5NZHlCdzdqVEZDLUNvNU9MeDl2cThWcGdTN2cxN1ZmdmhHdlNPWk5LLW0yU0M2ajN2eHkxalY2cWgxckZVLV9jSXkya0gyRS1zN1dwNWhTWQ?oc=5",
-        "summary": "Comment l’IA transforme le métier d’expert-comptable : l’expérience de Véronique PROST Info-Chalon.com",
-        "date": "Sun, 27 Sep 2026 09:42:00 GMT",
+        "title": "Pourquoi la créature semble-t-elle échapper à son créateur ? «Libé» plonge sous le capot de l’IA - Libération",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNQV9uUjJiNUg0T2R2ZmE3S2dsb3BPY0V5LUQta2djM0ZBcjRNa3h0ZnB3V0doRzRiZ1RuY3BaS2FlSnFyZklWdmcwYW1nMU5JWm92bzA5Ul8zZGNfcnBlTTktbVp0Z24wYXVGWHBFSU1naTMycHRfSnp4YnRRbjZKSjJ2ZUM1dTBwaDdJbzhmODR5ZEE5SW5ueFFGMnVObnZXa2RiNDdFOTcwaktqeFM2R0ZpRjFwcTRlMDhDN2RSMFNvYVVTRENiYzBhVmVqOU1aWnE2aE9ndkdYZklOdDdSMGNmYXNQVG5WOVN4QkcwSHY0NklsclJ6WXVYMzNSbUVKM05QOEVBT2Q4V1lRWmhXdU1KMTQ?oc=5",
+        "summary": "Pourquoi la créature semble-t-elle échapper à son créateur ? «Libé» plonge sous le capot de l’IA Libération",
+        "date": "Mon, 28 Sep 2026 11:12:33 GMT",
         "source": "news.google.com",
-        "ts": 1790502120000
+        "ts": 1790593953000
       },
       {
-        "title": "Fuites d’images, tentatives de piratage… OpenAI enchaîne les incidents - Le Point",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTUstUEFVSE1NaFFRcko0dDZBOEs2LUxoT0Z1aVZVUHBXWXptdnk4V1hFeVhxd1NkbU9WUTd0WV92alVuUUR0aEpJOWRuTUFsdFdBRTM3eWlNM1YzQlVaRHRGdWYxWlp3S3FKTERIcV9MWVpybXBtaF9XdXpvSXpETmdFel9KYUpVdWRGclhrbG5ZcW05RFpLZHlTREhqa0FacTU5YVpYYVZtbXp4MEVqbjI4SUl5WWZhRkdBYjBzWHVfTDMyOVAxYWJXejVUYTJudEE?oc=5",
-        "summary": "Fuites d’images, tentatives de piratage… OpenAI enchaîne les incidents Le Point",
-        "date": "Sun, 27 Sep 2026 09:30:00 GMT",
+        "title": "Pourquoi Anthropic s’engage à acheter pour 11,6 milliards de dollars de services cloud à Akamai sur sept ans - L'Usine Digitale",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOM0d2bVFnZy1kYXRHMmxrYm5UeW5WQ3JkejFlTUVMekY2OVZQdG1JVDlMc0d5ZGJDSmh3WkowOTJqa2tnWjRBQU5iM3h6cHUwN0pncW1BZkxCS3NZRVU1UzlGY1c1cjlCcEN3LTFyNWg1NlFaUHU4SU41bi1hMG9BclQtVVBtLUc3dzZtTFpmeGFDLVFwblFPLXJaMnkwc1AyTnFIRmlVTFR2dC1zQnIzQjRfdm5VQ2pFcXN4bzBENFBsWnJBZEhuOTNoZkZDMHBCM3dHRnRoLUhEY0lzZ2RzVmM1Mm8xcDZOVncxRlNDU0NkVlZpcWw0QmpBdVBzX1l0SERyejJZZzJVUlpZUkhhVHBTc0hTNXNrMU1pWUlmYVNnYlhWUkhiWmNBQ3k?oc=5",
+        "summary": "Pourquoi Anthropic s’engage à acheter pour 11,6 milliards de dollars de services cloud à Akamai sur sept ans L'Usine Digitale",
+        "date": "Mon, 28 Sep 2026 11:10:19 GMT",
         "source": "news.google.com",
-        "ts": 1790501400000
+        "ts": 1790593819000
       }
     ]
   }
