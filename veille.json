@@ -1,206 +1,206 @@
 {
-  "generated": "2026-10-25T09:46:01.612Z",
-  "dateLabel": "dimanche 25 octobre 2026",
+  "generated": "2026-10-26T11:01:17.009Z",
+  "dateLabel": "lundi 26 octobre 2026",
   "demo": false,
   "categories": {
     "sciences": [
       {
-        "title": "Cancer du sein : ce n’est pas toujours une boule, ces changements doivent aussi vous alerter",
-        "url": "https://www.futura-sciences.com/sante/actualites/cancer-sein-cancer-sein-ce-nest-pas-toujours-boule-ces-changements-doivent-aussi-vous-alerter-k2m6-138793/#xtor%3DRSS-8",
-        "summary": "Une grosseur reste le signe le plus connu du cancer du sein, mais ce n'est pas le seul. Une rougeur, une peau qui prend l'aspect d'une écorce d'orange, un mamelon qui se rétracte ou s'écoule : ces modifications méritent un avis médical sans attendre le prochain dépistage. Avec une précision...",
-        "date": "Sun, 25 Oct 2026 10:00:00 +0100",
-        "source": "futura-sciences.com",
-        "ts": 1792918800000
+        "title": "Cancers du poumon à petites cellules : une nouvelle immunothérapie permet un gain de survie « jamais vu »",
+        "url": "https://www.lemonde.fr/sciences/article/2026/10/26/cancers-du-poumon-a-petites-cellules-une-nouvelle-immunotherapie-permet-un-gain-de-survie-jamais-vu_6800675_1650684.html",
+        "summary": "Dans les formes avancées de cette maladie très agressive, combiner une immunothérapie innovante à une immunothérapie classique, sans attendre la rechute, réduit le risque de décès de 58 %.",
+        "date": "Mon, 26 Oct 2026 11:15:18 +0100",
+        "source": "lemonde.fr",
+        "ts": 1793009718000
       },
       {
-        "title": "Qui étaient les bâtisseurs des dolmens du Quercy ?",
-        "url": "https://www.sciencesetavenir.fr/archeo-paleo/sur-les-traces-d-un-village-neolithique-oublie_195016?xtor=RSS-4",
-        "summary": "Avec 800 dolmens, le Quercy concentre une densité exceptionnelle de monuments mégalithiques. En étudiant les grottes qui les entourent, les archéologues cherchent à comprendre comment vivaient les communautés qui les ont édifiés.",
-        "date": "Sun, 25 Oct 2026 09:00:00 +0000",
+        "title": "Le télescope James-Webb révèle une planète qui n'a pas la même apparence de tous les côtés !",
+        "url": "https://www.futura-sciences.com/sciences/actualites/astronomie-telescope-james-webb-revele-planete-na-pas-meme-apparence-tous-cotes-138688/#xtor%3DRSS-8",
+        "summary": "Une nouvelle technique mise en œuvre avec le télescope spatial James-Webb démontre qu'il devient possible de dépasser la simple caractérisation moyenne de l'atmosphère d'une exoplanète pour explorer ses différences de température et de composition selon la longitude et la latitude, et finalement...",
+        "date": "Mon, 26 Oct 2026 11:05:57 +0100",
+        "source": "futura-sciences.com",
+        "ts": 1793009157000
+      },
+      {
+        "title": "Créatine : le complément alimentaire le plus étudié n’a pas fini de surprendre",
+        "url": "https://www.futura-sciences.com/sante/actualites/complement-alimentaire-creatine-complement-alimentaire-plus-etudie-na-pas-fini-surprendre-138703/#xtor%3DRSS-8",
+        "summary": "Rien qu’à entendre ce mot, on pense immédiatement aux salles de musculation et au culturisme. Mais la créatine n’en est pas restée à sa réputation première et suscite un intérêt dans d’autres domaines que celui du sport. Grâce aux études scientifiques qui lui sont dédiées, elle livre ses autres...",
+        "date": "Mon, 26 Oct 2026 10:30:00 +0100",
+        "source": "futura-sciences.com",
+        "ts": 1793007000000
+      },
+      {
+        "title": "Ces 5 méthodes simples pour vérifier la fraîcheur d'un œuf !",
+        "url": "https://www.futura-sciences.com/sante/actualites/alimentation-ces-5-methodes-simples-verifier-fraicheur-oeuf-k2m6-138803/#xtor%3DRSS-8",
+        "summary": "Un œuf qui flotte n'est pas forcément dangereux, et un œuf qui coule n'est pas forcément sûr. Les tests domestiques mesurent l'âge d'un œuf, pas sa salubrité. Voici ce que chacun permet réellement de conclure, et le seul critère qui tranche vraiment.",
+        "date": "Mon, 26 Oct 2026 10:00:00 +0100",
+        "source": "futura-sciences.com",
+        "ts": 1793005200000
+      },
+      {
+        "title": "Ce PC portable Lenovo Chromebook Plus passe sous les 450 € grâce à un code promo !",
+        "url": "https://www.futura-sciences.com/conso/bons-plans/guides-smartphones-ce-pc-portable-lenovo-chromebook-plus-passe-sous-450-grace-code-promo-11649/#xtor%3DRSS-8",
+        "summary": "Le Lenovo Chromebook Plus 15ITN10 voit son prix fondre chez Cdiscount grâce à une remise supplémentaire avec un code promo. Un bon plan pour profiter d'un PC portable polyvalent à prix allégé !",
+        "date": "Mon, 26 Oct 2026 09:59:57 +0100",
+        "source": "futura-sciences.com",
+        "ts": 1793005197000
+      },
+      {
+        "title": "Un nouveau modèle d'IA prédit la météo jusqu'à 6 semaines",
+        "url": "https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/un-nouveau-modele-d-intelligence-artificielle-predit-la-meteo-jusqu-a-6-semaines_195493?xtor=RSS-12",
+        "summary": "Une nouvelle étude présente un modèle de machine learning pouvant prédire la météo à plus long terme. Ce programme d'IA est en mesure de prévoir le temps qu'il fera dans les six prochaines semaines. Une méthode inédite qui pourrait permettre une meilleure gestion des crises en amont d'événements mé…",
+        "date": "Mon, 26 Oct 2026 08:37:47 +0000",
         "source": "sciencesetavenir.fr",
-        "ts": 1792918800000
-      },
-      {
-        "title": "Mystère du roi Arthur : ce château au bord du vide fascine l’Angleterre depuis des siècles",
-        "url": "https://www.futura-sciences.com/planete/actualites/carnet-voyage-cornouailles-falaises-bout-angleterre-voyage-legendes-ocean-136782/#xtor%3DRSS-8",
-        "summary": "À l'extrémité sud-ouest de l'Angleterre, la Cornouailles déploie un littoral spectaculaire où les falaises plongent dans l'Atlantique, où les plages de sable doré côtoient des villages de pêcheurs pleins de charme et où les légendes semblent encore habiter les ruines de Tintagel. Entre nature...",
-        "date": "Sun, 25 Oct 2026 09:30:00 +0100",
-        "source": "futura-sciences.com",
-        "ts": 1792917000000
-      },
-      {
-        "title": "Ils ont laissé une IA diriger leur entreprise, ce qu'il s'est passé en dit long sur l'avenir du travail",
-        "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-ils-ont-laisse-ia-diriger-leur-entreprise-ce-quil-passe-dit-long-avenir-travail-w2t8-138772/#xtor%3DRSS-8",
-        "summary": "Des chercheurs ont créé une fausse entreprise peuplée d’agents d’intelligence artificielle afin de voir s’ils étaient capables de remplacer les employés. Les résultats devraient rassurer ceux qui s’inquiètent de perdre leur travail face à l’IA.",
-        "date": "Sun, 25 Oct 2026 09:00:00 +0100",
-        "source": "futura-sciences.com",
-        "ts": 1792915200000
-      },
-      {
-        "title": "Ce que la Nasa vient de découvrir sous la surface de la Lune intrigue les scientifiques du monde entier",
-        "url": "https://www.futura-sciences.com/sciences/actualites/lune-ce-nasa-vient-decouvrir-sous-surface-lune-intrigue-scientifiques-monde-entier-w2t8-138770/#xtor%3DRSS-8",
-        "summary": "La Nasa révèle l'existence de cavernes lunaires accessibles par des ouvertures naturelles. Ces formations souterraines pourraient servir d'abris protecteurs pour les futures missions habitées. Quinze années de données satellitaires dévoilent plus d'une centaine de cratères suspects sur notre...",
-        "date": "Sun, 25 Oct 2026 08:00:00 +0100",
-        "source": "futura-sciences.com",
-        "ts": 1792911600000
-      },
-      {
-        "title": "Canal carpien : cette technique à base d’eau salée fait mieux que les corticoïdes et pourrait vous éviter une chirurgie",
-        "url": "https://www.futura-sciences.com/sante/actualites/corps-humain-canal-carpien-cette-technique-base-eau-salee-fait-mieux-corticoides-pourrait-vous-eviter-chirurgie-138763/#xtor%3DRSS-8",
-        "summary": "Fourmillements, douleurs, perte de force dans la main… Le syndrome du canal carpien peut vite devenir handicapant, d’autant que les traitements disponibles ne procurent pas toujours un soulagement durable. Mais une étude vient bousculer les idées reçues : une nouvelle technique, peu invasive,...",
-        "date": "Sun, 25 Oct 2026 06:03:23 +0100",
-        "source": "futura-sciences.com",
-        "ts": 1792904603000
+        "ts": 1793003867000
       }
     ],
     "tech": [
       {
-        "title": "CrackGate : y a-t-il un problème avec l’écran de l’iPhone Duo ? Plusieurs modèles seraient déjà cassés",
-        "url": "https://www.numerama.com/tech/2360433-crackgate-y-a-t-il-un-probleme-avec-lecran-de-liphone-duo-plusieurs-modeles-seraient-deja-casses.html",
-        "summary": "Sur X et Reddit, des dizaines d'images extrêmement semblables montrent des iPhone Duo avec un écran cassé. Toutes ont généralement un point commun : le centre de l'écran semble percé et des lignes de lumière apparaissent à droite et en bas. Un défaut dans la charnière de l'iPhone Duo, la pièce qui…",
-        "date": "Sun, 25 Oct 2026 09:27:50 +0000",
-        "source": "numerama.com",
-        "ts": 1792920470000
-      },
-      {
-        "title": "Actualité : Alors qu'Audi supprime 7 500 emplois en Europe, Donald Trump dévoile que le constructeur allemand va faire \"un énorme investissement\" avec 4 500 postes créés aux États-Unis",
-        "url": "https://www.lesnumeriques.com/voiture/alors-qu-audi-supprime-7-500-emplois-en-europe-donald-trump-devoile-que-le-constructeur-allemand-va-faire-un-enorme-investissement-avec-4-500-postes-crees-aux-etats-unis-n263765.html",
-        "summary": "Pendant qu’Audi supprime des milliers d’emplois en Europe, c’est une usine qui ouvrira ses portes aux États-Unis. Donald Trump parle d’un \"énorme investissement\" à 4,2 milliards de dollars pour environ 4 500 postes créés là-bas. La nouvelle est dure pour l’industrie européenne, surtout au moment où…",
-        "date": "2026-10-25T10:15:00+01:00",
+        "title": "Actualité : Box-office : le film DC Clayface s'impose sans briller, loin du carton de Joker",
+        "url": "https://www.lesnumeriques.com/cine-svod/box-office-le-film-dc-clayface-s-impose-sans-briller-loin-du-carton-de-joker-n263782.html",
+        "summary": "Le film Clayface, sur le méchant de l'univers Batman, a débuté tout en haut du classement américain ce week-end, devant le documentaire You Can See Everything et le film d'animation Wildwood.",
+        "date": "2026-10-26T11:53:00+01:00",
         "source": "lesnumeriques.com",
-        "ts": 1792919700000
+        "ts": 1793011980000
       },
       {
-        "title": "Panne géante chez Orange, failles PHP et test de l’iPhone Duo – le récap’ tech de la semaine",
-        "url": "https://www.numerama.com/tech/2360115-panne-geante-chez-orange-failles-php-et-test-de-liphone-duo-le-recap-tech-de-la-semaine.html",
-        "summary": "Cette semaine, la France a connu plusieurs pannes majeures avec le réseau Orange coupé pendant 10 heures et la banque Revolut victime d'un bug Google Cloud. La découverte de deux failles PHP a aussi plongé une partie du web dans le noir, avec un risque pour la sécurité des infrastructures. Dans le…",
-        "date": "Sun, 25 Oct 2026 09:07:00 +0000",
-        "source": "numerama.com",
-        "ts": 1792919220000
-      },
-      {
-        "title": "Actualité : La nouvelle Volkswagen électrique attire les clients grâce à son prix sous les 11 000 € et enregistre 10 000 commandes en quelques heures, mais ce modèle reste réservé à la Chine",
-        "url": "https://www.lesnumeriques.com/voiture-electrique/la-nouvelle-volkswagen-electrique-attire-les-clients-grace-a-son-prix-sous-les-11-000-et-enregistre-10-000-commandes-en-quelques-heures-mais-ce-modele-reste-reserve-a-la-chine-n263764.html",
-        "summary": "C’est en Chine que Volkswagen lance sa nouvelle voiture électrique : la Jetta M6 au prix de départ de 79 800 ¥, soit environ 10 700 €. Et le succès est là puisque ce modèle a dépassé les 10 000 commandes fermes à peine 19 heures après son lancement.",
-        "date": "2026-10-25T09:15:00+01:00",
+        "title": "Actualité : L’aspirateur robot laveur Dyson R2 Nurovi Wash+Dry est à 599 € (-29 %) grâce aux offres pré-Black Friday",
+        "url": "https://www.lesnumeriques.com/aspirateur-robot/l-aspirateur-robot-laveur-dyson-r2-nurovi-wash-dry-est-a-599-29-grace-aux-offres-pre-black-friday-n263790.html",
+        "summary": "Le Dyson R2 Nurovi Wash+Dry associe des serpillères triangulaires extensibles, une navigation LiDAR et une station qui vide la poussière, lave et sèche les serpillères.",
+        "date": "2026-10-26T11:46:00+01:00",
         "source": "lesnumeriques.com",
-        "ts": 1792916100000
+        "ts": 1793011560000
       },
       {
-        "title": "Tesla Roadster : l’oeuvre d’un génie ou simple tour de magie ?",
-        "url": "https://www.numerama.com/vroom/2359455-tesla-roadster-loeuvre-dun-genie-ou-simple-tour-de-magie.html",
-        "summary": "Le Tesla Roadster a fait son show. Reste à savoir si c’est du génie ou un tour de magie particulièrement bien ficelé. Impossible de ne pas traîter du Tesla Roadster dans l'édito de la newsletter Watt Else du 22 octobre 2026.",
-        "date": "Sun, 25 Oct 2026 07:57:00 +0000",
+        "title": "Le porte-avions Charles de Gaulle a accueilli un laser anti-drone pour la première fois",
+        "url": "https://www.numerama.com/tech/2360661-le-porte-avions-charles-de-gaulle-a-accueilli-un-laser-anti-drone-pour-la-premiere-fois.html",
+        "summary": "Des militaires de l'armée de l'Air et de l'Espace ont installé un laser anti-drone sur le pont d'envol du porte-avions Charles de Gaulle, du 4 au 8 juin. Cols Bleus, le magazine de la Marine, parle d'une première sur l'un de ses navires. Pourtant, la frégate Forbin a déjà détruit des drones au lase…",
+        "date": "Mon, 26 Oct 2026 10:38:19 +0000",
         "source": "numerama.com",
-        "ts": 1792915020000
+        "ts": 1793011099000
       },
       {
-        "title": "Amazon baisse le prix du chauffage d’appoint connecté de Dreo juste avant l’heure d’hiver",
-        "url": "https://www.numerama.com/tech/2360195-amazon-baisse-le-prix-du-chauffage-dappoint-connecte-de-dreo-juste-avant-lheure-dhiver.html",
-        "summary": "[Deal du jour] L'heure d'hiver arrive ce week-end, et avec elle les soirées fraîches dans les pièces mal chauffées. Amazon fait passer le Dreo Atom One, un chauffage d'appoint connecté de 1 500 watts, de 69,99 € à 59,99 €.",
-        "date": "Sun, 25 Oct 2026 07:30:00 +0000",
-        "source": "numerama.com",
-        "ts": 1792913400000
+        "title": "La Vitre installe son écran à taille humaine dans un laboratoire d’innovation milanais - Le Journal des Entreprises",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV3hIamx0Rlc3M3BjQmxVQ3JZWFBoOFZqck5JVXNWeUY0Wk1rMTRVVkhNZTNVVDlmTHd0QXMtZ0hobklhbWVJWlFiVi13VWxUYjdQMlFUMHM3VzhOU0Z1d1NiMkIwNnlTaFZ3ZklmYS1ES205Sko2aFMxNmhLTnZVa20tYWx2X3ktRUNFcjZ3cmJSeHF3SV9UUzgzbEhiQzJudmd6V2Q0ZXpPckd6YlhwRk1GMDBiNjYwWkh5RVhCSmg1eWJJWkNrQmZkbGFrcGh1WGxad1ZB?oc=5",
+        "summary": "La Vitre installe son écran à taille humaine dans un laboratoire d’innovation milanais Le Journal des Entreprises",
+        "date": "Mon, 26 Oct 2026 10:33:54 GMT",
+        "source": "news.google.com",
+        "ts": 1793010834000
+      },
+      {
+        "title": "Actualité : Calendrier F1 2026 : dates et horaires des 24 Grands Prix de la saison",
+        "url": "https://www.lesnumeriques.com/evenement-sportif/calendrier-f1-2026-dates-et-horaires-des-24-grands-prix-de-la-saison-204-n249687.html",
+        "summary": "La saison 2026 de Formule 1, composée de 24 courses, est diffusée sur les chaînes Canal+. Essais libres, qualifications, courses... Voici les dates et les horaires détaillés de tous les GP.",
+        "date": "2026-10-26T11:30:00+01:00",
+        "source": "lesnumeriques.com",
+        "ts": 1793010600000
+      },
+      {
+        "title": "Actualité : Bon plan – La machine à café automatique avec broyeur Philips EP5500 LatteGo à 549,00 €",
+        "url": "https://www.lesnumeriques.com/machine-a-cafe-automatique/bon-plan-la-machine-a-cafe-automatique-avec-broyeur-philips-ep5500-lattego-a-549-00-n263788.html",
+        "summary": "La machine à café automatique avec broyeur Philips EP5500 LatteGo passe sous les 550 € chez Amazon.",
+        "date": "2026-10-26T11:29:12+01:00",
+        "source": "lesnumeriques.com",
+        "ts": 1793010552000
       }
     ],
     "politique": [
       {
-        "title": "Il tue sa sœur et tente de s'en prendre à sa mère : meurtre dans ce quartier de Dijon, le suspect actuellement en fuite",
-        "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/cote-d-or/dijon/il-tue-sa-s-ur-et-tente-de-s-en-prendre-a-sa-mere-meurtre-dans-ce-quartier-de-dijon-le-suspect-en-fuite-3438837.html#xtor=RSS-3-[lestitres]",
-        "summary": "Une femme de 21 ans a été tuée par son frère dans la nuit du samedi 24 au 25 octobre 2026 dans le quartier Montmuzard à Dijon (Côte-d'Or). Le suspect à également tenter de tuer sa mère retrouvée gravement blessée puis transportée au CHU de Dijon. Le meurtrier présumé est actuellement en fuite.",
-        "date": "Sun, 25 Oct 2026 10:36:57 +0100",
+        "title": "Mobilisation des lycéens : Sébastien Lecornu reçoit des influenceurs engagés dans le mouvement pour évoquer les \"attentes des jeunes\"",
+        "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-le-gouvernement-recoit-les-organisations-dans-l-apres-midi-et-promet-des-reponses-tres-concretes_8253718.html#xtor=RSS-3-[lestitres]",
+        "summary": "Sébastien Lecornu doit ensuite recevoir les organisations lycéennes puis étudiantes, espérant clore ainsi cinq semaines de crise entamées par des blocages d'établissements.",
+        "date": "Mon, 26 Oct 2026 11:57:06 +0100",
         "source": "francetvinfo.fr",
-        "ts": 1792921017000
+        "ts": 1793012226000
       },
       {
-        "title": "La garde à vue du suspect de l'attentat raciste à Trappes \"suspendue\" le temps \"d'une période d'observation psychiatrique susceptible de durer 48 heures\", annonce le parquet antiterroriste",
-        "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/la-garde-a-vue-du-suspect-de-l-attentat-raciste-a-trappes-suspendue-le-temps-d-une-periode-d-observation-psychiatrique-susceptible-de-durer-48-heures-annonce-le-parquet-antiterroriste_8252896.html#xtor=RSS-3-[lestitres]",
-        "summary": "Le Pnat précise par ailleurs que l'analyse toxicologique \"a permis de révéler la présence de cannabis et de cocaïne dans son sang\". Les gardes à vue des membres de l'entourage familial et amical de Kévin T. se poursuivent.",
-        "date": "Sun, 25 Oct 2026 10:36:19 +0100",
-        "source": "francetvinfo.fr",
-        "ts": 1792920979000
-      },
-      {
-        "title": "Au Brésil, les soutiens de Lula et Bolsonaro mobilisés jusqu’au bout : « Mon père ne votait plus. Je l’ai convaincu que cette élection était la plus importante de notre vie »",
-        "url": "https://www.lemonde.fr/international/article/2026/10/25/au-bresil-les-soutiens-de-lula-et-bolsonaro-mobilises-jusqu-au-bout-mon-pere-ne-votait-plus-je-l-ai-convaincu-que-cette-election-etait-la-plus-importante-de-notre-vie_6800063_3210.html",
-        "summary": "A la veille du scrutin présidentiel, le président de gauche Luiz Inacio Lula da Silva, candidat à un quatrième mandat, et son rival d’extrême droite Flavio Bolsonaro, ont défilé avec leurs troupes pour tenter de convaincre les derniers indécis dans une course particulièrement serrée.",
-        "date": "Sun, 25 Oct 2026 10:23:37 +0100",
+        "title": "EN DIRECT, Lula réélu au Brésil : la Russie « salue » la réélection de Lula",
+        "url": "https://www.lemonde.fr/international/live/2026/10/26/en-direct-lula-reelu-au-bresil-la-russie-salue-la-reelection-de-lula_6800074_3210.html",
+        "summary": "Jean-Luc Mélenchon a salué la victoire de Lula face à l’extrême droite et aux « ingérences étrangères ». Marine Tondelier (Les Ecologistes)évoque un « immense soulagement » pour l’Amazonie.",
+        "date": "Mon, 26 Oct 2026 11:56:53 +0100",
         "source": "lemonde.fr",
-        "ts": 1792920217000
+        "ts": 1793012213000
       },
       {
-        "title": "Pour la mobilisation samedi à Paris, \"les enseignements du 17 octobre ont été tirés\", se félicite la porte-parole de la préfecture de police de Paris",
-        "url": "https://www.franceinfo.fr/societe/manifestations/pour-la-mobilisation-samedi-a-paris-les-enseignements-du-17-octobre-ont-ete-tires-se-felicite-la-porte-parole-de-la-prefecture-de-police-de-paris_8252836.html#xtor=RSS-3-[lestitres]",
-        "summary": "Une semaine après les scènes d'émeutes et de chaos qui avaient marqué la première journée de mobilisation, la manifestation de samedi à Paris s'est déroulée dans \"des conditions de sécurité absolument remarquables\", estime Hélène Denéchère.",
-        "date": "Sun, 25 Oct 2026 09:49:34 +0100",
+        "title": "Volodymyr Zelensky confirme qu'une réunion entre Russes, Ukrainiens et Américains aura lieu en novembre",
+        "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-confirme-qu-une-reunion-entre-russes-ukrainiens-et-americains-aura-lieu-en-novembre_8253844.html#xtor=RSS-3-[lestitres]",
+        "summary": "\"S'il s'agit de la question territoriale, elle doit être abordée au niveau des dirigeants. Les autres questions relèvent des groupes techniques\", a précisé le président ukrainien.",
+        "date": "Mon, 26 Oct 2026 11:49:49 +0100",
         "source": "francetvinfo.fr",
-        "ts": 1792918174000
+        "ts": 1793011789000
       },
       {
-        "title": "Congrès du RN à Orléans : Marine Le Pen lance sa campagne présidentielle avec un premier meeting, son discours prévu à 15h30",
-        "url": "https://www.franceinfo.fr/elections/presidentielle/direct-congres-du-rn-a-orleans-marine-le-pen-lance-sa-campagne-presidentielle-avec-un-premier-meeting-son-discours-prevu-a-15h30_8252842.html#xtor=RSS-3-[lestitres]",
-        "summary": "Favorite des sondages, la quadruple candidate doit s'exprimer après une première journée de congrès, qui a reconduit Jordan Bardella à la tête du parti d'extrême droite.",
-        "date": "Sun, 25 Oct 2026 09:40:46 +0100",
+        "title": "Attentat raciste à Trappes : le Conseil représentatif des associations noires de France \"se constituera partie civile\"",
+        "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-a-trappes-le-conseil-representatif-des-associations-noires-de-france-se-constituera-partie-civile_8254099.html#xtor=RSS-3-[lestitres]",
+        "summary": "Pour le Conseil représentatif des associations noires, l'attentat raciste dans les Yvelines, qui a fait un mort et cinq blessés vendredi, \"n'est pas survenu dans le vide\"",
+        "date": "Mon, 26 Oct 2026 11:41:55 +0100",
         "source": "francetvinfo.fr",
-        "ts": 1792917646000
+        "ts": 1793011315000
       },
       {
-        "title": "Midterms 2026 : Barack Obama, en campagne pour soutenir les démocrates, attaque le mandat de Donald Trump, marqué par « le chaos, la cruauté, la corruption et l’incompétence »",
-        "url": "https://www.lemonde.fr/international/article/2026/10/25/midterms-2026-barack-obama-en-campagne-pour-soutenir-les-democrates-attaque-le-mandat-de-donald-trump-marque-par-le-chaos-la-cruaute-la-corruption-et-l-incompetence_6800059_3210.html",
-        "summary": "« Le président actuel a choisi de prendre une série de mauvaises décisions. Surtout, il a décidé de déclencher une guerre inutile, que personne n’a demandée », a asséné Barack Obama, imputant à Donald Trump la hausse du coût de la vie due, notamment, à l’offensive menée en Iran.",
-        "date": "Sun, 25 Oct 2026 09:31:11 +0100",
+        "title": "Serbie : les images de la fête à Belgrade après la victoire du mouvement des étudiants aux élections législatives",
+        "url": "https://www.lemonde.fr/international/video/2026/10/26/serbie-les-images-de-la-fete-a-belgrade-apres-la-victoire-du-mouvement-des-etudiants-aux-elections-legislatives_6800708_3210.html",
+        "summary": "Des centaines de milliers de Serbes sont descendus dans la rue et sur la place à Belgrade, dimanche soir, pour fête la victoire de l’opposition aux élections législatives.",
+        "date": "Mon, 26 Oct 2026 11:39:52 +0100",
         "source": "lemonde.fr",
-        "ts": 1792917071000
+        "ts": 1793011192000
+      },
+      {
+        "title": "Lula réélu à la surprise générale, des résultats contestés par Flavio Bolsonaro... Ce qu'il faut retenir de la présidentielle au Brésil",
+        "url": "https://www.franceinfo.fr/monde/bresil/lula-reelu-a-la-surprise-generale-des-resultats-contestes-par-flavio-bolsonaro-ce-qu-il-faut-retenir-de-la-presidentielle-au-bresil_8253835.html#xtor=RSS-3-[lestitres]",
+        "summary": "L'icône de la gauche brésilienne a réussi à combler son retard du premier tour face au fils de l'ancien président Jair Bolsonaro. A l'instar de son père, le candidat d'extrême droite a refusé de reconnaître sa défaite.",
+        "date": "Mon, 26 Oct 2026 11:37:15 +0100",
+        "source": "francetvinfo.fr",
+        "ts": 1793011035000
       }
     ],
     "ia": [
       {
-        "title": "Tribune libre. Jean-Pierre Chruszez : « L’intelligence artificielle a-t-elle sa place dans l’écriture d’un roman ? » - Nice-Matin",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdW5yQWFfUGU2REFrN05qWGZtbVhvTlBMOXE1M0V1enpmVlpNNmFzVDI4V2kxZDlLR25iVFRoVDlNNUlLMS1NbHluOHhTMEhwLXRiVngyQ3V5ZUJUZFNnaHc5NjhNR3F6Qks5WkJfTUxZb1FCWjN3ZElUekpPWnVGZFlRUWw0NHp6cUV6ZmVQdUNnNlY4UUZ6WVE4OVFleklkUlZtbjFQMktwSDY5RHNseFN1c0swSHd1cGtqTk52UHg4bnlaY2JQcE4xNWUyM3RFX0dyT3c4ZVRVanRkYW1GRUZPOFZaVDZ6QmdLeQ?oc=5",
-        "summary": "Tribune libre. Jean-Pierre Chruszez : « L’intelligence artificielle a-t-elle sa place dans l’écriture d’un roman ? » Nice-Matin",
-        "date": "Sun, 25 Oct 2026 09:30:09 GMT",
+        "title": "À Belfort, l’IA invente-t-elle l’avenir ou recycle-t-elle nos préjugés ? - Unidivers",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5veXVKcUw0cW04S3R6UEJ6aHZDbjFqZWFheU13TFVDeGZEZ3JUWmdrSy1UZEtDaHFkLUZvcDVpS1FEOEtZLVdIM2N2ZDNURDNHTTQtYllLQ3RPZEtKNmpRTmZ5RklWV21RdVlMbXpJbS1NYW8wQmZRbXBQSQ?oc=5",
+        "summary": "À Belfort, l’IA invente-t-elle l’avenir ou recycle-t-elle nos préjugés ? Unidivers",
+        "date": "Mon, 26 Oct 2026 10:55:42 GMT",
         "source": "news.google.com",
-        "ts": 1792920609000
+        "ts": 1793012142000
       },
       {
-        "title": "Des failles critiques dans PHP repérées par l’IA mettent tout le web sous pression - Le Singulier",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWDZBa3AtQVZMeWJEN1VwcHJhZkY2d1ZHdW5acDU5MnVvei1sTHAtWXJqUzc5SEdId2h5T3NyREVheG40UURxVG9xam5mWEVXVXBGdDlTS1ZSNHdaNF9aODVmSHdyNnNnQWJSRElQM1c0RWdKWVpiNGU3RjVjZ2pSeXJnUUVGZF9KOWZzQkU2ZE1NTGlXcjdrNk8wZmxzTUZNamM3TkVQdHZNRjNpUEE?oc=5",
-        "summary": "Des failles critiques dans PHP repérées par l’IA mettent tout le web sous pression Le Singulier",
-        "date": "Sun, 25 Oct 2026 09:29:45 GMT",
+        "title": "IA : les centres de données en orbite, nouvelle course à l’espace - Unric",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYy1OMXI3VlBpeVhkSjR1RVN6Q3Utd0k2VExuRVhiWEpQTE5mVHRRNWxHZHI3NGNhMEt5WUJfUmlVbWhXODB5NXRKakRYYXdDN1MxMUhQUEl2V3pMX0hMZXFpNkd4WHN4M1FJcExPU3luQjBxeEtrUjloOVJHTDB3NE5qeS05NFFYOUxN?oc=5",
+        "summary": "IA : les centres de données en orbite, nouvelle course à l’espace Unric",
+        "date": "Mon, 26 Oct 2026 10:51:15 GMT",
         "source": "news.google.com",
-        "ts": 1792920585000
+        "ts": 1793011875000
       },
       {
-        "title": "Prédication : non à l’« inspiration » artificielle ! - Regards protestants",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbm1McGFKWm5GbGpwRTM5V3hselA5S0hKWEFBV0pzWHhuR1FacURJc0l5U042b0dGczdYdksyQWdwZ0U0clhFbFd6TWd5aTRIc3lFcFNkbW1MWmNnRGxQZmM0N2VTZ19GYldjaXRfTDVHS09hQktGQnZGcWpxRGN2c00xcE1fN0tCUTM5aFBWRmw0X2V4WUVKT0IyWFYtSmNpa0Y0?oc=5",
-        "summary": "Prédication : non à l’« inspiration » artificielle ! Regards protestants",
-        "date": "Sun, 25 Oct 2026 09:03:25 GMT",
+        "title": "Isoskèle, filiale de La Poste, se renforce en IA et architecture Data avec deux recrutements - La Revue du Digital",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSk9JSlJKaXRydW9NalFWcVhBM1B3NW0taTJPMHlfTDBwVFd0cGZvTEpya3kwTy1EM2Z3cF80WHpLQUVWQWlPeGEzOGhGWkp2TFNvQkFuRjhGTGdkbHBJcF9oVVVqYzNjdVZVOHpNa0RxNEtPQnFxZUNYSkpYVl96N18ySThUMWpEUlM2MkpPTW02SVY2OXdselpvQ1lPbXBJYTlfLXE1cE5BQXI1c1Y3VFVXeFdzRjJXNFJqOU94ZVVxdw?oc=5",
+        "summary": "Isoskèle, filiale de La Poste, se renforce en IA et architecture Data avec deux recrutements La Revue du Digital",
+        "date": "Mon, 26 Oct 2026 10:48:32 GMT",
         "source": "news.google.com",
-        "ts": 1792919005000
+        "ts": 1793011712000
       },
       {
-        "title": "Un article scientifique sur Z-Library cite un article de presse qui n’existe pas - Clubic",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaG5lclgxdGo4Qm5lNHNKeWhRc0VESEx1S2h1ZFdyWTlvamN5QWhOR0xuaTlmc1FUT2RBRk1JMUtzaWpMVWFyb2ExYXU0ejRHUFMybW9DUnpaQk1adURlZ3RZR243dWlmdDVxRHIyNmVJbkJxT25ZQlVlRExzUnNvYzl3ZWFtRjlOS2s2Nkd1Rjc1b3h2cndGeEFVd3NsaEs5Q1c1UkNxNDJNdVNwVlQ0MlZSQW1DVXgydkZUSTdqanJUNWc?oc=5",
-        "summary": "Un article scientifique sur Z-Library cite un article de presse qui n’existe pas Clubic",
-        "date": "Sun, 25 Oct 2026 09:01:00 GMT",
+        "title": "Cette panthère rose qui affole les réseaux révèle le vrai danger des deepfakes - www.journaldunet.com",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0VWb3RQcFNERGJ0OTEybldaR3J3ZDN5OVVEZmJ6NWFKaFdrUGp6d2IyeWNMMW44TnVFUzh1V1N2eURNTWp5dVZ0a1E1UmgzMWxuOWdUV3JzS1FBbGw3NlJXc0lVU3ZhQVctZzhlRW90T0RIV2F5YTVmb2E2RENXWWk5S2JPWGFsWFFFQ05JUEZkUHl1VkhEMXhpZHVnNl9RMUczTmRCRkRuUzYwLWFodWNtUDNLcno0blMxZDAzWllOOFpmWElKRmpn?oc=5",
+        "summary": "Cette panthère rose qui affole les réseaux révèle le vrai danger des deepfakes www.journaldunet.com",
+        "date": "Mon, 26 Oct 2026 10:48:31 GMT",
         "source": "news.google.com",
-        "ts": 1792918860000
+        "ts": 1793011711000
       },
       {
-        "title": "Éloge du jugement humain à l’ère de l’IA, par la présidente de l’Islande - TIME France",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSnJ6cUNSRzBIT3FmcmdoZWNoSGx4ejNKN3g0eUxIMHpnTGJHcDFLR2VWSUZwRkFYdkhPVW1aQUQ2cTQwYUxieWNpX19vQTBEYnJxRGc5WmRDb000NkFiTVhlSUZUVkJoYzhfX250T1VwVG4xelNrQ2xUYzRJUGNuMVJ6ZmtJNHhUQ2Vxdk9yZS1fNUZjcUhfQXVvZlRMMjFpMUtBYzJSaw?oc=5",
-        "summary": "Éloge du jugement humain à l’ère de l’IA, par la présidente de l’Islande TIME France",
-        "date": "Sun, 25 Oct 2026 09:00:46 GMT",
+        "title": "Atos lance une nouvelle suite d'intelligence artificielle, le titre gagne plus de 8% - Zonebourse Suisse",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdkpoeXJCTDBpalJ4cmp0eXhXNlVJR2xRYnRCdlprYU1WX1lKUVdCMDc3RmtWeC1JUlU1a3l6dVcyMkc4YWcxenkxQTVTZ2NYUTJvNGRXbWVwM3IyeUpYOGJOdzh5RFBnekEycEg1Ry1OXzBGTkYybkliMzFvRmVHby1BS1F5UlhmQlhMMjl6Z2lLdmUxaDMxV1ltb3dWcUVXYjhBRzZKUk55d3ZSd3doUXV5QmdIMGhpOGF1UXozcVFsNVpUek55bW1LbmxQVGZCc2VzZ0FqS1VMQQ?oc=5",
+        "summary": "Atos lance une nouvelle suite d'intelligence artificielle, le titre gagne plus de 8% Zonebourse Suisse",
+        "date": "Mon, 26 Oct 2026 10:34:21 GMT",
         "source": "news.google.com",
-        "ts": 1792918846000
+        "ts": 1793010861000
       },
       {
-        "title": "En Chine, le tout premier film généré par IA ne soulève pas l’enthousiasme avant sa sortie en salles - Le Figaro",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcXk0ZlRYY1FCR0g2UFJGZDUtUEhxd1ROamw5M18tNHdDaFhNQjljZ0V4REU3UUFRX2RVaU1PWkJ5aENJbFlPSDVVM1llSE9UbjgzQnh5LUh4Sjc0RWwyZnFLRWVxbGVIRzc2R1pNVHZPdFd2MmpjMlNjOEZMYXd6eFhsTGZncnY2RWZLVEZNc3pBUEVXWWhoOG90bi1NZHZycENFbXAtZmlvUkQ0ODB3OU4tbnpFRnBNS0ZzZEdqMEI4aVlSRkQ2R2lWdGM4dk1mZXJraDlR?oc=5",
-        "summary": "En Chine, le tout premier film généré par IA ne soulève pas l’enthousiasme avant sa sortie en salles Le Figaro",
-        "date": "Sun, 25 Oct 2026 09:00:00 GMT",
+        "title": "Atos : nouvelle suite IA - Boursier.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRTVxbDVXcnVyOXIwT05EcHppZzBTUjRlZ3JPMUl6Uk1aS1R6aEthUVU0YnlqRXczU0xJbE5ELWpKcC16UG5aNm5sS1NQRG9nYUxBaGVUOWFMYzZKX0xIX0FUQkc3cTBOVUZXdlBxc2ZzUGJVMEhySHhHaXlZSktPY0Iyc0lleXhSZEcw?oc=5",
+        "summary": "Atos : nouvelle suite IA Boursier.com",
+        "date": "Mon, 26 Oct 2026 10:34:00 GMT",
         "source": "news.google.com",
-        "ts": 1792918800000
+        "ts": 1793010840000
       }
     ]
   }
