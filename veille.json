@@ -1,206 +1,206 @@
 {
-  "generated": "2026-11-06T12:54:02.373Z",
-  "dateLabel": "vendredi 6 novembre 2026",
+  "generated": "2026-11-07T11:41:11.059Z",
+  "dateLabel": "samedi 7 novembre 2026",
   "demo": false,
   "categories": {
     "sciences": [
       {
-        "title": "Slip, boxer ou caleçon : une étude sur près de 27 000 hommes révèle un lien avec l’érection et la fertilité",
-        "url": "https://www.futura-sciences.com/sante/actualites/spermatozoides-slip-boxer-calecon-etude-pres-27-000-hommes-revele-lien-erection-fertilite-139138/#xtor%3DRSS-8",
-        "summary": "Slip, boxer ou caleçon : et si ce n’était pas qu’une question de confort ? Une vaste étude suggère que la coupe de vos sous-vêtements pourrait aussi compter pour votre santé intime. Faut-il pour autant changer ses habitudes ?",
-        "date": "Fri, 06 Nov 2026 12:29:00 +0100",
+        "title": "SpaceX va tenter de rattraper Starship avec deux bras géants : une manœuvre aussi spectaculaire que risquée",
+        "url": "https://www.futura-sciences.com/sciences/actualites/starship-spacex-va-tenter-rattraper-starship-deux-bras-geants-manoeuvre-aussi-spectaculaire-risquee-139095/#xtor%3DRSS-8",
+        "summary": "SpaceX vise le 13 novembre pour le quinzième vol d'essai intégré de Starship, au cours duquel l'entreprise tentera de rattraper à la fois le booster Super Heavy et l'étage supérieur à l'aide de la tour de lancement de Starbase. Si elle réussit, cette double capture constituerait une avancée...",
+        "date": "Sat, 07 Nov 2026 12:28:48 +0100",
         "source": "futura-sciences.com",
-        "ts": 1793964540000
+        "ts": 1794050928000
       },
       {
-        "title": "Moins de 400 € pour ce Xiaomi 5G à batterie géante ? Amazon frappe fort !",
-        "url": "https://www.futura-sciences.com/conso/bons-plans/guides-smartphones-moins-400-ce-xiaomi-5g-batterie-geante-amazon-frappe-fort-11773/#xtor%3DRSS-8",
-        "summary": "Amazon donne un coup de frais au prix du Xiaomi Redmi Note 17 Pro 5G ! Avec son grand écran AMOLED 120 Hz, sa batterie généreuse et ses belles capacités photo, ce smartphone Xiaomi a de quoi faire tourner les têtes. Et avec cette remise de 12 %, la facture devient tout de suite plus digeste !",
-        "date": "Fri, 06 Nov 2026 12:00:00 +0100",
+        "title": "Une IA a créé des virus pour détruire des bactéries résistantes aux antibiotiques : un patient les a déjà reçus",
+        "url": "https://www.futura-sciences.com/sante/actualites/virus-ia-cree-virus-detruire-bacteries-resistantes-antibiotiques-patient-deja-recus-139097/#xtor%3DRSS-8",
+        "summary": "Face à la progression inquiétante de l’antibiorésistance, une start-up américaine a franchi une étape historique en administrant à un patient un virus modifié grâce à l’IA dans le but de venir à bout des bactéries les plus résistantes.",
+        "date": "Sat, 07 Nov 2026 12:27:10 +0100",
         "source": "futura-sciences.com",
-        "ts": 1793962800000
+        "ts": 1794050830000
       },
       {
-        "title": "Les problèmes mathématiques au fil des siècles, d'Euclide à l'IA",
-        "url": "https://www.sciencesetavenir.fr/fondamental/d-euclide-a-l-intelligence-artificielle-la-grande-histoire-des-problemes-mathematiques_196002?xtor=RSS-10",
-        "summary": "Des intelligences artificielles s’attaquent aux problèmes qui ont fait l’histoire des mathématiques. Si ces derniers remontent à Euclide, ils deviennent un objectif en soi assez tardivement.",
-        "date": "Fri, 06 Nov 2026 10:41:21 +0000",
-        "source": "sciencesetavenir.fr",
-        "ts": 1793961681000
-      },
-      {
-        "title": "Urgence climatique : « La France doit créer une entité dévolue au financement des innovations de rupture »",
-        "url": "https://www.lemonde.fr/sciences/article/2026/11/06/urgence-climatique-la-france-doit-creer-une-entite-devolue-au-financement-des-innovations-de-rupture_6807769_1650684.html",
-        "summary": "La transition écologique ne se fera pas sans révolution technologique. Dans une tribune au « Monde », Lydéric Bocquet, physicien, Greg De Temmerman, directeur de Techleap, et Yves Laszlo, mathématicien, estiment qu’il est temps de prendre des risques et de repenser radicalement la manière de financ…",
-        "date": "Fri, 06 Nov 2026 11:30:04 +0100",
-        "source": "lemonde.fr",
-        "ts": 1793961004000
-      },
-      {
-        "title": "Après les midterms, les \"tech bros\" prêts à retourner leur veste ?",
-        "url": "https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/apres-les-midterms-les-tech-bros-prets-a-retourner-leur-veste_196005?xtor=RSS-12",
-        "summary": "Avec l'arrivée des démocrates à la tête du Congrès américain, les géants de l'intelligence artificielle pourraient être contraints de s'expliquer sous serment. Développement des centres de données, conséquences sur l'emploi et protection des enfants : plusieurs aspects du boom de l'IA sont dans le…",
-        "date": "Fri, 06 Nov 2026 10:20:23 +0000",
-        "source": "sciencesetavenir.fr",
-        "ts": 1793960423000
-      },
-      {
-        "title": "Comment des peintures du XVIIe ont permis la découverte d’un mollusque en Méditerranée ? - L'Humanité",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNDNrOXB1OVRPU3FOZzhfYzRrQjNNY2hrWGxxbnBZc3FBdW5JMnRrRExTbnFldy1EaXZzWjZ4QTVIX2NkM2FtT0g5a2pJdmtHZGVuSmdJRG9xY1B4cURDNE4zZDBQb201d09ySzR5YmdjTUVDNGVEcUlHNmhNZGVhOEZnV1l1R0c2WlpqalY0bXRuWW5WWUUxOXJGWWg1MUplV0VINXluOW0zWnp2Vi1wVmZkOVd0bWNjRURXSGNHZzRINUx5aVpjd0lSUQ?oc=5",
-        "summary": "Comment des peintures du XVIIe ont permis la découverte d’un mollusque en Méditerranée ? L'Humanité",
-        "date": "Fri, 06 Nov 2026 09:59:00 GMT",
+        "title": "Deux fleurs fossiles remarquablement préservées découvertes en Chine : ce qu'elles ont révélé aux chercheurs - Actu.fr",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQb2JWTVV4dlNxb2oyNmlHSXV4N25WOExqenczUWYxcEp3V1dJZk5ST0tfSTlTVHIyeDRHeUh6bzNfdzlhaHFrM1N1VFFxNndDS1FVdTRFOGZoSFl6LWZXZW53TFpEdUpZTUJ5YTlCQ1ZybjBHbGkxX3NfOXNDYnpZVXFjZ0NEU000c3lueGh4R1QtZVFrcmZSaEVuRm54anNwSEN4VHM0TS0yNGZkaFNrX1dMUE4taUdCTzNLanpTcy1EeW54SzFyVWNmZml5dDRKaTN5cTNXOUcteU93Tkg4V0N6ZnFoX1dBWUd0WTJ4eUc0STBXbGRwNExWdnI?oc=5",
+        "summary": "Deux fleurs fossiles remarquablement préservées découvertes en Chine : ce qu'elles ont révélé aux chercheurs Actu.fr",
+        "date": "Sat, 07 Nov 2026 10:52:01 GMT",
         "source": "news.google.com",
-        "ts": 1793959140000
+        "ts": 1794048721000
+      },
+      {
+        "title": "Certains médicaments très prescrits après 60 ans font baisser une vitamine indispensable à la mémoire",
+        "url": "https://www.futura-sciences.com/sante/actualites/memoire-certains-medicaments-tres-prescrits-apres-60-ans-font-baisser-vitamine-indispensable-memoire-prf21-139124/#xtor%3DRSS-8",
+        "summary": "On pense souvent à la vitamine D lorsqu’on cherche une explication à certains troubles liés à l’âge. Pourtant, une autre carence, plus discrète, peut affecter le cerveau et la mémoire : celle en vitamine B12. Fréquente chez les personnes âgées, elle peut passer inaperçue pendant longtemps....",
+        "date": "Sat, 07 Nov 2026 11:26:30 +0100",
+        "source": "futura-sciences.com",
+        "ts": 1794047190000
+      },
+      {
+        "title": "Les saphirs d’Ergond, l’énigme maths du « Monde » nᵒ 118",
+        "url": "https://www.lemonde.fr/sciences/article/2026/11/07/les-saphirs-d-ergond-l-enigme-maths-du-monde-n-118_6808255_1650684.html",
+        "summary": "Ah ! les bijoux de famille… Mickaël Launay vous propose de vous mêler à une affaire d’héritage avec ce cas de partage inéquitable, reproduit de génération en génération.",
+        "date": "Sat, 07 Nov 2026 10:00:06 +0100",
+        "source": "lemonde.fr",
+        "ts": 1794042006000
+      },
+      {
+        "title": "En 1948, l'Idaho parachute 76 castors dans une région sauvage : 75 ans plus tard, leur héritage est toujours là",
+        "url": "https://www.futura-sciences.com/planete/actualites/ecosysteme-1948-idaho-parachute-76-castors-region-sauvage-75-ans-plus-tard-leur-heritage-toujours-k2m6-139100/#xtor%3DRSS-8",
+        "summary": "En 1948, l'Idaho a largué des castors depuis un avion. Ce n'est pas une blague, ni une expérience folle de scientifiques en goguette, mais bel et bien une opération officielle, planifiée et documentée. Quelque 76 rongeurs ont ainsi rejoint des zones reculées par les airs. Et ça a fonctionné...",
+        "date": "Sat, 07 Nov 2026 10:00:00 +0100",
+        "source": "futura-sciences.com",
+        "ts": 1794042000000
       }
     ],
     "tech": [
       {
-        "title": "Actualité : Taxe copie privée : jusqu’à 43 % d'augmentation sur les smartphones, les PC dans le viseur",
-        "url": "https://www.lesnumeriques.com/telephone-portable/taxe-copie-privee-jusqu-a-43-d-augmentation-sur-les-smartphones-les-pc-dans-le-viseur-n266932.html",
-        "summary": "Acheter un appareil high-tech coûte cher, et une contribution méconnue figure déjà sur la facture. En 2027, un nouveau projet pourrait encore alourdir la note, avec des répercussions bien au-delà des seuls smartphones.",
-        "date": "2026-11-06T13:31:00+01:00",
+        "title": "Actualité : Le rasoir-tondeuse Philips OneBlade Pro 360 Visage + Corps QP6652/30 est à 69,99 € (-36 %)",
+        "url": "https://www.lesnumeriques.com/rasoir-electrique/le-rasoir-tondeuse-philips-oneblade-pro-360-visage-corps-qp6652-30-est-a-69-99-36-n266979.html",
+        "summary": "Avec sa lame 360 qui pivote dans toutes les directions et son sabot réglable de 0,4 à 10 mm, le Philips OneBlade Pro 360 QP6652/30 passe à 69,99 € chez Amazon (-36 %).",
+        "date": "2026-11-07T12:31:00+01:00",
         "source": "lesnumeriques.com",
-        "ts": 1793968260000
+        "ts": 1794051060000
       },
       {
-        "title": "« Ne méprisez pas l’intelligence de vos utilisateurs » : des développeurs accusent Claude Code de divulguer leur adresse email à des sites web",
-        "url": "https://www.numerama.com/cyberguerre/2369181-ne-meprisez-pas-lintelligence-de-vos-utilisateurs-des-developpeurs-accusent-claude-code-de-divulguer-leur-adresse-email-a-des-sites-web.html",
-        "summary": "Un ticket GitHub très commenté accuse Claude Code d’avoir transmis l’adresse email de ses utilisateurs à des sites tiers pendant des recherches web. Un correctif existe depuis le 3 novembre, mais il ne bloque qu’une partie des cas.",
-        "date": "Fri, 06 Nov 2026 12:30:00 +0000",
+        "title": "Actualité : Airfryer : comment la cuisson sans huile a fini par me refroidir",
+        "url": "https://www.lesnumeriques.com/airfryer/airfryer-comment-la-cuisson-sans-huile-a-fini-par-me-refroidir-238-n224064.html",
+        "summary": "Les airfryers connaissent un véritable engouement depuis quelques années, portées par une promesse séduisante : offrir une alternative bien plus saine à la friture traditionnelle. Pourtant, bien que j'utilise ce type d'appareil depuis plus d'une décennie, je n'ai finalement réalisé qu'une seule et…",
+        "date": "2026-11-07T12:15:00+01:00",
+        "source": "lesnumeriques.com",
+        "ts": 1794050100000
+      },
+      {
+        "title": "Cet astronaute canadien capture une photo vertigineuse à 400 kilomètres au-dessus de la Terre",
+        "url": "https://www.numerama.com/sciences/2370029-cet-astronaute-canadien-capture-une-photo-vertigineuse-a-400-kilometres-au-dessus-de-la-terre.html",
+        "summary": "L'astronaute canadien Joshua Kutryk a publié sur X une photo de sa sortie dans l'espace, à quelque 400 kilomètres au-dessus de la Terre. Ce jeudi 5 novembre 2026, il s'est aventuré hors de l'ISS pour installer un nouveau panneau solaire.",
+        "date": "Sat, 07 Nov 2026 11:10:46 +0000",
         "source": "numerama.com",
-        "ts": 1793968200000
+        "ts": 1794049846000
       },
       {
-        "title": "Face au changement climatique, la Francophonie mobilise une IA localisée et souveraine - Organisation internationale de la Francophonie (OIF)",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNVV5NkF2VXVVN1diSkdGTzJXd3hPMTZ1NmNSNnk0NUJKTFNJbDNXX044ejhWalZvNmJiMEs1LTFEc2dOdDZma25VOEZCSmdELVVFaExJaGZoQzVUTEI5bmlsUGVGT2d6LXJ1b1pGMm4zSkVnX2NxVF9mX2V1Q2JyY2xUaEc2czllOXlpU3E5bGxuQnR0cGx6eVR6S1RpN1ZJa3lpLUl4S3RzdmFwQllPcVVCYTl4SFY4ZGIw?oc=5",
-        "summary": "Face au changement climatique, la Francophonie mobilise une IA localisée et souveraine Organisation internationale de la Francophonie (OIF)",
-        "date": "Fri, 06 Nov 2026 12:24:20 GMT",
-        "source": "news.google.com",
-        "ts": 1793967860000
-      },
-      {
-        "title": "Mass Effect : l’ultime chapitre de la saga annulée aura le droit à un documentaire",
-        "url": "https://www.numerama.com/pop-culture/2369239-mass-effect-lultime-chapitre-de-la-saga-annulee-aura-le-droit-a-un-documentaire.html",
-        "summary": "Deux semaines après l'annonce coup de poing de la fermeture du studio mythique par Electronic Arts, un long-métrage documentaire prépare sa sortie pour retracer la trajectoire exceptionnelle et le clap de fin de l'équipe derrière Mass Effect et Baldur's Gate.",
-        "date": "Fri, 06 Nov 2026 12:00:00 +0000",
-        "source": "numerama.com",
-        "ts": 1793966400000
-      },
-      {
-        "title": "Actualité : Fin du Tesla Cybertruck : Elon Musk confirme l’arrêt de la production de son pick-up électrique en 2027",
-        "url": "https://www.lesnumeriques.com/voiture-electrique/fin-du-tesla-cybertruck-elon-musk-confirme-l-arret-de-la-production-de-son-pick-up-electrique-en-2027-n266928.html",
-        "summary": "Elon Musk confirme l’arrêt progressif de la production du Tesla Cybertruck dès l’été 2027. Un choix qui permettra de libérer de l’espace sur les lignes d’assemblage pour un autre produit qui doit faire ses preuves : le robotaxi Cybercab.",
-        "date": "2026-11-06T12:55:00+01:00",
+        "title": "Actualité : Black Friday 2026 – La cafetière à percolateur Ninja Luxe Café Premier ES601EU à 385,68 € (-11%)",
+        "url": "https://www.lesnumeriques.com/cafetiere-a-percolateur/black-friday-2026-la-cafetiere-a-percolateur-ninja-luxe-cafe-premier-es601eu-a-385-68-11-n266984.html",
+        "summary": "La cafetière à percolateur Ninja Luxe Café Premier ES601EU passe sous les 400 € chez Amazon soit une baisse d'environ 11% sur le prix habituellement constaté. C'est actuellement l'un des meilleurs produit de notre comparatif.",
+        "date": "2026-11-07T12:01:04+01:00",
         "source": "lesnumeriques.com",
-        "ts": 1793966100000
+        "ts": 1794049264000
       },
       {
-        "title": "Actualité : John Wick : c'est officiel, Keanu Reeves va revenir dans un nouveau film très prometteur",
-        "url": "https://www.lesnumeriques.com/cine-svod/john-wick-c-est-officiel-keanu-reeves-va-revenir-dans-un-nouveau-film-tres-prometteur-n266926.html",
-        "summary": "La franchise d'action John Wick va avoir droit à un nouveau volet sous la forme d'un film d'animation, et avec le retour de Keanu Reeves dans le rôle principal.",
-        "date": "2026-11-06T12:32:00+01:00",
+        "title": "Actualité : L'épilateur à lumière pulsée Philips Lumea 9900 BRI953/02 est à 359,99 € (-16 %)",
+        "url": "https://www.lesnumeriques.com/rasoir-electrique/l-epilateur-a-lumiere-pulsee-philips-lumea-9900-bri953-02-est-a-359-99-16-n266978.html",
+        "summary": "Avec son capteur qui adapte l'intensité à la carnation et ses trois embouts dédiés, le Philips Lumea 9900 BRI953/02 passe à 359,99 € chez Amazon, soit 68 € de moins.",
+        "date": "2026-11-07T12:01:00+01:00",
         "source": "lesnumeriques.com",
-        "ts": 1793964720000
+        "ts": 1794049260000
+      },
+      {
+        "title": "Dossier : Suite de sécurité multi-appareils : 4 offres à comparer en 2026",
+        "url": "https://www.lesnumeriques.com/antivirus/suite-de-securite-multi-appareils-4-offres-a-comparer-en-2026-a252280.html",
+        "summary": "Protéger un PC ne suffit plus toujours quand le même foyer utilise aussi un Mac, des smartphones et des tablettes. Les suites de sécurité multi-appareils permettent de regrouper antivirus, protection web et outils de confidentialité dans un seul abonnement. Reste à vérifier combien d’appareils sont…",
+        "date": "2026-11-07T12:00:00+01:00",
+        "source": "lesnumeriques.com",
+        "ts": 1794049200000
       }
     ],
     "politique": [
       {
-        "title": "Plusieurs avocats vont saisir la Cour de justice de la République contre le ministre de l'Intérieur Laurent Nuñez, après les blessures infligées à des manifestants",
-        "url": "https://www.franceinfo.fr/societe/manifestations/plusieurs-avocats-annoncent-saisir-la-cour-de-justice-de-la-republique-contre-le-ministre-de-l-interieur-laurent-nunez-apres-les-blessures-infligees-a-des-manifestants_8270813.html#xtor=RSS-3-[lestitres]",
-        "summary": "Ils lui reprochent le recours à des \"armes mutilantes\" lors des récentes opérations de maintien de l'ordre.",
-        "date": "Fri, 06 Nov 2026 13:48:39 +0100",
+        "title": "L'armée iranienne assure être \"plus forte\" qu'au début de la guerre au Moyen-Orient",
+        "url": "https://www.franceinfo.fr/monde/iran/l-armee-iranienne-assure-etre-plus-forte-qu-au-debut-de-la-guerre-de-la-guerre-au-moyen-orient_8272088.html#xtor=RSS-3-[lestitres]",
+        "summary": "Dans la nuit de vendredi à samedi, la télévision d'Etat iranienne a encore fait part de deux explosions sur l'île de Qeshm, l'agence Tasnim évoquant de son côté deux missiles qui l'auraient frappée.",
+        "date": "Sat, 07 Nov 2026 12:23:31 +0100",
         "source": "francetvinfo.fr",
-        "ts": 1793969319000
+        "ts": 1794050611000
       },
       {
-        "title": "Jamais un mois d'octobre n'avait été si chaud, annonce le laboratoire Copernicus, qui ajoute que 2026 sera \"probablement\" la deuxième année la plus chaude",
-        "url": "https://www.franceinfo.fr/environnement/crise-climatique/jamais-un-mois-d-octobre-n-avait-ete-si-chaud-annonce-le-laboratoire-copernicus-qui-annonce-que-2026-sera-probablement-la-2e-annee-la-plus-chaude_8270567.html#xtor=RSS-3-[lestitres]",
-        "summary": "L'observatoire ajoute ainsi qu'octobre 2026 a aussi battu un record de chaleur mensuel à la surface des océans, en raison notamment de la présence du phénomène El Niño, qui accentue la hausse des températures liée au changement climatique.",
-        "date": "Fri, 06 Nov 2026 13:45:23 +0100",
+        "title": "L'Ukraine frappée par des bombardements nocturnes russes \"massifs\" contre ses infrastructures énergétiques",
+        "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-un-pont-et-des-infrastructures-energetiques-endommages-par-des-frappes-russes-dans-la-region-de-kiev_8272043.html#xtor=RSS-3-[lestitres]",
+        "summary": "Selon Volodymyr Zelensky, au moins neuf personnes ont été blessées, dont un enfant, lors de ces attaques qui ont touché une dizaine de régions du pays.",
+        "date": "Sat, 07 Nov 2026 12:20:41 +0100",
         "source": "francetvinfo.fr",
-        "ts": 1793969123000
+        "ts": 1794050441000
       },
       {
-        "title": "Deux morts, une enquête ouverte… Ce que l'on sait de l'accident de car près de Bourg-en-Bresse, dans l'Ain",
-        "url": "https://www.franceinfo.fr/faits-divers/accident/deux-morts-une-enquete-ouverte-ce-que-l-on-sait-de-l-accident-de-car-pres-de-bourg-en-bresse-dans-l-ain_8270546.html#xtor=RSS-3-[lestitres]",
-        "summary": "Deux personnes, dont un mineur, sont mortes. Seize autres ont été blessées dans ce grave accident de car, survenu vendredi matin, dans le secteur de Lent.",
-        "date": "Fri, 06 Nov 2026 13:43:56 +0100",
+        "title": "Le prix Goncourt Philippe Jaenada défend son utilisation \"amusée\" et \"ironique\" de l'IA, dans une lettre transmise à l'AFP",
+        "url": "https://www.franceinfo.fr/culture/livres/le-prix-goncourt-philippe-jaenada-defend-son-utilisation-amusee-et-ironique-de-l-ia-dans-une-lettre-transmise-a-l-afp_8272133.html#xtor=RSS-3-[lestitres]",
+        "summary": "Alors que l'affaire Thélyson Orélien a relancé le débat sur l'intelligence artificielle dans la littérature, l'écrivain affirme n'avoir utilisé cette technologie qu'à trois reprises dans \"L'Inconnue du quai de Javel\", notamment pour dissimuler une phrase de dix mots dans son livre.",
+        "date": "Sat, 07 Nov 2026 12:18:19 +0100",
         "source": "francetvinfo.fr",
-        "ts": 1793969036000
+        "ts": 1794050299000
       },
       {
-        "title": "Alertes à la bombe : quatre vols commerciaux survolant la France se sont posés « sans encombre »",
-        "url": "https://www.lemonde.fr/international/article/2026/11/06/alertes-a-la-bombe-quatre-vols-commerciaux-survolant-la-france-se-sont-poses-sans-encombre_6807787_3210.html",
-        "summary": "Plusieurs vols européens ont été perturbés, vendredi, alors qu’une série d’alertes à la bombe, jusque-là toutes fausses, sévit depuis le début de la semaine.",
-        "date": "Fri, 06 Nov 2026 13:41:25 +0100",
-        "source": "lemonde.fr",
-        "ts": 1793968885000
+        "title": "Policiers blessés par des tirs de mortier devant un lycée à Pau : quatre mineurs mis en examen, une information judiciaire ouverte",
+        "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/pyrenees-atlantiques/pau/policiers-blesses-par-des-tirs-de-mortier-devant-un-lycee-a-pau-quatre-mineurs-mis-en-examen-une-information-judiciaire-ouverte-3445929.html#xtor=RSS-3-[lestitres]",
+        "summary": "Le procureur de Pau, Rodolphe Jarry, annonce ce samedi l'ouverture d'une information judiciaire contre quatre mineurs après les manifestations du 5 novembre. Le parquet souhaite le placement en détention de l'un d'entre eux, âgé de 16 ans, et à qui il est reproché d'avoir allumé l'engin pyrotechniq…",
+        "date": "Sat, 07 Nov 2026 12:10:50 +0100",
+        "source": "francetvinfo.fr",
+        "ts": 1794049850000
       },
       {
-        "title": "Mobilisation sociale : le ministre du Travail juge \"important\" d'essayer de relever le smic au-delà de la \"barre des 1 500 euros net\"",
-        "url": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-sociale-le-ministre-du-travail-juge-important-d-essayer-de-relever-le-smic-au-dela-de-la-barre-des-1-500-euros-net_8270366.html#xtor=RSS-3-[lestitres]",
-        "summary": "Matignon a annoncé jeudi que Sébastien Lecornu avait demandé à son ministre \"de finaliser d'ici dimanche les concertations qu'il mène depuis plusieurs jours\" sur la question des salaires, en vue d'une réunion lundi avec les partenaires sociaux.",
-        "date": "Fri, 06 Nov 2026 13:40:49 +0100",
+        "title": "Gaël Monfils nommé nouveau capitaine de l'équipe de France de Coupe Davis de tennis",
+        "url": "https://www.franceinfo.fr/sports/tennis/gael-monfils-nomme-nouveau-capitaine-de-l-equipe-de-france-de-coupe-davis-de-tennis_8272202.html#xtor=RSS-3-[lestitres]",
+        "summary": "Tout juste retraité et mis à l'honneur en début de semaine lors du Masters 1000 de Paris, le désormais ex-joueur de 40 ans va succéder à Paul-Henri Mathieu, a-t-on appris ce samedi.",
+        "date": "Sat, 07 Nov 2026 12:09:32 +0100",
         "source": "francetvinfo.fr",
-        "ts": 1793968849000
+        "ts": 1794049772000
       },
       {
-        "title": "Accident de car dans l'Ain : les deux morts sont une fille de 7 ans et un jeune homme de 18 ans, annonce le ministre des Transports",
-        "url": "https://www.franceinfo.fr/faits-divers/accident/direct-accident-d-un-car-scolaire-dans-l-ain-deux-enfants-sont-morts-le-ministre-des-transports-attendu-sur-place_8270534.html#xtor=RSS-3-[lestitres]",
-        "summary": "Le véhicule a \"quitté la route et heurté un arbre dans le fossé\", selon le maire de la commune de Lent, où l'accident s'est produit dans la matinée.",
-        "date": "Fri, 06 Nov 2026 13:40:26 +0100",
+        "title": "Un nouvel appel à la grève mardi dans l'Éducation nationale",
+        "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/un-nouvel-appel-a-la-greve-mardi-dans-l-education-nationale_8272193.html#xtor=RSS-3-[lestitres]",
+        "summary": "L'intersyndicale des personnels de l'Education nationale et l'intersyndicale de la jeunesse appellent à \"amplifier la mobilisation\".",
+        "date": "Sat, 07 Nov 2026 12:08:04 +0100",
         "source": "francetvinfo.fr",
-        "ts": 1793968826000
+        "ts": 1794049684000
       }
     ],
     "ia": [
       {
-        "title": "La correction de l'IA, un mouvement aux effets financiers et économiques multiples - Orange Actualités",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZW9LRTI2MUF5bGViMFJHTEhIZXpxMWE1M2k0TGduUHByYUxvWllndmlnTVpFU28yRmJOd1l1MjhPckdjOVdNdW9lZDhoOUx1TmdabDJEREJETENObzBESTdPSTVJcHRhX0plZVFnelYxUWN6X3lwdXU4RXBBeXVfcjV4N0ZKNW5wYXJvRmVHVFgtaVFoeHlOUkg1MG1oYzMwaWdGNjUxZEpHSjdqa2UyLXhnSko5ck5ud2NQZC1XVWZXZXotQm9CQmNtdUZIQQ?oc=5",
-        "summary": "La correction de l'IA, un mouvement aux effets financiers et économiques multiples Orange Actualités",
-        "date": "Fri, 06 Nov 2026 12:32:37 GMT",
+        "title": "ÉDITO. L’Intelligence artificielle générative à l’épreuve du réel - Ouest-France",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQLWg4RDZKX2dfWXRWVFR0SmlSRVNLQ3ZvbC1BX2syTDBUMVpqZ2JxbTFWc2c0OUk2SllKcXRkM082eXNlNmZUNTlLbWpBc05nUjRWTVBWeV9KMW1Eb2NhZERTVXpuUEJiZVhFQ3NQR0tmcGIxaS1IVThQSFhZem9faUNOYWR6Y3NpRHJfT1lDc1pkbmxZTHcyelFGYldpY3daMUpicUNfTG1BZlB3d2xYaGNQd3dpcWFlSl9XLTI0TmViZzQyTU9ibmJfblJONWx6VHJuRTVZSGxCWllqVW9LQmpFbk9pcThNTGNyYU40UGhqa2c3cVE?oc=5",
+        "summary": "ÉDITO. L’Intelligence artificielle générative à l’épreuve du réel Ouest-France",
+        "date": "Sat, 07 Nov 2026 11:31:02 GMT",
         "source": "news.google.com",
-        "ts": 1793968357000
+        "ts": 1794051062000
       },
       {
-        "title": "Intelligence artificielle : la \"bulle\" se fissure en Chine, mais l'Etat veille au grain - Boursorama",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOOWFtOXlxUGJuY3lnZDBOellqc1FUZmxLa3BZRWFidFJRU0VDTGhKLTdlaTRWbGpWdThVMkE0YXJ0eW9TMU5iYTd1dkxBTHVWZDdSQ1l5a05xUHlKTXhHLU56dUdlcjdWNXA2aDh5UVR0cnY5eTFxQjBRTjVhUFVZNTFxdy1yOG9ZVnZ4ZS1yMFV5RzNsNGRzcmRDSUdfaVRyUm9kRjh0enBlVzlrQ1diTTEzRVZLSEJ6N0ZDd1pIRmswbERWQnF4Rl9NSGdnNnVCM3NRVFVNUl96WGhiRXhIVjc0c3lVZjE3am15RzhQTjZDQdIB9wFBVV95cUxQeTI4OFNZX2d2SUVtM3JlNWFzbXlKSjJnLTBnQTloMktlQXQ4MUdFN1pJa0lua2hfQVpWN2hudEN0dXBpdjdRRW82VUgyMVp1RnFvTW43eU9ZQm5uVk83WFk2T1ByTlZoV3JacmJ2cmJWOVYyM214eWR1Uk9IRHk5ampVekhSZDhySnpHWlpnSnQxSzdDTWFmcVppMTJBVWF4bFlCTS1LYzJiSjlzSDR6YzZIbnFCNl95T2NtRzlBMUptYUd4SDJjLVR4UFFhVDdQRUItNXlvWjJxV1E1ZWVJVHpaNlhaY0xsWlBaMUdZYW5qUW54b1hz?oc=5",
-        "summary": "Intelligence artificielle : la \"bulle\" se fissure en Chine, mais l'Etat veille au grain Boursorama",
-        "date": "Fri, 06 Nov 2026 12:29:41 GMT",
+        "title": "Airbnb prépare son agent IA de voyage pour le premier semestre 2027 - BlogNT",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWG83NncweWRhcGNnQ3ZORUlWRVZrRnk4NmNpZXFyZi13SHN1VUJKVGZPcE5pLXhsXzVDWUpKa1hVMHZqU1lfeHNhV291c0xJaUNTU1ZVNDBGb2RLNHlpSk91ZmYwMTZSNTJ2MkxiNW5KbkV1T3ZjUlBJd3U2bUFfbDQ4ejhEMVY5aDY5M21EMjFwQQ?oc=5",
+        "summary": "Airbnb prépare son agent IA de voyage pour le premier semestre 2027 BlogNT",
+        "date": "Sat, 07 Nov 2026 11:30:00 GMT",
         "source": "news.google.com",
-        "ts": 1793968181000
+        "ts": 1794051000000
       },
       {
-        "title": "Face au changement climatique, la Francophonie mobilise une IA localisée et souveraine - Organisation internationale de la Francophonie (OIF)",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNVV5NkF2VXVVN1diSkdGTzJXd3hPMTZ1NmNSNnk0NUJKTFNJbDNXX044ejhWalZvNmJiMEs1LTFEc2dOdDZma25VOEZCSmdELVVFaExJaGZoQzVUTEI5bmlsUGVGT2d6LXJ1b1pGMm4zSkVnX2NxVF9mX2V1Q2JyY2xUaEc2czllOXlpU3E5bGxuQnR0cGx6eVR6S1RpN1ZJa3lpLUl4S3RzdmFwQllPcVVCYTl4SFY4ZGIw?oc=5",
-        "summary": "Face au changement climatique, la Francophonie mobilise une IA localisée et souveraine Organisation internationale de la Francophonie (OIF)",
-        "date": "Fri, 06 Nov 2026 12:24:20 GMT",
+        "title": "Philippe Jaenada, prix Goncourt 2026, défend une utilisation “amusée, ironique et limitée” de l’IA - Télérama",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQT052c1VfSU9KRmk1SHg0Uy1Ray1hQkVtMFZlWTlRUlBlOTV5NDhFOHREYkU3Vzl3ZXVwSUxmaFhxa21GT1htX1VySy1jcC1RRjdrVW9zVHBmTW5MWkZIRnMtRzZVdW5zcXRjNDNBdGVLX1Y3bWdEeU1iUTJLc1hoUF9fcHRMLXNXVWlyX1MyWlRoeWpsNVJLUTMwVGhtS3M1dkhDLWYxN2ZWY0tCbWc2UkdqaWRvdU5pOTRSU1R0eGM1elhMMGRaSV9qbDhuREswdWlYbw?oc=5",
+        "summary": "Philippe Jaenada, prix Goncourt 2026, défend une utilisation “amusée, ironique et limitée” de l’IA Télérama",
+        "date": "Sat, 07 Nov 2026 11:23:50 GMT",
         "source": "news.google.com",
-        "ts": 1793967860000
+        "ts": 1794050630000
       },
       {
-        "title": "\"Il est important que l'IA reste au service de l'humain et des collectifs de travail\" (colloque de la Cour de cassation) - AEF info",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZTV5c00xVHdpMnhiTWl3OWtrMlpYSkpuTWZQYVA5WXh2ZWFOc0xycm5OQktPcmZQeWt4eDBsSnBMdm5FY3laSENSaE1Fa19nZlh4eWhZa0pmXzhERGtQNFYyNkhyVnk1eVBDZUNlcUFtWnd5dnd0WHR6YUpubFZCWlo4WU9EaG9tUURzUFd1b0daSTkxVkw1bjNiQ1dlOHcwZzN0OGd4aHhNZmZiUlZ1WTgzQURzUms1SjJQNzZTOTNJUnVjWlFEMEI3TWx2X0FHRHhXYk1sM2NYc2dEWlRkQS1SZGZXR1E?oc=5",
-        "summary": "\"Il est important que l'IA reste au service de l'humain et des collectifs de travail\" (colloque de la Cour de cassation) AEF info",
-        "date": "Fri, 06 Nov 2026 12:11:15 GMT",
+        "title": "Elle est passée des fiches carton à l’IA : « J’ai commencé sur une machine à écrire manuelle, ça musclait les doigts ! » - Ouest-France",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPM1lfdWhKSHFzdy1xUGFNNDVXX0pSWWlXQVdVNmlBTm9PZFZsRFJialpEdThDa2NSTjR5ejRLeXpUcVJqMXBWd0FjRlctREFmYWhvUDNoenFsYWpKR1pob3NEdWFCblJGWXdabzRGdGhYMjF0b0NWSnp3cFJYTl9vMFRSWm52VWFBNVVrdERYZzlZZDlTLWdvM0V3V2tvRlRnYlBmbU5PajRPX3RxNXpVX3lEUVM2eVJGUUVROEdrRnBWVVlhZGV5QkNOTkJkX1RfYklkRW93QUdRRGJTdlp4RXFBRWxUT2R4N210UUt3RjBFbTBJaU9jenlMTzRqMWZNazhNaWNuMDFGemRXNGJuQlhn?oc=5",
+        "summary": "Elle est passée des fiches carton à l’IA : « J’ai commencé sur une machine à écrire manuelle, ça musclait les doigts ! » Ouest-France",
+        "date": "Sat, 07 Nov 2026 11:03:03 GMT",
         "source": "news.google.com",
-        "ts": 1793967075000
+        "ts": 1794049383000
       },
       {
-        "title": "Course à l’IA : EDF veut transformer ses anciennes centrales en data centers - L'Humanité",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN2xmNkRkRVdiYlpVNWgxZmtFc2oyQmp0U2pOMFlCUmk5ZDNqQXM0TVpkeEFZdEtLZWl5VHR3ZHRMejF0RzY4YUhDbGJrcThxR3ZWTmJCM2hGWUJOajZMODN4Tm5QM0dma0JuQ2htY1U5MldnZzQ3SGUwSG54clJvajZ4VVFqcnR5YVluWGxmaEZ0b19RV0stdUE3ZURLamRONG5KbHJ2WXkxUG5zZG5KUzd1ZlZYQjJVRndjY0JCMkNxdVVNa3hWd0c2bw?oc=5",
-        "summary": "Course à l’IA : EDF veut transformer ses anciennes centrales en data centers L'Humanité",
-        "date": "Fri, 06 Nov 2026 12:09:09 GMT",
+        "title": "Sur les applis de rencontre, les fautes d'orthographe vous rendent plus sexy (et c'est la faute de l'IA) - Journal du Geek",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUkhhX2lJUmc2OGxmQTV2WTNvRmJibTJDTkFqdlZrUlpKS2pILVhZOXZmcFZZYWJtNFVYTl9Zc1c0XzZjbEFMTFNXb3YyVW02U0hjS3Q1X2JiSXJIV1JDa01aVnlwYjBXZnFsR2dwdVFhem1fOUlrTFhLeURNa0tCR21IVEkycnhrc0ppZGRhcmFTSFFJRUxvUUk4ejZrXzRWUzFNQVdxT29TUDBwdXQ2WktCMExXWHY0dXh5SnhfVEdQaUE0a1dWLTJWbHhRcEEtXzJ2Rmhvdw?oc=5",
+        "summary": "Sur les applis de rencontre, les fautes d'orthographe vous rendent plus sexy (et c'est la faute de l'IA) Journal du Geek",
+        "date": "Sat, 07 Nov 2026 11:00:20 GMT",
         "source": "news.google.com",
-        "ts": 1793966949000
+        "ts": 1794049220000
       },
       {
-        "title": "\"Les gens méritent d'être informés\": Google imposerait le silence sur les risques de l'IA à ses employés grâce à des clauses de non-dénigrement à vie, de plus en plus de salariés appellent à leur abandon - BFM",
-        "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPS092N0k0dFFEcGNFVUowbFBCM1VBLTZiX0VLLWQ3bGlBT1lLalhXRTdUUTBzQkx5SVZBaEZiMU5kTHJ5SjZXRzk1YUoyZ3ZoWEo3M21JQ25FREZ4ek9kdExES2ZtdVh4LWZhVkVzLUdMeXhzTXFIN0FUS3N3QUwtcjlaM3RkWHozZlpOT2pzZENPeVhvTldqekRzZ2tIOHVqZUpZajJwRXFoLWdSd2hSajdXWGx3LWtFX21YX1lkQUhHMkNOMEdYUHBUZEN0X0hMU01vZHQ2MXhDTzBHWXk3dUwzdGk2eWdrVE1xQkpLNzlWVThCVU9ZMWJBSTlCbjJXazhmX1lsNGNuZFI3MDZ6MVN5UEszX3FiYUVGMy1rOW0tNHU2anYxV0V6S0gwZHNIMHM2al9nOHF6RTN5Q2hpQWhGb1VaS0swMndleTVRSFQ3aGcwLXZLdGdGWl9xQkktTnVZa1RoUTRGRWlxM2hjYjVEdXdoWDltWmJ2aDhfdVk5T25mdjI3Ng?oc=5",
-        "summary": "\"Les gens méritent d'être informés\": Google imposerait le silence sur les risques de l'IA à ses employés grâce à des clauses de non-dénigrement à vie, de plus en plus de salariés appellent à leur abandon BFM",
-        "date": "Fri, 06 Nov 2026 11:57:28 GMT",
+        "title": "La bulle de l’IA se heurte à la réalité - Le Monde.fr",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTktrQTdyMHR0THZHWmlDZ3Flb0RXY3owWEU0b041bjY5a0htUnRWaEhTYlhHdks5OGw1VnVpVjloSXZIT05FNlBKQ2txZDdJWk9Pc0pPRDhkaFNiRHhlTzlqeklMN2FBMEppR25xR0RHU3I4ZGZVMEVDM0FuRk5wNHAwQS11MTJrWXVaWlZ6WWtDYU9md1hoT0RObF91TVgzQXplWWdvSWU?oc=5",
+        "summary": "La bulle de l’IA se heurte à la réalité Le Monde.fr",
+        "date": "Sat, 07 Nov 2026 10:30:18 GMT",
         "source": "news.google.com",
-        "ts": 1793966248000
+        "ts": 1794047418000
       }
     ]
   }
