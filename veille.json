@@ -1,206 +1,206 @@
 {
-  "generated": "2026-11-11T12:40:08.205Z",
-  "dateLabel": "mercredi 11 novembre 2026",
+  "generated": "2026-11-12T13:43:16.094Z",
+  "dateLabel": "jeudi 12 novembre 2026",
   "demo": false,
   "categories": {
     "sciences": [
       {
-        "title": "La disparition de l’aviatrice Amelia Earhart, en 1937, un mystère qui reste entier malgré une nouvelle expédition",
-        "url": "https://www.lemonde.fr/sciences/article/2026/11/11/la-disparition-de-l-aviatrice-amelia-earhart-en-1937-un-mystere-qui-reste-entier-malgre-une-nouvelle-expedition_6808965_1650684.html",
-        "summary": "Grâce à des images satellitaires, des archéologues pensaient avoir localisé dans le lagon de l’île de Nikumaroro, dans le Pacifique, l’épave du Lockheed Electra 10-E de l’Américaine, disparue il y a neuf décennies lors de sa tentative de tour du monde aérien féminin. Une équipe s’est rendue sur pla…",
-        "date": "Wed, 11 Nov 2026 13:00:09 +0100",
-        "source": "lemonde.fr",
-        "ts": 1794398409000
-      },
-      {
-        "title": "Maladie de Parkinson : une découverte inattendue soulève de nouveaux espoirs de traitement - L'Humanité",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWU96bHdHR2QyUjVYSTZtTW5fVS1ZOFZjX2xzUGs2cmZqdjJsQmlCVWF3YkM5SjlzSGRHSmtfclN6eVNyYXJQUWF4NGltcG5taTk4d0hiNWpRbFlza1pZZDdrWWJsVm4yLUhacGVaNHc5dS1jQkVwYVhLSkd2SnVwV1BJTGx1OFJISUhqRXYtZXh0MkFRcUpERElpR05jUXZTVld4amJUcjlaZTdPMVFDUWZUaTJIT0NBMjdONjVGblZDcDgya3VUb0pnVQ?oc=5",
-        "summary": "Maladie de Parkinson : une découverte inattendue soulève de nouveaux espoirs de traitement L'Humanité",
-        "date": "Wed, 11 Nov 2026 11:34:53 GMT",
-        "source": "news.google.com",
-        "ts": 1794396893000
-      },
-      {
-        "title": "Visible à l’œil nu et longue de 2 centimètres : cette bactérie géante découverte en Guadeloupe défie la science avec sa taille 5 000 fois supérieure à la normale",
-        "url": "https://www.futura-sciences.com/planete/actualites/bacteries-visible-oeil-nu-longue-2-centimetres-cette-bacterie-geante-decouverte-guadeloupe-defie-science-taille-5-000-fois-superieure-normale-139105/#xtor%3DRSS-8",
-        "summary": "Dans les mangroves de Guadeloupe se cache un organisme qui ne ressemble à aucun autre. Découvert il y a plusieurs années, il continue de fasciner les scientifiques et de remettre en question certaines connaissances fondamentales en biologie.",
-        "date": "Wed, 11 Nov 2026 12:07:16 +0100",
-        "source": "futura-sciences.com",
-        "ts": 1794395236000
-      },
-      {
-        "title": "Black Month : le Lenovo Chromebook Duet 2 en 1 perd 80 € chez Cdiscount, code promo inclus !",
-        "url": "https://www.futura-sciences.com/conso/bons-plans/guides-pc-tablettes-black-month-lenovo-chromebook-duet-2-1-perd-80-chez-cdiscount-code-promo-inclus-11818/#xtor%3DRSS-8",
-        "summary": "Le Black Month fait fondre le prix du Lenovo Chromebook Duet 11M889 chez Cdiscount ! Avec son format 2 en 1, ce PC portable qui se transforme en tablette tactile profite d’une double réduction grâce à un code promo supplémentaire. De quoi s’équiper malin avant le Black Friday !",
-        "date": "Wed, 11 Nov 2026 12:00:00 +0100",
-        "source": "futura-sciences.com",
-        "ts": 1794394800000
-      },
-      {
-        "title": "La nature qui revient suffit-elle à réparer les paysages abîmés ?",
-        "url": "https://www.sciencesetavenir.fr/nature-environnement/carrieres-la-nature-revient-mais-en-trompe-l-oeil_195852?xtor=RSS-15",
-        "summary": "Les paysages façonnés par l’extraction peuvent offrir un refuge à des espèces pionnières, au point que des industriels se présentent en \"protecteurs de la biodiversité\". Mais ces nouveaux milieux ne restaurent pas entièrement les écosystèmes détruits et masquent même des bouleversements irréversibl…",
-        "date": "Wed, 11 Nov 2026 11:00:00 +0000",
+        "title": "2800 ans plus tôt, les Scythes utilisaient le cannabis comme stupéfiant",
+        "url": "https://www.sciencesetavenir.fr/archeo-paleo/les-scythes-utilisaient-le-cannabis-comme-stupefiant-il-y-a-2800-ans_196093?xtor=RSS-4",
+        "summary": "Plus d’un millier de graines de cannabis ont été mises au jour dans un kourgane scythe. Les traces chimiques détectées dans des échantillons de cheveux suggèrent que la plante servait de stupéfiant.",
+        "date": "Thu, 12 Nov 2026 13:23:16 +0000",
         "source": "sciencesetavenir.fr",
-        "ts": 1794394800000
+        "ts": 1794489796000
       },
       {
-        "title": "Les vulnérabilités cachées des intelligences artificielles",
-        "url": "https://www.lemonde.fr/sciences/article/2026/11/11/les-vulnerabilites-cachees-des-intelligences-artificielles_6808954_1650684.html",
-        "summary": "L’alignement, l’affinage et la distillation des grands modèles de langage peuvent modifier leur comportement de manière inattendue. Dans leur carte blanche au « Monde », Jean Ponce et Isabelle Ryl, professeurs d’informatique, s’intéressent aux failles invisibles de ces modèles.",
-        "date": "Wed, 11 Nov 2026 11:30:02 +0100",
-        "source": "lemonde.fr",
-        "ts": 1794393002000
+        "title": "VEVOR casse le prix de cette chambre de culture intérieure avec éclairage LED avant le Black Friday",
+        "url": "https://www.futura-sciences.com/conso/bons-plans/guides-jardin-vevor-casse-prix-cette-chambre-culture-interieure-eclairage-led-avant-black-friday-11833/#xtor%3DRSS-8",
+        "summary": "Les bonnes affaires prennent racine avant le Black Friday ! Chez VEVOR, cette chambre de culture intérieure avec éclairage LED et kit complet profite d’une remise de 19 %. De quoi faire pousser ses projets de jardinage sans alourdir son budget !",
+        "date": "Thu, 12 Nov 2026 14:00:00 +0100",
+        "source": "futura-sciences.com",
+        "ts": 1794488400000
+      },
+      {
+        "title": "Diabète : Un implant sans médicament contrôle la glycémie électriquement",
+        "url": "https://www.sciencesetavenir.fr/sante/diabete-un-implant-controle-la-glycemie-a-coups-de-courant_196090?xtor=RSS-16",
+        "summary": "Ce dispositif, qui s’active lorsque le niveau de glucose dans le sang est trop élevé après un repas, émet un courant électrique qui transforme l’excès de glucose dans une molécule facilement excrétée dans l’urine.",
+        "date": "Thu, 12 Nov 2026 12:57:51 +0000",
+        "source": "sciencesetavenir.fr",
+        "ts": 1794488271000
+      },
+      {
+        "title": "Voiture, chauffage, factures : ce que les COP ont réellement changé pour les Français",
+        "url": "https://www.futura-sciences.com/planete/actualites/cop31-voiture-chauffage-factures-ce-cop-ont-reellement-change-francais-139258/#xtor%3DRSS-8",
+        "summary": "L’emballement du réchauffement climatique a eu un impact certain sur notre quotidien, mais ces grandes réunions auxquelles participent les dirigeants du monde entier nous semblent bien lointaines, et sans incidence sur nos vies. Est-ce une idée reçue ou une réalité ? Les décisions prises lors...",
+        "date": "Thu, 12 Nov 2026 13:03:14 +0100",
+        "source": "futura-sciences.com",
+        "ts": 1794484994000
+      },
+      {
+        "title": "Ces fauteuils ergonomiques LiberNovo changent la donne au bureau, le Black Friday fait baisser la facture",
+        "url": "https://www.futura-sciences.com/conso/guides-achat/guides-gaming-ces-fauteuils-ergonomiques-libernovo-changent-donne-bureau-black-friday-fait-baisser-facture-1646/#xtor%3DRSS-8",
+        "summary": "Et si votre fauteuil de bureau s'adaptait enfin à vos mouvements ? Avec ses modèles Omni Pro et Maxis Airflow, LiberNovo repense le confort au travail grâce à des innovations ergonomiques qui accompagnent les changements de posture. Deux fauteuils à découvrir à l'occasion du Black Friday, du 19...",
+        "date": "Thu, 12 Nov 2026 12:48:00 +0100",
+        "source": "futura-sciences.com",
+        "ts": 1794484080000
+      },
+      {
+        "title": "Bluffant ! Et si les articles se lisaient aussi en musique ? Découvrez une expérience inédite",
+        "url": "https://www.futura-sciences.com/planete/actualites/carnet-voyage-bluffant-si-articles-lisaient-aussi-musique-decouvrez-experience-inedite-138550/#xtor%3DRSS-8",
+        "summary": "Certaines images vous coupent le souffle. D'autres vous emmènent là où vous n'auriez jamais imaginé aller. Et si vous pouviez entrer dans leur histoire ? Avec un nouveau visage plus moderne et immersif, des photographes d'exception et un espace inédit pour découvrir ceux qui se cachent derrière...",
+        "date": "Thu, 12 Nov 2026 12:36:13 +0100",
+        "source": "futura-sciences.com",
+        "ts": 1794483373000
       }
     ],
     "tech": [
       {
-        "title": "Apple préparerait Harbor, une app pour transformer vos Mac en serveur d’IA privé",
-        "url": "https://www.numerama.com/tech/2372219-apple-preparerait-harbor-une-app-pour-transformer-vos-mac-en-serveur-dia-prive.html",
-        "summary": "Apple n'a pas pris le virage de l'IA, mais l'entreprise de John Ternus pourrait bien en être un pilier. Elle teste en ce moment discrètement Harbor, une application qui fait tourner des modèles d’IA open-weight en local, sur un ou plusieurs Mac reliés en Thunderbolt 5.",
-        "date": "Wed, 11 Nov 2026 11:49:09 +0000",
+        "title": "Les meilleurs films d’action à voir sur Netflix en 2026",
+        "url": "https://www.numerama.com/pop-culture/2234141-les-meilleurs-films-daction-a-voir-sur-netflix-en-2026.html",
+        "summary": "Entre blockbusters internationaux, thrillers musclés à la française et productions originales, le catalogue de Netflix regorge de séquences explosives. Pour vous aider à faire le tri ce week-end, nous avons sélectionné huit titres incontournables disponibles actuellement sur la plateforme. Des chor…",
+        "date": "Thu, 12 Nov 2026 13:40:00 +0000",
         "source": "numerama.com",
-        "ts": 1794397749000
+        "ts": 1794490800000
       },
       {
-        "title": "Actualité : Black Friday 2026 - Les écouteurs à réduction de bruit Soundcore P31i sont à 26,99 € (-61 %)",
-        "url": "https://www.lesnumeriques.com/ecouteurs-sans-fil/black-friday-2026-les-ecouteurs-a-reduction-de-bruit-soundcore-p31i-sont-a-26-99-61-n267203.html",
-        "summary": "Réduction de bruit adaptative, LDAC et 50 heures d'autonomie avec le boîtier : les écouteurs sans fil Soundcore P31i d'Anker passent à 26,99 € chez Amazon, soit 43 € de moins.",
-        "date": "2026-11-11T12:31:00+01:00",
+        "title": "Actualité : Les Anneaux de pouvoir : la saison 3 révèle enfin l'identité du Magicien sombre, et les fans peuvent se réjouir",
+        "url": "https://www.lesnumeriques.com/cine-svod/les-anneaux-de-pouvoir-la-saison-3-revele-enfin-l-identite-du-magicien-sombre-et-les-fans-peuvent-se-rejouir-n267255.html",
+        "summary": "La troisième saison des Anneaux de pouvoir vient enfin de dévoiler l'identité de l'enigmatique Magicien sombre, pour le plus grand plaisir des fans. Attention, spoilers droit devant.",
+        "date": "2026-11-12T14:32:00+01:00",
         "source": "lesnumeriques.com",
-        "ts": 1794396660000
+        "ts": 1794490320000
       },
       {
-        "title": "L'exposition des innovations du Hajj présente des solutions créatives et des technologies modernes au service des pèlerins - وكالة الأنباء السعودية",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE91S1gwZmtUeXZyOENUM0RWVXY0Z0h5a1pibmVKaG9uV3ZncGZsTEduNTNSRjB3eUFRUV9VaEtRbURPaUI5ejFabENR?oc=5",
-        "summary": "L'exposition des innovations du Hajj présente des solutions créatives et des technologies modernes au service des pèlerins وكالة الأنباء السعودية",
-        "date": "Wed, 11 Nov 2026 11:29:45 GMT",
-        "source": "news.google.com",
-        "ts": 1794396585000
-      },
-      {
-        "title": "Actualité : VisionQuest : La série Marvel dévoile une surprise de taille pour Avengers Doomsday",
-        "url": "https://www.lesnumeriques.com/serie/visionquest-la-serie-marvel-devoile-une-surprise-de-taille-pour-avengers-doomsday-n267204.html",
-        "summary": "La série VisionQuest vient de se conclure sur Disney+ en officialisant le retour d'un personnage qui va ravir les fans du MCU.",
-        "date": "2026-11-11T12:15:00+01:00",
+        "title": "Actualité : Abandonnées par La Poste, les tablettes pour seniors Ardoiz sauvées par Archos",
+        "url": "https://www.lesnumeriques.com/tablette-tactile/abandonnees-par-la-poste-les-tablettes-pour-seniors-ardoiz-sauvees-par-archos-n267262.html",
+        "summary": "Bonne nouvelle pour les abonnés Ardoiz et les seniors qui voudraient tenter l'aventure de cette tablette à abonnement : l'activité, abandonnée par la Poste, est officiellement reprise par Archos.",
+        "date": "2026-11-12T14:26:00+01:00",
         "source": "lesnumeriques.com",
-        "ts": 1794395700000
+        "ts": 1794489960000
       },
       {
-        "title": "Actualité : Ce casque à conduction osseuse présente le meilleur rapport qualité / prix de notre comparatif",
-        "url": "https://www.lesnumeriques.com/casque-conduction-osseuse/ce-casque-a-conduction-osseuse-presente-le-meilleur-rapport-qualite-prix-de-notre-comparatif-n267206.html",
-        "summary": "Le casque à conduction osseuse Shokz OpenRun Pro 2 s'affiche aujourd'hui à 199,00 € chez Son-Video.com, i-Run et Alltricks. C'est actuellement le meilleur rapport qualité / prix de notre comparatif, selon les 4 modèles testés dans notre laboratoire.",
-        "date": "2026-11-11T12:04:39+01:00",
-        "source": "lesnumeriques.com",
-        "ts": 1794395079000
+        "title": "Superman : Henry Cavill de retour ? L’acteur fait une déclaration",
+        "url": "https://www.numerama.com/pop-culture/2372845-superman-henry-cavill-de-retour-dans-le-role-lacteur-sexprime.html",
+        "summary": "Ce mercredi 11 novembre, deux jours après l'annonce du départ de James Gunn et Peter Safran de la tête de DC Studios, Henry Cavill a été interrogé sur un éventuel retour dans le costume de l'Homme d'Acier. L'acteur britannique ne ferme plus la porte.",
+        "date": "Thu, 12 Nov 2026 13:22:00 +0000",
+        "source": "numerama.com",
+        "ts": 1794489720000
       },
       {
-        "title": "Actualité : Black Friday 2026 - Le graveur laser xTool M2 10 W est à 579 € (-42 %)",
-        "url": "https://www.lesnumeriques.com/informatique/black-friday-2026-le-graveur-laser-xtool-m2-10-w-est-a-579-42-n267202.html",
-        "summary": "Laser diode de 10 W, double caméra et boîtier fermé de classe 1 : le graveur laser xTool M2 en version Couleur Kit passe à 579 € chez Amazon, soit 420 € sous son prix conseillé.",
-        "date": "2026-11-11T12:01:00+01:00",
+        "title": "Actualité : Black Friday 2026 – L'ordinateur Portable Asus ProArt P16 (RTX Spark 20c) 48 Go / 1 To à 4 500,80 € (-15%)",
+        "url": "https://www.lesnumeriques.com/ordinateur-portable/black-friday-2026-l-ordinateur-portable-asus-proart-p16-rtx-spark-20c-48-go-1-to-a-4-500-80-15-n267267.html",
+        "summary": "L'ordinateur Portable Asus ProArt P16 (RTX Spark 20c) 48 Go / 1 To passe sous les 4600 € chez Boulanger.com soit une baisse d'environ 15% sur le prix habituellement constaté. C'est actuellement l'un des meilleurs produit de notre comparatif.",
+        "date": "2026-11-12T14:21:00+01:00",
         "source": "lesnumeriques.com",
-        "ts": 1794394860000
+        "ts": 1794489660000
+      },
+      {
+        "title": "Actualité : Black Friday 2026 - L'aspirateur balai Roborock H60 Hub avec station de vidage est à 149 € (-63 %)",
+        "url": "https://www.lesnumeriques.com/aspirateur-balai/black-friday-2026-l-aspirateur-balai-roborock-h60-hub-avec-station-de-vidage-est-a-149-63-n267247.html",
+        "summary": "Station de vidage automatique, 115 AW d'aspiration et jusqu'à 60 minutes d'autonomie : l'aspirateur balai Roborock H60 Hub passe à 149 € chez Amazon, soit 250 € de moins.",
+        "date": "2026-11-12T14:16:00+01:00",
+        "source": "lesnumeriques.com",
+        "ts": 1794489360000
       }
     ],
     "politique": [
       {
-        "title": "Alertes à la bombe visant des écoles en Europe : des centaines d'établissements évacués en Italie, en Irlande et au Royaume-Uni",
-        "url": "https://www.franceinfo.fr/monde/europe/direct-des-centaines-d-ecoles-visees-par-des-alertes-a-la-bombe-en-italie-en-irlande-et-au-royaume-uni-de-nombreux-etablissements-evacues_8277773.html#xtor=RSS-3-[lestitres]",
-        "summary": "Environ 300 écoles dans toute l'Italie ont reçu des courriels contenant des alertes à la bombe, mercredi, selon le ministre de l'Education Giuseppe Valditara.",
-        "date": "Wed, 11 Nov 2026 13:36:45 +0100",
+        "title": "Centre-ville inondé, routes fermées, éboulements : la dépression Charles frappe la Côte d'Azur",
+        "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/cannes/embouteillages-accident-perturbations-les-degats-de-la-tempete-charles-sur-la-cote-d-azur-3448236.html#xtor=RSS-3-[lestitres]",
+        "summary": "La région est touchée par de fortes pluies ce jeudi 12 novembre suite à la dépression Charles. Les intempéries ont provoqué des perturbations sur les routes, des éboulements et des évacuations, tour d'horizon.",
+        "date": "Thu, 12 Nov 2026 14:34:58 +0100",
         "source": "francetvinfo.fr",
-        "ts": 1794400605000
+        "ts": 1794490498000
       },
       {
-        "title": "EN DIRECT, guerre en Ukraine : accord de principe avec la Russie pour un nouvel échange de prisonniers de guerre à grande échelle",
-        "url": "https://www.lemonde.fr/international/live/2026/11/11/en-direct-guerre-en-ukraine-accord-de-principe-avec-la-russie-pour-un-nouvel-echange-de-prisonniers-de-guerre-a-grande-echelle_6808609_3210.html",
-        "summary": "L’annonce a été faite à l’issue des pourparlers d’Abou Dhabi. Les modalités seront annoncées prochainement, selon Vladimir Medinski, chef de la délégation russe. La veille, Volodymyr Zelensky avait évoqué un échange de 1 000 prisonniers de chaque côté, voire de 1 500.",
-        "date": "Wed, 11 Nov 2026 13:24:38 +0100",
-        "source": "lemonde.fr",
-        "ts": 1794399878000
-      },
-      {
-        "title": "En Italie, des centaines d’écoles évacuées à la suite de fausses alertes à la bombe ; des « messages menaçants » envoyés à des établissements scolaires au Royaume-Uni",
-        "url": "https://www.lemonde.fr/international/article/2026/11/11/en-italie-des-centaines-d-ecoles-evacuees-a-la-suite-de-fausses-alertes-a-la-bombe-des-messages-menacants-envoyes-a-des-etablissements-scolaires-au-royaume-uni_6808968_3210.html",
-        "summary": "La cheffe du gouvernement italien, Giorgia Meloni, a convoqué une réunion gouvernementale plus tard dans la journée de mercredi après que 312 écoles ont reçu des menaces.",
-        "date": "Wed, 11 Nov 2026 13:24:02 +0100",
-        "source": "lemonde.fr",
-        "ts": 1794399842000
-      },
-      {
-        "title": "L'auteur et acteur britannique David Walliams accusé de prédation sexuelle par plusieurs femmes",
-        "url": "https://www.franceinfo.fr/culture/livres/l-auteur-et-acteur-britannique-david-walliams-est-accuse-de-predation-sexuelle_8277683.html#xtor=RSS-3-[lestitres]",
-        "summary": "L'écrivain a vendu plus de 60 millions de livres et plusieurs de ses ouvrages ont été adaptés à la télévision où il est devenu célèbre grâce à la série \"Little Britain\".",
-        "date": "Wed, 11 Nov 2026 13:04:19 +0100",
+        "title": "Avec l'intelligence artificielle, le fisc traque les abris de jardin non déclarés",
+        "url": "https://www.franceinfo.fr/economie/impots/avec-l-intelligence-artificielle-le-fisc-traque-les-abris-de-jardin-non-declares_8279357.html#xtor=RSS-3-[lestitres]",
+        "summary": "La taxe est due aux impôts à trois conditions : si l'abri est fermé, qu'il fait plus de cinq mètres carrés et si la hauteur est d'au moins 1,80 m. Pour les repérer, le fisc croise les données entre photographies aériennes et cadastres.",
+        "date": "Thu, 12 Nov 2026 14:31:49 +0100",
         "source": "francetvinfo.fr",
-        "ts": 1794398659000
+        "ts": 1794490309000
       },
       {
-        "title": "Négociations Ukraine-Russie : Kiev et Moscou se sont entendues pour un échange \"à grande échelle\" de prisonniers",
-        "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-negociations-ukraine-russie-suite-et-fin-des-pourparlers-mercredi-apres-des-changements-salues-par-volodymyr-zelensky_8277323.html#xtor=RSS-3-[lestitres]",
-        "summary": "Vladimir Medinski, le chef de la délégation russe a déclaré que les détails \"concrets\" de ce processus seraient annoncés ultérieurement.",
-        "date": "Wed, 11 Nov 2026 12:46:29 +0100",
+        "title": "Un immeuble s'effondre à New York, au moins huit morts et 19 blessés",
+        "url": "https://www.franceinfo.fr/monde/usa/un-immeuble-s-effondre-a-new-york-au-moins-deux-morts-et-17-blesses-selon-un-bilan-provisoire_8278736.html#xtor=RSS-3-[lestitres]",
+        "summary": "Parmi les personnes blessées figurent sept enfants, dont quatre grièvement touchés. Les services de secours sont toujours à pied d'œuvre.",
+        "date": "Thu, 12 Nov 2026 14:29:35 +0100",
         "source": "francetvinfo.fr",
-        "ts": 1794397589000
+        "ts": 1794490175000
       },
       {
-        "title": "Certaines stations essences \"peuvent être en rupture ponctuelle dans le nord-est de la France\", alerte le PDG de Coopérative U",
-        "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/certaines-stations-essences-peuvent-etre-en-rupture-ponctuelle-dans-le-nord-est-de-la-france-alerte-le-pdg-de-cooperative-u_8277749.html#xtor=RSS-3-[lestitres]",
-        "summary": "Alors que le prix du gazole recule grâce au déblocage des stocks stratégiques décidé par le gouvernement, Dominique Schelcher évoque des difficultés dans le nord-est avec plusieurs stations en \"rupture ponctuelle\".",
-        "date": "Wed, 11 Nov 2026 12:39:45 +0100",
+        "title": "\"Il a une image de gagnant\" : quel candidat à la présidentielle a le plus à craindre de la candidature de Teddy Riner ?",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/il-a-une-image-de-gagnant-quel-candidat-a-la-presidentielle-a-le-plus-a-craindre-de-la-candidature-de-teddy-riner_8277656.html#xtor=RSS-3-[lestitres]",
+        "summary": "Revendiquant un positionnement \"ni de gauche, ni de droite\", le célèbre judoka bénéficie d'une bonne opinion mais son potentiel électoral est difficile à cerner. Si les différentes écuries présidentielles assurent ne pas être menacées par cette nouvelle candidature, le champion olympique pourrait t…",
+        "date": "Thu, 12 Nov 2026 14:25:27 +0100",
         "source": "francetvinfo.fr",
-        "ts": 1794397185000
+        "ts": 1794489927000
+      },
+      {
+        "title": "\"L'action climatique globale stagne\" : la planète avance vers un réchauffement de +2,7°C d'ici 2100, selon le Climate Action Tracker",
+        "url": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/l-action-climatique-globale-stagne-la-planete-avance-vers-un-rechauffement-de-2-7-c-d-ici-2100-selon-le-climate-action-tracker_8279108.html#xtor=RSS-3-[lestitres]",
+        "summary": "Lors de la COP21, à Paris en 2015, les Etats s'étaient engagés à maintenir la hausse des températures sous le seuil des +1,5°C d'ici la fin du siècle. Or, le dépassement de ce seuil \"apparaît désormais inévitable\", aux yeux de ce réseau scientifique indépendant.",
+        "date": "Thu, 12 Nov 2026 14:20:18 +0100",
+        "source": "francetvinfo.fr",
+        "ts": 1794489618000
+      },
+      {
+        "title": "Présidentielle 2027 : suivez l'interview de Bruno Retailleau, cinquième des huit candidats interrogés dans le cadre de l'opération \"Nos services publics\"",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html#xtor=RSS-3-[lestitres]",
+        "summary": "Huit des principaux candidats à l'élection présidentielle 2027 répondent jeudi, au fil de la journée, aux questions des journalistes de France Télévisions et Radio France à propos de l'accès et de la qualité des services publics sur l'ensemble du territoire.",
+        "date": "Thu, 12 Nov 2026 14:18:21 +0100",
+        "source": "francetvinfo.fr",
+        "ts": 1794489501000
       }
     ],
     "ia": [
       {
-        "title": "Les Bourses mondiales profitent d'un regain d'optimisme autour de l'IA - Zonebourse",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOTBCUDFJaVo0NVhfMzVxazlUT2t5cFVzSVJqOFNzV2lwT1ZZZlRHMmlCWDZCOVlpR0Y4S0hYZHdzeDIxak14Ujlka1hNZTJIMmlIb2Q4Wmp1eGx2ZFB0dmJla3B5bzRiZVN1c2NrU3F4QlR2YTRuSFBJdlZuMGVCQVhPYXdIcGpvMWl5czBsZnh4RWlQWDhpWkQzSjlJbEVvb2Zsb0hhYmJwSmlpVktMX0wyQkp3ZjNjSDF0Tm45ejRjQmFBUWdIM0NDQQ?oc=5",
-        "summary": "Les Bourses mondiales profitent d'un regain d'optimisme autour de l'IA Zonebourse",
-        "date": "Wed, 11 Nov 2026 12:35:25 GMT",
+        "title": "EN DIRECT - Présidentielle 2027 : Raphaël Glucksmann veut confier la \"pure bureaucratie\" à une intelligence artificielle \"européenne\" - RTL",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUTVxdktEOE8yU2owZnRnTUNJOGdTSnlkeW0xYlYtRHNGa2JoeFZFbW9mMTFCRjdiOS0yWG9ZcE5FbjB6TnY1T2trRmNEeGtDZmZQRXJGZ2xGNllEOXF3c011bk9CNDBQRzdtbW1KUTRCQ1V3bTJqN2NEQXhpTXEwZ25rLWdOQWRTV19sN2JzUFVXeEVHWmhPX2N5dXpKRzg3d3lKYU85bi1iN2N2ZTJSS2pLYTZXMnh6TmdOazlTMUpMS1hpdk5iWWxjaDJxal9Qdm1SR0JxRWhpSXM1QnBVeGcwQ0FlN0hqYVhOOF9mSWJ3bURn?oc=5",
+        "summary": "EN DIRECT - Présidentielle 2027 : Raphaël Glucksmann veut confier la \"pure bureaucratie\" à une intelligence artificielle \"européenne\" RTL",
+        "date": "Thu, 12 Nov 2026 13:37:41 GMT",
         "source": "news.google.com",
-        "ts": 1794400525000
+        "ts": 1794490661000
       },
       {
-        "title": "Les plateformes d’IA finiront par « adopter la publicité », selon Michael Komasinski (Criteo) - CB News",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN3FCc1RXcURsS0RpV3ZDaHJ3QU1FYko4dElGbW5iWmV3dEhTT3E3YTJUZ3pDcWV1Z19tR3Y2T0U4NGhtZE5QZkhqV0hUVVpVdjJBMTFGRnc0by1leVF4eHc2bi1hVkplMk0tWHRoaWR6S28xSC1keXRwQzE3bU1aUkdmamhmaE4zZ3h1ZVNObHlKNzA0QnhhVHY0T08tcWpOYWRz?oc=5",
-        "summary": "Les plateformes d’IA finiront par « adopter la publicité », selon Michael Komasinski (Criteo) CB News",
-        "date": "Wed, 11 Nov 2026 12:33:49 GMT",
+        "title": "Matinée-débat à l’UIMM : IA et droit du travail, une révolution juridique ou managériale ? - UIMM - La Fabrique de l'avenir",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ1lZanVaY3R5N0FKTlkyanQxMHFHc09CZXRqdElJeWl6QmFYRmo4U0E2b3VVOXZjTWxMUmtzbkk2MVZITEpfLUZlU0lhbnVWeTQ1TjZfbXBINVVoS1VIMVlMYmlnZi1XdE5OWWt5T2NfZDJFVG1sVmtiazRvYUJBalg0Wll3Y2hrdUxz?oc=5",
+        "summary": "Matinée-débat à l’UIMM : IA et droit du travail, une révolution juridique ou managériale ? UIMM - La Fabrique de l'avenir",
+        "date": "Thu, 12 Nov 2026 13:35:48 GMT",
         "source": "news.google.com",
-        "ts": 1794400429000
+        "ts": 1794490548000
       },
       {
-        "title": "La Chine concentre l'attention au Web Summit - CB News",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5iUmgwbGlvSVdtTlVzVVdQUWdCUjhGTnVuTWNXRm9nYTltV3h0bWhrVTRWbHZpTFFqYjVtY09HWXlIZjVhTW04a2MteGdMM3EteGhTdHo1QXI2ZDNBa1JkY2tYakxmamRfczdZcW5oSGxkTzRYRVlNdw?oc=5",
-        "summary": "La Chine concentre l'attention au Web Summit CB News",
-        "date": "Wed, 11 Nov 2026 12:30:49 GMT",
+        "title": "Reddit transforme les avis de ses utilisateurs en guides d’achat grâce à l’IA - Siècle Digital",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaXh5aDRwSGdKZ1dobUZrTjFEMW85Rjk1TS1DcTFHT3pyU3ZLVjF2cE1vT3NiMHhOUjNyTXB6RkNIUURJdmMwN0UtZUpsTzhTb1FXSkN6Zl9oSG5JVGNSQWY1RWhvT0lHZDRyWU9ESWdGOHA3ZmsycVppaFFvYmFydF90UTdFNFNSYkhLTUdOZkR2dW54cDlYeUpuYkNrOG1sS2dBWmNZdGxkTjdGUFlINFV3?oc=5",
+        "summary": "Reddit transforme les avis de ses utilisateurs en guides d’achat grâce à l’IA Siècle Digital",
+        "date": "Thu, 12 Nov 2026 13:35:31 GMT",
         "source": "news.google.com",
-        "ts": 1794400249000
+        "ts": 1794490531000
       },
       {
-        "title": "Puces d'IA : l'affaire Huang relance à Washington les partisans de la fermeté face à Pékin - Corse Matin",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTVBfOFNneFNRelUwcW4xVzlfMzkzWmQzc2tFOHpFQ0FjSGE5Nl9OcUh5andUemNkMThNVjJtZVJDUkExYklUUkJ5ajFCTEVQVnhrbDVteHprUS1nbkN0OUprb0pQWXFvaWdvbHR5SnhjZjdNemtoWUtUanhjTjhnTlpYUDc2RUlvaE01ZWRPOTQxQmF6OTBHbVVzVjYtcVlzY0Y4NG1mNkg4c2hVd3ljeGVjMHhldFZicFFWQnNWRTF4RlFYbkJybHJVamN3VTlDdEFMZWdkSFNudXVKSWxuVnl3?oc=5",
-        "summary": "Puces d'IA : l'affaire Huang relance à Washington les partisans de la fermeté face à Pékin Corse Matin",
-        "date": "Wed, 11 Nov 2026 12:23:03 GMT",
+        "title": "Avec l'intelligence artificielle, le fisc traque les abris de jardin non déclarés - franceinfo",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZENKOVFVN3gybTI5MjdPaHhJdGR1QzRvZnhwanc4ckNVUFZyejVreHcyNUhReG5ycGxBeklta0txVENMcnhFUWNVdlRPWTdXSzVNbG8tYV9UYlhJaHpmakdHNEI2QndxTDBFNmNmQ2FoQ01USXNiU3NHRFY4c3dwY0Q1WDRyRlc4WlNGS3BnMWZ3MG1fQnVmdVMxWnF2ZDBMN2FzQkduRWhJOVNhdWgwc1dtNlFTQ1JMT3RxWFpnUU12R0oxSVVVTWwyVU1SaFJk?oc=5",
+        "summary": "Avec l'intelligence artificielle, le fisc traque les abris de jardin non déclarés franceinfo",
+        "date": "Thu, 12 Nov 2026 13:31:49 GMT",
         "source": "news.google.com",
-        "ts": 1794399783000
+        "ts": 1794490309000
       },
       {
-        "title": "Des toilettes en travaux transformées en chambre chaleureuse : comment l'IA peut maquiller les photos d'annonces immobilières - TF1 Info",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPaERLb2pHeGhtcEU1WmlBRHdOVVp6cDYtSmJadXlveEtMLV8tbE93VTZTaUx4ajdQajVrTTJ6YS12REUxcnYyQ2szSlJ6MXBuekFuQ2ZFSk1Bell5QjlPTEliRFN0bjFkVHdZcVpoNFFqM3pwN1VGVUdSREpWT2JUZ2xzTi1NdXBRRTM2YV9FQ013OUZfXzAwalJRNXJRcUpJQkJaZFdCVzRRTXNWbVhyRWpNMkxyQkR2VjRZaFcyNTZ5OEhkZGVFV0hjNy15aF9rNHRldFNRRndsdlcwTEctazloSXZNeV84OUxtNVRBR3I4eXNOYVIwS2V0ekRHVkZvX3B0UjZURktGNnJyRGlyb1VBaXVHZ0ho?oc=5",
-        "summary": "Des toilettes en travaux transformées en chambre chaleureuse : comment l'IA peut maquiller les photos d'annonces immobilières TF1 Info",
-        "date": "Wed, 11 Nov 2026 12:21:52 GMT",
+        "title": "Apple Intelligence, Claude, DiffusionBee… combien de gigaoctets dorment sur votre Mac ? - MacGeneration",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeFhEa2Q3dVlSRG5ZS2xpNnpwV2FCZ1JBQi12Y3JBSVJpZUlnZmZfeFM0QmM2Q2F1clR6RW04Nk9CZ1Jrb1R4T20yTkJrY05JLUZ0NHdSZ1BPYXZjRmJqUXFKbnRqLXE3MU0taGZmZXVHOU1hZlVDc2wwTlUtSlhkR1dDdk8zeVppbXVEd3VCeFY5aVE0WGR5aTVENmJRZXN2YUxvZW5zM3MwUkhCM0FVWTNPVEdYTDlFSHJvbFF4LXJFc1FIQlV6alJkRWo3Z0NkLWxSbEpURkRtMmc?oc=5",
+        "summary": "Apple Intelligence, Claude, DiffusionBee… combien de gigaoctets dorment sur votre Mac ? MacGeneration",
+        "date": "Thu, 12 Nov 2026 13:30:00 GMT",
         "source": "news.google.com",
-        "ts": 1794399712000
+        "ts": 1794490200000
       },
       {
-        "title": "Meta et TikTok s’allient à Google pour s’opposer au projet indonésien de révision du droit d’auteur sur l’intelligence artificielle - Zonebourse Suisse",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRGNZejNxOXU5bUlCZklQZFExMUlhWGx4QXNaei1LRlhXeW1VTFFDMWFlWDNGRVE2eWFCNkZSdzgwTzNCZTh4cUU2SVdDSzg1S292RUl2Ukdpcmx3aURLNUk5cE12NlVxZjY1U0c3QUVzWTRYN1JOdEd0cGdGQkE1SVAyQWd3c0twdExQUVlXNk9LbkNKQkhIQ2ZndXgzMVhUZi1GTmltWUpualgtSkFjc0s4SThId2s4ajdmWFlSYmFJWHZtNjhXZXpheGpTZC0zRFlpZjVfREN6anFaZ0ZKMnVRQzNfYlF0Y3d1UG5B?oc=5",
-        "summary": "Meta et TikTok s’allient à Google pour s’opposer au projet indonésien de révision du droit d’auteur sur l’intelligence artificielle Zonebourse Suisse",
-        "date": "Wed, 11 Nov 2026 12:13:27 GMT",
+        "title": "Cueillette des champignons : attention, l’intelligence artificielle n'est pas fiable pour repérer les espèces toxiques ! - Europe 1",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeVFKQl90YzdBYzNsMmZTald5TDJWZkRfLWxpM1QxbFpNaUVCTTQ0anRBSVlfXzVJMzI3Q1dUUzJaV203SzNyajQ2cGxvU1EtVFZlbmR1TlR1OWxVcHNKNDNfZ2RlWE9zcW8wM0NEcGpnbnRmZEFLV0JheVdtRmlXSHJNZXZqVU54cS04bGFsazVhdVJkSE00WTdxSzFCMkU3cEhpRWExdDh0SzhLbTRuaHRvUERBZDFQSGIwNWdaQWRRVWw4NV80cHZ1R1l4SGxyWnUtdEtlSHdXdHpfUkc4YXJ4c3NTTWvSAewBQVVfeXFMUEJmYVVRRm13T2Z4UWtRSlVFcjYyMEV3SEtPdkpqWU5SZGlLcFo1a01hbXRoa0c1SEQtY0hYX2dXOW52VExCemJ5OFJIQ0UzTFJfbmgwWENKSGdjdVpoTC16ajN4SWZtUjdXUlc4SVllWTVheWFqQlQxaWhtNjBGRWFHc2dWUTE2MEQyOV9rMktUYWtrQzFEVW90ZEJidUJqSWQxbm9CVVJ6aW1Ua3Nvb05CSmZVYjRkaTNMU25QaFlxSktWOEhuS2dsX2psc3ZmSzRxbjctczhCbzhSZGNXTDUzMEtmVkFpbWlQZUQ?oc=5",
+        "summary": "Cueillette des champignons : attention, l’intelligence artificielle n'est pas fiable pour repérer les espèces toxiques ! Europe 1",
+        "date": "Thu, 12 Nov 2026 13:30:00 GMT",
         "source": "news.google.com",
-        "ts": 1794399207000
+        "ts": 1794490200000
       }
     ]
   }
