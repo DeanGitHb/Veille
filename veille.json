@@ -1,206 +1,206 @@
 {
-  "generated": "2026-11-21T13:25:24.205Z",
-  "dateLabel": "samedi 21 novembre 2026",
+  "generated": "2026-11-22T13:16:57.075Z",
+  "dateLabel": "dimanche 22 novembre 2026",
   "demo": false,
   "categories": {
     "sciences": [
       {
-        "title": "Chronothérapie : et si l’heure du traitement faisait la différence ?",
-        "url": "https://www.sciencesetavenir.fr/sante/remettre-les-gelules-a-l-heure_195959?xtor=RSS-16",
-        "summary": "Le bon médicament au bon moment. Apparue il y a une trentaine d’années, la chronothérapie cherche à adapter les traitements à notre horloge biologique et au rythme d’activité des cellules concernées.",
-        "date": "Sat, 21 Nov 2026 13:00:00 +0000",
+        "title": "Comment l’IA fait-elle des maths ?",
+        "url": "https://www.sciencesetavenir.fr/fondamental/mathematiques/comment-l-ia-fait-elle-des-maths_196275?xtor=RSS-10",
+        "summary": "Cette année l'IA est devenue capable de démontrer des théorèmes qui résistaient aux mathématiciens. Derrière ces prouesses des milliers d'agents intelligents travaillent ensemble pour défricher des pistes élaborer des preuves et vérifier leur validité.",
+        "date": "Sun, 22 Nov 2026 13:00:00 +0000",
         "source": "sciencesetavenir.fr",
-        "ts": 1795266000000
+        "ts": 1795352400000
       },
       {
-        "title": "Des mouches envahissent un laboratoire et gâchent une expérience : les chercheurs découvrent par accident une piste pour protéger les fruits !",
-        "url": "https://www.futura-sciences.com/planete/actualites/insecte-mouches-envahissent-laboratoire-gachent-experience-chercheurs-decouvrent-accident-piste-proteger-fruits-139471/#xtor%3DRSS-8",
-        "summary": "Une invasion de mouches dans un laboratoire américain aurait pu se résumer à une expérience ratée. Mais en observant un phénomène inattendu, des chercheurs ont fait une découverte qui pourrait ouvrir la voie à une nouvelle méthode de protection des cultures fruitières.",
-        "date": "Sat, 21 Nov 2026 12:21:19 +0100",
+        "title": "L'IA et le « syndrome de la photocopieuse » : comment une révolution créative pourrait appauvrir notre culture",
+        "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-ia-syndrome-photocopieuse-revolution-creative-pourrait-appauvrir-notre-culture-139437/#xtor%3DRSS-8",
+        "summary": "Comme une photocopie de photocopie qui au fur et à mesure se dégrade et se transforme en bruit, la stratégie des entreprises de l’IA basée sur les grands modèles de langage centralisés conduit à générer des contenus médiocres et dénués d’originalité. Va t-on vers un appauvrissement culturel avec...",
+        "date": "Sun, 22 Nov 2026 12:23:35 +0100",
         "source": "futura-sciences.com",
-        "ts": 1795260079000
+        "ts": 1795346615000
       },
       {
-        "title": "Recherche : Le doctorant Souleymane Ouédraogo contribue à la découverte d’un système stellaire - leFaso.net - L'actualité au Burkina Faso",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Sc05jNUN2UlBabWtqWlBYekkzWGdFMmFpSi1PeUZoOHl4X1RST09nVi1pUENnNzBfV0twYmhqbXpZc0NWZE8wVUtkN1JMZm1iaXBr?oc=5",
-        "summary": "Recherche : Le doctorant Souleymane Ouédraogo contribue à la découverte d’un système stellaire leFaso.net - L'actualité au Burkina Faso",
-        "date": "Sat, 21 Nov 2026 10:51:00 GMT",
-        "source": "news.google.com",
-        "ts": 1795258260000
-      },
-      {
-        "title": "Neige en France cet hiver : les nouvelles prévisions pour 2026-2027 révèlent un scénario qui mérite toute notre attention",
-        "url": "https://www.futura-sciences.com/planete/actualites/meteo-neige-france-cet-hiver-nouvelles-previsions-2026-2027-revelent-scenario-merite-toute-notre-attention-139522/#xtor%3DRSS-8",
-        "summary": "Allons-nous connaître un hiver bien enneigé ? Les prévisions saisonnières nous permettent déjà d'avoir une tendance globale sur l'hiver 2026-2027.",
-        "date": "Sat, 21 Nov 2026 11:07:35 +0100",
+        "title": "La plante de la semaine : cet arbuste aux fleurs jaune éclatant illumine le jardin quand presque tout le reste semble endormi",
+        "url": "https://www.futura-sciences.com/maison/actualites/jardin-plante-semaine-cet-arbuste-fleurs-jaune-eclatant-illumine-jardin-presque-tout-reste-semble-endormi-139538/#xtor%3DRSS-8",
+        "summary": "Les Français sont de vrais « jardinophiles » ! Et vous ? Avec cette chronique, (re)découvrez une plante, un fruit, un légume.En novembre, les végétaux semblent dormir avec l’automne, mais certains s’éveillent, arborant des baies colorées ou des fleurs. C’est le cas du mahonia, épineux,...",
+        "date": "Sun, 22 Nov 2026 11:07:51 +0100",
         "source": "futura-sciences.com",
-        "ts": 1795255655000
+        "ts": 1795342071000
       },
       {
-        "title": "La probable résolution de l’hypothèse de Riemann par une intelligence artificielle marque une bascule pour les mathématiques",
-        "url": "https://www.lemonde.fr/sciences/article/2026/11/21/la-probable-resolution-de-l-hypothese-de-riemann-par-une-intelligence-artificielle-marque-une-bascule-pour-les-mathematiques_6813962_1650684.html",
-        "summary": "Un mathématicien d’Anthropic, Levent Alpöge, assisté de l’outil Claude de son employeur, assure avoir résolu l’une des plus célèbres hypothèses de la discipline. Posée en 1859 par Bernhard Riemann, elle permet de caractériser le comportement des nombres premiers.",
-        "date": "Sat, 21 Nov 2026 10:30:00 +0100",
-        "source": "lemonde.fr",
-        "ts": 1795253400000
+        "title": "Un parasite géant venu d'Amérique découvert pour la première fois en France : les scientifiques s'inquiètent",
+        "url": "https://www.futura-sciences.com/planete/actualites/ver-parasite-geant-venu-amerique-decouvert-premiere-fois-france-scientifiques-inquietent-k8p9-139448/#xtor%3DRSS-8",
+        "summary": "Un ver plat de 5 centimètres découvert dans le foie d'un daim en Sologne. Un parasite originaire d'Amérique du Nord, jamais signalé auparavant sur le territoire français. Une détection qui soulève autant de questions qu'elle n'en résout. Voilà ce que vient de révéler le réseau Sagir, le...",
+        "date": "Sun, 22 Nov 2026 10:00:00 +0100",
+        "source": "futura-sciences.com",
+        "ts": 1795338000000
       },
       {
-        "title": "L’horloge magique, l’énigme maths du « Monde » nᵒ 120",
-        "url": "https://www.lemonde.fr/sciences/article/2026/11/21/l-horloge-magique-l-enigme-maths-du-monde-n-120_6813959_1650684.html",
-        "summary": "Perdre collectivement la notion du temps, mais tous se retrouver à la même heure, c’est le défi que propose Mickaël Delaunay dans ce casse-tête.",
-        "date": "Sat, 21 Nov 2026 10:00:11 +0100",
-        "source": "lemonde.fr",
-        "ts": 1795251611000
+        "title": "Pourquoi ne retrouve-t-on que des femmes parmi les fossiles d’Homo naledi ?",
+        "url": "https://www.sciencesetavenir.fr/archeo-paleo/homo-naledi-l-enigme-des-femmes-fossiles_196287?xtor=RSS-4",
+        "summary": "Dans les grottes de Rising Star, en Afrique du Sud, les squelettes d’Homo naledi réservent une surprise. L’analyse des protéines de leur émail dentaire suggère que les individus retrouvés seraient tous de sexe féminin. Un résultat inattendu qui intrigue les spécialistes de cette ancienne espèce hum…",
+        "date": "Sun, 22 Nov 2026 09:00:00 +0000",
+        "source": "sciencesetavenir.fr",
+        "ts": 1795338000000
+      },
+      {
+        "title": "En plantant 66 milliards d’arbres, la Chine a créé des forêts qui ne se comportent pas du tout comme les forêts naturelles",
+        "url": "https://www.futura-sciences.com/planete/actualites/foret-plantant-66-milliards-arbres-chine-cree-forets-ne-comportent-pas-tout-comme-forets-naturelles-g6r7-139505/#xtor%3DRSS-8",
+        "summary": "Quelque 66 milliards d'arbres plantés depuis 1978, 34 milliards supplémentaires prévus d'ici 2050. Les forêts issues de ce programme chinois poussent 66 % plus vite que les forêts naturelles. Un résultat qui semble valider la stratégie, jusqu'à ce qu'on regarde ce qui se passe ensuite.",
+        "date": "Sun, 22 Nov 2026 09:00:00 +0100",
+        "source": "futura-sciences.com",
+        "ts": 1795334400000
       }
     ],
     "tech": [
       {
-        "title": "Les Anneaux de pouvoir saison 3 : les petits secrets du générique, qui délaisse les énigmes cachées",
-        "url": "https://www.numerama.com/pop-culture/2376969-les-anneaux-de-pouvoir-saison-3-les-petits-secrets-du-generique-qui-abandonne-les-enigmes-cachees.html",
-        "summary": "Depuis l'épisode 2 de la saison 3, mis en ligne le 11 novembre 2026 sur Prime Video, Les Anneaux de pouvoir a un nouveau générique, beaucoup plus sombre. Ses créateurs ont cette fois renoncé aux symboles cachés que les fans décortiquaient depuis 2022.",
-        "date": "Sat, 21 Nov 2026 13:02:00 +0000",
+        "title": "Dossier : Antivirus qui bloque Internet : le guide pour diagnostiquer et réparer votre connexion",
+        "url": "https://www.lesnumeriques.com/antivirus/antivirus-qui-bloque-internet-le-guide-pour-diagnostiquer-et-reparer-votre-connexion-a263238.html",
+        "summary": "Antivirus qui bloque Internet ? Identifiez la cause (pare-feu, HTTPS, VPN) et appliquez nos correctifs pour Avast, Norton, Bitdefender, Surfshark ou Defender.",
+        "date": "2026-11-22T14:00:00+01:00",
+        "source": "lesnumeriques.com",
+        "ts": 1795352400000
+      },
+      {
+        "title": "Actualité : Un employé de Burger King s'est mis à parler comme un robot aux clients pour éviter d'être sanctionné par une IA qui notait tous ses échanges et le pénalisait en cas de mauvaise note",
+        "url": "https://www.lesnumeriques.com/intelligence-artificielle/un-employe-de-burger-king-s-est-mis-a-parler-comme-un-robot-aux-clients-pour-eviter-d-etre-sanctionne-par-une-ia-qui-notait-tous-ses-echanges-et-le-penalisait-en-cas-de-mauvaise-note-n268246.html",
+        "summary": "Aux États-Unis, Burger King a confié la notation des conversations de ses employés du drive à une IA. Le système jugeait la politesse, le ton de la voix et les efforts de vente. Résultat, un salarié s'est mis à parler exactement comme un robot puisque c’est ce que le logiciel attendait pour éviter…",
+        "date": "2026-11-22T14:00:00+01:00",
+        "source": "lesnumeriques.com",
+        "ts": 1795352400000
+      },
+      {
+        "title": "« Internet cessera de fonctionner sans explication » : attention, le service Quad9 coupe en France ce mardi, vérifiez si vous l’utilisez",
+        "url": "https://www.numerama.com/tech/2379931-internet-cessera-de-fonctionner-sans-explication-attention-le-service-quad9-coupe-en-france-ce-mardi-verifiez-si-vous-lutilisez.html",
+        "summary": "À partir du mardi 24 novembre 2026, le résolveur DNS gratuit Quad9 ne répondra plus aux internautes situés en France. Si vous l’avez configuré sur votre box, votre téléphone ou votre navigateur, puis oublié, il vous reste quelques jours pour le vérifier et le remplacer.",
+        "date": "Sun, 22 Nov 2026 12:31:00 +0000",
         "source": "numerama.com",
-        "ts": 1795266120000
+        "ts": 1795350660000
       },
       {
-        "title": "Actualité : Un étudiant construit une véritable imprimante 3D composée à 92 % de LEGO pour moins de 160 €, elle met un peu plus d'une heure pour fabriquer un objet",
-        "url": "https://www.lesnumeriques.com/imprimante-3d/un-etudiant-construit-une-veritable-imprimante-3d-composee-a-92-de-lego-pour-moins-de-160-elle-met-un-peu-plus-d-une-heure-pour-fabriquer-un-objet-n268191.html",
-        "summary": "Adam Turaj, un étudiant canadien en mécatronique, a construit une imprimante 3D dont 92 % des pièces sont des LEGO. Sa machine répond au doux nom de Studprint et lui a coûté moins de 180 $, soit un peu plus de 160 €. Et elle fonctionne puisqu'elle a déjà imprimé un bateau en plastique en une heure…",
-        "date": "2026-11-21T14:00:00+01:00",
+        "title": "Actualité : B&YOU : ce forfait à 14,99 € cache un abonnement Amazon Prime inclus",
+        "url": "https://www.lesnumeriques.com/forfait-mobile/b-you-ce-forfait-a-14-99-cache-un-abonnement-amazon-prime-inclus-n268148.html",
+        "summary": "B&YOU associe une enveloppe de 170 Go en 5G à un abonnement Amazon Prime dans une offre Black Friday à 14,99 €/mois. Le tout sans engagement.",
+        "date": "2026-11-22T13:00:00+01:00",
         "source": "lesnumeriques.com",
-        "ts": 1795266000000
+        "ts": 1795348800000
       },
       {
-        "title": "Actualité : BYD passe du \"Dauphin\" à la \"Baleine\" avec un immense monospace familial hybride rechargeable équipé d'un réfrigérateur, de sièges massants, d'un LiDAR et de plusieurs rangées de sièges",
-        "url": "https://www.lesnumeriques.com/voiture-hybride-rechargeable/byd-passe-du-dauphin-a-la-baleine-avec-un-immense-monospace-familial-hybride-rechargeable-equipe-d-un-refrigerateur-de-sieges-massants-d-un-lidar-et-de-plusieurs-rangees-de-sieges-n268190.html",
-        "summary": "BYD a dévoilé la première image officielle de son prochain monospace taille XXL pour les familles. Après la Dolphin (\"Dauphin\" dans la langue de Molière), le constructeur chinois pourrait appeler ce modèle Whale (\"Baleine\"). La gamme Ocean passerait donc d'un petit animal marin à un géant des océan…",
-        "date": "2026-11-21T13:00:00+01:00",
+        "title": "Actualité : Des scientifiques fabriquent une batterie rechargeable avec de la vitamine B12, leur prototype résiste à 250 cycles de charge et empêche les incendies grâce à une solution aqueuse",
+        "url": "https://www.lesnumeriques.com/voiture-electrique/des-scientifiques-fabriquent-une-batterie-rechargeable-avec-de-la-vitamine-b12-leur-prototype-resiste-a-250-cycles-de-charge-et-empeche-les-incendies-grace-a-une-solution-aqueuse-n268238.html",
+        "summary": "C'est dans une batterie rechargeable que des chimistes espagnols ont trouvé une nouvelle utilisation à la vitamine B12. Le prototype de l'université de Cordoue regroupe du zinc et de l'oxygène de l'air mais a surtout résisté à 250 cycles de charge et de décharge. Et ce n'est pas tout puisque cette…",
+        "date": "2026-11-22T13:00:00+01:00",
         "source": "lesnumeriques.com",
-        "ts": 1795262400000
+        "ts": 1795348800000
       },
       {
-        "title": "Actualité : Cet ordinateur de bureau présente le meilleur rapport qualité / prix de notre comparatif",
-        "url": "https://www.lesnumeriques.com/ordinateur-de-bureau/cet-ordinateur-de-bureau-presente-le-meilleur-rapport-qualite-prix-de-notre-comparatif-n268219.html",
-        "summary": "L'ordinateur de bureau Apple Mac Mini (M6) s'affiche aujourd'hui à 939,00 € chez Amazon, Fnac.com, Boulanger.com, Darty.com et Cdiscount Marketplace. C'est actuellement le meilleur rapport qualité / prix de notre comparatif, selon les 13 modèles testés dans notre laboratoire.",
-        "date": "2026-11-21T12:17:43+01:00",
+        "title": "Top bon plan : Top 5 : UGreen, Samsung, Microsoft... les meilleurs bons plans du 22/11/2026",
+        "url": "https://www.lesnumeriques.com/societe-numerique/top-5-samsung-microsoft-sonos-les-meilleurs-bons-plans-du-22-11-2026-n268243.html",
+        "summary": "Nous publions chaque jour une vingtaine de bons plans. Pour vous faciliter la tâche, voici le top 5 des meilleurs bons plans, selon nous les incontournables parmi les plus belles promos du jour",
+        "date": "2026-11-22T12:15:03+01:00",
         "source": "lesnumeriques.com",
-        "ts": 1795259863000
-      },
-      {
-        "title": "Le Vietnam et l'Azerbaïdjan renforcent leur coopération dans les domaines de la science, de la technologie et de l'innovation. - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWhSVC15VkhFbmtRTWpUdzZvaU9IRzRqWjZCVXRoOTRlUFA0WkhwMThZUUFGNk9pYVpUQXNYUU1qVHdrNEVKQ25hRG1tTFJTQ1NmeUdHaDN1d0NQMjMxTnJ0M3NzUDZ2Z1U1WWIzZWtsak9jdzNRNU1YTE1JY0dxTlRSeWdFTEZtOW1jZVI3MDQtUnZmNFNlUEtOTVM5cjBlUU5PUXBR?oc=5",
-        "summary": "Le Vietnam et l'Azerbaïdjan renforcent leur coopération dans les domaines de la science, de la technologie et de l'innovation. Vietnam.vn",
-        "date": "Sat, 21 Nov 2026 11:07:22 GMT",
-        "source": "news.google.com",
-        "ts": 1795259242000
-      },
-      {
-        "title": "Black Friday : jusqu'à 110 € d'économie sur les aspirateurs balais Shark avec le code NUMSN10",
-        "url": "https://www.lesnumeriques.com/aspirateur-balai/black-friday-jusqu-a-110-d-economie-sur-les-aspirateurs-balais-shark-avec-le-code-numsn10-na268125.html",
-        "summary": "Shark profite du Black Friday pour casser le prix de deux de ses aspirateurs balais les plus avancés. Le PowerDetect Speed, pensé pour l'endurance, et le PowerLite Clean & Empty avec sa station de vidage automatique, sont proposés à 189,99 € et 218,49 €. Un code promo unique, NUMSN10, à activer au…",
-        "date": "2026-11-21T12:00:00+01:00",
-        "source": "lesnumeriques.com",
-        "ts": 1795258800000
+        "ts": 1795346103000
       }
     ],
     "politique": [
       {
-        "title": "Mobilisation du 21 novembre : le cortège s'élance de la place de la République à Paris, pour le sixième samedi de manifestation",
-        "url": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html#xtor=RSS-3-[lestitres]",
-        "summary": "Ces rassemblements s'inscrivent dans le cadre d'un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche.",
-        "date": "Sat, 21 Nov 2026 14:13:57 +0100",
-        "source": "francetvinfo.fr",
-        "ts": 1795266837000
-      },
-      {
-        "title": "Le remorquage du cargo échoué dans les Landes pourrait prendre plusieurs jours, selon la préfecture",
-        "url": "https://www.franceinfo.fr/faits-divers/le-remorquage-du-cargo-echoue-dans-les-landes-pourrait-prendre-plusieurs-jours-selon-la-prefecture_8293727.html#xtor=RSS-3-[lestitres]",
-        "summary": "L'\"Abeille Bretagne\", le bateau remorqueur, est attendu sur zone samedi, mais ne pourra pas s'approcher à moins de 900 mètres, en raison des faibles fonds marins.",
-        "date": "Sat, 21 Nov 2026 14:06:49 +0100",
-        "source": "francetvinfo.fr",
-        "ts": 1795266409000
-      },
-      {
-        "title": "Au Brésil, une nouvelle génération de gauche s’apprête à faire son entrée au Parlement",
-        "url": "https://www.lemonde.fr/international/article/2026/11/21/au-bresil-une-nouvelle-generation-de-gauche-s-apprete-a-faire-son-entree-au-parlement_6814016_3210.html",
-        "summary": "Lors des législatives du 4 octobre, les électeurs ont voté pour de jeunes députés progressistes. Alors que le gouvernement de Lula propose des économies budgétaires, ces élus veulent veiller à ce qu’il respecte ses promesses de campagne.",
-        "date": "Sat, 21 Nov 2026 14:00:09 +0100",
+        "title": "L’Italie secouée par le suicide de l’ancien chef de la police",
+        "url": "https://www.lemonde.fr/international/article/2026/11/22/l-italie-secouee-par-le-suicide-de-l-ancien-chef-de-la-police_6814214_3210.html",
+        "summary": "La mort de Gianni De Gennaro survient alors qu’il était mis en examen pour avoir entravé l’enquête sur l’assassinat, en 1992, du juge antimafia Paolo Borsellino. Aux côtés du magistrat Giovanni Falcone, tué la même année, il avait joué un rôle déterminant pour retourner certains parrains.",
+        "date": "Sun, 22 Nov 2026 14:10:21 +0100",
         "source": "lemonde.fr",
-        "ts": 1795266009000
+        "ts": 1795353021000
       },
       {
-        "title": "Guerre en Ukraine : des frappes russes font deux morts et 58 blessés à Kryvyï Rih, ville natale de Volodymyr Zelensky",
-        "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-font-deux-morts-et-58-blesses-a-kryvyi-rih-ville-natale-de-volodymyr-zelensky_8293700.html#xtor=RSS-3-[lestitres]",
-        "summary": "Six enfants figurent parmi les blessés, a précisé samedi le président ukrainien sur Telegram.",
-        "date": "Sat, 21 Nov 2026 14:00:01 +0100",
+        "title": "\"Je serai le candidat de la liberté de penser, de dire ce que vous voyez\", clame Eric Zemmour lors de son premier meeting de campagne présidentielle",
+        "url": "https://www.franceinfo.fr/elections/je-serai-le-candidat-de-la-liberte-de-pensee-de-parler-de-dire-ce-que-vous-voyez-clame-eric-zemmour-lors-de-son-premier-meeting-de-campagne-presidentielle_8294024.html#xtor=RSS-3-[lestitres]",
+        "summary": "Le président du parti d'extrême droite s'est exprimé samedi devant ses partisans au Zenith de Toulon.",
+        "date": "Sun, 22 Nov 2026 14:00:52 +0100",
         "source": "francetvinfo.fr",
-        "ts": 1795266001000
+        "ts": 1795352452000
       },
       {
-        "title": "Le Mexique arrête Fausto Isidro Meza, alias « Chapo Isidro », un puissant chef de cartel recherché par le FBI",
-        "url": "https://www.lemonde.fr/international/article/2026/11/21/le-mexique-arrete-fausto-isidro-meza-alias-chapo-isidro-un-puissant-chef-de-cartel-recherche-par-le-fbi_6814013_3210.html",
-        "summary": "Le narcotrafiquant a été arrêté au Mexique, vendredi, ce qui a déclenché de violents affrontements. Il opérait dans le nord de l’Etat de Sinaloa, et les Etats-Unis offraient une récompense de 5 millions de dollars pour son arrestation.",
-        "date": "Sat, 21 Nov 2026 13:49:49 +0100",
-        "source": "lemonde.fr",
-        "ts": 1795265389000
+        "title": "Une enquête ouverte après des incendies imputés à des colons israéliens en Cisjordanie occupée",
+        "url": "https://www.franceinfo.fr/monde/israel/une-enquete-ouverte-apres-des-incendies-imputes-a-des-colons-israeliens-en-cisjordanie-occupee_8294669.html#xtor=RSS-3-[lestitres]",
+        "summary": "Gadi Eisenkot, rival du Premier ministre sortant Benyamin Nétanyahou et chargé par le chef de l'Etat de former un gouvernement, a dénoncé sur X ces actes, qu'il a qualifiés de \"terrorisme juif\" ébranlant \"la stabilité régionale\".",
+        "date": "Sun, 22 Nov 2026 13:59:07 +0100",
+        "source": "francetvinfo.fr",
+        "ts": 1795352347000
       },
       {
-        "title": "A Genève, la communauté internationale échoue à interdire les robots tueurs",
-        "url": "https://www.lemonde.fr/international/article/2026/11/21/a-geneve-la-communaute-internationale-echoue-a-interdire-les-robots-tueurs_6814012_3210.html",
-        "summary": "Alors que la menace des systèmes d’armes létales autonomes, désormais assistées par l’intelligence artificielle, se fait chaque jour plus précise dans les zones de combat, la Russie, les Etats-Unis et Israël se sont opposés à l’ouverture de négociations pour un traité international sur ce type d’ar…",
-        "date": "Sat, 21 Nov 2026 13:36:53 +0100",
-        "source": "lemonde.fr",
-        "ts": 1795264613000
+        "title": "Présidentielle 2027 : David Lisnard voit une primaire comme \"un moyen d'exclure les macronistes\"",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/campagne-presidentielle-david-lisnard-voit-une-primaire-comme-un-moyen-d-exclure-les-macronistes_8294525.html#xtor=RSS-3-[lestitres]",
+        "summary": "Le candidat Nouvelle Energie affirme qu'il ne soutiendra d'ailleurs pas obligatoirement le vainqueur d'un possible vote pour départager les prétendants de la droite et du centre, car \"il ne veut pas se compromettre avec des gens avec lesquels il ne gouvernera pas\".",
+        "date": "Sun, 22 Nov 2026 13:58:37 +0100",
+        "source": "francetvinfo.fr",
+        "ts": 1795352317000
+      },
+      {
+        "title": "Présidentielle 2027 : la CFDT appelle à changer la date du scrutin pour éviter un second tour le 2 mai",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294624.html#xtor=RSS-3-[lestitres]",
+        "summary": "\"Le 2 mai est le pire scénario possible, en raison du risque de vives tensions au lendemain de la Fête des travailleurs\", affirme Marylise Léon, secrétaire générale de l'organisation syndicale.",
+        "date": "Sun, 22 Nov 2026 13:53:26 +0100",
+        "source": "francetvinfo.fr",
+        "ts": 1795352006000
+      },
+      {
+        "title": "\"Je n'ai jamais reçu d'informations confidentielles\", affirme Marine Le Pen, au sujet du préfet Hugues Moutouh, soupçonné d'avoir renseigné le RN",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/direct-campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294528.html#xtor=RSS-3-[lestitres]",
+        "summary": "\"Je ne le connais pas personnellement\", a ajouté la candidate du Rassemblement national à la présidentielle, invitée dimanche de l'émission \"Franc-Jeu\" sur France 2.",
+        "date": "Sun, 22 Nov 2026 13:49:06 +0100",
+        "source": "francetvinfo.fr",
+        "ts": 1795351746000
       }
     ],
     "ia": [
       {
-        "title": "Corée du Sud : face aux tricheries massives grâce à l'IA, le baccalauréat placé sous haute surveillance - TF1 Info",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPY1RVNnlleVN1bWp1MnkxdTR0eVRib1F0YUdYRy1oZ0QzOFkydXVsN1dhRlFCcDZwOEg0bnRudGczYVp4MlBrQjhqdFFhYTRvYlNoWEpDb3hMdGZ2U3FMN0NPNVVsTWdESXV2LVN5NndrTHVqQWNwRnRkYmVhT25WS2VjelAxd0czcmtWbjBwaHBxUWhTRkFSa2VTbmtSOEhWVTA1R2U4VGVsWlg5QWxNWm42THprVjNleTA3aV83Vnh3clp5YnVsSVlVMG41WnZKcUhxQUprandBc0hoNUdVTEZhWGY?oc=5",
-        "summary": "Corée du Sud : face aux tricheries massives grâce à l'IA, le baccalauréat placé sous haute surveillance TF1 Info",
-        "date": "Sat, 21 Nov 2026 13:22:54 GMT",
+        "title": "LLMjacking : comment repérer ce piratage qui peut faire exploser votre facture d’intelligence artificielle ? - Le Café du Geek",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcjBWRm9ZNmRVOWo2TWY0NzBIQ1NOOEJWSm9MRXdjYlF5dHE5VS1CdUYyNnRfbGw5SWdVaG1pQnVTQmxONlJxMDVqdHJ4WDY0Sjl3WVltMnpQRUR0U2MzY2ZFT1dWMlcxYTl1OThyV1dtR3FuN0ctWEpnMGc0N3JwQ1FlODViQ0JwM2d0TjBHd2liN3BCT2NQMnYybkIyWlUxN0hVMnFZNHNaV05meWxvRGU4Q1lLeFR0TjVaNVA3R3NTUzVUcnZB?oc=5",
+        "summary": "LLMjacking : comment repérer ce piratage qui peut faire exploser votre facture d’intelligence artificielle ? Le Café du Geek",
+        "date": "Sun, 22 Nov 2026 13:05:07 GMT",
         "source": "news.google.com",
-        "ts": 1795267374000
+        "ts": 1795352707000
       },
       {
-        "title": "L'Anssi alerte sur l'usage de l'IA dans les cyberattaques - fr.qz.com",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY05wMEZKQ3ZYT1daQ1dMcE1HQmFsRkVTM3RsSGlNMlVjVmJ3QVJNV1JQUFo4VTd4MmdCczhpTHp1YllCRDFBSDRJU2dtSzFlTXBqYmdfNVFKcV9mVFNoMGhiYi1YbGRpRXViQ0pDNmlUbHFvNVpOMHdnZ1NKYV85UWxLV3JuMS1pRWhiWWRieEJxX3hLZ0E?oc=5",
-        "summary": "L'Anssi alerte sur l'usage de l'IA dans les cyberattaques fr.qz.com",
-        "date": "Sat, 21 Nov 2026 12:57:12 GMT",
+        "title": "C'est un avertissement pour tous les salariés : voici pourquoi Microsoft propose à 60 000 personnes de quitter l'entreprise - Presse-citron",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PUEdvYjIyS2prSjRTWjVQUVlxVW94Uk5kdkNvVHE3dDN5QXp5d0tEV2JVcWwxMnpQc3FGLXZDY3R3V3h0dS12VW9XUkxxVTdVZTA2WFJHNWg1cDRJTE1LaEs0NmttNWVmQXBXS0FyNzdzc2RfLVF3?oc=5",
+        "summary": "C'est un avertissement pour tous les salariés : voici pourquoi Microsoft propose à 60 000 personnes de quitter l'entreprise Presse-citron",
+        "date": "Sun, 22 Nov 2026 13:04:05 GMT",
         "source": "news.google.com",
-        "ts": 1795265832000
+        "ts": 1795352645000
       },
       {
-        "title": "Rennes. Une IA militaire désigne une cible à 92 % : qui décide des 8 % restants ? - Unidivers",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZlRUUWFFeFViRU9jeEMwTlJoUGhUZ3BtVTBkQWlnTlQ1eEJjWndPZ2hISEpINjBVc1hrQm95VkV2QTF3TlFMcnBwNVFJNk8yc08wSnNGZXkxeWlxTHNURzd0a3p2VmIzNmZscDhUd3lmZ3pQYU9FLXBPMHg2d3I0bGtLcWI1Nkk?oc=5",
-        "summary": "Rennes. Une IA militaire désigne une cible à 92 % : qui décide des 8 % restants ? Unidivers",
-        "date": "Sat, 21 Nov 2026 12:13:26 GMT",
-        "source": "news.google.com",
-        "ts": 1795263206000
+        "title": "Actualité : Un employé de Burger King s'est mis à parler comme un robot aux clients pour éviter d'être sanctionné par une IA qui notait tous ses échanges et le pénalisait en cas de mauvaise note",
+        "url": "https://www.lesnumeriques.com/intelligence-artificielle/un-employe-de-burger-king-s-est-mis-a-parler-comme-un-robot-aux-clients-pour-eviter-d-etre-sanctionne-par-une-ia-qui-notait-tous-ses-echanges-et-le-penalisait-en-cas-de-mauvaise-note-n268246.html",
+        "summary": "Aux États-Unis, Burger King a confié la notation des conversations de ses employés du drive à une IA. Le système jugeait la politesse, le ton de la voix et les efforts de vente. Résultat, un salarié s'est mis à parler exactement comme un robot puisque c’est ce que le logiciel attendait pour éviter…",
+        "date": "2026-11-22T14:00:00+01:00",
+        "source": "lesnumeriques.com",
+        "ts": 1795352400000
       },
       {
-        "title": "Terrorisme : une enquête américaine révèle comment les modèles d’IA deviennent une nouvelle menace pour la sécurité nationale - L'Express",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOS0pZdGd6a0pGRHR4TEpKU0tkWm1nN0VqWHM5dHNqRVJBWkladFpoQTFGR0dPS3NnaWV1N1lWdDFVcGZvZ3VtbGVOa2d5Ylo2Q2NFc1R1QnFjZ2lWdXQtODR0cm11ekhjT1ZSR282akhPS0NDVW1USTcyNjNMek5GY3JTbjBQdE1RckFTVmpZYXplUWVQTTFMZF9wUTJZRnhvcHZlNGRNaXlXVEVDZzJqRUh4em9LaERQbktMNzlQUUJud0xheWNUdEpjcFFVNG9JdjZ4eEx5UkdqVkxDcHFYTWhWOHp2T00yd0JJY3JGUGRlcmhvNXN1Tk5VR0xVTDF5?oc=5",
-        "summary": "Terrorisme : une enquête américaine révèle comment les modèles d’IA deviennent une nouvelle menace pour la sécurité nationale L'Express",
-        "date": "Sat, 21 Nov 2026 12:00:38 GMT",
+        "title": "« Les Etats-Unis ont clairement intérêt à ce que les modèles IA ouverts ne l’emportent pas » - l'Opinion",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWlRnVXRyOVZzSmJTZ3RDblpxMTByVjU0S0hhdnV0c19WUUJ0WXFzcjdxa0dDT204OTRIdFl6NlRMNmxHMTBYdUNvd1ZIWWcwbEhyZ3JXb1RtS3FyWUF0UUI3LU1QTGR6WGliX0lQTjBjTUhld0xuOGh6TlVGaWYxTzE3S090ZjhGam1DLUVqMkkzQlV5RmNVQU9zMHZOS09neVo2dFNtVENJTmRyTWg5YVNaUkxDNlhUQllGcw?oc=5",
+        "summary": "« Les Etats-Unis ont clairement intérêt à ce que les modèles IA ouverts ne l’emportent pas » l'Opinion",
+        "date": "Sun, 22 Nov 2026 12:30:00 GMT",
         "source": "news.google.com",
-        "ts": 1795262438000
+        "ts": 1795350600000
       },
       {
-        "title": "La Bourse de Wall Street enregistre des centaines de milliards de dollars de pertes, pénalisée par le secteur de l'IA - franceinfo",
-        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQLTVGZ0NrQ2Y5cXBTcFV6Qm02MTJnaklZTzY1S2FDUlZuSE93ZTZRTXdONVpOZTUxYi1ydjVxbzNTNTNCelEzbFJGcVhTeFZKNU03RnFvRmNpWlBHMlhpNURsSU1NYXh5VzdRb2JGZ3ZUUjJ4VGxmRW5GaXN0ZXgxSWZfaU5sbEliWlU1NmZJc3YwdVlHOUZic0FsNldfQVFRcHpYalR6VzhmclIxX2tjQkFvUFZzRHJDZ2ZiUzVDdU0xM2VGVXBpblpYZ2U2cHpsN2xuUUExOE9maWtNOEMwdUZFM3RSSXoyNjBNOFllNURfNVozb3pSODFhM2d4NjNXLTFiWld5QmdWSndNUjBjbUFGeTJ0Q21pdVE?oc=5",
-        "summary": "La Bourse de Wall Street enregistre des centaines de milliards de dollars de pertes, pénalisée par le secteur de l'IA franceinfo",
-        "date": "Sat, 21 Nov 2026 11:33:52 GMT",
+        "title": "Corée du Sud : on vous résume ce scandale de triche sur fond d'IA qui a provoqué la démission du ministre de l'Education - Actu.fr",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOY204Y1R4bi1abk4wa3NjSjFCWlRabFFGYVdLN1VXdWdUSnZBdUtFbjVmRlM5alhQekRNUzBJd0FzdWI0aVNFNlhMSXdKaG1uMjg5VF9ITklBaTFDbUFBWDVTRXNJZmY3MWJaMVZTWVM4eVczZFI0YW91WXdTdDIxQlhKTGlhR25yOHcwRHAtTVJUWkFQZGp4LWZONVViNXlhWkxnb2ZOSDUzQ2JtVVc0d2dfRTkzeUxhbVAtWmV1Umx5eF9PS0xvS0lEanpzUkdLWUJtQWdGZm1kRDdkTGp6b0psTGhjMFF3dXc?oc=5",
+        "summary": "Corée du Sud : on vous résume ce scandale de triche sur fond d'IA qui a provoqué la démission du ministre de l'Education Actu.fr",
+        "date": "Sun, 22 Nov 2026 12:28:01 GMT",
         "source": "news.google.com",
-        "ts": 1795260832000
+        "ts": 1795350481000
       },
       {
-        "title": "Google alerte sur une IA autonome de cyberattaque ayant visé des sites français | Intelligence Artificielle - Capmad",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRHF1NFRwVkNaZlNMb0p6S0ZtWUEwUElsQ2hCS2xaaXpEUl96a3hHTWMwUXpldldfRFJQUzFOMDFtREdGOWJ0SUYwRjZieGFwR2E1dDZZOUM2U1NVa1ZVLUMyZlo2TzEzT0QxSjdsN2ladnEtQXRGaXducUZWVE1xbEVpT18wVi1ZQnQ1YjFJbEVnOXFQRWd5alUzWERuc3g3VUhFNXZuVmRZRlZlYnBtaGVHZTZNRFlfdlNaQnJ2OWUyek5OTEpXSlljZjRtUEpCeFE?oc=5",
-        "summary": "Google alerte sur une IA autonome de cyberattaque ayant visé des sites français | Intelligence Artificielle Capmad",
-        "date": "Sat, 21 Nov 2026 11:27:37 GMT",
+        "title": "Corée du Sud : Wi-Fi coupé, 68.000 euros de récompense... Pourquoi un scandale de triche à l'IA secoue-t-il le pays ? - CNews",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcHR5Q0QxR1JUcU85LUFINE5GNTVyMlQyREZXTE1LWVo4Y0kyMThlLVZMZXdRR2ZTSkE4bEJQWEN6RE9PaXlpa2E5YUpaSzZGNDFYR3FMYzhvVmxJdU5NYjdCUlM1Y0VZWjB6S284UUI1VndWOWx3TEU4TWhTZjVHdEVZZ3l5ajdXcnZPb3R3aG9fTjlNc3FiWllxWDYzaG1VQTQyVUdER2R1ZFpaZ0FhVC1uUFVpVkFJYzhn?oc=5",
+        "summary": "Corée du Sud : Wi-Fi coupé, 68.000 euros de récompense... Pourquoi un scandale de triche à l'IA secoue-t-il le pays ? CNews",
+        "date": "Sun, 22 Nov 2026 11:50:19 GMT",
         "source": "news.google.com",
-        "ts": 1795260457000
+        "ts": 1795348219000
       }
     ]
   }
