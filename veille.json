@@ -1,206 +1,206 @@
 {
-  "generated": "2026-11-22T13:16:57.075Z",
-  "dateLabel": "dimanche 22 novembre 2026",
+  "generated": "2026-11-23T15:54:26.991Z",
+  "dateLabel": "lundi 23 novembre 2026",
   "demo": false,
   "categories": {
     "sciences": [
       {
-        "title": "Comment l’IA fait-elle des maths ?",
-        "url": "https://www.sciencesetavenir.fr/fondamental/mathematiques/comment-l-ia-fait-elle-des-maths_196275?xtor=RSS-10",
-        "summary": "Cette année l'IA est devenue capable de démontrer des théorèmes qui résistaient aux mathématiciens. Derrière ces prouesses des milliers d'agents intelligents travaillent ensemble pour défricher des pistes élaborer des preuves et vérifier leur validité.",
-        "date": "Sun, 22 Nov 2026 13:00:00 +0000",
+        "title": "Il y avait un ingrédient mystère dans les remèdes à base de momie",
+        "url": "https://www.sciencesetavenir.fr/archeo-paleo/remede-a-base-de-momie-l-aloe-vera-a-pu-etre-utilise-pour-les-embaumements_196366?xtor=RSS-4",
+        "summary": "Des chercheurs allemands ont révélé la présence d’un ingrédient jusqu’alors inconnu dans les préparations à base de momies qui étaient vendues comme remèdes par les apothicaires au Moyen-Age. A l’intersection des analyses moléculaires et historiques, cette étude améliore notre compréhension des pra…",
+        "date": "Mon, 23 Nov 2026 15:43:11 +0000",
         "source": "sciencesetavenir.fr",
-        "ts": 1795352400000
+        "ts": 1795448591000
       },
       {
-        "title": "L'IA et le « syndrome de la photocopieuse » : comment une révolution créative pourrait appauvrir notre culture",
-        "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-ia-syndrome-photocopieuse-revolution-creative-pourrait-appauvrir-notre-culture-139437/#xtor%3DRSS-8",
-        "summary": "Comme une photocopie de photocopie qui au fur et à mesure se dégrade et se transforme en bruit, la stratégie des entreprises de l’IA basée sur les grands modèles de langage centralisés conduit à générer des contenus médiocres et dénués d’originalité. Va t-on vers un appauvrissement culturel avec...",
-        "date": "Sun, 22 Nov 2026 12:23:35 +0100",
+        "title": "Ménopause : les inconnues et les risques de la supplémentation en testostérone pour raviver la libido",
+        "url": "https://www.lemonde.fr/sciences/article/2026/11/23/menopause-les-inconnues-et-les-risques-de-la-supplementation-en-testosterone-pour-raviver-la-libido_6814402_1650684.html",
+        "summary": "Censée redonner aux femmes vitalité et désir sexuel, vantée par nombre d’influenceuses aux Etats-Unis, cette hormone peut induire des effets indésirables immédiats, tandis que les données sur d’éventuels risques à plus long terme commencent à émerger.",
+        "date": "Mon, 23 Nov 2026 16:30:03 +0100",
+        "source": "lemonde.fr",
+        "ts": 1795447803000
+      },
+      {
+        "title": "Black Friday : ces 5 compléments alimentaires voient leurs prix dégringoler chez greenwhey",
+        "url": "https://www.futura-sciences.com/conso/bons-plans/guides-nutrition-black-friday-ces-5-complements-alimentaires-voient-leurs-prix-degringoler-chez-greenwhey-11928/#xtor%3DRSS-8",
+        "summary": "Et si le Black Friday était l’occasion de faire le point sur votre forme ? À cette occasion, greenwhey propose une opération promotionnelle particulièrement inédite : -20 % sur presque toute la boutique, des réductions cumulables sur les achats en quantité et jusqu’à 36 % d’économies sur...",
+        "date": "Mon, 23 Nov 2026 16:30:00 +0100",
         "source": "futura-sciences.com",
-        "ts": 1795346615000
+        "ts": 1795447800000
       },
       {
-        "title": "La plante de la semaine : cet arbuste aux fleurs jaune éclatant illumine le jardin quand presque tout le reste semble endormi",
-        "url": "https://www.futura-sciences.com/maison/actualites/jardin-plante-semaine-cet-arbuste-fleurs-jaune-eclatant-illumine-jardin-presque-tout-reste-semble-endormi-139538/#xtor%3DRSS-8",
-        "summary": "Les Français sont de vrais « jardinophiles » ! Et vous ? Avec cette chronique, (re)découvrez une plante, un fruit, un légume.En novembre, les végétaux semblent dormir avec l’automne, mais certains s’éveillent, arborant des baies colorées ou des fleurs. C’est le cas du mahonia, épineux,...",
-        "date": "Sun, 22 Nov 2026 11:07:51 +0100",
+        "title": "Une IA guidée par un humain a résolu l'une des plus grandes énigmes des mathématiques",
+        "url": "https://www.futura-sciences.com/sciences/actualites/mathematiques-ia-guidee-humain-resolu-plus-grandes-enigmes-mathematiques-139547/#xtor%3DRSS-8",
+        "summary": "Le prince des mathématiques, Carl Friedrich Gauss, avait l’habitude de dire que la théorie des nombres était la reine des mathématiques. Avec la théorie des nombres premiers, on peut s’en servir pour faire de la cryptographie et la sécurité des cartes bancaires repose justement sur ces nombres....",
+        "date": "Mon, 23 Nov 2026 16:13:27 +0100",
         "source": "futura-sciences.com",
-        "ts": 1795342071000
+        "ts": 1795446807000
       },
       {
-        "title": "Un parasite géant venu d'Amérique découvert pour la première fois en France : les scientifiques s'inquiètent",
-        "url": "https://www.futura-sciences.com/planete/actualites/ver-parasite-geant-venu-amerique-decouvert-premiere-fois-france-scientifiques-inquietent-k8p9-139448/#xtor%3DRSS-8",
-        "summary": "Un ver plat de 5 centimètres découvert dans le foie d'un daim en Sologne. Un parasite originaire d'Amérique du Nord, jamais signalé auparavant sur le territoire français. Une détection qui soulève autant de questions qu'elle n'en résout. Voilà ce que vient de révéler le réseau Sagir, le...",
-        "date": "Sun, 22 Nov 2026 10:00:00 +0100",
+        "title": "Ce téléviseur 4K TCL à -17 % pour le Black Friday vous accompagne même lorsqu'elle est éteinte",
+        "url": "https://www.futura-sciences.com/conso/bons-plans/guides-tv-son-ce-televiseur-4k-tcl-17-black-friday-vous-accompagne-meme-lorsquelle-eteinte-11930/#xtor%3DRSS-8",
+        "summary": "Éteinte, une télévision reste généralement un grand rectangle noir au milieu du salon. La TCL NXTVISION A300W entend changer cette habitude. Son écran mat peut afficher des œuvres d'art lorsque l'appareil ne sert pas. Son cadre magnétique décoratif et sa silhouette particulièrement fine...",
+        "date": "Mon, 23 Nov 2026 16:00:00 +0100",
         "source": "futura-sciences.com",
-        "ts": 1795338000000
+        "ts": 1795446000000
       },
       {
-        "title": "Pourquoi ne retrouve-t-on que des femmes parmi les fossiles d’Homo naledi ?",
-        "url": "https://www.sciencesetavenir.fr/archeo-paleo/homo-naledi-l-enigme-des-femmes-fossiles_196287?xtor=RSS-4",
-        "summary": "Dans les grottes de Rising Star, en Afrique du Sud, les squelettes d’Homo naledi réservent une surprise. L’analyse des protéines de leur émail dentaire suggère que les individus retrouvés seraient tous de sexe féminin. Un résultat inattendu qui intrigue les spécialistes de cette ancienne espèce hum…",
-        "date": "Sun, 22 Nov 2026 09:00:00 +0000",
-        "source": "sciencesetavenir.fr",
-        "ts": 1795338000000
-      },
-      {
-        "title": "En plantant 66 milliards d’arbres, la Chine a créé des forêts qui ne se comportent pas du tout comme les forêts naturelles",
-        "url": "https://www.futura-sciences.com/planete/actualites/foret-plantant-66-milliards-arbres-chine-cree-forets-ne-comportent-pas-tout-comme-forets-naturelles-g6r7-139505/#xtor%3DRSS-8",
-        "summary": "Quelque 66 milliards d'arbres plantés depuis 1978, 34 milliards supplémentaires prévus d'ici 2050. Les forêts issues de ce programme chinois poussent 66 % plus vite que les forêts naturelles. Un résultat qui semble valider la stratégie, jusqu'à ce qu'on regarde ce qui se passe ensuite.",
-        "date": "Sun, 22 Nov 2026 09:00:00 +0100",
+        "title": "Honor Pad 10 : cette tablette performante avec Snapdragon 7 Gen 3 passe sous les 245 € à l'occasion du Black Friday",
+        "url": "https://www.futura-sciences.com/conso/bons-plans/guides-pc-tablettes-honor-pad-10-cette-tablette-performante-snapdragon-7-gen-3-passe-sous-245-occasion-black-friday-11932/#xtor%3DRSS-8",
+        "summary": "Avec son écran de 12,1 pouces, ses 8 Go de RAM et sa prise en charge d’Android, la Honor Pad 10 offre un rapport qualité-prix attractif. À l'occasion du Black Friday, elle s’affiche avec une double remise sur AliExpress permettant de se l’offrir pour à peine plus de 240 €. Il faut cependant...",
+        "date": "Mon, 23 Nov 2026 15:30:05 +0100",
         "source": "futura-sciences.com",
-        "ts": 1795334400000
+        "ts": 1795444205000
       }
     ],
     "tech": [
       {
-        "title": "Dossier : Antivirus qui bloque Internet : le guide pour diagnostiquer et réparer votre connexion",
-        "url": "https://www.lesnumeriques.com/antivirus/antivirus-qui-bloque-internet-le-guide-pour-diagnostiquer-et-reparer-votre-connexion-a263238.html",
-        "summary": "Antivirus qui bloque Internet ? Identifiez la cause (pare-feu, HTTPS, VPN) et appliquez nos correctifs pour Avast, Norton, Bitdefender, Surfshark ou Defender.",
-        "date": "2026-11-22T14:00:00+01:00",
-        "source": "lesnumeriques.com",
-        "ts": 1795352400000
+        "title": "Pour atteindre rapidement les objectifs de croissance de la « Zone urbaine des sciences, des technologies et de l'innovation » - Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcXo3bEV0dUUwNnpCREFtNWVQalNORjA0VnlwOXRZVFpsRzFTUktUTDV3NjItc2VLeExlV1U3U2JhRk1pTnhQMWVadHprZEs3TGpQWnhWVjJnMFVSVmp0cUZxR3dhZ0NoZlJOU0hVM0liNHFiN2V3OFJJSUZZSjhrc1FycHFuNTlCQWhXMWRLbWxzYXFXWDZORmhPaDhXX0JLbkF5cWxsandscWxaVWdJX1dyMkhrdmxo?oc=5",
+        "summary": "Pour atteindre rapidement les objectifs de croissance de la « Zone urbaine des sciences, des technologies et de l'innovation » Vietnam.vn",
+        "date": "Mon, 23 Nov 2026 15:51:58 GMT",
+        "source": "news.google.com",
+        "ts": 1795449118000
       },
       {
-        "title": "Actualité : Un employé de Burger King s'est mis à parler comme un robot aux clients pour éviter d'être sanctionné par une IA qui notait tous ses échanges et le pénalisait en cas de mauvaise note",
-        "url": "https://www.lesnumeriques.com/intelligence-artificielle/un-employe-de-burger-king-s-est-mis-a-parler-comme-un-robot-aux-clients-pour-eviter-d-etre-sanctionne-par-une-ia-qui-notait-tous-ses-echanges-et-le-penalisait-en-cas-de-mauvaise-note-n268246.html",
-        "summary": "Aux États-Unis, Burger King a confié la notation des conversations de ses employés du drive à une IA. Le système jugeait la politesse, le ton de la voix et les efforts de vente. Résultat, un salarié s'est mis à parler exactement comme un robot puisque c’est ce que le logiciel attendait pour éviter…",
-        "date": "2026-11-22T14:00:00+01:00",
-        "source": "lesnumeriques.com",
-        "ts": 1795352400000
+        "title": "Baddari souligne l'importance de transformer les résultats de la recherche scientifique en valeur économique ajoutée - وكالة الأنباء الجزائرية",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPT0h2bm5ScEpzZVBQVF9uYm1sUHl4OHl4emgtdVdMbkNoMjNzMktYNE5lYWZaVUxVMFBEbXJObExfRUhudTRIV1BDSVhBYlRubW1Icldud2hETjBOWWI4cHRCUmpmVkRJcGJZSmc3cjlPekxRMkVmblp1b3FRNGVYZG9QbC1WUEQ1SENxTWYwSWlZMWJ2UEVMR2dEVElxendHbktvNDlkcmpjenVsb3Z3Q0FMUXpxWDE2MjhMWWZVSGYwbWhWM2VLVnZtVHpPdERrWDJXbmJnN2hjaUY3S0RvMjhZbWdNLThfUThtTnpNQTJSZktkRkJVaVlrdnk0MEppNU5CNjltNjZmRWJ4?oc=5",
+        "summary": "Baddari souligne l'importance de transformer les résultats de la recherche scientifique en valeur économique ajoutée وكالة الأنباء الجزائرية",
+        "date": "Mon, 23 Nov 2026 15:51:00 GMT",
+        "source": "news.google.com",
+        "ts": 1795449060000
       },
       {
-        "title": "« Internet cessera de fonctionner sans explication » : attention, le service Quad9 coupe en France ce mardi, vérifiez si vous l’utilisez",
-        "url": "https://www.numerama.com/tech/2379931-internet-cessera-de-fonctionner-sans-explication-attention-le-service-quad9-coupe-en-france-ce-mardi-verifiez-si-vous-lutilisez.html",
-        "summary": "À partir du mardi 24 novembre 2026, le résolveur DNS gratuit Quad9 ne répondra plus aux internautes situés en France. Si vous l’avez configuré sur votre box, votre téléphone ou votre navigateur, puis oublié, il vous reste quelques jours pour le vérifier et le remplacer.",
-        "date": "Sun, 22 Nov 2026 12:31:00 +0000",
+        "title": "Les 3 meilleurs ETF dans le secteur de la technologie alternative - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb2VGb0d1VGtJLWJLWXNzVlV3aV96SkYtZzk0dGRZOUVGWlA3UFJxdThoNmxNX2xKQlB1ekozV0d6U01LckJNTVJOVGZyQTJxNUVjcjJDeE5RbnM4Z3lvaXRRRHVQMU9vS0R1MmRmRG85VG5PSHNGNVJEUGxkRThoVXJxbXVzNFN2Mk5HQjhXS25tWm95Mk5xZnRmTFJ3NFJUSy1lWllB?oc=5",
+        "summary": "Les 3 meilleurs ETF dans le secteur de la technologie alternative Morningstar",
+        "date": "Mon, 23 Nov 2026 15:48:37 GMT",
+        "source": "news.google.com",
+        "ts": 1795448917000
+      },
+      {
+        "title": "GTA 6 : ne vous précipitez pas, vous pourriez le regretter",
+        "url": "https://www.numerama.com/pop-culture/2382855-gta-6-ne-vous-precipitez-pas-vous-pourriez-le-regretter.html",
+        "summary": "Des joueuses et des joueurs souffrent déjà d'une drôle de nostalgie sur GTA 6 après avoir terminé le premier chapitre. Ils regrettent leur petite vie tranquille dans les Keys, les habitudes de Jason et les doux moments passés avec Lucia. Un sentiment qui pousse même certains à envisager de recommen…",
+        "date": "Mon, 23 Nov 2026 15:45:00 +0000",
         "source": "numerama.com",
-        "ts": 1795350660000
+        "ts": 1795448700000
       },
       {
-        "title": "Actualité : B&YOU : ce forfait à 14,99 € cache un abonnement Amazon Prime inclus",
-        "url": "https://www.lesnumeriques.com/forfait-mobile/b-you-ce-forfait-a-14-99-cache-un-abonnement-amazon-prime-inclus-n268148.html",
-        "summary": "B&YOU associe une enveloppe de 170 Go en 5G à un abonnement Amazon Prime dans une offre Black Friday à 14,99 €/mois. Le tout sans engagement.",
-        "date": "2026-11-22T13:00:00+01:00",
+        "title": "“Je ne veux pas regarder” : leur vue baisse, ces seniors achètent une Tesla pour qu'elle conduise à leur place",
+        "url": "https://www.lesnumeriques.com/voiture-electrique/je-ne-veux-pas-regarder-leur-vue-baisse-ces-seniors-achetent-une-tesla-pour-qu-elle-conduise-a-leur-place-n268333.html",
+        "summary": "Leur vue baisse, leurs réflexes ralentissent, et ils refusent de rendre les clés. Des retraités de 70, 90 et même 98 ans s'offrent une Tesla pour confier le volant au logiciel. Tesla en tire des vidéos promotionnelles et Elon Musk les relaie avec gourmandise. Pourtant, le manuel de la marque réclam…",
+        "date": "2026-11-23T16:38:00+01:00",
         "source": "lesnumeriques.com",
-        "ts": 1795348800000
+        "ts": 1795448280000
       },
       {
-        "title": "Actualité : Des scientifiques fabriquent une batterie rechargeable avec de la vitamine B12, leur prototype résiste à 250 cycles de charge et empêche les incendies grâce à une solution aqueuse",
-        "url": "https://www.lesnumeriques.com/voiture-electrique/des-scientifiques-fabriquent-une-batterie-rechargeable-avec-de-la-vitamine-b12-leur-prototype-resiste-a-250-cycles-de-charge-et-empeche-les-incendies-grace-a-une-solution-aqueuse-n268238.html",
-        "summary": "C'est dans une batterie rechargeable que des chimistes espagnols ont trouvé une nouvelle utilisation à la vitamine B12. Le prototype de l'université de Cordoue regroupe du zinc et de l'oxygène de l'air mais a surtout résisté à 250 cycles de charge et de décharge. Et ce n'est pas tout puisque cette…",
-        "date": "2026-11-22T13:00:00+01:00",
-        "source": "lesnumeriques.com",
-        "ts": 1795348800000
-      },
-      {
-        "title": "Top bon plan : Top 5 : UGreen, Samsung, Microsoft... les meilleurs bons plans du 22/11/2026",
-        "url": "https://www.lesnumeriques.com/societe-numerique/top-5-samsung-microsoft-sonos-les-meilleurs-bons-plans-du-22-11-2026-n268243.html",
-        "summary": "Nous publions chaque jour une vingtaine de bons plans. Pour vous faciliter la tâche, voici le top 5 des meilleurs bons plans, selon nous les incontournables parmi les plus belles promos du jour",
-        "date": "2026-11-22T12:15:03+01:00",
-        "source": "lesnumeriques.com",
-        "ts": 1795346103000
+        "title": "Black Friday Week : les meilleures offres du lundi 23 novembre (EN DIRECT)",
+        "url": "https://www.numerama.com/tech/2382555-black-friday-week-nos-meilleures-trouvailles-du-lundi-23-novembre-mises-a-jour-en-direct.html",
+        "summary": "Le Black Friday a davantage une allure de mois que de jour. Depuis début Novembre, plusieurs enseignes ont remisés des tonnes de produits. Numerama fait le tri ici dans ce live des bonnes affaires du Black Friday.",
+        "date": "Mon, 23 Nov 2026 15:31:17 +0000",
+        "source": "numerama.com",
+        "ts": 1795447877000
       }
     ],
     "politique": [
       {
-        "title": "L’Italie secouée par le suicide de l’ancien chef de la police",
-        "url": "https://www.lemonde.fr/international/article/2026/11/22/l-italie-secouee-par-le-suicide-de-l-ancien-chef-de-la-police_6814214_3210.html",
-        "summary": "La mort de Gianni De Gennaro survient alors qu’il était mis en examen pour avoir entravé l’enquête sur l’assassinat, en 1992, du juge antimafia Paolo Borsellino. Aux côtés du magistrat Giovanni Falcone, tué la même année, il avait joué un rôle déterminant pour retourner certains parrains.",
-        "date": "Sun, 22 Nov 2026 14:10:21 +0100",
+        "title": "Guerre en Ukraine : l'UE présente un 22e paquet de sanctions contre Moscou, ciblant notamment les banques, la flotte fantôme et les athlètes russes",
+        "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-volodymyr-zelensky-revendique-les-attaques-contre-deux-navires-russes-menees-au-large-de-la-libye_8295668.html#xtor=RSS-3-[lestitres]",
+        "summary": "\"L'objectif est de maintenir la pression sur la Russie afin qu'elle mette fin à sa guerre d'agression en Ukraine\", met en avant Ursula von der Leyen, présidente de la Commission européenne.",
+        "date": "Mon, 23 Nov 2026 16:39:27 +0100",
+        "source": "francetvinfo.fr",
+        "ts": 1795448367000
+      },
+      {
+        "title": "Origines, objectifs, calendrier… Cinq questions sur la \"règle d'or\" qu'Emmanuel Macron veut mettre en place",
+        "url": "https://www.franceinfo.fr/economie/budget/origines-objectifs-calendrier-quatre-questions-sur-la-regle-d-or-qu-emmanuel-macron-veut-mettre-en-place_8296010.html#xtor=RSS-3-[lestitres]",
+        "summary": "Le président réfléchit à instaurer une \"règle d'or\" budgétaire afin de contraindre les futurs gouvernements à adopter des budgets à l'équilibre.",
+        "date": "Mon, 23 Nov 2026 16:38:13 +0100",
+        "source": "francetvinfo.fr",
+        "ts": 1795448293000
+      },
+      {
+        "title": "Espagne : l’indépendantiste catalan Carles Puigdemont définitivement blanchi par la justice",
+        "url": "https://www.lemonde.fr/international/article/2026/11/23/espagne-l-independantiste-catalan-carles-puigdemont-definitivement-blanchi-par-la-justice_6814403_3210.html",
+        "summary": "Le Tribunal suprême espagnol ouvre la voie au retour en Espagne du leader indépendantiste catalan. Celui-ci avait toutefois affirmé qu’il ne rentrerait pas avant les élections législatives du 29 novembre.",
+        "date": "Mon, 23 Nov 2026 16:31:18 +0100",
         "source": "lemonde.fr",
-        "ts": 1795353021000
+        "ts": 1795447878000
       },
       {
-        "title": "\"Je serai le candidat de la liberté de penser, de dire ce que vous voyez\", clame Eric Zemmour lors de son premier meeting de campagne présidentielle",
-        "url": "https://www.franceinfo.fr/elections/je-serai-le-candidat-de-la-liberte-de-pensee-de-parler-de-dire-ce-que-vous-voyez-clame-eric-zemmour-lors-de-son-premier-meeting-de-campagne-presidentielle_8294024.html#xtor=RSS-3-[lestitres]",
-        "summary": "Le président du parti d'extrême droite s'est exprimé samedi devant ses partisans au Zenith de Toulon.",
-        "date": "Sun, 22 Nov 2026 14:00:52 +0100",
+        "title": "Sommet Choose France : le laboratoire pharmaceutique Virbac dévoile un plan d'investissement de plus de 320 millions d'euros jusqu'en 2030",
+        "url": "https://www.franceinfo.fr/economie/industrie/direct-sommet-choose-france-emmanuel-macron-en-visite-sur-le-site-d-airbus-a-toulouse_8295704.html#xtor=RSS-3-[lestitres]",
+        "summary": "Depuis Toulouse, Emmanuel Macron a affirmé lundi qu'il voulait faire de la France le pays \"le plus rapide d'Europe quand il s'agit de créer des sites industriels\".",
+        "date": "Mon, 23 Nov 2026 16:29:31 +0100",
         "source": "francetvinfo.fr",
-        "ts": 1795352452000
+        "ts": 1795447771000
       },
       {
-        "title": "Une enquête ouverte après des incendies imputés à des colons israéliens en Cisjordanie occupée",
-        "url": "https://www.franceinfo.fr/monde/israel/une-enquete-ouverte-apres-des-incendies-imputes-a-des-colons-israeliens-en-cisjordanie-occupee_8294669.html#xtor=RSS-3-[lestitres]",
-        "summary": "Gadi Eisenkot, rival du Premier ministre sortant Benyamin Nétanyahou et chargé par le chef de l'Etat de former un gouvernement, a dénoncé sur X ces actes, qu'il a qualifiés de \"terrorisme juif\" ébranlant \"la stabilité régionale\".",
-        "date": "Sun, 22 Nov 2026 13:59:07 +0100",
+        "title": "Nvidia annonce la réintégration de Jensen Huang comme PDG, onze jours après son départ lié à une affaire d'adultère et d'espionnage",
+        "url": "https://www.franceinfo.fr/internet/nvidia/nvidia-annonce-la-reintegration-de-jensen-huang-comme-pdg-onze-jours-apres-son-depart-lie-a-une-affaire-d-adultere-et-d-espionnage_8296160.html#xtor=RSS-3-[lestitres]",
+        "summary": "\"Le conseil d'administration estime que Jensen est la personne idéale pour diriger Nvidia et que sa réintégration est dans le meilleur intérêt de nos actionnaires, de nos employés, de nos partenaires et de nos clients\", a déclaré le président du conseil d'administration.",
+        "date": "Mon, 23 Nov 2026 16:18:29 +0100",
         "source": "francetvinfo.fr",
-        "ts": 1795352347000
+        "ts": 1795447109000
       },
       {
-        "title": "Présidentielle 2027 : David Lisnard voit une primaire comme \"un moyen d'exclure les macronistes\"",
-        "url": "https://www.franceinfo.fr/elections/presidentielle/campagne-presidentielle-david-lisnard-voit-une-primaire-comme-un-moyen-d-exclure-les-macronistes_8294525.html#xtor=RSS-3-[lestitres]",
-        "summary": "Le candidat Nouvelle Energie affirme qu'il ne soutiendra d'ailleurs pas obligatoirement le vainqueur d'un possible vote pour départager les prétendants de la droite et du centre, car \"il ne veut pas se compromettre avec des gens avec lesquels il ne gouvernera pas\".",
-        "date": "Sun, 22 Nov 2026 13:58:37 +0100",
-        "source": "francetvinfo.fr",
-        "ts": 1795352317000
-      },
-      {
-        "title": "Présidentielle 2027 : la CFDT appelle à changer la date du scrutin pour éviter un second tour le 2 mai",
-        "url": "https://www.franceinfo.fr/elections/presidentielle/campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294624.html#xtor=RSS-3-[lestitres]",
-        "summary": "\"Le 2 mai est le pire scénario possible, en raison du risque de vives tensions au lendemain de la Fête des travailleurs\", affirme Marylise Léon, secrétaire générale de l'organisation syndicale.",
-        "date": "Sun, 22 Nov 2026 13:53:26 +0100",
-        "source": "francetvinfo.fr",
-        "ts": 1795352006000
-      },
-      {
-        "title": "\"Je n'ai jamais reçu d'informations confidentielles\", affirme Marine Le Pen, au sujet du préfet Hugues Moutouh, soupçonné d'avoir renseigné le RN",
-        "url": "https://www.franceinfo.fr/elections/presidentielle/direct-campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294528.html#xtor=RSS-3-[lestitres]",
-        "summary": "\"Je ne le connais pas personnellement\", a ajouté la candidate du Rassemblement national à la présidentielle, invitée dimanche de l'émission \"Franc-Jeu\" sur France 2.",
-        "date": "Sun, 22 Nov 2026 13:49:06 +0100",
-        "source": "francetvinfo.fr",
-        "ts": 1795351746000
+        "title": "La Turquie affirme que le PKK a évacué 14 autres bases du nord de l’Irak, une nouvelle étape majeure vers la paix",
+        "url": "https://www.lemonde.fr/international/article/2026/11/23/la-turquie-affirme-que-le-pkk-a-evacue-14-autres-bases-du-nord-de-l-irak-une-nouvelle-etape-majeure-vers-la-paix_6814400_3210.html",
+        "summary": "Ankara et le groupe armé ont entamé un processus de paix en 2024, dont l’objectif est de mettre fin à plus de quatre décennies d’une guérilla qui a fait quelque 50 000 morts.",
+        "date": "Mon, 23 Nov 2026 16:09:56 +0100",
+        "source": "lemonde.fr",
+        "ts": 1795446596000
       }
     ],
     "ia": [
       {
-        "title": "LLMjacking : comment repérer ce piratage qui peut faire exploser votre facture d’intelligence artificielle ? - Le Café du Geek",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcjBWRm9ZNmRVOWo2TWY0NzBIQ1NOOEJWSm9MRXdjYlF5dHE5VS1CdUYyNnRfbGw5SWdVaG1pQnVTQmxONlJxMDVqdHJ4WDY0Sjl3WVltMnpQRUR0U2MzY2ZFT1dWMlcxYTl1OThyV1dtR3FuN0ctWEpnMGc0N3JwQ1FlODViQ0JwM2d0TjBHd2liN3BCT2NQMnYybkIyWlUxN0hVMnFZNHNaV05meWxvRGU4Q1lLeFR0TjVaNVA3R3NTUzVUcnZB?oc=5",
-        "summary": "LLMjacking : comment repérer ce piratage qui peut faire exploser votre facture d’intelligence artificielle ? Le Café du Geek",
-        "date": "Sun, 22 Nov 2026 13:05:07 GMT",
+        "title": "Intelligence artificielle : le Conseil d’État et la Chancellerie invités à rapprocher leurs outils - Acteurs Publics",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaXpQQ3hIdUQtZEIwZlJ6VWVRa1IycURHU2ltZUc5cUN3U25Qd1E2bmtWc2RVUHNXTlZnMnRZME8yQkg5ZXc5blZVNmdaSWdBLXhjeEdGdUpMRS1rel9Md19xZU8xUDVUc1R4alA0RkR5MmJqWTl5VlEyaWZCd1B2Y0xJR0NBRERSVldlX19yeng1YmFHSG5BaDU3UGNla3EtUDNuNHhhTlFnaWFkeV9uQjRvbFN1WUY3eDRiWkotTGpyRDkxTEdWR08zVQ?oc=5",
+        "summary": "Intelligence artificielle : le Conseil d’État et la Chancellerie invités à rapprocher leurs outils Acteurs Publics",
+        "date": "Mon, 23 Nov 2026 15:52:50 GMT",
         "source": "news.google.com",
-        "ts": 1795352707000
+        "ts": 1795449170000
       },
       {
-        "title": "C'est un avertissement pour tous les salariés : voici pourquoi Microsoft propose à 60 000 personnes de quitter l'entreprise - Presse-citron",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PUEdvYjIyS2prSjRTWjVQUVlxVW94Uk5kdkNvVHE3dDN5QXp5d0tEV2JVcWwxMnpQc3FGLXZDY3R3V3h0dS12VW9XUkxxVTdVZTA2WFJHNWg1cDRJTE1LaEs0NmttNWVmQXBXS0FyNzdzc2RfLVF3?oc=5",
-        "summary": "C'est un avertissement pour tous les salariés : voici pourquoi Microsoft propose à 60 000 personnes de quitter l'entreprise Presse-citron",
-        "date": "Sun, 22 Nov 2026 13:04:05 GMT",
+        "title": "La Poste signe un accord cadre dédié à l’IA pour accompagner sa transformation et placer l’humain au coeur des usages - La Poste Groupe",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbG9BQnJWSmlieE4tZ0tJa2w1Q0l0MERzSHpIVy1HMTVPY3pGQncwbGowQzcxNl9OZWY5UVUyNVZ4ODZwSDFGanJTbl9NOU1TMUVKeDQ1WmFtYmE5eXhPYWY1eFdiSkhpWEhQTEdlMW9UUzhIRGpaY1dNdXhvNlNuU2JWYnZpRzBXVVp3ekpOWkh5ZXZKZVUyTngwcVBoZFAtblZEVnd1bFh4Ni1tVzM1QXlfRXBXMExoOFdMWHNxQnZrdHJYMmVKZDBoQTkyR3BwWlA5VTZodmNRc1ZBMWxDaF9sOE1kc2RhUmNaU0J6QQ?oc=5",
+        "summary": "La Poste signe un accord cadre dédié à l’IA pour accompagner sa transformation et placer l’humain au coeur des usages La Poste Groupe",
+        "date": "Mon, 23 Nov 2026 15:37:12 GMT",
         "source": "news.google.com",
-        "ts": 1795352645000
+        "ts": 1795448232000
       },
       {
-        "title": "Actualité : Un employé de Burger King s'est mis à parler comme un robot aux clients pour éviter d'être sanctionné par une IA qui notait tous ses échanges et le pénalisait en cas de mauvaise note",
-        "url": "https://www.lesnumeriques.com/intelligence-artificielle/un-employe-de-burger-king-s-est-mis-a-parler-comme-un-robot-aux-clients-pour-eviter-d-etre-sanctionne-par-une-ia-qui-notait-tous-ses-echanges-et-le-penalisait-en-cas-de-mauvaise-note-n268246.html",
-        "summary": "Aux États-Unis, Burger King a confié la notation des conversations de ses employés du drive à une IA. Le système jugeait la politesse, le ton de la voix et les efforts de vente. Résultat, un salarié s'est mis à parler exactement comme un robot puisque c’est ce que le logiciel attendait pour éviter…",
-        "date": "2026-11-22T14:00:00+01:00",
-        "source": "lesnumeriques.com",
-        "ts": 1795352400000
+        "title": "L’adoption de l’IA avance plus vite que son encadrement selon IFS - www.mesures.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQnA3MVNJdXg3ekpmaDVTUlRTRXJidF90aU14M2pLd0FFakxtQnpxSHVRTHFnZERNTEVmLXpOOXRUNGxkVEh4eFFkU2hKQVdjNlQ0enByOW1mX2ZPaTJHRkJPN3dLQkRWcmFLa3hHTXhlbUNMNmRXVmlSNXZpbFMzUktiUk9pVWZwN3lRVHpKMmVUTkQ2dmd5VzB3dGpjc2J6OTVla2JPYWQwU0Z1Z2tyV2ZCTlE?oc=5",
+        "summary": "L’adoption de l’IA avance plus vite que son encadrement selon IFS www.mesures.com",
+        "date": "Mon, 23 Nov 2026 15:15:36 GMT",
+        "source": "news.google.com",
+        "ts": 1795446936000
       },
       {
-        "title": "« Les Etats-Unis ont clairement intérêt à ce que les modèles IA ouverts ne l’emportent pas » - l'Opinion",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWlRnVXRyOVZzSmJTZ3RDblpxMTByVjU0S0hhdnV0c19WUUJ0WXFzcjdxa0dDT204OTRIdFl6NlRMNmxHMTBYdUNvd1ZIWWcwbEhyZ3JXb1RtS3FyWUF0UUI3LU1QTGR6WGliX0lQTjBjTUhld0xuOGh6TlVGaWYxTzE3S090ZjhGam1DLUVqMkkzQlV5RmNVQU9zMHZOS09neVo2dFNtVENJTmRyTWg5YVNaUkxDNlhUQllGcw?oc=5",
-        "summary": "« Les Etats-Unis ont clairement intérêt à ce que les modèles IA ouverts ne l’emportent pas » l'Opinion",
-        "date": "Sun, 22 Nov 2026 12:30:00 GMT",
+        "title": "World Chess lance Watch pour commenter en direct les parties d’échecs avec l’intelligence artificielle - Zonebourse Suisse",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOV1Jzek5YalVjZjdBRWs3MURDaVVkR25udkhEV1Vtb3JmdWpwSEpYQ2xtbU9zWTRybkhMV3VpMm13SU5oR2JORkJmQzBfWVVJWm9pN1MxOFlaNU82NWVfYi0zNlF3LTZZM2FHajlhSUgwRDRacDlfN0dKNUFjRVdRcG9VbDBGb2xma3dxVHQ3M2sybWZCNzkzekNNZ0tVVTUxeHBoTlllN3dOMC1KbXpGd3FQUlI1MGI4THRpazdLZ29pZFFwUnFPUzFOX3Rfd3lScC1WcnF3QnBLZGFvcGt4cTRQcUFIbXljVDdWQWctYw?oc=5",
+        "summary": "World Chess lance Watch pour commenter en direct les parties d’échecs avec l’intelligence artificielle Zonebourse Suisse",
+        "date": "Mon, 23 Nov 2026 15:14:25 GMT",
         "source": "news.google.com",
-        "ts": 1795350600000
+        "ts": 1795446865000
       },
       {
-        "title": "Corée du Sud : on vous résume ce scandale de triche sur fond d'IA qui a provoqué la démission du ministre de l'Education - Actu.fr",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOY204Y1R4bi1abk4wa3NjSjFCWlRabFFGYVdLN1VXdWdUSnZBdUtFbjVmRlM5alhQekRNUzBJd0FzdWI0aVNFNlhMSXdKaG1uMjg5VF9ITklBaTFDbUFBWDVTRXNJZmY3MWJaMVZTWVM4eVczZFI0YW91WXdTdDIxQlhKTGlhR25yOHcwRHAtTVJUWkFQZGp4LWZONVViNXlhWkxnb2ZOSDUzQ2JtVVc0d2dfRTkzeUxhbVAtWmV1Umx5eF9PS0xvS0lEanpzUkdLWUJtQWdGZm1kRDdkTGp6b0psTGhjMFF3dXc?oc=5",
-        "summary": "Corée du Sud : on vous résume ce scandale de triche sur fond d'IA qui a provoqué la démission du ministre de l'Education Actu.fr",
-        "date": "Sun, 22 Nov 2026 12:28:01 GMT",
+        "title": "Une IA guidée par un humain a résolu l'une des plus grandes énigmes des mathématiques - Futura, le média qui explore le monde",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSDlqZ09UNjFnaktkMm5QYThPNFJteXUwSWk5eDV2TF95bkF3N0N3T3NyczR5c1RISUZTSmVMUS0yclNkRG9Gd0VWQnpOd0g5WVNtVXNHSmxLZE1ybVZXd2tQV1J4X3VXOTl3NDF6RTRyVm1IMmJoeUtGYVNxamI2U2RheG1aQ0V6SzdmdnZZTTFBM0R0Uk1wNjRSdEljd1dVdExTNmowTXpXOGo1SHJFVWJQRzJVcERUVHBxdUpwNTJyXzlOV09KQ203TmY?oc=5",
+        "summary": "Une IA guidée par un humain a résolu l'une des plus grandes énigmes des mathématiques Futura, le média qui explore le monde",
+        "date": "Mon, 23 Nov 2026 15:13:00 GMT",
         "source": "news.google.com",
-        "ts": 1795350481000
+        "ts": 1795446780000
       },
       {
-        "title": "Corée du Sud : Wi-Fi coupé, 68.000 euros de récompense... Pourquoi un scandale de triche à l'IA secoue-t-il le pays ? - CNews",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcHR5Q0QxR1JUcU85LUFINE5GNTVyMlQyREZXTE1LWVo4Y0kyMThlLVZMZXdRR2ZTSkE4bEJQWEN6RE9PaXlpa2E5YUpaSzZGNDFYR3FMYzhvVmxJdU5NYjdCUlM1Y0VZWjB6S284UUI1VndWOWx3TEU4TWhTZjVHdEVZZ3l5ajdXcnZPb3R3aG9fTjlNc3FiWllxWDYzaG1VQTQyVUdER2R1ZFpaZ0FhVC1uUFVpVkFJYzhn?oc=5",
-        "summary": "Corée du Sud : Wi-Fi coupé, 68.000 euros de récompense... Pourquoi un scandale de triche à l'IA secoue-t-il le pays ? CNews",
-        "date": "Sun, 22 Nov 2026 11:50:19 GMT",
+        "title": "Le rallye de l’intelligence artificielle (IA) pourrait ajouter 2 000 milliards de dollars au Nasdaq-100 avec le retour de Huang à la tête de Nvidia - Zonebourse Suisse",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPS3lnOFBrVXlab2lGbTBXSERnTS1TRkhsemxiMUZBSzhuWVlvZjBsMTRSSl9wZzF0Q1FRR29xNWExTXJYMmtvZk5UTWpBbmJBNktUNG05Z0k1OFlQNVNvWVp2TFZXTV90WkZLbU9oazhiSzkyNWhTNDNqa1Y0dDItWW15NmxCc0U3Z2NZNDA0bllnMExKUXZKQ0hpWmVjNUFVZ2ZtMUQzVWtQV1ZLc3UtWVBwYy1hV1RKVE12dURTSV9JN3VJQkc5YlQ3aENiTWpZX2xIaGRDVC1sZmhaMzM3Z19SZTZxVmN3WUsxMUx3?oc=5",
+        "summary": "Le rallye de l’intelligence artificielle (IA) pourrait ajouter 2 000 milliards de dollars au Nasdaq-100 avec le retour de Huang à la tête de Nvidia Zonebourse Suisse",
+        "date": "Mon, 23 Nov 2026 15:06:54 GMT",
         "source": "news.google.com",
-        "ts": 1795348219000
+        "ts": 1795446414000
       }
     ]
   }
