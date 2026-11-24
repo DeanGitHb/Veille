@@ -1,206 +1,206 @@
 {
-  "generated": "2026-11-23T15:54:26.991Z",
-  "dateLabel": "lundi 23 novembre 2026",
+  "generated": "2026-11-24T15:47:10.542Z",
+  "dateLabel": "mardi 24 novembre 2026",
   "demo": false,
   "categories": {
     "sciences": [
       {
-        "title": "Il y avait un ingrédient mystère dans les remèdes à base de momie",
-        "url": "https://www.sciencesetavenir.fr/archeo-paleo/remede-a-base-de-momie-l-aloe-vera-a-pu-etre-utilise-pour-les-embaumements_196366?xtor=RSS-4",
-        "summary": "Des chercheurs allemands ont révélé la présence d’un ingrédient jusqu’alors inconnu dans les préparations à base de momies qui étaient vendues comme remèdes par les apothicaires au Moyen-Age. A l’intersection des analyses moléculaires et historiques, cette étude améliore notre compréhension des pra…",
-        "date": "Mon, 23 Nov 2026 15:43:11 +0000",
+        "title": "L'alcool progresse chez les mineurs et reste meurtrier sur les routes",
+        "url": "https://www.sciencesetavenir.fr/sante/l-alcool-progresse-chez-les-mineurs-et-reste-meurtrier-sur-les-routes_196379?xtor=RSS-16",
+        "summary": "L'alcool gagne du terrain chez les mineurs et reste impliqué dans plus d'un quart des décès sur les routes. Un double constat alarmant dressé par l'Observatoire français des drogues et des tendances addictives (OFDT) dans une étude publiée mardi 24 novembre.",
+        "date": "Tue, 24 Nov 2026 15:37:48 +0000",
         "source": "sciencesetavenir.fr",
-        "ts": 1795448591000
+        "ts": 1795534668000
       },
       {
-        "title": "Ménopause : les inconnues et les risques de la supplémentation en testostérone pour raviver la libido",
-        "url": "https://www.lemonde.fr/sciences/article/2026/11/23/menopause-les-inconnues-et-les-risques-de-la-supplementation-en-testosterone-pour-raviver-la-libido_6814402_1650684.html",
-        "summary": "Censée redonner aux femmes vitalité et désir sexuel, vantée par nombre d’influenceuses aux Etats-Unis, cette hormone peut induire des effets indésirables immédiats, tandis que les données sur d’éventuels risques à plus long terme commencent à émerger.",
-        "date": "Mon, 23 Nov 2026 16:30:03 +0100",
-        "source": "lemonde.fr",
-        "ts": 1795447803000
-      },
-      {
-        "title": "Black Friday : ces 5 compléments alimentaires voient leurs prix dégringoler chez greenwhey",
-        "url": "https://www.futura-sciences.com/conso/bons-plans/guides-nutrition-black-friday-ces-5-complements-alimentaires-voient-leurs-prix-degringoler-chez-greenwhey-11928/#xtor%3DRSS-8",
-        "summary": "Et si le Black Friday était l’occasion de faire le point sur votre forme ? À cette occasion, greenwhey propose une opération promotionnelle particulièrement inédite : -20 % sur presque toute la boutique, des réductions cumulables sur les achats en quantité et jusqu’à 36 % d’économies sur...",
-        "date": "Mon, 23 Nov 2026 16:30:00 +0100",
+        "title": "« Un défi fou » : une peau artificielle vivante a été créée par des chercheurs français, une première mondiale !",
+        "url": "https://www.futura-sciences.com/sante/actualites/greffe-defi-fou-peau-artificielle-vivante-ete-creee-chercheurs-francais-premiere-mondiale-139598/#xtor%3DRSS-8",
+        "summary": "Une peau artificielle vivante, fabriquée en laboratoire, manipulable et stockable : le groupe Urgo affirme avoir réalisé cette première mondiale après cinq ans de recherche avec ses partenaires. Pour les grands brûlés, c'est l'espoir d'éviter de longs parcours de soins et de grandes souffrances....",
+        "date": "Tue, 24 Nov 2026 16:13:29 +0100",
         "source": "futura-sciences.com",
-        "ts": 1795447800000
+        "ts": 1795533209000
       },
       {
-        "title": "Une IA guidée par un humain a résolu l'une des plus grandes énigmes des mathématiques",
-        "url": "https://www.futura-sciences.com/sciences/actualites/mathematiques-ia-guidee-humain-resolu-plus-grandes-enigmes-mathematiques-139547/#xtor%3DRSS-8",
-        "summary": "Le prince des mathématiques, Carl Friedrich Gauss, avait l’habitude de dire que la théorie des nombres était la reine des mathématiques. Avec la théorie des nombres premiers, on peut s’en servir pour faire de la cryptographie et la sécurité des cartes bancaires repose justement sur ces nombres....",
-        "date": "Mon, 23 Nov 2026 16:13:27 +0100",
+        "title": "Envie de vous remettre à la course à pied ? Cette montre Garmin passe sous les 220 € sur AliExpress",
+        "url": "https://www.futura-sciences.com/conso/bons-plans/guides-objets-connectes-envie-vous-remettre-course-pied-cette-montre-garmin-passe-sous-220-aliexpress-11941/#xtor%3DRSS-8",
+        "summary": "Pensée pour accompagner les sportifs dans leur progression, la Garmin Forerunner 255 est une montre connectée qui mise sur un suivi précis des activités, des données d’entraînement détaillées et une autonomie confortable. Cette montre GPS polyvalente, qui s’adresse aussi bien aux coureurs...",
+        "date": "Tue, 24 Nov 2026 16:00:00 +0100",
         "source": "futura-sciences.com",
-        "ts": 1795446807000
+        "ts": 1795532400000
       },
       {
-        "title": "Ce téléviseur 4K TCL à -17 % pour le Black Friday vous accompagne même lorsqu'elle est éteinte",
-        "url": "https://www.futura-sciences.com/conso/bons-plans/guides-tv-son-ce-televiseur-4k-tcl-17-black-friday-vous-accompagne-meme-lorsquelle-eteinte-11930/#xtor%3DRSS-8",
-        "summary": "Éteinte, une télévision reste généralement un grand rectangle noir au milieu du salon. La TCL NXTVISION A300W entend changer cette habitude. Son écran mat peut afficher des œuvres d'art lorsque l'appareil ne sert pas. Son cadre magnétique décoratif et sa silhouette particulièrement fine...",
-        "date": "Mon, 23 Nov 2026 16:00:00 +0100",
-        "source": "futura-sciences.com",
-        "ts": 1795446000000
+        "title": "L'expérience LHCb laisse entrevoir une désintégration rarissime",
+        "url": "https://www.sciencesetavenir.fr/fondamental/particules/les-physiciens-ouvrent-la-voie-a-la-decouverte-de-nouvelles-particules-avec-l-experience-lhcb_196088?xtor=RSS-10",
+        "summary": "La chasse à la désintégration du méson B0, menée depuis plus de 40 ans, pourrait bientôt prendre fin. Le détecteur LHCb a en effet récemment dévoilé des indices probants de son existence. Une future confirmation expérimentale pourrait ainsi étendre notre compréhension des limites relatives au modèl…",
+        "date": "Tue, 24 Nov 2026 14:20:22 +0000",
+        "source": "sciencesetavenir.fr",
+        "ts": 1795530022000
       },
       {
-        "title": "Honor Pad 10 : cette tablette performante avec Snapdragon 7 Gen 3 passe sous les 245 € à l'occasion du Black Friday",
-        "url": "https://www.futura-sciences.com/conso/bons-plans/guides-pc-tablettes-honor-pad-10-cette-tablette-performante-snapdragon-7-gen-3-passe-sous-245-occasion-black-friday-11932/#xtor%3DRSS-8",
-        "summary": "Avec son écran de 12,1 pouces, ses 8 Go de RAM et sa prise en charge d’Android, la Honor Pad 10 offre un rapport qualité-prix attractif. À l'occasion du Black Friday, elle s’affiche avec une double remise sur AliExpress permettant de se l’offrir pour à peine plus de 240 €. Il faut cependant...",
-        "date": "Mon, 23 Nov 2026 15:30:05 +0100",
+        "title": "Apocalypse numérique : ce que les pannes de ces dernières semaines laissent entrevoir",
+        "url": "https://www.futura-sciences.com/tech/actualites/cyberattaque-apocalypse-numerique-ce-pannes-ces-dernieres-semaines-laissent-entrevoir-139595/#xtor%3DRSS-8",
+        "summary": "Frigos sabotés, plasma sanguin menacé, hôpital paralysé : plusieurs incidents français montrent comment des cyberattaques peuvent frapper le monde réel. Et il n'y a pas qu'en France que cela arrive. Le problème est mondial. Mais il y a pire encore : les avalanches de pannes informatiques...",
+        "date": "Tue, 24 Nov 2026 15:18:24 +0100",
         "source": "futura-sciences.com",
-        "ts": 1795444205000
+        "ts": 1795529904000
+      },
+      {
+        "title": "Une tablette 2,8K à moins de 234 € : OnePlus sort une belle carte sur AliExpress pour le Black Friday",
+        "url": "https://www.futura-sciences.com/conso/bons-plans/guides-pc-tablettes-tablette-28k-moins-234-oneplus-sort-belle-carte-aliexpress-black-friday-11939/#xtor%3DRSS-8",
+        "summary": "Lire, regarder des films, prendre des notes ou travailler sur plusieurs applications : une tablette doit pouvoir passer d'une activité à l'autre et accompagner l'utilisateur au quotidien. La OnePlus Pad Go 2 se démarque avec son écran de 12,1 pouces au format 7:5 et une définition de 2,8K. Sa...",
+        "date": "Tue, 24 Nov 2026 15:00:00 +0100",
+        "source": "futura-sciences.com",
+        "ts": 1795528800000
       }
     ],
     "tech": [
       {
-        "title": "Pour atteindre rapidement les objectifs de croissance de la « Zone urbaine des sciences, des technologies et de l'innovation » - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcXo3bEV0dUUwNnpCREFtNWVQalNORjA0VnlwOXRZVFpsRzFTUktUTDV3NjItc2VLeExlV1U3U2JhRk1pTnhQMWVadHprZEs3TGpQWnhWVjJnMFVSVmp0cUZxR3dhZ0NoZlJOU0hVM0liNHFiN2V3OFJJSUZZSjhrc1FycHFuNTlCQWhXMWRLbWxzYXFXWDZORmhPaDhXX0JLbkF5cWxsandscWxaVWdJX1dyMkhrdmxo?oc=5",
-        "summary": "Pour atteindre rapidement les objectifs de croissance de la « Zone urbaine des sciences, des technologies et de l'innovation » Vietnam.vn",
-        "date": "Mon, 23 Nov 2026 15:51:58 GMT",
-        "source": "news.google.com",
-        "ts": 1795449118000
-      },
-      {
-        "title": "Baddari souligne l'importance de transformer les résultats de la recherche scientifique en valeur économique ajoutée - وكالة الأنباء الجزائرية",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPT0h2bm5ScEpzZVBQVF9uYm1sUHl4OHl4emgtdVdMbkNoMjNzMktYNE5lYWZaVUxVMFBEbXJObExfRUhudTRIV1BDSVhBYlRubW1Icldud2hETjBOWWI4cHRCUmpmVkRJcGJZSmc3cjlPekxRMkVmblp1b3FRNGVYZG9QbC1WUEQ1SENxTWYwSWlZMWJ2UEVMR2dEVElxendHbktvNDlkcmpjenVsb3Z3Q0FMUXpxWDE2MjhMWWZVSGYwbWhWM2VLVnZtVHpPdERrWDJXbmJnN2hjaUY3S0RvMjhZbWdNLThfUThtTnpNQTJSZktkRkJVaVlrdnk0MEppNU5CNjltNjZmRWJ4?oc=5",
-        "summary": "Baddari souligne l'importance de transformer les résultats de la recherche scientifique en valeur économique ajoutée وكالة الأنباء الجزائرية",
-        "date": "Mon, 23 Nov 2026 15:51:00 GMT",
-        "source": "news.google.com",
-        "ts": 1795449060000
-      },
-      {
-        "title": "Les 3 meilleurs ETF dans le secteur de la technologie alternative - Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb2VGb0d1VGtJLWJLWXNzVlV3aV96SkYtZzk0dGRZOUVGWlA3UFJxdThoNmxNX2xKQlB1ekozV0d6U01LckJNTVJOVGZyQTJxNUVjcjJDeE5RbnM4Z3lvaXRRRHVQMU9vS0R1MmRmRG85VG5PSHNGNVJEUGxkRThoVXJxbXVzNFN2Mk5HQjhXS25tWm95Mk5xZnRmTFJ3NFJUSy1lWllB?oc=5",
-        "summary": "Les 3 meilleurs ETF dans le secteur de la technologie alternative Morningstar",
-        "date": "Mon, 23 Nov 2026 15:48:37 GMT",
-        "source": "news.google.com",
-        "ts": 1795448917000
-      },
-      {
-        "title": "GTA 6 : ne vous précipitez pas, vous pourriez le regretter",
-        "url": "https://www.numerama.com/pop-culture/2382855-gta-6-ne-vous-precipitez-pas-vous-pourriez-le-regretter.html",
-        "summary": "Des joueuses et des joueurs souffrent déjà d'une drôle de nostalgie sur GTA 6 après avoir terminé le premier chapitre. Ils regrettent leur petite vie tranquille dans les Keys, les habitudes de Jason et les doux moments passés avec Lucia. Un sentiment qui pousse même certains à envisager de recommen…",
-        "date": "Mon, 23 Nov 2026 15:45:00 +0000",
+        "title": "Cet accessoire PlayStation vous permet de jouer à GTA 6 sans PS5 et il tombe en promo pour le Black Friday",
+        "url": "https://www.numerama.com/tech/2383905-cet-accessoire-playstation-vous-permet-de-jouer-a-gta-6-sans-ps5-et-il-tombe-en-promo-pour-le-black-friday.html",
+        "summary": "[Deal du jour] Depuis lundi, GTA 6 se joue en streaming cloud sur le PlayStation Portal, sans PS5 à la maison. Ça tombe bien : l'accessoire de Sony profite d'une petite remise chez Cdiscount pour le Black Friday.",
+        "date": "Tue, 24 Nov 2026 15:43:57 +0000",
         "source": "numerama.com",
-        "ts": 1795448700000
+        "ts": 1795535037000
       },
       {
-        "title": "“Je ne veux pas regarder” : leur vue baisse, ces seniors achètent une Tesla pour qu'elle conduise à leur place",
-        "url": "https://www.lesnumeriques.com/voiture-electrique/je-ne-veux-pas-regarder-leur-vue-baisse-ces-seniors-achetent-une-tesla-pour-qu-elle-conduise-a-leur-place-n268333.html",
-        "summary": "Leur vue baisse, leurs réflexes ralentissent, et ils refusent de rendre les clés. Des retraités de 70, 90 et même 98 ans s'offrent une Tesla pour confier le volant au logiciel. Tesla en tire des vidéos promotionnelles et Elon Musk les relaie avec gourmandise. Pourtant, le manuel de la marque réclam…",
-        "date": "2026-11-23T16:38:00+01:00",
+        "title": "GTA 6 : grâce à la radio de Vice City, Sylvie Vartan voit ses écoutes Spotify exploser de 2 500 %",
+        "url": "https://www.numerama.com/pop-culture/2383783-gta-6-grace-a-la-radio-de-vice-city-sylvie-vartan-voit-ses-ecoutes-spotify-exploser-de-2-500.html",
+        "summary": "Plus de 40 ans après sa sortie, Danse ta vie de Sylvie Vartan connaît un retour inattendu. Depuis son arrivée improbable dans la bande-son de GTA 6, le morceau a vu ses écoutes bondir de plus de 2 500 % sur Spotify. Comme quoi, le jeu de la décennie a également le pouvoir de ressusciter des tubes o…",
+        "date": "Tue, 24 Nov 2026 15:37:55 +0000",
+        "source": "numerama.com",
+        "ts": 1795534675000
+      },
+      {
+        "title": "Anthropic permet désormais à Claude de valider son propre code : les développeurs vont-ils devenir inutiles ?",
+        "url": "https://www.lesnumeriques.com/intelligence-artificielle/anthropic-permet-desormais-a-claude-de-valider-son-propre-code-les-developpeurs-vont-ils-devenir-inutiles-n268405.html",
+        "summary": "Jusqu'ici, Claude écrivait le code et un humain avait le dernier mot avant la mise en production. Claude Ship, présenté ce lundi 23 novembre, rend ce verrou négociable : trois agents se relaient pour inspecter les modifications, réparer ce qui coince et, si l'équipe le veut bien, donner eux-mêmes l…",
+        "date": "2026-11-24T16:33:00+01:00",
         "source": "lesnumeriques.com",
-        "ts": 1795448280000
+        "ts": 1795534380000
       },
       {
-        "title": "Black Friday Week : les meilleures offres du lundi 23 novembre (EN DIRECT)",
-        "url": "https://www.numerama.com/tech/2382555-black-friday-week-nos-meilleures-trouvailles-du-lundi-23-novembre-mises-a-jour-en-direct.html",
-        "summary": "Le Black Friday a davantage une allure de mois que de jour. Depuis début Novembre, plusieurs enseignes ont remisés des tonnes de produits. Numerama fait le tri ici dans ce live des bonnes affaires du Black Friday.",
-        "date": "Mon, 23 Nov 2026 15:31:17 +0000",
+        "title": "Bientôt des BYD « made in France » ? Le géant chinois veut racheter l’usine des 4×4 Ineos",
+        "url": "https://www.numerama.com/vroom/2383677-bientot-des-byd-made-in-france-le-geant-chinois-veut-racheter-lusine-des-4x4-ineos.html",
+        "summary": "BYD a confirmé être entré en négociations exclusives avec Ineos Automotive pour racheter son usine de Hambach, en Moselle. Inauguré en 1997 pour fabriquer la Smart, le site assemble aujourd'hui moins de 10 000 véhicules par an.",
+        "date": "Tue, 24 Nov 2026 15:21:16 +0000",
         "source": "numerama.com",
-        "ts": 1795447877000
+        "ts": 1795533676000
+      },
+      {
+        "title": "La console Nintendo Switch 2 tombe à 449 € sur Amazon pour le Black Friday 2026",
+        "url": "https://www.lesnumeriques.com/jeux-video/la-console-nintendo-switch-2-tombe-a-449-sur-amazon-pour-le-black-friday-2026-n268449.html",
+        "summary": "La Nintendo Switch 2 retombe en dessous de son prix de lancement pour cette dernière semaine de Black Friday. La console portable hybride est proposée à 449 € sur Amazon, soit une réduction de 10 % par rapport à son prix standard de 499 €.",
+        "date": "2026-11-24T16:12:00+01:00",
+        "source": "lesnumeriques.com",
+        "ts": 1795533120000
+      },
+      {
+        "title": "La fusée Ariane 6 livre enfin les 36 satellites d’Amazon : voici les plus belles images du décollage",
+        "url": "https://www.numerama.com/sciences/2383831-la-fusee-ariane-6-livre-enfin-les-36-satellites-damazon-voici-les-plus-belles-images-du-decollage.html",
+        "summary": "Ariane 6 a décollé de Kourou ce mardi 24 novembre 2026 à 8h14, heure locale, avec 36 satellites Amazon Leo à bord. Le tir est parti à la dernière minute de la fenêtre de lancement, au lendemain d'un report.",
+        "date": "Tue, 24 Nov 2026 15:05:08 +0000",
+        "source": "numerama.com",
+        "ts": 1795532708000
       }
     ],
     "politique": [
       {
-        "title": "Guerre en Ukraine : l'UE présente un 22e paquet de sanctions contre Moscou, ciblant notamment les banques, la flotte fantôme et les athlètes russes",
-        "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-volodymyr-zelensky-revendique-les-attaques-contre-deux-navires-russes-menees-au-large-de-la-libye_8295668.html#xtor=RSS-3-[lestitres]",
-        "summary": "\"L'objectif est de maintenir la pression sur la Russie afin qu'elle mette fin à sa guerre d'agression en Ukraine\", met en avant Ursula von der Leyen, présidente de la Commission européenne.",
-        "date": "Mon, 23 Nov 2026 16:39:27 +0100",
+        "title": "Une enquête ouverte après un signalement pour détournement de fonds publics à l'agglomération du Havre présidée par Edouard Philippe",
+        "url": "https://www.franceinfo.fr/politique/edouard-philippe/une-enquete-ouverte-apres-un-signalement-pour-detournement-de-fonds-publics-a-l-agglomeration-du-havre-presidee-par-edouard-philippe_8297676.html#xtor=RSS-3-[lestitres]",
+        "summary": "\"Une plainte a été adressée à mes services via le Parquet national financier initialement saisi, j'ai transmis en enquête au commissariat du Havre\", a expliqué la procureure de la République.",
+        "date": "Tue, 24 Nov 2026 16:32:51 +0100",
         "source": "francetvinfo.fr",
-        "ts": 1795448367000
+        "ts": 1795534371000
       },
       {
-        "title": "Origines, objectifs, calendrier… Cinq questions sur la \"règle d'or\" qu'Emmanuel Macron veut mettre en place",
-        "url": "https://www.franceinfo.fr/economie/budget/origines-objectifs-calendrier-quatre-questions-sur-la-regle-d-or-qu-emmanuel-macron-veut-mettre-en-place_8296010.html#xtor=RSS-3-[lestitres]",
-        "summary": "Le président réfléchit à instaurer une \"règle d'or\" budgétaire afin de contraindre les futurs gouvernements à adopter des budgets à l'équilibre.",
-        "date": "Mon, 23 Nov 2026 16:38:13 +0100",
-        "source": "francetvinfo.fr",
-        "ts": 1795448293000
-      },
-      {
-        "title": "Espagne : l’indépendantiste catalan Carles Puigdemont définitivement blanchi par la justice",
-        "url": "https://www.lemonde.fr/international/article/2026/11/23/espagne-l-independantiste-catalan-carles-puigdemont-definitivement-blanchi-par-la-justice_6814403_3210.html",
-        "summary": "Le Tribunal suprême espagnol ouvre la voie au retour en Espagne du leader indépendantiste catalan. Celui-ci avait toutefois affirmé qu’il ne rentrerait pas avant les élections législatives du 29 novembre.",
-        "date": "Mon, 23 Nov 2026 16:31:18 +0100",
+        "title": "Midterms : une victoire démocrate historique, traduite par la conquête de lieux de pouvoir stratégiques",
+        "url": "https://www.lemonde.fr/international/article/2026/11/24/midterms-une-victoire-democrate-historique-traduite-par-la-conquete-de-lieux-de-pouvoir-strategiques_6814810_3210.html",
+        "summary": "Avec 56 sièges remportés au Sénat et au moins 258 à la Chambre des représentants, les démocrates remportent une victoire au moins égale à celle de Bill Clinton à l’élection présidentielle de 1992. Le rejet de Donald Trump a également fait basculer dans le camp démocrate la majorité des sièges de go…",
+        "date": "Tue, 24 Nov 2026 16:30:09 +0100",
         "source": "lemonde.fr",
-        "ts": 1795447878000
+        "ts": 1795534209000
       },
       {
-        "title": "Sommet Choose France : le laboratoire pharmaceutique Virbac dévoile un plan d'investissement de plus de 320 millions d'euros jusqu'en 2030",
-        "url": "https://www.franceinfo.fr/economie/industrie/direct-sommet-choose-france-emmanuel-macron-en-visite-sur-le-site-d-airbus-a-toulouse_8295704.html#xtor=RSS-3-[lestitres]",
-        "summary": "Depuis Toulouse, Emmanuel Macron a affirmé lundi qu'il voulait faire de la France le pays \"le plus rapide d'Europe quand il s'agit de créer des sites industriels\".",
-        "date": "Mon, 23 Nov 2026 16:29:31 +0100",
+        "title": "Le Var et les Alpes-Maritimes placés en vigilance orange mercredi pour \"pluie-inondation\"",
+        "url": "https://www.franceinfo.fr/environnement/meteo/le-var-et-les-alpes-maritimes-places-en-vigilance-orange-mercredi-pour-pluie-inondation_8297946.html#xtor=RSS-3-[lestitres]",
+        "summary": "Météo-France évoque, dans son bulletin, un \"épisode méditerranéen nécessitant un suivi particulier du fait des cumuls attendus, intervenant dans un contexte de sols humides\".",
+        "date": "Tue, 24 Nov 2026 16:29:26 +0100",
         "source": "francetvinfo.fr",
-        "ts": 1795447771000
+        "ts": 1795534166000
       },
       {
-        "title": "Nvidia annonce la réintégration de Jensen Huang comme PDG, onze jours après son départ lié à une affaire d'adultère et d'espionnage",
-        "url": "https://www.franceinfo.fr/internet/nvidia/nvidia-annonce-la-reintegration-de-jensen-huang-comme-pdg-onze-jours-apres-son-depart-lie-a-une-affaire-d-adultere-et-d-espionnage_8296160.html#xtor=RSS-3-[lestitres]",
-        "summary": "\"Le conseil d'administration estime que Jensen est la personne idéale pour diriger Nvidia et que sa réintégration est dans le meilleur intérêt de nos actionnaires, de nos employés, de nos partenaires et de nos clients\", a déclaré le président du conseil d'administration.",
-        "date": "Mon, 23 Nov 2026 16:18:29 +0100",
-        "source": "francetvinfo.fr",
-        "ts": 1795447109000
-      },
-      {
-        "title": "La Turquie affirme que le PKK a évacué 14 autres bases du nord de l’Irak, une nouvelle étape majeure vers la paix",
-        "url": "https://www.lemonde.fr/international/article/2026/11/23/la-turquie-affirme-que-le-pkk-a-evacue-14-autres-bases-du-nord-de-l-irak-une-nouvelle-etape-majeure-vers-la-paix_6814400_3210.html",
-        "summary": "Ankara et le groupe armé ont entamé un processus de paix en 2024, dont l’objectif est de mettre fin à plus de quatre décennies d’une guérilla qui a fait quelque 50 000 morts.",
-        "date": "Mon, 23 Nov 2026 16:09:56 +0100",
+        "title": "EN DIRECT, guerre en Ukraine | Navires russes pris pour cibles en Libye : l’Italie exprime son inquiétude à l’Ukraine",
+        "url": "https://www.lemonde.fr/international/live/2026/11/24/en-direct-guerre-en-ukraine-navires-russes-pris-pour-cibles-en-libye-l-italie-exprime-son-inquietude-a-l-ukraine_6814183_3210.html",
+        "summary": "Antonio Tajani a souligné qu’il était « fondamental pour l’Italie de continuer à travailler pour éviter l’extension du conflit à la Méditerranée » et a souligné la nécessité de « respecter l’intégrité territoriale de la Libye ».",
+        "date": "Tue, 24 Nov 2026 16:28:55 +0100",
         "source": "lemonde.fr",
-        "ts": 1795446596000
+        "ts": 1795534135000
+      },
+      {
+        "title": "\"C'est la petite coupure parfaite\" : victime de son succès, le billet de 5 euros se fait rare",
+        "url": "https://www.franceinfo.fr/economie/c-est-la-petite-coupure-parfaite-victime-de-son-succes-le-billet-de-5-euros-se-fait-rare_8297841.html#xtor=RSS-3-[lestitres]",
+        "summary": "Où sont passés les billets de 5 euros ? Ils sont devenus quasi introuvables dans les distributeurs, car ils sont les billets les plus utilisés par les Français. A tel point que cela empêche la Banque de France de les renouveler... Et c'est pour cela qu'ils sont en si mauvais état.",
+        "date": "Tue, 24 Nov 2026 16:26:06 +0100",
+        "source": "francetvinfo.fr",
+        "ts": 1795533966000
+      },
+      {
+        "title": "Au Royaume-Uni, une tentative de cambriolage signalée dans l'une des résidences de William et Kate, deux hommes arrêtés",
+        "url": "https://www.franceinfo.fr/monde/royaume-uni/au-royaume-uni-une-tentative-de-cambriolage-signalee-dans-l-une-des-residences-de-william-et-kate-deux-hommes-arretes_8297766.html#xtor=RSS-3-[lestitres]",
+        "summary": "Les deux hommes ont été interpellés lundi sur le domaine du manoir d'Anmer Hall par les forces de l'ordre, qui avaient reçu le signalement d'une \"activité suspecte\" sur les lieux.",
+        "date": "Tue, 24 Nov 2026 16:15:21 +0100",
+        "source": "francetvinfo.fr",
+        "ts": 1795533321000
       }
     ],
     "ia": [
       {
-        "title": "Intelligence artificielle : le Conseil d’État et la Chancellerie invités à rapprocher leurs outils - Acteurs Publics",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaXpQQ3hIdUQtZEIwZlJ6VWVRa1IycURHU2ltZUc5cUN3U25Qd1E2bmtWc2RVUHNXTlZnMnRZME8yQkg5ZXc5blZVNmdaSWdBLXhjeEdGdUpMRS1rel9Md19xZU8xUDVUc1R4alA0RkR5MmJqWTl5VlEyaWZCd1B2Y0xJR0NBRERSVldlX19yeng1YmFHSG5BaDU3UGNla3EtUDNuNHhhTlFnaWFkeV9uQjRvbFN1WUY3eDRiWkotTGpyRDkxTEdWR08zVQ?oc=5",
-        "summary": "Intelligence artificielle : le Conseil d’État et la Chancellerie invités à rapprocher leurs outils Acteurs Publics",
-        "date": "Mon, 23 Nov 2026 15:52:50 GMT",
+        "title": "Allez-vous acheter des jouets avec intelligence artificielle pour Noël ? - 20 Minutes",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdnFYZ19YUWE2SF9XZHM1VUZzUXNuUmhKVUg0blVxZ1ZnNW1SMzRIYnJqaVNVQm80RDlzZmk4OXQ4emhjWnlreXROV2djd2dueHo4TzVWZUt1VWtyOWZoSk8talozWEQ2TlFhMmhvMWdfV3EzUGZmSGZ0dkIxVXptVWNkclVwamp5VmV6YnBlXzZUalBPVkN6WExFY1BGV1lJTW95Y2c0UnlDQURTVnhGSWJhZmZlRjdnMFF5STA4YjJBQmpfZWl4eUgwQkdncEY3YlBIem82dDRQeEw5Znc?oc=5",
+        "summary": "Allez-vous acheter des jouets avec intelligence artificielle pour Noël ? 20 Minutes",
+        "date": "Tue, 24 Nov 2026 15:39:00 GMT",
         "source": "news.google.com",
-        "ts": 1795449170000
+        "ts": 1795534740000
       },
       {
-        "title": "La Poste signe un accord cadre dédié à l’IA pour accompagner sa transformation et placer l’humain au coeur des usages - La Poste Groupe",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbG9BQnJWSmlieE4tZ0tJa2w1Q0l0MERzSHpIVy1HMTVPY3pGQncwbGowQzcxNl9OZWY5UVUyNVZ4ODZwSDFGanJTbl9NOU1TMUVKeDQ1WmFtYmE5eXhPYWY1eFdiSkhpWEhQTEdlMW9UUzhIRGpaY1dNdXhvNlNuU2JWYnZpRzBXVVp3ekpOWkh5ZXZKZVUyTngwcVBoZFAtblZEVnd1bFh4Ni1tVzM1QXlfRXBXMExoOFdMWHNxQnZrdHJYMmVKZDBoQTkyR3BwWlA5VTZodmNRc1ZBMWxDaF9sOE1kc2RhUmNaU0J6QQ?oc=5",
-        "summary": "La Poste signe un accord cadre dédié à l’IA pour accompagner sa transformation et placer l’humain au coeur des usages La Poste Groupe",
-        "date": "Mon, 23 Nov 2026 15:37:12 GMT",
+        "title": "« Notre vocation est d’accélérer la commercialisation des mandats grâce à l’IA » (A. Ducoeur Martins, Aqqi) - Immo Matin",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNajdBam1Wd0RuUVVQM3NoUF81NXBPU3RrVE1xSTRYcHJGWEpmLVVsM1plYzlfSnFYZU54TjlnUzRpSWxzQXRTemttVTllQ0lELXl5WXV3NFo2dVIycFZHc0ctR2RyR01qTWdhVUFPWDRqajF6OG9Sc0x6NmtLaXlWdXFMdEoxWHo1SUdQZFdsRWwyUTdqSkNWTU4yT0JjZmROejhKYnpIWTRGVjktRmdjeTF6UmNnVHc1eWQ5UUowRWRxSlFZNWZTSklUN1hJQzZLR0NVZEVPYXQ5OFAtbHVXRUVGcEI1SXFNWHJoSGhHUXRzRGVF?oc=5",
+        "summary": "« Notre vocation est d’accélérer la commercialisation des mandats grâce à l’IA » (A. Ducoeur Martins, Aqqi) Immo Matin",
+        "date": "Tue, 24 Nov 2026 15:36:43 GMT",
         "source": "news.google.com",
-        "ts": 1795448232000
+        "ts": 1795534603000
       },
       {
-        "title": "L’adoption de l’IA avance plus vite que son encadrement selon IFS - www.mesures.com",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQnA3MVNJdXg3ekpmaDVTUlRTRXJidF90aU14M2pLd0FFakxtQnpxSHVRTHFnZERNTEVmLXpOOXRUNGxkVEh4eFFkU2hKQVdjNlQ0enByOW1mX2ZPaTJHRkJPN3dLQkRWcmFLa3hHTXhlbUNMNmRXVmlSNXZpbFMzUktiUk9pVWZwN3lRVHpKMmVUTkQ2dmd5VzB3dGpjc2J6OTVla2JPYWQwU0Z1Z2tyV2ZCTlE?oc=5",
-        "summary": "L’adoption de l’IA avance plus vite que son encadrement selon IFS www.mesures.com",
-        "date": "Mon, 23 Nov 2026 15:15:36 GMT",
-        "source": "news.google.com",
-        "ts": 1795446936000
+        "title": "Anthropic permet désormais à Claude de valider son propre code : les développeurs vont-ils devenir inutiles ?",
+        "url": "https://www.lesnumeriques.com/intelligence-artificielle/anthropic-permet-desormais-a-claude-de-valider-son-propre-code-les-developpeurs-vont-ils-devenir-inutiles-n268405.html",
+        "summary": "Jusqu'ici, Claude écrivait le code et un humain avait le dernier mot avant la mise en production. Claude Ship, présenté ce lundi 23 novembre, rend ce verrou négociable : trois agents se relaient pour inspecter les modifications, réparer ce qui coince et, si l'équipe le veut bien, donner eux-mêmes l…",
+        "date": "2026-11-24T16:33:00+01:00",
+        "source": "lesnumeriques.com",
+        "ts": 1795534380000
       },
       {
-        "title": "World Chess lance Watch pour commenter en direct les parties d’échecs avec l’intelligence artificielle - Zonebourse Suisse",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOV1Jzek5YalVjZjdBRWs3MURDaVVkR25udkhEV1Vtb3JmdWpwSEpYQ2xtbU9zWTRybkhMV3VpMm13SU5oR2JORkJmQzBfWVVJWm9pN1MxOFlaNU82NWVfYi0zNlF3LTZZM2FHajlhSUgwRDRacDlfN0dKNUFjRVdRcG9VbDBGb2xma3dxVHQ3M2sybWZCNzkzekNNZ0tVVTUxeHBoTlllN3dOMC1KbXpGd3FQUlI1MGI4THRpazdLZ29pZFFwUnFPUzFOX3Rfd3lScC1WcnF3QnBLZGFvcGt4cTRQcUFIbXljVDdWQWctYw?oc=5",
-        "summary": "World Chess lance Watch pour commenter en direct les parties d’échecs avec l’intelligence artificielle Zonebourse Suisse",
-        "date": "Mon, 23 Nov 2026 15:14:25 GMT",
+        "title": "Les cadres de santé s'approprient l'intelligence artificielle pour gagner du temps - Hospimedia",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaU92YTY1QjE0OUI0dHViODBTWEhGa01VYWcwM1REUFBCMjY5VE95LW0yeC11OE5pMHcyUXFkdDRiZXNlTmk2UHhURVZlamZ0U29BSnZ6a2xjZWp0MHU3ZlpmdThwOGVkZ3B1TmZEaEdtcjg0Zm1wU1dyQlYyVTMxbURMSk9fLVZTU1NTcWxhbjhGWTMtMEtzR3lDOG9KVFdncFg1SWZPcXJDTUU?oc=5",
+        "summary": "Les cadres de santé s'approprient l'intelligence artificielle pour gagner du temps Hospimedia",
+        "date": "Tue, 24 Nov 2026 15:22:55 GMT",
         "source": "news.google.com",
-        "ts": 1795446865000
+        "ts": 1795533775000
       },
       {
-        "title": "Une IA guidée par un humain a résolu l'une des plus grandes énigmes des mathématiques - Futura, le média qui explore le monde",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSDlqZ09UNjFnaktkMm5QYThPNFJteXUwSWk5eDV2TF95bkF3N0N3T3NyczR5c1RISUZTSmVMUS0yclNkRG9Gd0VWQnpOd0g5WVNtVXNHSmxLZE1ybVZXd2tQV1J4X3VXOTl3NDF6RTRyVm1IMmJoeUtGYVNxamI2U2RheG1aQ0V6SzdmdnZZTTFBM0R0Uk1wNjRSdEljd1dVdExTNmowTXpXOGo1SHJFVWJQRzJVcERUVHBxdUpwNTJyXzlOV09KQ203TmY?oc=5",
-        "summary": "Une IA guidée par un humain a résolu l'une des plus grandes énigmes des mathématiques Futura, le média qui explore le monde",
-        "date": "Mon, 23 Nov 2026 15:13:00 GMT",
+        "title": "Les métiers de bureau, majoritairement occupés par des femmes sont les plus exposés à l’IA générative, de gros risques d’inégalités à craindre, révèle une étude - Nice-Matin",
+        "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPRnBiSFRDLVRuMGpOdk0zbmZENDNlZmMwQkpZOVJTWTROeUtsTXpEcUVhSHcyN1psSGpJNzRkdTJrVGZ4NDVtX1FLb0JudFBZdjB3aWh2WlZKcTdPMmthbXE1YkxCT2FyZEZwaGdqaEZaYXpDbWxHNnlZMDFreVAwSEVnQWM3dEhQaDNiNnVycVN0THpmMjVvZ0tPYTAzanFDU2NlbFVkVFBTQXRVX2VGMWhoa1hjeldZb2laQmd0RDFDSnRJdm9rem15MGlpNkpCODN0WkttSU5udERxeFJ6emNwY2s0SUxnNWY5REM5ekZ0OF9qRHE4MHJLSGt0V2ZvRlk0ZlBabG04WHAxc1ZfVzJfckM5dHZ6NXlDalZQZVJvOURaNGlr?oc=5",
+        "summary": "Les métiers de bureau, majoritairement occupés par des femmes sont les plus exposés à l’IA générative, de gros risques d’inégalités à craindre, révèle une étude Nice-Matin",
+        "date": "Tue, 24 Nov 2026 15:16:14 GMT",
         "source": "news.google.com",
-        "ts": 1795446780000
+        "ts": 1795533374000
       },
       {
-        "title": "Le rallye de l’intelligence artificielle (IA) pourrait ajouter 2 000 milliards de dollars au Nasdaq-100 avec le retour de Huang à la tête de Nvidia - Zonebourse Suisse",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPS3lnOFBrVXlab2lGbTBXSERnTS1TRkhsemxiMUZBSzhuWVlvZjBsMTRSSl9wZzF0Q1FRR29xNWExTXJYMmtvZk5UTWpBbmJBNktUNG05Z0k1OFlQNVNvWVp2TFZXTV90WkZLbU9oazhiSzkyNWhTNDNqa1Y0dDItWW15NmxCc0U3Z2NZNDA0bllnMExKUXZKQ0hpWmVjNUFVZ2ZtMUQzVWtQV1ZLc3UtWVBwYy1hV1RKVE12dURTSV9JN3VJQkc5YlQ3aENiTWpZX2xIaGRDVC1sZmhaMzM3Z19SZTZxVmN3WUsxMUx3?oc=5",
-        "summary": "Le rallye de l’intelligence artificielle (IA) pourrait ajouter 2 000 milliards de dollars au Nasdaq-100 avec le retour de Huang à la tête de Nvidia Zonebourse Suisse",
-        "date": "Mon, 23 Nov 2026 15:06:54 GMT",
+        "title": "Elle avait obtenu un sursis pour payer ses loyers en retard, mais a été chassée de son appartement avant l'heure: l'interlocutrice compatissante avec qui elle parlait par mail était une IA - BFM",
+        "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPVlpjaUpnb3h1UWZYcm5HblRjNENvVmJRUjBUeURxTXZ6TmxXNElYakJsX3JHaEx0emcyMDg0M1lyTF9pS2l5NWxsdWhLZ19tcmZ2c3ZGR3Z4eGhsMVZuZFVRdXRKWDE4cHBtVWVqem1tVU9oQlc0RFlHZ3M0emVadEJqaU5jcTVDMWFlNzQwamJhX0lFbXo4TDZlLTlKSzh5N0NLR3ZMN19GdlVLWXpYVXlDUHdscmhlUUpqSDlLeFZncWpJd3ZjeTY3LXpjM0pLYm15OEFDOFJVZktLdzNVQUJZZmNJYXE5THVFeVZsaTA1SnczVWs1ZW9FcXl5UC1tSlhKX0RESTFhamlmMWl2NjFkUVZCbnlpWlMyM3JMMmsydk9xUVg1R3RZTUFNRl9RMm9NNk5vOW5PMDB5R0hFM3FXWXNGX2diMlZFU0ExVmRpbkZUVTZfV3dNTjdXZjR3NENhZmRDdWNZY3RzTVNpZm1nUm85RDRjYlE?oc=5",
+        "summary": "Elle avait obtenu un sursis pour payer ses loyers en retard, mais a été chassée de son appartement avant l'heure: l'interlocutrice compatissante avec qui elle parlait par mail était une IA BFM",
+        "date": "Tue, 24 Nov 2026 15:14:31 GMT",
         "source": "news.google.com",
-        "ts": 1795446414000
+        "ts": 1795533271000
       }
     ]
   }
